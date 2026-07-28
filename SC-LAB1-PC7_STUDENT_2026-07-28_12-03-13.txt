@@ -1,0 +1,416 @@
+============================================================
+                  COMPLETE SYSTEM REPORT
+============================================================
+  PC:          SC-LAB1-PC7
+  User:        STUDENT
+  External IP: 41.59.97.138
+  Local IP:    192.168.88.60
+  MAC:         00-FF-F5-21-E1-3A
+  AV:          Windows Defender, Kaspersky Anti-Virus
+  OS:          Microsoft Windows 11 Pro
+  Time:        2026-07-28 12:03:13
+============================================================
+
+────────────────────────────────────────────────────────────
+  1. PERSISTENCE
+────────────────────────────────────────────────────────────
+[+] AppData copy
+[+] Registry Run
+[+] Registry RunOnce
+[+] Startup folder
+[+] SchTask
+[+] Dropped: C:\Users\STUDENT\AppData\Local\wscsvc.exe
+
+────────────────────────────────────────────────────────────
+  2. WIFI NETWORKS
+────────────────────────────────────────────────────────────
+[WiFi] No saved profiles
+
+────────────────────────────────────────────────────────────
+  4. SAVED PASSWORDS
+────────────────────────────────────────────────────────────
+[Edge] PWD | https://accounts.google.com/v3/signin/identifier | kimkaren112@gmail.com | 
+[Edge] PWD | https://accounts.google.com/lifecycle/steps/signup/password | wencelily112 | 
+[Edge] PWD | https://k12.instructure.com/login/canvas | innocentmtei@outlook.com | 
+[Edge] PWD | https://accounts.google.com/v3/signin/challenge/pwd | jafarishija18@gmail.com | 
+[Edge] PWD | https://www.skillsboxonline.com/ | ibrahnation092@gmail.com | 
+[Edge] PWD | https://accounts.snapchat.com/accounts/v2/password | i_branation | 
+[Edge] PWD | https://ol.tie.go.tz/auth/login | ibrajack@outlook.com | 
+[Edge] PWD | https://www.instagram.com/reels/DDjBiYwtKho/ | its_.brahm | 
+[Edge] PWD | https://www.instagram.com/accounts/login/ | @_.raven_crew | 
+[Edge] PWD | https://www.instagram.com/accounts/login/ | _i_nation | 
+[Edge] PWD | https://duolingo.com/ | ibrahnation092@gmail.com | 
+[Edge] PWD | https://aaarushascience.co.tz/ | Ibrahim Jackson Pius | 
+[Edge] PWD | https://account.proton.me/ | ibrajack@proton.me | 
+[Edge] PWD | https://x.com/ | _its_brahm | 
+[Edge] PWD | https://app.adalo.com/ | ibrahnation092@gmail.com | 
+[Edge] PWD | https://yahoo.com/ | iNation | 
+[Edge] PWD | https://canvas.instructure.com/ | ibrahnation092@gmail.com | 
+[Edge] PWD | https://chat.deepseek.com/ | ibrahnation092@gmail.com | 
+[Edge] PWD | https://tiktok.com/ | @infer52 | 
+[Edge] PWD | https://facebook.com/ | Jp Chege | 
+[Edge] PWD | https://web.facebook.com/ | Jp Chege | 
+[Edge] PWD | https://accounts.google.com/v3/signin/challenge/pwd | ibrahnation092@gmail.com | 
+[Edge] PWD | https://www.skillsboxonline.com/ | ibrahnation092@gmail.com | 
+[Edge] PWD | https://ol.tie.go.tz/auth/login | ibrajack@outlook.com | 
+[Edge] PWD | https://accounts.snapchat.com/accounts/v2/password | i_branation | 
+[Edge] PWD | https://duolingo.com/ | ibrahnation092@gmail.com | 
+[Edge] PWD | https://aaarushascience.co.tz/ | Ibrahim Jackson Pius | 
+[Edge] PWD | https://account.proton.me/ | ibrajack@proton.me | 
+[Edge] PWD | https://accounts.google.com/v3/signin/challenge/pwd | ibrahnation092@gmail.com | 
+[Edge] PWD | https://x.com/ | _its_brahm | 
+[Edge] PWD | https://app.adalo.com/ | ibrahnation092@gmail.com | 
+[Edge] PWD | https://yahoo.com/ | iNation | 
+[Edge] PWD | https://canvas.instructure.com/ | ibrahnation092@gmail.com | 
+[Edge] PWD | https://chat.deepseek.com/ | ibrahnation092@gmail.com | 
+[Edge] PWD | https://tiktok.com/ | @infer52 | 
+[Edge] PWD | https://www.instagram.com/reels/DDjBiYwtKho/ | its_.brahm | 
+[Edge] PWD | https://facebook.com/ | Jp Chege | 
+[Edge] PWD | https://www.instagram.com/accounts/login/ | _i_nation | 
+
+────────────────────────────────────────────────────────────
+  5. COOKIES (HIGH-VALUE SITES)
+────────────────────────────────────────────────────────────
+  (none found)
+
+────────────────────────────────────────────────────────────
+  6. AUTOFILL — NAMES, EMAILS, PHONES, ADDRESSES, CARDS
+────────────────────────────────────────────────────────────
+[Edge] AUTOFILL | Email Address = japhetpriscus811@gmail.com
+[Edge] AUTOFILL | Email Address = kendryscott51@gmail.com
+[Edge] AUTOFILL | Email Address = mtattyhwh@proton.me
+[Edge] AUTOFILL | _r_6_ = jafarishija18@gmail.com
+[Edge] AUTOFILL | _r_g_ = jafarishija18@gmail.com
+[Edge] AUTOFILL | email = desronjr@gmail.com
+[Edge] AUTOFILL | email = kiamafahim2@gmail.com
+[Edge] AUTOFILL | email = kimkaren112@gmail.com
+[Edge] AUTOFILL | email = leonardodupoy45@gmail.com
+[Edge] AUTOFILL | email = mansoorhaifa320@gmail.com
+[Edge] AUTOFILL | identifier = furahamuimo@gmail.com
+[Edge] AUTOFILL | identifier = jafarishija18@gmail.com
+[Edge] AUTOFILL | identifier = kiamafahim2@gmail.com
+[Edge] AUTOFILL | user_email = kimkaren112@gmail.com
+[Edge] AUTOFILL | username = imanibasila@gmail.com
+[Edge] AUTOFILL | Bill[PyrEmail] = samsonmesia2@gmail.com
+[Edge] AUTOFILL | EMAIL = brasensilao@gmail.com
+[Edge] AUTOFILL | Email = elishamahubi@gmail.com
+[Edge] AUTOFILL | Email Address = elvismmbando@gmail.com
+[Edge] AUTOFILL | Email Address = g.malimi09@gmail.com
+[Edge] AUTOFILL | Email Address = ibrahnation092@gmail.com
+[Edge] AUTOFILL | Email Address = ipyanakayuni59@gmail.com
+[Edge] AUTOFILL | Email Address = janethmkwizu2005@gmail.com
+[Edge] AUTOFILL | Email Address = japhetpriscus811@gmail.com
+[Edge] AUTOFILL | LoginForm[username] = sumasaid94@gmail.com
+[Edge] AUTOFILL | Text_Entry_Box_121_inputField = sallyryan787@gmail.com
+[Edge] AUTOFILL | Text_Entry_Box_65_inputField = james@marketing.ie
+[Edge] AUTOFILL | Text_Entry_Box_90_inputField = liamdanielicd@gmail.com
+[Edge] AUTOFILL | Txtent3_SendEmail_49_inputField = iankayic@gmail.com
+[Edge] AUTOFILL | Txtent3_SendEmail_87_inputField = johnbrownley21@gmail.com
+[Edge] AUTOFILL | Txtent4_BCC_60_inputField = james@marketing.ie
+[Edge] AUTOFILL | Username = csfconsultancy2017@gmail.com
+[Edge] AUTOFILL | Username = elishamahubi@gmail.com
+[Edge] AUTOFILL | V2ViRm9ybUNhcHR1cmVCbG9jazo5MzU4Y2ZjMC04MDU1LTExZWQtODZhOC1hN2UyMDQ1YTFmOTY = elishamahubi@gmail.com
+[Edge] AUTOFILL | _58_emailAddress = elishamahubi@gmail.com
+[Edge] AUTOFILL | Bill[PyrEmail] = samsonmesia2@gmail.com
+[Edge] AUTOFILL | EMAIL = brasensilao@gmail.com
+[Edge] AUTOFILL | Email = elishamahubi@gmail.com
+[Edge] AUTOFILL | Email Address = elvismmbando@gmail.com
+[Edge] AUTOFILL | Email Address = ipyanakayuni59@gmail.com
+[Edge] AUTOFILL | Email Address = janethmkwizu2005@gmail.com
+[Edge] AUTOFILL | LoginForm[username] = sumasaid94@gmail.com
+[Edge] AUTOFILL | Username = csfconsultancy2017@gmail.com
+[Edge] AUTOFILL | Username = elishamahubi@gmail.com
+[Edge] AUTOFILL | V2ViRm9ybUNhcHR1cmVCbG9jazo5MzU4Y2ZjMC04MDU1LTExZWQtODZhOC1hN2UyMDQ1YTFmOTY = elishamahubi@gmail.com
+[Edge] AUTOFILL | _58_emailAddress = elishamahubi@gmail.com
+[Edge] AUTOFILL | _58_login = elishamahubi@gmail.com
+[Edge] AUTOFILL | address_email = elishamahubi@gmail.com
+[Edge] AUTOFILL | ai_input = ibrahnation092@icloud.com
+[Edge] AUTOFILL | billing_email = elishamahubi@gmail.com
+[Edge] AUTOFILL | confirm_email = elishamahubi@gmail.com
+[Edge] AUTOFILL | email = brasenalvin@gmail.com
+[Edge] AUTOFILL | email = brasensilao@gmail.com
+[Edge] AUTOFILL | email = csfconsultancy2017@gmail.com
+[Edge] AUTOFILL | email = elishamaboazi@gmail.com
+[Edge] AUTOFILL | Email Address = nicholouslendii@gmail.com
+[Edge] AUTOFILL | email = markkishaiti@gmail.com
+[Edge] AUTOFILL | email = nicholouslendii@gmail.com
+[Edge] AUTOFILL | email = nickhoodship205@gmail.com
+[Edge] AUTOFILL | email = wisdomdanielgodwin@gmail.com
+[Edge] AUTOFILL | id = zakayo.tesh@gmail.com
+[Edge] AUTOFILL | identifier = gregorytitus@gmail.com
+[Edge] AUTOFILL | identifier = markkishaiti@gmail.com
+[Edge] AUTOFILL | login = nickhoodshio205@gmail.com
+[Edge] AUTOFILL | login = nickhoodship205@gmail.com
+[Edge] AUTOFILL | react-aria2309577230-«r1u» = nickhoodship205@gmail.com
+[Edge] AUTOFILL | react-aria2309577230-«r39» = nickhoodship205@gmail.com
+[Edge] AUTOFILL | react-aria2309577230-«r4b» = nicholouslendii@gmail.com
+[Edge] AUTOFILL | react-aria2309577230-«rv» = nickhoodship205@gmail.com
+[Edge] AUTOFILL | react-aria3646337430-:rj: = nicholouslendii@gmail.com
+[Edge] AUTOFILL | undefined-«R4thtrlkn6lb» = nicholouslendii@gmail.com
+[Edge] AUTOFILL | undefined-«r0» = nicholouslendii@gmail.com
+[Edge] AUTOFILL | undefined-«r4» = nicholouslendii@gmail.com
+[Edge] AUTOFILL | undefined-«r6» = nicholouslendii@gmail.com
+[Edge] AUTOFILL | undefined-«rb» = nicholouslendii@gmail.com
+
+────────────────────────────────────────────────────────────
+  7. BROWSING HISTORY (RECENT 30 PER PROFILE)
+────────────────────────────────────────────────────────────
+[Edge] HIST | 2026-07-25 21:50:03 | [2x] https://www.transfermarkt.com/statistik/saisontransfers | Top transfers | Transfermarkt
+[Edge] HIST | 2026-07-25 21:50:00 | [6x] https://www.transfermarkt.com/navigation/transfersundgeruechte | TRANSFERS & RUMOURS | Transfermarkt
+[Edge] HIST | 2026-07-25 21:49:18 | [1x] https://www.transfermarkt.com/kroupi-woltemade-romero-amp-co-the-10-most-wanted-premier-league-stars-this-summer/view/news/483459 | The 10 most wanted Premier League stars this summer includin
+[Edge] HIST | 2026-07-25 21:48:52 | [1x] https://www.transfermarkt.com/transfer-news-live-rodri-to-real-madrid-move-gathers-pace-as-arsenal-plot-alvarez-swap/view/news/445145 | Transfer news LIVE: Rodri to Real Madrid as Arsenal plot Alv
+[Edge] HIST | 2026-07-25 21:48:32 | [1x] https://www.transfermarkt.com/statistik/neuestetransfers?k=%EC%A0%84%EA%B5%AD%EA%B5%AC%EC%B6%9C%EC%9E%A5%F0%9F%8D%E2%80%99%EB%9D%BC%EC%9D%B8%3Axb39%F0%9F%8D%E2%80%99%EC%B2%AD%EB%8F%84%EC%B6%9C%EC%9E%A5%EB%A7%88%EC%82%AC%EC%A7%80%F0%9F%93%8A%EC%B2%AD%EB%8F%84%EC%B6%9C%EC%9E%A5%EC%83%B5%F0%9F%93%8A%EC%B2%AD%EB%8F%84%EC%B6%9C%EC%9E%A5%EC%95%88%EB%A7%88%F0%9F%97%83%EC%9C%A0%ED%9D%A5%EC%97%85%EC%86%8C%F0%9F%A6%88%EC%97%AC%EB%8C%80%EC%83%9D%EC%B6%9C%EC%9E%A5%F0%9F%E2%80%99%BAregion1.google-analytics.com%2Fg%2Fcollect%3Fv%3D2%26tid%3DG-E933QNFNJM%26gtm%3D45je46q0v9184818234za200%26_p%3D1719820768518%26gcd%3D13l3l3l2l1%26npa%3D1%26dma_cps%3Dsypham%26dma%3D1%26tag_exp%3D0%26cid%3D405308214.1715346744%26ul%3Des-es%26sr%3D1920x1080%26lps%3D1%26uaa%3Dx86%26uab%3D64%26uafvl%3DNot%252FA%29Brand%3B8.0.0.0%7CChromium%3B126.0.6478.127%7CGoogle%2520Chrome%3B126.0.6478.127%26uamb%3D0%26uam%3D%26uap%3DWindows%26uapv%3D15.0.0%26uaw%3D0%26are%3D1%26frm%3D0%26pscdl%3Dnoapi%26_s%3D1%26sid%3D1719819620%26sct%3D138%26seg%3D1%26dl%3Dhttps%3A%2F%2Fwww.chusmeando.com%2Fpistachos-guia-completa%2F%26dr%3Dhttps%3A%2F%2Fwww.google.com%2F%26dt%3DTodo%2BLo%2BQue%2BNecesitas%2BSaber%2BSobre%2BLos%2BPistachos%3A%2BGu%C3%ADa%2BCompleta%26en%3Dpage_view%26_ee%3D1%26tfd%3D6906%26_z%3Dfetch&%3Bpage=3&page=2 | Latest transfers | Page 2 | Transfermarkt
+[Edge] HIST | 2026-07-25 21:48:14 | [2x] https://www.transfermarkt.com/statistik/neuestetransfers | Latest transfers | Transfermarkt
+[Edge] HIST | 2026-07-25 21:48:11 | [1x] https://www.transfermarkt.com/statistik/neuestetransfers#google_vignette | Latest transfers | Transfermarkt
+[Edge] HIST | 2026-07-25 21:46:45 | [1x] https://www.transfermarkt.com/manchester-city/transfers/verein/281 | Manchester City - Transfers 26/27 | Transfermarkt
+[Edge] HIST | 2026-07-25 21:46:40 | [20x] https://www.bing.com/ | bing.com/newtabredir?url=https%3A%2F%2Fwww.how2shout.com%2Fw
+[Edge] HIST | 2026-07-25 21:46:40 | [1x] https://bing.com/ck/a?!&&p=c50698b4a43b805023905c7d77f452e05e7175c7b8659610cb6a3f35ab456596JmltdHM9MTc4NDkzNzYwMA&ptn=3&ver=2&hsh=4&fclid=15bede3a-fe0b-6ad3-120f-c808fff66be3&psq=mn+city+transfer+newsy%2fa3nyxabgsqlnqfkeg41m6tnpp&u=a1aHR0cHM6Ly93d3cudHJhbnNmZXJtYXJrdC5jb20vbWFuY2hlc3Rlci1jaXR5L3RyYW5zZmVycy92ZXJlaW4vMjgx&ntb=1&adlt=strict | ?
+[Edge] HIST | 2026-07-25 21:46:40 | [1x] https://www.bing.com/ck/a?!&&p=c50698b4a43b805023905c7d77f452e05e7175c7b8659610cb6a3f35ab456596JmltdHM9MTc4NDkzNzYwMA&ptn=3&ver=2&hsh=4&fclid=15bede3a-fe0b-6ad3-120f-c808fff66be3&psq=mn+city+transfer+newsy%2fa3nyxabgsqlnqfkeg41m6tnpp&u=a1aHR0cHM6Ly93d3cudHJhbnNmZXJtYXJrdC5jb20vbWFuY2hlc3Rlci1jaXR5L3RyYW5zZmVycy92ZXJlaW4vMjgx&ntb=1&adlt=strict&toWww=1&redig=AE20F0CCC2664E5BB9A76473548889AF | ?
+[Edge] HIST | 2026-07-25 21:46:30 | [1x] https://bing.com/search?q=mn+city+transfer+newsy%2Fa3nyxabgsqlnqfkeg41m6tnpp&cvid=34af2558de4c4cda855b5a8c122d16d1&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOdIBCTE0OTc4ajBqNKgCCLACAQ&FORM=ANAB01&adppc=EDGEDBB&PC=SCOODB&adlt=strict | mn city transfer newsy/a3nyxabgsqlnqfkeg41m6tnpp - Search
+[Edge] HIST | 2026-07-25 21:46:30 | [1x] https://www.bing.com/search?q=mn+city+transfer+newsy%2Fa3nyxabgsqlnqfkeg41m6tnpp&cvid=34af2558de4c4cda855b5a8c122d16d1&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOdIBCTE0OTc4ajBqNKgCCLACAQ&FORM=ANAB01&adppc=EDGEDBB&PC=SCOODB&adlt=strict&toWww=1&redig=29744C34C2B446A5862533D124ECAE3A | mn city transfer newsy/a3nyxabgsqlnqfkeg41m6tnpp - Search
+[Edge] HIST | 2026-07-25 21:46:06 | [3x] https://www.goal.com/en/team/manchester-city/a3nyxabgsqlnqfkeg41m6tnpp | Manchester City Overview | Goal.com
+[Edge] HIST | 2026-07-25 21:45:46 | [1x] https://www.goal.com/en/team/manchester-city/news/a3nyxabgsqlnqfkeg41m6tnpp | Manchester City - latest team news & transfer rumours | Goal
+[Edge] HIST | 2026-07-25 21:45:16 | [1x] https://www.booking.com/searchresults.html?affiliate_id=1607597&aid=1607597&checkin=2026-07-31&checkout=2026-08-03&city=-2602512&label=v3.cms0pyenadl4008427dtn9i52&chal_t=1785005112655&force_referer=https%3A%2F%2Fwww.goal.com%2F | ?
+[Edge] HIST | 2026-07-25 21:45:13 | [1x] https://www.stay22.com/allez/roam?aid=footballco&campaign=goal-en-a3nyxabgsqlnqfkeg41m6tnpp&product=lma&habl=false&isinc=false&sid22=j6Sh7JTlvKEtOBrS&adStack=prebid&hasCTZ=false&hasTP=false&conmeth=normal&plng=en&pageCategory=sports&lmaID=69fc5db82aa5b8a8977f6cb4&checkin=2026-07-31&category=all&medium=undertab&ptag=div&trigmeth=whitespace&source=pop&address=Manchester%2C+UK&ref22=https%3A%2F%2Fwww.goal.com%2Fen%2Fteam%2Fmanchester-city%2Fa3nyxabgsqlnqfkeg41m6tnpp | ?
+[Edge] HIST | 2026-07-25 21:45:13 | [1x] https://www.booking.com/searchresults.html?affiliate_id=1607597&aid=1607597&checkin=2026-07-31&checkout=2026-08-03&city=-2602512&label=v3.cms0pyenadl4008427dtn9i52 | ?
+[Edge] HIST | 2026-07-25 21:44:49 | [1x] https://bing.com/sportsdetails?q=Rosenborg%20BK%20vs%20Manchester%20United&gameid=SportRadar_Soccer_InternationalClubsClubFriendlyGames_2025_Game_71943776&league=Soccer_InternationalClubsClubFriendlyGames&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=E.%20Africa%20Standard%20Time&IANATimezoneId=Africa/Dar_es_Salaam&ISOTimezoneKey=EAT&seasonyear=2025&team=SportRadar_Soccer_InternationalClubsClubFriendlyGames_2025_Team_1161&team2=SportRadar_Soccer_InternationalClubsClubFriendlyGames_2025_Team_35&segment=sports&isl2=true&form=ARENL2&adlt=strict | Rosenborg BK vs Manchester United - Search
+[Edge] HIST | 2026-07-25 21:44:49 | [1x] https://www.bing.com/sportsdetails?q=Rosenborg%20BK%20vs%20Manchester%20United&gameid=SportRadar_Soccer_InternationalClubsClubFriendlyGames_2025_Game_71943776&league=Soccer_InternationalClubsClubFriendlyGames&scenario=GameCenter&intent=Game&iscelebratedgame=False&sport=Soccer&TimezoneId=E.%20Africa%20Standard%20Time&IANATimezoneId=Africa/Dar_es_Salaam&ISOTimezoneKey=EAT&seasonyear=2025&team=SportRadar_Soccer_InternationalClubsClubFriendlyGames_2025_Team_1161&team2=SportRadar_Soccer_InternationalClubsClubFriendlyGames_2025_Team_35&segment=sports&isl2=true&form=ARENL2&adlt=strict&toWww=1&redig=D91EDA4EFE314185A8D5AEA4AA2511BE | Rosenborg BK vs Manchester United - Search
+[Edge] HIST | 2026-07-25 21:44:43 | [1x] https://bing.com/sportsdetails?q=man%20united%20vs%20rosenborg&sport=Soccer&scenario=TeamMatchup&TimezoneId=E.%20Africa%20Standard%20Time&IANATimezoneId=Africa/Dar_es_Salaam&ISOTimezoneKey=EAT&intent=Generic&team=SportRadar_Soccer_InternationalClubsUEFAChampionsLeague_2026_Team_35,SportRadar_Soccer_InternationalClubsUEFAChampionsLeague_2023_Team_35,SportRadar_Soccer_InternationalClubsClubFriendlyGames_2025_Team_35,SportRadar_Soccer_InternationalClubsClubFriendlyGames_2024_Team_35,SportRadar_Soccer_UEFAEuropaLeague_2024_Team_35,SportRadar_Soccer_UEFAEuropaLeague_2022_Team_35&team2=SportRadar_Soccer_InternationalClubsClubFriendlyGames_2026_Team_1161,SportRadar_Soccer_InternationalClubsClubFriendlyGames_2025_Team_1161,SportRadar_Soccer_InternationalClubsUEFAChampionsLeague_2019_Team_1161,SportRadar_Soccer_InternationalClubsUEFAChampionsLeague_2018_Team_1161,SportRadar_Soccer_UEFAEuropaLeague_2020_Team_1161,SportRadar_Soccer_UEFAEuropaLeague_2019_Team_1161&segment=sports&isl2=true&fromhere=1065341760&form=QBRE&adlt=strict | man united vs rosenborg - Search
+[Edge] HIST | 2026-07-25 21:44:43 | [1x] https://www.bing.com/sportsdetails?q=man%20united%20vs%20rosenborg&sport=Soccer&scenario=TeamMatchup&TimezoneId=E.%20Africa%20Standard%20Time&IANATimezoneId=Africa/Dar_es_Salaam&ISOTimezoneKey=EAT&intent=Generic&team=SportRadar_Soccer_InternationalClubsUEFAChampionsLeague_2026_Team_35,SportRadar_Soccer_InternationalClubsUEFAChampionsLeague_2023_Team_35,SportRadar_Soccer_InternationalClubsClubFriendlyGames_2025_Team_35,SportRadar_Soccer_InternationalClubsClubFriendlyGames_2024_Team_35,SportRadar_Soccer_UEFAEuropaLeague_2024_Team_35,SportRadar_Soccer_UEFAEuropaLeague_2022_Team_35&team2=SportRadar_Soccer_InternationalClubsClubFriendlyGames_2026_Team_1161,SportRadar_Soccer_InternationalClubsClubFriendlyGames_2025_Team_1161,SportRadar_Soccer_InternationalClubsUEFAChampionsLeague_2019_Team_1161,SportRadar_Soccer_InternationalClubsUEFAChampionsLeague_2018_Team_1161,SportRadar_Soccer_UEFAEuropaLeague_2020_Team_1161,SportRadar_Soccer_UEFAEuropaLeague_2019_Team_1161&segment=sports&isl2=true&fromhere=1065341760&form=QBRE&adlt=strict&toWww=1&redig=0C9D11C3E0554269A04B732E87F796C7 | man united vs rosenborg - Search
+[Edge] HIST | 2026-07-25 21:44:39 | [1x] https://bing.com/search?q=man%20united%20vs%20rosenborg&qs=n&form=QBRE&sp=-1&ghc=1&lq=0&pq=man%20united%20vs%20rosenborg&sc=10-23&sk=&cvid=0CE3D9C414194D848000C7F073195DD4&adlt=strict | man united vs rosenborg - Search
+[Edge] HIST | 2026-07-25 21:44:39 | [1x] https://www.bing.com/search?q=man%20united%20vs%20rosenborg&qs=n&form=QBRE&sp=-1&ghc=1&lq=0&pq=man%20united%20vs%20rosenborg&sc=10-23&sk=&cvid=0CE3D9C414194D848000C7F073195DD4&adlt=strict&toWww=1&redig=95C05F9A9C684759A28B30AD3E34FCCA | man united vs rosenborg - Search
+[Edge] HIST | 2026-07-25 21:44:31 | [1x] https://www.bing.com/search?q=man%20united%20vs%20rosenborg&qs=n&form=QBRE&sp=-1&ghc=1&lq=0&pq=man%20united%20vs%20rosenborg&sc=10-23&sk=&cvid=0CE3D9C414194D848000C7F073195DD4 | man united vs rosenborg - Search
+[Edge] HIST | 2026-07-25 21:43:53 | [4x] https://www.goal.com/en | Football News, Live Scores, Results & Transfers | Goal.com
+[Edge] HIST | 2026-07-25 21:42:05 | [1x] https://www.goal.com/en/lists/nxgn-wonderkids-world-cup-debuts-2030/blt75abc43e981e883e | Max Dowman, Estevao, Cavan Sullivan and 20 NXGN wonderkids w
+[Edge] HIST | 2026-07-25 21:38:02 | [1x] https://www.goal.com/en/lists/winners-losers-2026-world-cup-lionel-messi-kylian-mbappe-spain-cristiano-ronaldo-neymar-christian-pulisic/blt7aa010d528ddf937 | Winners and losers of the 2026 World Cup: From Lionel Messi 
+[Edge] HIST | 2026-07-25 21:35:41 | [1x] https://www.goal.com/en/lists/teenage-wonderkids-to-watch-premier-league-pre-season-friendlies/blt37c553d463d3ddb7 | Man Utd's 'little Messi', Liverpool's 16-year-old sensation 
+[Edge] HIST | 2026-07-25 21:35:24 | [1x] https://bing.com/ck/a?!&&p=d9a9d459ed1c0551ecefc4292c88d8fe5cc4d913d05ce131dde71c80527076f7JmltdHM9MTc4NDkzNzYwMA&ptn=3&ver=2&hsh=4&fclid=15bede3a-fe0b-6ad3-120f-c808fff66be3&psq=goal&u=a1aHR0cHM6Ly93d3cuZ29hbC5jb20vZW4&ntb=1&adlt=strict | ?
+[Edge] HIST | 2026-05-22 20:47:26 | [1x] https://support.microsoft.com/signin-oidc | ?
+[Edge] HIST | 2026-05-22 20:47:26 | [1x] https://support.microsoft.com/en-us/silentsigninhandler | ?
+[Edge] HIST | 2026-05-22 20:47:22 | [1x] https://go.microsoft.com/fwlink/?LinkId=517009 | Windows help and learning
+[Edge] HIST | 2026-05-22 20:47:22 | [1x] https://support.microsoft.com/windows | Windows help and learning
+[Edge] HIST | 2026-05-22 20:47:22 | [1x] https://support.microsoft.com/en-us/windows | Windows help and learning
+[Edge] HIST | 2026-05-22 20:35:40 | [1x] https://bing.com/search?q=how+to+get+help+in+windows+11&filters=guid:%22711b6492-0435-0038-8706-7c6b0feb200a_win11-en-dia%22%20lang:%22en%22&form=S00028&adlt=strict | how to get help in windows 11 - Search
+[Edge] HIST | 2026-05-22 20:35:40 | [1x] https://www.bing.com/search?q=how+to+get+help+in+windows+11&filters=guid:%22711b6492-0435-0038-8706-7c6b0feb200a_win11-en-dia%22%20lang:%22en%22&form=S00028&adlt=strict&toWww=1&redig=006979FFE6F245E39E85F2C2D100E381 | how to get help in windows 11 - Search
+[Edge] HIST | 2026-05-20 05:38:54 | [1x] https://www.msn.com/en-xl/lifestyle/other/meet-venezuela-boxing-champion-tyson-fury-s-daughter-who-just-got-married-at-16/ar-AA23td3j?ocid=msedgdhp&pc=U531&cvid=6a0d1eac4465433d8dceb18ae5c1aba2&ei=11 | Meet Venezuela, boxing champion Tyson Fury’s daughter who ju
+[Edge] HIST | 2025-08-05 13:39:55 | [0x] https://utweb.rainberrytv.com/gui/index.html?v=1.4.0.5759&localauth=localapiad8a349fd5e2f57c:#/dashboard | μTorrent Web
+[Edge] HIST | 2025-08-05 13:39:55 | [0x] http://192.168.1.4/ | lo
+[Edge] HIST | 2025-08-05 13:39:55 | [0x] http://192.168.1.4:8080/ | inaya
+[Edge] HIST | 1601-01-01 03:00:00 | [0x] https://www.instagram.com/ | (2) Instagram
+[Edge] HIST | 2025-07-21 09:57:48 | [1x] https://www.youtube.com/watch?v=A3t_uUgTm5k | Chelsea vs. PSG | FIFA Club World Cup Final Extended Highlig
+[Edge] HIST | 2025-07-21 09:57:30 | [1x] https://www.youtube.com/results?search_query=psg+vs+chelsea+final+2025 | psg vs chelsea final 2025 - YouTube
+[Edge] HIST | 2025-07-21 09:57:30 | [3x] https://www.youtube.com/ | YouTube
+[Edge] HIST | 2025-07-21 09:57:06 | [1x] https://www.youtube.com/?themeRefresh=1 | YouTube
+[Edge] HIST | 2025-07-21 09:48:51 | [1x] https://genius.com/Travis-scott-astrothunder-lyrics | Travis Scott – ASTROTHUNDER Lyrics | Genius Lyrics
+[Edge] HIST | 2025-07-21 09:48:48 | [4x] https://www.bing.com/ | ?
+[Edge] HIST | 2025-07-21 09:48:48 | [1x] https://bing.com/ck/a?!&&p=c708f91ea0fd05dd0dd6de5a9c28cffcdd1377d08d1765a27585597965dff7ddJmltdHM9MTc1Mjk2OTYwMA&ptn=3&ver=2&hsh=4&fclid=0cb75311-be8f-672a-2485-453aba8f658c&psq=ASTROTHUNDER+Lyrics&u=a1aHR0cHM6Ly9nZW5pdXMuY29tL1RyYXZpcy1zY290dC1hc3Ryb3RodW5kZXItbHlyaWNz&ntb=1&adlt=strict | ?
+[Edge] HIST | 2025-07-21 09:48:48 | [1x] https://www.bing.com/ck/a?!&&p=c708f91ea0fd05dd0dd6de5a9c28cffcdd1377d08d1765a27585597965dff7ddJmltdHM9MTc1Mjk2OTYwMA&ptn=3&ver=2&hsh=4&fclid=0cb75311-be8f-672a-2485-453aba8f658c&psq=ASTROTHUNDER+Lyrics&u=a1aHR0cHM6Ly9nZW5pdXMuY29tL1RyYXZpcy1zY290dC1hc3Ryb3RodW5kZXItbHlyaWNz&ntb=1&adlt=strict&toWww=1&redig=165FBE758C0A445EB4BA3C7B0225C1C8 | ?
+[Edge] HIST | 2025-07-21 09:48:37 | [1x] https://bing.com/search?q=ASTROTHUNDER+Lyrics&filters=dtbk:%22MCFjZGV4X3YxX2x5cmljcyFjZGV4X3YxX2x5cmljcyExMzU5YzNmMC0wMjhmLTc1N2YtOTk5Zi1lMzk4NDdjZDM4Mjc%3d%22+sid:%221359c3f0-028f-757f-999f-e39847cd3827%22&FORM=DEPNAV&adlt=strict | ASTROTHUNDER Lyrics - Search
+[Edge] HIST | 2025-07-21 09:48:37 | [1x] https://www.bing.com/search?q=ASTROTHUNDER+Lyrics&filters=dtbk:%22MCFjZGV4X3YxX2x5cmljcyFjZGV4X3YxX2x5cmljcyExMzU5YzNmMC0wMjhmLTc1N2YtOTk5Zi1lMzk4NDdjZDM4Mjc%3d%22+sid:%221359c3f0-028f-757f-999f-e39847cd3827%22&FORM=DEPNAV&adlt=strict&toWww=1&redig=91AF597C1E304955AF3185C6FD419BEE | ASTROTHUNDER Lyrics - Search
+[Edge] HIST | 2025-07-21 09:48:25 | [1x] https://bing.com/search?qs=MT&pq=astro+thu&sk=CSYN1MT1&sc=11-9&q=astro+thunder+lyrics&cvid=6ac16bc092a54c7fb0a77b11120af773&gs_lcrp=EgRlZGdlKgYIAhAAGEAyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQABhAMgYICBAAGEDSAQkyMjYzMmowajSoAgSwAgE&FORM=ANAB01&PC=U531&adlt=strict | astro thunder lyrics - Search
+[Edge] HIST | 2025-07-21 09:48:25 | [1x] https://www.bing.com/search?qs=MT&pq=astro+thu&sk=CSYN1MT1&sc=11-9&q=astro+thunder+lyrics&cvid=6ac16bc092a54c7fb0a77b11120af773&gs_lcrp=EgRlZGdlKgYIAhAAGEAyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQABhAMgYICBAAGEDSAQkyMjYzMmowajSoAgSwAgE&FORM=ANAB01&PC=U531&adlt=strict&toWww=1&redig=BCC78011FBD24158877554A483C854E3 | astro thunder lyrics - Search
+[Edge] HIST | 2025-07-21 09:29:16 | [1x] https://genius.com/Xxxtentacion-fuck-love-lyrics | XXXTENTACION – Fuck Love Lyrics | Genius Lyrics
+[Edge] HIST | 2025-07-21 09:29:10 | [1x] https://bing.com/ck/a?!&&p=7c4942a4c0012ba3afc15d51bed20b5d30cde199a012b9f06c012e93ece8847fJmltdHM9MTc1Mjk2OTYwMA&ptn=3&ver=2&hsh=4&fclid=0cb75311-be8f-672a-2485-453aba8f658c&psq=fuck+love+lyrics&u=a1aHR0cHM6Ly9nZW5pdXMuY29tL1h4eHRlbnRhY2lvbi1mdWNrLWxvdmUtbHlyaWNz&ntb=1&adlt=strict | ?
+[Edge] HIST | 2025-07-21 09:29:10 | [1x] https://www.bing.com/ck/a?!&&p=7c4942a4c0012ba3afc15d51bed20b5d30cde199a012b9f06c012e93ece8847fJmltdHM9MTc1Mjk2OTYwMA&ptn=3&ver=2&hsh=4&fclid=0cb75311-be8f-672a-2485-453aba8f658c&psq=fuck+love+lyrics&u=a1aHR0cHM6Ly9nZW5pdXMuY29tL1h4eHRlbnRhY2lvbi1mdWNrLWxvdmUtbHlyaWNz&ntb=1&adlt=strict&toWww=1&redig=62D0B8E1FC8546598D65FEE7D157EE3F | ?
+[Edge] HIST | 2025-07-21 09:29:00 | [1x] https://bing.com/search?pglt=43&q=fuck+love+lyrics&cvid=4a98cdff1098459b81e9beef26f82164&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOdIBCTEzNTgyajBqMagCALACAA&FORM=ANSPA1&PC=U531&adlt=strict | fuck love lyrics - Search
+[Edge] HIST | 2025-07-21 09:29:00 | [1x] https://www.bing.com/search?pglt=43&q=fuck+love+lyrics&cvid=4a98cdff1098459b81e9beef26f82164&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOdIBCTEzNTgyajBqMagCALACAA&FORM=ANSPA1&PC=U531&adlt=strict&toWww=1&redig=FE9569E90F7F48B192AB81A30DF63FD9 | fuck love lyrics - Search
+[Edge] HIST | 2025-07-18 08:39:33 | [1x] https://auth.openai.com/api/accounts/authorize?client_id=app_X8zY6vW2pQ9tR3dE7nK1jL5gH&scope=openid%20email%20profile%20offline_access%20model.request%20model.read%20organization.read%20organization.write&response_type=code&redirect_uri=https%3A%2F%2Fchatgpt.com%2Fapi%2Fauth%2Fcallback%2Fopenai&audience=https%3A%2F%2Fapi.openai.com%2Fv1&device_id=1a7b045c-4b89-4e1d-948c-1104ca8a4ece&prompt=login&screen_hint=signup&ext-oai-did=1a7b045c-4b89-4e1d-948c-1104ca8a4ece&auth_session_logging_id=76f50a71-8fcd-4803-8044-d34a89890641&state=3e-QKe1Oh_mIb_NobZ3smIwEG3-GoN4kBk08weEvOR0 | Login - OpenAI
+[Edge] HIST | 2025-07-18 08:39:33 | [1x] https://auth.openai.com/create-account | Login - OpenAI
+[Edge] HIST | 2025-07-18 08:37:41 | [1x] https://chatgpt.com/ | Image Request Clarification
+[Edge] HIST | 2025-07-18 08:37:38 | [2x] https://www.google.com/search?q=chtagpt&sca_esv=a5069341141d07fa&source=hp&ei=fd15aJfLOoqA9u8PxKLloQk&iflsig=AOw8s4IAAAAAaHnrjaurlU1fblvzXIwGgfbpyrbC-Bbu&oq=cht&gs_lp=Egdnd3Mtd2l6IgNjaHQqAggAMgUQABiABDIFEAAYgAQyBxAAGIAEGAoyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAESJ8wUOkQWJQecAF4AJABAJgB-QKgAbUGqgEFMi0yLjG4AQHIAQD4AQGYAgOgAsIGqAIAwgIIEAAYgAQYsQPCAgsQABiABBixAxiDAcICDhAuGIAEGLEDGIMBGIoFwgILEC4YgAQYsQMYgwHCAggQLhiABBixA5gDAfEFoeMH9F4JcqmSBwUyLTIuMaAHjh2yBwUyLTIuMbgHwgbCBwUwLjEuMsgHCw&sclient=gws-wiz&safe=active&sei=md15aNTwKoqbkdUPy_-B6Q4 | chtagpt - Tafuta na Google
+[Edge] HIST | 2025-07-18 08:37:32 | [1x] https://www.google.com/search?q=chtagpt&sca_esv=a5069341141d07fa&source=hp&ei=fd15aJfLOoqA9u8PxKLloQk&iflsig=AOw8s4IAAAAAaHnrjaurlU1fblvzXIwGgfbpyrbC-Bbu&oq=cht&gs_lp=Egdnd3Mtd2l6IgNjaHQqAggAMgUQABiABDIFEAAYgAQyBxAAGIAEGAoyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAESJ8wUOkQWJQecAF4AJABAJgB-QKgAbUGqgEFMi0yLjG4AQHIAQD4AQGYAgOgAsIGqAIAwgIIEAAYgAQYsQPCAgsQABiABBixAxiDAcICDhAuGIAEGLEDGIMBGIoFwgILEC4YgAQYsQMYgwHCAggQLhiABBixA5gDAfEFoeMH9F4JcqmSBwUyLTIuMaAHjh2yBwUyLTIuMbgHwgbCBwUwLjEuMsgHCw&sclient=gws-wiz&safe=active | chtagpt - Tafuta na Google
+[Edge] HIST | 2025-07-18 08:37:20 | [1x] https://copilot.microsoft.com/chats/eVGzdRyatNwNZMKmCJcve | Microsoft Copilot: Your AI companion
+[Edge] HIST | 2025-07-18 08:37:18 | [1x] https://copilot.microsoft.com/chats/9ACG9HDToyiB848nZb7yU | Microsoft Copilot: Your AI companion
+[Edge] HIST | 2025-07-18 08:37:05 | [1x] https://www.google.com/ | Google
+[Edge] HIST | 2025-07-18 08:36:52 | [1x] https://copilot.microsoft.com/chats/GHYtv3JkRhhXkzW6VrYhD | Microsoft Copilot: Your AI companion
+[Edge] HIST | 2025-07-18 08:36:46 | [6x] https://copilot.microsoft.com/chats/rpmDjNX8toaJhPkMNME1X | Microsoft Copilot: Your AI companion
+[Edge] HIST | 2025-07-18 08:35:20 | [1x] https://copilot.microsoft.com/?adlt=strict&toWww=1&redig=5B29EE151F744E57A63E07009EF3A7DD&showconv=1 | Microsoft Copilot: Your AI companion
+[Edge] HIST | 2025-07-18 08:35:04 | [1x] https://bing.com/chat?FORM=hpcodx&adlt=strict | Microsoft Copilot: Your AI companion
+[Edge] HIST | 2025-07-18 08:35:04 | [1x] https://www.bing.com/chat?FORM=hpcodx&adlt=strict&toWww=1&redig=5B29EE151F744E57A63E07009EF3A7DD | Microsoft Copilot: Your AI companion
+[Edge] HIST | 2025-08-22 15:17:41 | [5x] chrome-extension://pkggemhbcdfhhabkmlafgbcpeflpdbjc/screen.html#/pwd | Browser Lock
+[Edge] HIST | 2025-08-22 11:54:12 | [2x] https://c-h-i-g-o-fasta-tdgs83.flutterflow.app/chat | CHIGO fasta
+[Edge] HIST | 2025-08-22 11:53:52 | [1x] https://c-h-i-g-o-fasta-tdgs83.flutterflow.app/auth1 | CHIGO fasta
+[Edge] HIST | 2025-08-22 11:52:38 | [2x] https://c-h-i-g-o-fasta-tdgs83.flutterflow.app/ | CHIGO fasta
+[Edge] HIST | 2025-08-22 11:44:06 | [24x] chrome-extension://nldijlfmoepgjkjhmdiiainkjgmpdnmj/screen.html#/pwd | Browser Lock
+[Edge] HIST | 2025-08-19 15:53:29 | [1x] https://fast.com/ | Internet Speed Test | Fast.com
+[Edge] HIST | 2025-08-19 14:41:31 | [3x] https://chatgpt.com/c/68a461cd-9508-8321-b542-1c4cf3ba87f9 | Statistics in advanced math
+[Edge] HIST | 2025-08-19 14:41:26 | [1x] https://gemini.google.com/app/b4f0eb54d2552f97 | Google Gemini
+[Edge] HIST | 2025-08-19 14:38:08 | [11x] https://gemini.google.com/app | Google Gemini
+[Edge] HIST | 2025-08-19 14:36:27 | [15x] https://chatgpt.com/ | ChatGPT
+[Edge] HIST | 2025-08-19 14:28:14 | [1x] http://fast.com/ | Internet Speed Test | Fast.com
+[Edge] HIST | 2025-08-19 14:27:37 | [1x] https://www.google.com/search?q=chatgpt&oq=&gs_lcrp=EgZjaHJvbWUqCQgAECMYJxjqAjIJCAAQIxgnGOoCMgkIARAjGCcY6gIyCQgCECMYJxjqAjIJCAMQIxgnGOoCMgkIBBAjGCcY6gIyCQgFECMYJxjqAjIJCAYQIxgnGOoCMgkIBxAjGCcY6gLSAQo5MTEyMTBqMGo3qAIIsAIB8QUQVcAQBBrerw&sourceid=chrome&ie=UTF-8 | chatgpt - Google Search
+[Edge] HIST | 2025-08-19 08:59:15 | [4x] https://chatgpt.com/c/68a322db-e570-8320-b522-1eac62c13153 | Youth self-reliance challenges
+[Edge] HIST | 2025-08-19 08:59:12 | [3x] https://chatgpt.com/c/68a40a78-3560-832b-a478-4a3b944643f1 | ChatGPT
+[Edge] HIST | 2025-08-15 09:53:13 | [1x] https://chatgpt.com/c/689ed940-0474-8326-89fd-b59f37e235b8 | Code analysis
+[Edge] HIST | 2025-08-15 09:51:56 | [1x] https://www.google.com/search?q=chatgpt&oq=&gs_lcrp=EgZjaHJvbWUqCQgAECMYJxjqAjIJCAAQIxgnGOoCMgkIARAjGCcY6gIyCQgCECMYJxjqAjIJCAMQIxgnGOoCMgkIBBAjGCcY6gIyCQgFECMYJxjqAjIJCAYQIxgnGOoCMgkIBxAjGCcY6gLSAQs2MjUxODEyajBqN6gCCLACAfEFG9V_6chM5HI&sourceid=chrome&ie=UTF-8 | chatgpt - Google Search
+[Edge] HIST | 2025-08-14 12:21:16 | [2x] https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzQcpKdSkGKzZKfkKwTGtgDXDGbW?projector=1&messagePartId=0.1 | (no subject) - nicholouslendii@gmail.com - Gmail
+[Edge] HIST | 2025-08-14 12:21:16 | [1x] https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox/FMfcgzQcpKdSkGKzZKfkKwTGtgDXDGbW?messagePartId=0.1 | (no subject) - nicholouslendii@gmail.com - Gmail
+[Edge] HIST | 2025-08-14 11:49:35 | [2x] https://aistudio.google.com/apikey | Get API key | Google AI Studio
+[Edge] HIST | 2025-08-14 11:48:03 | [2x] https://aistudio.google.com/prompts/new_chat | Chat | Google AI Studio
+[Edge] HIST | 2025-08-14 11:46:26 | [1x] https://aistudio.google.com/ | Google AI Studio
+[Edge] HIST | 2025-08-14 11:45:27 | [1x] https://www.google.com/search?q=google+ai+studio&oq=google+ai&gs_lcrp=EgZjaHJvbWUqCggCEAAYsQMYgAQyBwgAEAAYjwIyEAgBEC4YxwEYsQMY0QMYgAQyCggCEAAYsQMYgAQyBwgDEAAYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBggHEEUYPNIBCTkyODg3ajBqN6gCALACAA&sourceid=chrome&ie=UTF-8 | google ai studio - Google Search
+[Edge] HIST | 2025-08-14 11:36:31 | [17x] https://aistudio.google.com/app/apikey | Get API key | Google AI Studio
+[Edge] HIST | 2025-08-14 10:56:45 | [1x] https://chatgpt.com/c/689d9674-9d04-8330-b311-750fca1098c5 | API payment information
+[Edge] HIST | 2025-08-14 10:55:54 | [1x] https://docs.google.com/presentation/d/1oUJ0EMd8Mk9M-xncn25mgtAYy-znLsJ8/edit?dls=true&pli=1 | CONCEPT OF FUNCTION PARAMETERS.pptx - Google Slides
+[Edge] HIST | 2025-08-14 10:54:36 | [9x] https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox | Inbox (54) - nicholouslendii@gmail.com - Gmail
+[Edge] HIST | 2025-08-14 10:54:34 | [10x] https://mail.google.com/mail/u/0/?tab=rm&ogbl | Gmail
+[Edge] HIST | 2025-08-13 07:57:20 | [1x] https://platform.openai.com/welcome?step=try | Start building - OpenAI API
+[Edge] HIST | 2025-08-13 07:56:36 | [1x] https://platform.openai.com/welcome?step=invite | Start building - OpenAI API
+[Edge] HIST | 2025-08-13 07:53:50 | [1x] https://platform.openai.com/welcome?step=create | Start building - OpenAI API
+[Edge] HIST | 2025-03-31 14:16:26 | [1x] https://sdx.microsoft.com/family/restricted-web-email?t=EwA4BEFgBAAU0jVQoVkxnpeAPwqpihR70qouON8AAWQyeqgRLXv5OqgHA0UXdV3Y0zre8zu5YsVLIYaayZBljMLmfQeu1JajHqyclNVDezmQuvxbx%20XVyEA%2Fyq9RFjVBganV3BS0mD%2FI2q8DYhGl2Fcy%2FXkBDZCSL78sBjFxHrElFpuc9HhWo3ddIZoBy3Po8GbkjfzC%20HXQBwmE5IyuvpqsZkktkbQL4PTIyMS9QyVfnlnDpelqxB%20gyZYHNX%20DX40pHcHeTRKq%2FHBTH61rdmNSr70hmN5W7vWawvmeS2B8LyMVQgZVSgVF%20EqFdjkeh%20UTvNdpOrbijqJtkfY9GUPRy19VvsJEW5AlZhL1okvLUrfW0RbKVJ9AHJzIeFYQZgAAEJOoRS%20gU08%20Ss%20punH19SIAA35dd7YgGdoWEl5AtQaoIW8kdVIjUbKQKyO455nCPAJgzVSSbj9FQkkEn9k4NucJccvYUfeWK2wcApl8LD5Hm6%2F0JnpuJWnrAfGEyD59mrk5OPCSuJq3jefA0wx9NKBMSf%2F1tp2x6Z9itNs3YYGV1Kbbpn8L00ar08PIukZQH9Mbluwtzss05zVfXXXtZWl8Zpve7pnYh149xIxlaMvwXhMCc%20vI34DkK2RntsAI2rwPZDdG4ccEhqYWIcfFWB1n9xz%2FSTvGTXD2JsB35NfXDDca%20tMHIDQc0HupzbTZDeiPSgfRnZl213K5oDFo5h3MH9eRjWhnHN5Yod3xKOu5W%2FJbTpT4Qy9GZhWJnS8FkYvM9fn0kP74vDfiAC%20WOIrvb3S11OVSfqj%2FSo%2FS0so6bBO0D6fDdI2pHqBFH%20%2FUnOHNftfT5WY4ku%207TDeHFzcLxgM2yd0idanFTMm6yucVI1RLYNwb9S9e4REzy7gXpXsIJeP3OjX8ZIzTmVfeAii%20vruqTv8A3I12hv6e7QOZuY5f3RPGUT4GBAW34sbd22LQuZiWYeELMHjTXM%200xsYumSVfBkUiRj8frwvr9ZkjI9H9fn%2FXHEkBG%2FjOX5k9tOoaSovMeFiuBlGhOKLuvRfnnvc%20mk%2FOTCSfroSJbomOjWpwWTfjdRMM3OoTNKQiUbnOVn43qzX%2FDg4KhlNaIo4oX32%20HUIzuXT%20l5NfNodC7UBsWJrfBNppzi7YqCtKltLqsocSO3mhtD1cM8gBa8ukNHjU1VQfCnuYEWKBWke45aRJ6FkklBpRh3cjKp7qN7Axr%2FvaUrhpr5lMcoFyYjlWzBYdtcOG%20n3lUFVDHdmjR1Fj7dsCLmh6ztEr3ZohJaievJ3cLbBpIjHFfqDB1ySWSe0DYJk5PwkfDu0bxg1uVG7a%20xFpfw3Aklpc19AKTeTGnqWiLbFYtRzHDl90gHMelpTMaWc9%20XS%20OiVSGSsQ1kDu5vBGaJCM9SD82yOZx0WyK1o9mjUQEoRDXQ%2FLJQqY%20EMD&c=UNKN&url=http%3A%2F%2Fmanytoon.com%2F&theme=Light | Sign in to your Microsoft account
+[Edge] HIST | 2025-03-31 14:16:26 | [1x] https://sdx.microsoft.com/family/restricted-web-email2?url=http%3A%2F%2Fmanytoon.com%2F&theme=Light | Sign in to your Microsoft account
+[Edge] HIST | 2025-03-31 14:16:26 | [1x] https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=174&ct=1743419783&rver=7.1.6819.0&wp=MBI_SSL&wreply=https%3A%2F%2Fsdx.microsoft.com%2Fauth%2Fcomplete-signin%3Fru%3Dhttps%253A%252F%252Fsdx.microsoft.com%252Ffamily%252Frestricted-web-email2%253Furl%253Dhttp%25253A%25252F%25252Fmanytoon.com%25252F%2526theme%253DLight%2526refd%253Dsdx.microsoft.com&lc=1033&id=292994&lw=1&fl=easi2 | Sign in to your Microsoft account
+[Edge] HIST | 2025-03-31 14:16:15 | [1x] https://sdx.microsoft.com/family/restricted-web?c=UNKN&url=http%3A%2F%2Fmanytoon.com&t=EwA4BEFgBAAU0jVQoVkxnpeAPwqpihR70qouON8AAWQyeqgRLXv5OqgHA0UXdV3Y0zre8zu5YsVLIYaayZBljMLmfQeu1JajHqyclNVDezmQuvxbx+XVyEA/yq9RFjVBganV3BS0mD/I2q8DYhGl2Fcy/XkBDZCSL78sBjFxHrElFpuc9HhWo3ddIZoBy3Po8GbkjfzC+HXQBwmE5IyuvpqsZkktkbQL4PTIyMS9QyVfnlnDpelqxB+gyZYHNX+DX40pHcHeTRKq/HBTH61rdmNSr70hmN5W7vWawvmeS2B8LyMVQgZVSgVF+EqFdjkeh+UTvNdpOrbijqJtkfY9GUPRy19VvsJEW5AlZhL1okvLUrfW0RbKVJ9AHJzIeFYQZgAAEJOoRS+gU08+Ss+punH19SIAA35dd7YgGdoWEl5AtQaoIW8kdVIjUbKQKyO455nCPAJgzVSSbj9FQkkEn9k4NucJccvYUfeWK2wcApl8LD5Hm6/0JnpuJWnrAfGEyD59mrk5OPCSuJq3jefA0wx9NKBMSf/1tp2x6Z9itNs3YYGV1Kbbpn8L00ar08PIukZQH9Mbluwtzss05zVfXXXtZWl8Zpve7pnYh149xIxlaMvwXhMCc+vI34DkK2RntsAI2rwPZDdG4ccEhqYWIcfFWB1n9xz/STvGTXD2JsB35NfXDDca+tMHIDQc0HupzbTZDeiPSgfRnZl213K5oDFo5h3MH9eRjWhnHN5Yod3xKOu5W/JbTpT4Qy9GZhWJnS8FkYvM9fn0kP74vDfiAC+WOIrvb3S11OVSfqj/So/S0so6bBO0D6fDdI2pHqBFH+/UnOHNftfT5WY4ku+7TDeHFzcLxgM2yd0idanFTMm6yucVI1RLYNwb9S9e4REzy7gXpXsIJeP3OjX8ZIzTmVfeAii+vruqTv8A3I12hv6e7QOZuY5f3RPGUT4GBAW34sbd22LQuZiWYeELMHjTXM+0xsYumSVfBkUiRj8frwvr9ZkjI9H9fn/XHEkBG/jOX5k9tOoaSovMeFiuBlGhOKLuvRfnnvc+mk/OTCSfroSJbomOjWpwWTfjdRMM3OoTNKQiUbnOVn43qzX/Dg4KhlNaIo4oX32+HUIzuXT+l5NfNodC7UBsWJrfBNppzi7YqCtKltLqsocSO3mhtD1cM8gBa8ukNHjU1VQfCnuYEWKBWke45aRJ6FkklBpRh3cjKp7qN7Axr/vaUrhpr5lMcoFyYjlWzBYdtcOG+n3lUFVDHdmjR1Fj7dsCLmh6ztEr3ZohJaievJ3cLbBpIjHFfqDB1ySWSe0DYJk5PwkfDu0bxg1uVG7a+xFpfw3Aklpc19AKTeTGnqWiLbFYtRzHDl90gHMelpTMaWc9+XS+OiVSGSsQ1kDu5vBGaJCM9SD82yOZx0WyK1o9mjUQEoRDXQ/LJQqY+EMD&p= | Microsoft Family Safety
+[Edge] HIST | 2025-03-31 14:16:06 | [1x] https://www.bing.com/search?q=manytoon.com&form=ANSPH1&refig=c3865699b43247e494c4e30b0d6a4d04&pc=U531&adlt=strict&toWww=1&redig=EA362818629A455DA3C6216D4E899002 | manytoon.com - Search
+[Edge] HIST | 2025-03-28 08:51:22 | [1x] https://bing.com/search?q=y2mate&cvid=b958deddd7de48d0947e0f20fcf0d82d&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOdIBCDMwNTRqMGoxqAIAsAIB&FORM=ANAB01&PC=U531&adlt=strict | ?
+[Edge] HIST | 2025-03-28 08:51:22 | [1x] https://www.bing.com/search?q=y2mate&cvid=b958deddd7de48d0947e0f20fcf0d82d&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOdIBCDMwNTRqMGoxqAIAsAIB&FORM=ANAB01&PC=U531&adlt=strict&toWww=1&redig=AD9652F7C65E4690BAA2C4FDE1E7EE86 | ?
+[Opera] HIST | 2025-07-24 10:19:31 | [370x] chrome-extension://nldijlfmoepgjkjhmdiiainkjgmpdnmj/screen.html#/pwd | Browser Lock
+[Opera] HIST | 1601-01-01 03:00:00 | [33x] https://chatgpt.com/ | ChatGPT
+
+────────────────────────────────────────────────────────────
+  8. BOOKMARKS
+────────────────────────────────────────────────────────────
+[Edge] BM | bookmark_bar | inaya | http://192.168.1.4:8080/
+[Edge] BM | bookmark_bar | Instagram | https://www.instagram.com/
+[Edge] BM | bookmark_bar | lo | http://192.168.1.4/
+[Edge] BM | bookmark_bar | μTorrent Web | https://utweb.rainberrytv.com/gui/index.html?v=1.4.0.5759&localauth=localapiad8a349fd5e2f57c:#/dashboard
+[Edge] BM | bookmark_bar | inaya | http://192.168.1.4:8080/
+[Edge] BM | bookmark_bar | Instagram | https://www.instagram.com/
+[Edge] BM | bookmark_bar | lo | http://192.168.1.4/
+[Edge] BM | bookmark_bar | μTorrent Web | https://utweb.rainberrytv.com/gui/index.html?v=1.4.0.5759&localauth=localapiad8a349fd5e2f57c:#/dashboard
+[Edge] BM | other | New Tab | chrome://newtab/
+[Edge] BM | other | Blue Futuristic Technology Presentation - Presentation - Canva | https://www.canva.com/design/DAGSmBlsryQ/3rAmb8fFC_WhPYff6tM8KA/edit
+
+────────────────────────────────────────────────────────────
+  9. INSTALLED EXTENSIONS
+────────────────────────────────────────────────────────────
+[Edge] EXT | __MSG_ExtensionName__ | 2.14.56.9_0
+[Edge] EXT | Edge relevant text changes | 1.2.1_0
+[Edge] EXT | Anime Quotes | 1.0_0
+[Edge] EXT | __MSG_full_name__ | 2.0.4_0
+[Edge] EXT | __MSG_ExtensionName__ | 2.14.56.9_0
+[Edge] EXT | VPN for Chrome: NordVPN proxy protection | 5.6.0_0
+[Edge] EXT | __MSG_extName__ | 1.94.1_0
+[Edge] EXT | Edge relevant text changes | 1.2.1_0
+[Edge] EXT | __MSG_EXTENSION_TITLE__ | 2.10.5_0
+[Edge] EXT | __MSG_ExtensionName__ | 2.12.120.1_0
+[Edge] EXT | __MSG_extName__ | 6.3.16_0
+[Edge] EXT | VPN for Chrome: Get a VPN proxy with NordVPN | 4.15.1_0
+[Edge] EXT | __MSG_extName__ | 1.90.1_0
+[Edge] EXT | Edge relevant text changes | 1.2.1_0
+[Edge] EXT | __MSG_EXTENSION_TITLE__ | 2.8.1_0
+[Edge] EXT | __MSG_ExtensionName__ | 2.12.120.1_0
+[Edge] EXT | __MSG_extName__ | 6.3.16_0
+[Edge] EXT | VPN for Chrome: Get a VPN proxy with NordVPN | 4.15.1_0
+[Edge] EXT | __MSG_extName__ | 1.91.1_0
+[Edge] EXT | Edge relevant text changes | 1.2.1_0
+[Edge] EXT | __MSG_full_name__ | 2.0.4_0
+[Edge] EXT | __MSG_ExtensionName__ | 2.11.123.1_0
+[Edge] EXT | __MSG_extName__ | 1.90.1_0
+[Edge] EXT | Edge relevant text changes | 1.2.1_0
+[Opera] EXT | Rich Hints Agent | 1.1.3_0
+[Opera] EXT | Opera Wallet | 1.19.13_0
+[Opera] EXT | Aria | 6.12.0.4_0
+[Opera] EXT | __MSG_full_name__ | 2.0.4_0
+
+────────────────────────────────────────────────────────────
+  10. WINDOWS STORED CREDENTIALS
+────────────────────────────────────────────────────────────
+
+Currently stored credentials:
+
+    Target: MicrosoftAccount:target=SSO_POP_User:user=bryansikawa230@gmail.com
+    Type: Generic 
+    User: bryansikawa230@gmail.com
+    Saved for this logon only
+    
+    Target: MicrosoftAccount:target=SSO_POP_User:user=Prosperityemmz@gmail.com
+    Type: Generic 
+    User: Prosperityemmz@gmail.com
+    Saved for this logon only
+    
+    Target: MicrosoftAccount:target=SSO_POP_Device
+    Type: Generic 
+    User: 02qtulbzjjqhfcxg
+    Saved for this logon only
+    
+    Target: LegacyGeneric:target=gemini:antigravity
+    Type: Generic 
+    User: antigravity
+    Local machine persistence
+    
+    Target: LegacyGeneric:target=MicrosoftAccount:user=jafarishija18@gmail.com
+    Type: Generic 
+    User: jafarishija18@gmail.com
+    Local machine persistence
+    
+    Target: LegacyGeneric:target=eos-sdk:prod-fn:0
+    Type: Generic 
+    Local machine persistence
+    
+    Target: LegacyGeneric:target=https://www.roblox.com:RobloxStudioAuthhasMigratedToMultiUser2
+    Type: Generic 
+    Local machine persistence
+    
+    Target: LegacyGeneric:target=company.thebrowser.windows.BrowserWin.bcny-arc-server.firebase.auth/Arc[0]
+    Type: Generic 
+    Local machine persistence
+    
+    Target: LegacyGeneric:target=https://www.roblox.com:RobloxStudioAuthuserid
+    Type: Generic 
+    Local machine persistence
+    
+    Target: LegacyGeneric:target=WindowsLive:(token):name=bryansikawa230@gmail.com;serviceuri=scope=service::user.auth.xboxlive.com::mbi_ssl
+    Type: Generic 
+    User: bryansikawa230@gmail.com
+    Local machine persistence
+    
+    Target: LegacyGeneric:target=company.thebrowser.windows.BrowserWin.bcny-arc-server.firebase.auth/Arc[1]
+    Type: Generic 
+    Local machine persistence
+    
+    Target: LegacyGeneric:target=https://www.roblox.com:RobloxStudioAuthaccessToken10894261750
+    Type: Generic 
+    Local machine persistence
+    
+    Target: LegacyGeneric:target=https://www.roblox.com:RobloxStudioAuthexpiresAtSecSinceEpoch10894261750
+    Type: Generic 
+    Local machine persistence
+    
+    Target: LegacyGeneric:target=https://www.roblox.com:RobloxStudioAuthoauth2RefreshToken10894261750
+    Type: Generic 
+    Local machine persistence
+    
+    Target: LegacyGeneric:target=MicrosoftAccount:user=bryansikawa230@gmail.com
+    Type: Generic 
+    User: bryansikawa230@gmail.com
+    Local machine persistence
+    
+    Target: WindowsLive:target=virtualapp/didlogical
+    Type: Generic 
+    User: 02qtulbzjjqhfcxg
+    Local machine persistence
+    
+    Target: LegacyGeneric:target=Firefox Encrypted Storage
+    Type: Generic 
+    Local machine persistence
+    
+    Target: LegacyGeneric:target=Olk/PushNotificationsKey
+    Type: Generic 
+    User: Olk/PushNotificationsKey
+    Local machine persistence
+    
+    Target: LegacyGeneric:target=MicrosoftAccount:user=prosperityemmz@gmail.com
+    Type: Generic 
+    User: Prosperityemmz@gmail.com
+    Local machine persistence
+    
+    Target: Domain:target=Server1
+    Type: Domain Password
+    User: Server1
+    
+
+
+============================================================
+                  END OF REPORT
+============================================================
