@@ -1,0 +1,219 @@
+============================================================
+                  COMPLETE SYSTEM REPORT
+============================================================
+  PC:          SC-LAB1-PC33
+  User:        STUDENT
+  External IP: 41.59.97.138
+  Local IP:    192.168.88.183
+  MAC:         6C-3C-8C-0C-83-82
+  AV:          Windows Defender
+  OS:          Microsoft Windows 11 Pro
+  Time:        2026-07-28 12:00:26
+============================================================
+
+────────────────────────────────────────────────────────────
+  1. PERSISTENCE
+────────────────────────────────────────────────────────────
+[+] AppData copy
+[+] Registry Run
+[+] Registry RunOnce
+[+] Startup folder
+[+] SchTask
+[+] Dropped: C:\Users\STUDENT\AppData\Local\wlms.exe
+
+────────────────────────────────────────────────────────────
+  2. WIFI NETWORKS
+────────────────────────────────────────────────────────────
+[WiFi] SSID: AS_MAIN_PARADE | Pass: Science123. | Auth: WPA2-Personal
+[WiFi] SSID: COMPUTER LAB 1 | Pass: [Open/Unknown] | Auth: Open
+[WiFi] SSID: DIRECT-8B-EPSON-1628E4 | Pass: 51671388 | Auth: WPA2-Personal
+
+────────────────────────────────────────────────────────────
+  4. SAVED PASSWORDS
+────────────────────────────────────────────────────────────
+[Edge] PWD | https://www.skillsboxonline.com/25c94cab-3ea8-4762-b286-d5019d73ed35/b2c_1a_signin_combinedflow/oauth2/v2.0/authorize | memrutiloishiye@gmail.com | 
+[Edge] PWD | https://accounts.google.com/v3/signin/challenge/pwd | black.ranger5578@gmail.com | 
+[Edge] PWD | https://accounts.google.com/v3/signin/challenge/pwd | gracekivike2009@gmail.com | 
+
+────────────────────────────────────────────────────────────
+  5. COOKIES (HIGH-VALUE SITES)
+────────────────────────────────────────────────────────────
+  (none found)
+
+────────────────────────────────────────────────────────────
+  6. AUTOFILL — NAMES, EMAILS, PHONES, ADDRESSES, CARDS
+────────────────────────────────────────────────────────────
+[Chrome] AUTOFILL | email = cent.j.9901@gmail.com
+[Chrome] AUTOFILL | identifier = frankkimu13@gmail.com
+[Chrome] AUTOFILL | identifier = kalvinjames@gmail.com
+[Chrome] AUTOFILL | identifier = kj56qw56@gmail.com
+[Chrome] AUTOFILL | identifier = millanzikenny@gmail.com
+[Edge] AUTOFILL | Email Address = memrutiloishiye@gmail.com
+[Edge] AUTOFILL | Text_Entry_Box_121_inputField = sallyryan787@gmail.com
+[Edge] AUTOFILL | Txtent3_SendEmail_49_inputField = iankayic@gmail.com
+[Edge] AUTOFILL | Txtent3_SendEmail_87_inputField = johnbrownely21@.com
+[Edge] AUTOFILL | Txtent3_SendEmail_87_inputField = johnbrownely21@gmail.com
+[Edge] AUTOFILL | Txtent4_BCC_60_inputField = james@marketing.ie
+[Edge] AUTOFILL | email = memrutiloishiye@gmail.com
+[Edge] AUTOFILL | email = mr.jezzx@gmail.com
+[Edge] AUTOFILL | email-inp = memrutiloishiye@gmail.com
+[Edge] AUTOFILL | identifier = black.ranger5578@gmail.com
+[Edge] AUTOFILL | identifier = gracekivike2009@gmail.com
+[Edge] AUTOFILL | account_name_text_field = Billjr91@icloud.com
+[Edge] AUTOFILL | email = the.oz.just@gmail.com
+[Edge] AUTOFILL | identifier = the.oz.just@gmail.com
+
+────────────────────────────────────────────────────────────
+  7. BROWSING HISTORY (RECENT 30 PER PROFILE)
+────────────────────────────────────────────────────────────
+[Chrome] HIST | 2026-07-25 15:12:11 | [5x] https://lovable.dev/ | AI App Builder | Vibe Code Apps & Websites with AI, Fast
+[Chrome] HIST | 2026-07-25 15:12:00 | [5x] https://lovable.dev/dashboard | Home | Lovable
+[Chrome] HIST | 2026-07-25 15:11:57 | [1x] https://accounts.google.com/o/oauth2/auth?response_type=code&client_id=288002387414-hv85cg8e4busep33og37amldeie7vs51.apps.googleusercontent.com&redirect_uri=https%3A%2F%2Fauth.lovable.dev%2F__%2Fauth%2Fhandler&state=AMbdmDnH85cIgXbEg_SptgLHH4m6KYraRmDM-FNiPeGWGaS2E5hoEqtO4VjHyn6qeNm0a6IVymqMKkF5BLHCu1xKEqbHyj1ii1rqfRTb83iIXt0OUnlVnVO2Cm7uqsg7m5GtCc7tCivH-vl5aazBrilDbvW5w4QbuH4ay_cNYRwViuhf5LX3nsyhg4gMocjAWesTA88RMnu8ZMQi_eX8BMIbnIA82q1ZX_6i-RRQjC2JPyNaZQM9bLQrvjkLd9K-bXQpMeWdojQKlc0koVE5KybQPP1qU2QU-wtigHOSP02VJ9mybwWGs9NA4w&scope=openid%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email%20profile%20email&context_uri=https%3A%2F%2Flovable.dev | ?
+[Chrome] HIST | 2026-07-25 15:11:57 | [1x] https://auth.lovable.dev/__/auth/handler?state=AMbdmDnH85cIgXbEg_SptgLHH4m6KYraRmDM-FNiPeGWGaS2E5hoEqtO4VjHyn6qeNm0a6IVymqMKkF5BLHCu1xKEqbHyj1ii1rqfRTb83iIXt0OUnlVnVO2Cm7uqsg7m5GtCc7tCivH-vl5aazBrilDbvW5w4QbuH4ay_cNYRwViuhf5LX3nsyhg4gMocjAWesTA88RMnu8ZMQi_eX8BMIbnIA82q1ZX_6i-RRQjC2JPyNaZQM9bLQrvjkLd9K-bXQpMeWdojQKlc0koVE5KybQPP1qU2QU-wtigHOSP02VJ9mybwWGs9NA4w&iss=https%3A%2F%2Faccounts.google.com&code=4%2F0AXEQxIDrQ2wMB9t_NOWwiJdvH-BQLz31XUwp1toXLql5DrO7DahMgNEIUnl4p1K2cJi_vA&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid&authuser=0&prompt=none | ?
+[Chrome] HIST | 2026-07-25 15:11:55 | [1x] https://auth.lovable.dev/__/auth/handler?apiKey=AIzaSyBQNjlw9Vp4tP4VVeANzyPJnqbG2wLbYPw&appName=%5BDEFAULT%5D&authType=signInViaPopup&redirectUrl=https%3A%2F%2Flovable.dev%2F&v=11.10.0&eventId=2602059024&providerId=google.com&scopes=profile%2Cemail | ?
+[Chrome] HIST | 2026-07-25 15:11:34 | [2x] https://www.google.com/search?q=lovable&sca_esv=b6aeedf00edc55b8&sxsrf=APpeQnsyapLhJgYEeChSvegIHCbQbJXtyA%3A1784981396790&source=hp&ei=lKdkau3iLd_f1sQP0re-kQQ&iflsig=ABILxe8AAAAAamS1pNim-x-u8DkVh4YBmRkCjeSb1R1h&oq=lovab&gs_lp=Egdnd3Mtd2l6IgVsb3ZhYioCCAAyBBAjGCcyFhAuGIAEGIoFGEMYsQMYgwEYxwEY0QMyDRAAGIAEGIoFGEMYsQMyEBAAGIAEGIoFGEMYsQMYgwEyChAAGIAEGIoFGEMyChAAGIAEGIoFGEMyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAESLQpUABYjgxwAHgAkAEAmAH-AaABkAmqAQMyLTW4AQHIAQD4AQGYAgWgAqwJwgIQEC4YgAQYigUYQxjHARjRA8ICCxAuGIAEGMcBGNEDwgIEEAAYA5gDAJIHAzItNaAHhSiyBwMyLTW4B6wJwgcFMC4yLjPIBxCACAE&sclient=gws-wiz | lovable - Google Search
+[Chrome] HIST | 2026-07-25 15:11:30 | [2x] https://lovable.dev/login?redirect=%2Fdashboard | Login
+[Chrome] HIST | 2026-07-25 15:10:49 | [1x] https://lovable.dev/settings/workspace | Workspace settings | Lovable
+[Chrome] HIST | 2026-07-25 15:10:45 | [1x] https://lovable.dev/settings/billing#plans | Plans and credits | Lovable
+[Chrome] HIST | 2026-07-25 15:09:56 | [1x] https://accounts.youtube.com/accounts/SetSID?ssdc=1&sidt=ALWU2cuDU6RtzXcBwijBJH4Ey7ahBJtLbPhpPM1UsWGHNQ6rNCBtya6rAD7ZwlYkyM9eqCwKAm6vpbclCNzoSbY48wr1%2BekZPvtkv9bPjRo3bIzek4X3zCagOsnqr3C0UrzF2ZxV6ZXGrjNiLgxZcBCxX93qog3XKQsvYUDrwu0mw%2BnUXWaDUNxoSzj2kyEmZcDXFa5GO2WeRbW1w8dXC0oNwH4Vk1Xtp2z11dNC0sJvFE6PfOCejIQPTCkGnml1kqVWKE4w2BjRNCk9YoGvEf4ZUZ8x4KGvYoU7FRYRX/17SwGOiuxKZDhjUy0TSHP9PG3SxOsD%2BkF9N29HGqeESKbNj0Y61PBYNhPj0la9flfrqQ%2BwMh5DI3S6iSqnwn6XhHIEfZf4Ktc4pqSdkpCa2vDpXG9/0gX5ijK04laZVJLK0dTmBVAjrhbgiv2LpFKdMRpbhyK/3MehmwIKinDHFJt1jse7ZBbR6CSjBGU5ysxx/MSd3O5O5TOFf4DqMb0lXOgTHcTI7ysLa%2BRErWPvksFRjtw5N8%2BoGluOAD3NEb1IhgeIs1M0eG9dNBda59iS/xR3fujvIZfIy23ntd%2B0RdB9zSe8cKva%2BAdJ1iktEEgqanezePzIap9heyUXzPNVSVy5LmmvNuig9GcUlfhgEelizc6PXmWCBwPQRLgxLqhwrJ3c5ribxYHQzoBfXyf8gdbfLnvChGMkRD75YeumsZxNW%2BT5aRBUq91hpf/j8kci3secx4ej7Pcdwf4MqsqBH0J0oOasQ7y3rhlYfnFVVd415fIf6zoc5w%3D%3D&continue=https://accounts.google.com/signin/chrome/sync/finish?est%3DABkgPKp--WJnGMNodkDSv3CZfWFUkL3uYDXLd5q7Gu-Zi6ElWNIonO07lHevyTpmixhNRnIfekYC_46LWZPMMPU%26continue%3Dhttps://www.google.com/%26authuser%3D1&dbus=TZ | Google
+[Chrome] HIST | 2026-07-25 15:09:56 | [1x] https://accounts.google.co.tz/accounts/SetSID?ssdc=1&sidt=ALWU2cvxt5zcw94%2BN5IfNt1XSWwDjtMwA7srLRZBFMgmVZAXWWLqKIh4h08jikx11VJuEavSdZru5r0xGvrvrf5ROz/r7OrcFZGDT84oRh66FdouW2ABfNtC8yUo/6W4IzSBB8V%2Bj25yoUXybBiP0C9ZhM0BQchR6qyH1wj9KdRHNiAGmkoBHfX849BIdVHLGip7zSrCaZEVzgO%2Bw7bjVXhnCe2BkgbiTX/K/81dZJJHpHAo8SKp45hoePBEO0bqytbX15tGzEJ%2Bw9kLrm3EQ1Fmfo2Q3a9eahz/7TT8MJSoHCtycJEoo7rXdU45gKB0WS8kQ1ezEQByU3wuTlrg8WibE2NBx9WHvqWlX/hcd3lchlVOvFiJ8H5ksBdPzXZAoVmwHYRrqQAnYkv4iW1cNKh1cBDBju5CB6qSyZiRhSI2wmzJZqtXqSuFLuvoFt8DdNXvWufuFz/nt4yrv3XyA5vKgFpqBqQlRa4evpGubaUgQzQUbx1fgfiD3GA2OPaeXrTzUbvXDJBQF20jn2xPNcEUb9uzcX/lBLXw3eKe0dimF8K4EHIAc94/OIYpY6iOxVPTFwP2zfRQ2rcxzp/VDMcKWVBO/BeL7i8rEwxAtT%2BlMjg4BQKNG%2BmBYE2TtugENSKumNdxROmhnnBzeMNcLkCzQMteedftIVB67E2D9Y9Of0Ds2350QfiyhiRQxeu4ZX/T5e8senohIv3m%2Baez90kUzJsZNSGsVlP5vPgYK1foLAFrO4qPlixrJL1RVChB6ZdVgccKlOtyl%2BQWAygUz1Vs%2Bvv6afrVmQ%3D%3D&continue=https://accounts.google.com/signin/chrome/sync/finish?est%3DABkgPKp--WJnGMNodkDSv3CZfWFUkL3uYDXLd5q7Gu-Zi6ElWNIonO07lHevyTpmixhNRnIfekYC_46LWZPMMPU%26continue%3Dhttps://www.google.com/%26authuser%3D1 | Google
+[Chrome] HIST | 2026-07-25 15:09:56 | [1x] https://accounts.google.com/signin/chrome/sync/finish?est=ABkgPKp--WJnGMNodkDSv3CZfWFUkL3uYDXLd5q7Gu-Zi6ElWNIonO07lHevyTpmixhNRnIfekYC_46LWZPMMPU&continue=https://www.google.com/&authuser=1 | Google
+[Chrome] HIST | 2026-07-25 15:09:56 | [1x] https://www.google.com/ | Google
+[Chrome] HIST | 2026-07-25 15:09:38 | [1x] https://accounts.google.com/v3/signin/challenge/pwd?TL=AE6FvybFxW9ERS3ovxI5wQRiU3zc_8bsFFJ1K9laNA0r9UKKWbkWvvAYoavrxXhp&checkConnection=youtube%3A3524&checkedDomains=youtube&cid=2&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Fchrome%2Fsync%2Ffinish%3Fest%3DABkgPKp--WJnGMNodkDSv3CZfWFUkL3uYDXLd5q7Gu-Zi6ElWNIonO07lHevyTpmixhNRnIfekYC_46LWZPMMPU%26continue%3Dhttps%3A%2F%2Fwww.google.com%2F&dsh=S-804140004%3A1784981346419545&flow=history_opt_in&flowName=GlifDesktopChromeSync&pstMsg=1&theme=mn | Welcome
+[Chrome] HIST | 2026-07-25 15:09:10 | [1x] https://accounts.google.com/v3/signin/identifier?continue=https://accounts.google.com/signin/chrome/sync/finish?est%3DABkgPKp--WJnGMNodkDSv3CZfWFUkL3uYDXLd5q7Gu-Zi6ElWNIonO07lHevyTpmixhNRnIfekYC_46LWZPMMPU%26continue%3Dhttps://www.google.com/&flow=history_opt_in&ssp=1&theme=mn&flowName=GlifDesktopChromeSync&dsh=S-804140004:1784981346419545 | Sign in – Google accounts
+[Chrome] HIST | 2026-07-25 15:06:38 | [1x] https://lovable.dev/auth/post-login?redirect=%2Fdashboard | Lovable
+[Chrome] HIST | 2026-07-25 15:05:46 | [1x] https://lovable.dev/getting-started?redirect=%2Fdashboard | Lovable
+[Chrome] HIST | 2026-07-25 15:05:35 | [1x] https://accounts.google.com/signin/oauth/consent?as=S-30493650%3A1784981104747726&authuser=0&client_id=288002387414-hv85cg8e4busep33og37amldeie7vs51.apps.googleusercontent.com&flowName=GeneralOAuthFlow&part=AJi8hAM4xXqv08VNa2xhf2DRVsGlGnhrsfWPNqk72ZDewXpRyPv1v4JXRQxrVAckKCK6AJ_sYbP9qUor1XwPv2iuOR_1aZK-GvIcedp3ki0OpAXdGAJYUlpmzK2OAb04nOTTPP8tqeBzk1OfPzTe4TzumD_xqI23j6jBSvgAh1AcH_XlyeBpFV-aq32stHaIZrVPtng1fcd_iUZcS3yONxMbjJG6KTjVLryRgH-2dDHyxQqlU78CNPkaEjmi37Jz7a9BJKuw0EdAsXvYkE73mkCfRa5XpL00srjy6NhWGYo_jhmm1YgA0h1Qs2yBJjJ1dme5zFCNOqy3dloKRJFJvxgThy-OLKf3VCyPHgwMT-VGr9I665aDzlzYPiZFXidSJ-YSd75FXAxENYQ-GdlYHdqcuJ2FigaOi_v0zIyXPq9Cgoerp2I14ZRBtsk4XUmIH72Ehc5Nuq19An0Bf2RTazgjGgoL9DxAQoFGpED8H36HjDvUm4lhFeJ5zzI_mwVppGZdbReK9zl-QyfBkaACNPVkNugpQ_tYSzIaxgWmniBS_nBebMJ_6juZUUpIzagIwET8b7uhx5QwW8dy_1EWwUrQSrHvI6m5BtPU7S5kSNzFG9eXrEf3iCXAzGLzrGtMUe97QXG5tTAy2svZYS_q804HPJdEM9R60d-Z8iEm5Ss-jZ2i3sB0HYLQxBO5ZnUrr8hvfcjjCnYXsMwzyr92OqpbK9jJw0ttqTsn69UO9sA_VcOdF7o3AH9p3YEjTNTIZvZL1HsC2diVMh9KgspuxBWOUjCBXF_pAK-G2UYLkNBbi3QHmhB3kD4QdLvk0SoR5O3mzhK7lCCOtW3RLxULz7KMSmGnOX506g&rapt=AEjHL4M8ogrutT_KEzF9yKDrHT9ckSuetAwpsGohTVLXB-nMFc6VPODzBs1zluB163i3Pn_RSUFamhNnHLtUrj3RPFyiB_rRFWbP2qJHCz-2H8oY0NY44fo&xsrf=AGiTF90yI7Lo2m8ZaQkUr-trzleZ%3A1784981115928 | ?
+[Chrome] HIST | 2026-07-25 15:05:35 | [1x] https://auth.lovable.dev/__/auth/handler?state=AMbdmDlbVGk30O_ercu6YwoCJi0n1kASWi_VQwXRC4TU3KoF2hla_nUXUXwSY1wuL-EhBLxrmcGxOy5ti-bOkAqXODZybnfEFEJyhRKOqxXfuG3yfdESNWpGezbDtOvoAYVKKd7Hd6Q82dLYXJqDAOFzCrDIL438H9LHZIKXbFmrf-jlcjsygLy-df0PTnRrkCEzXsuXPd8XNPCkXdA_pd6Jtn-2TyvCSolZGXQviUhWV5_5b1SLphOJd0nWJr2tmoZbnLuzB96Yq19kLHkytqPSfysmU-8Oq7assv03Wls0E2KwUT2cnGLPGg&iss=https%3A%2F%2Faccounts.google.com&code=4%2F0AXEQxIB8ty-NO--AmOsrQ7pn972heXD7Mvt_L3FETyyOqG-kSB74dh3Tz3jPH-Jr60vjNg&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid&authuser=0&prompt=consent | ?
+[Chrome] HIST | 2026-07-25 15:05:15 | [1x] https://accounts.google.com/ServiceLogin?app_domain=https%3A%2F%2Fauth.lovable.dev&authuser=0&client_id=288002387414-hv85cg8e4busep33og37amldeie7vs51.apps.googleusercontent.com&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAPFeBBiqbn__9iKSW-0hmN7ciz3ModGa_wLkR8G-o8x14U5SswtxL900FpV-OKn4_DgRot9Wn3E0WKcchaZ-n_g-gwnqKc3SBR6ygzAn2EjS75KTF0YkfiNccUCfEK1YDRfkkJZspRL7eRylaUm2-C5toyCsufuj5gO9j5EzmF-ctkaOK0m87EzJGSv67ZphtG97R086T9YFYiF6Qc1edu4-2TCkxX3qv9U72wo3KVmIOfpw-1P6-kCQ3JpYeyKrgjDEI3d6IWqvjobj9TRyALG-2oxtzgZh-2IdkNI412Dlr49Ksu_wv9yPMeq8Hjs6xsuOdwmrLXMS1hXHCIitRp1RurTOwIx2mmEsmS72erjA01afBpW2-ZrKKbqWyXFX9SpRqLOEugDz5hk3fRmFTBOUbLYN-aCwNu2EnXfhWZ-aSd1bnTpqSKJz3ve5esVZga8NvdfMbR4nfjdXydsyy6IuWCsnQ%26flowName%3DGeneralOAuthFlow%26as%3DS-30493650%253A1784981104747726%26client_id%3D288002387414-hv85cg8e4busep33og37amldeie7vs51.apps.googleusercontent.com%26requestPath%3D%252Fsignin%252Foauth%252Fconsent%23&dsh=S-30493650%3A1784981104747726&flowName=GeneralOAuthFlow&o2v=1&opparams=%253Fcontext_uri%253Dhttps%25253A%25252F%25252Flovable.dev&passive=true&redirect_uri=https%3A%2F%2Fauth.lovable.dev%2F__%2Fauth%2Fhandler&response_type=code&sacu=1&scope=openid%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email%20profile%20email&service=lso&state=AMbdmDlbVGk30O_ercu6YwoCJi0n1kASWi_VQwXRC4TU3KoF2hla_nUXUXwSY1wuL-EhBLxrmcGxOy5ti-bOkAqXODZybnfEFEJyhRKOqxXfuG3yfdESNWpGezbDtOvoAYVKKd7Hd6Q82dLYXJqDAOFzCrDIL438H9LHZIKXbFmrf-jlcjsygLy-df0PTnRrkCEzXsuXPd8XNPCkXdA_pd6Jtn-2TyvCSolZGXQviUhWV5_5b1SLphOJd0nWJr2tmoZbnLuzB96Yq19kLHkytqPSfysmU-8Oq7assv03Wls0E2KwUT2cnGLPGg | Sign in – Google accounts
+[Chrome] HIST | 2026-07-25 15:05:15 | [1x] https://accounts.google.com/signin/oauth/consent?authuser=0&part=AJi8hAPFeBBiqbn__9iKSW-0hmN7ciz3ModGa_wLkR8G-o8x14U5SswtxL900FpV-OKn4_DgRot9Wn3E0WKcchaZ-n_g-gwnqKc3SBR6ygzAn2EjS75KTF0YkfiNccUCfEK1YDRfkkJZspRL7eRylaUm2-C5toyCsufuj5gO9j5EzmF-ctkaOK0m87EzJGSv67ZphtG97R086T9YFYiF6Qc1edu4-2TCkxX3qv9U72wo3KVmIOfpw-1P6-kCQ3JpYeyKrgjDEI3d6IWqvjobj9TRyALG-2oxtzgZh-2IdkNI412Dlr49Ksu_wv9yPMeq8Hjs6xsuOdwmrLXMS1hXHCIitRp1RurTOwIx2mmEsmS72erjA01afBpW2-ZrKKbqWyXFX9SpRqLOEugDz5hk3fRmFTBOUbLYN-aCwNu2EnXfhWZ-aSd1bnTpqSKJz3ve5esVZga8NvdfMbR4nfjdXydsyy6IuWCsnQ&flowName=GeneralOAuthFlow&as=S-30493650:1784981104747726&client_id=288002387414-hv85cg8e4busep33og37amldeie7vs51.apps.googleusercontent.com&requestPath=/signin/oauth/consent&pli=1# | Sign in – Google accounts
+[Chrome] HIST | 2026-07-25 15:05:15 | [1x] https://accounts.google.com/ServiceLogin?rart=ANgoxccgyiZw2Q7JxznBZiQw-KE02i1y3ImzxpoYVmGfXxCWN9DE16FR6bQusz8DRFfxE_BQVVfMrCkbYaqg2fOXJ5HqoOQC3uRtuuaVxxrpY4k3h7r40mk&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3D0%26part%3DAJi8hAPFeBBiqbn__9iKSW-0hmN7ciz3ModGa_wLkR8G-o8x14U5SswtxL900FpV-OKn4_DgRot9Wn3E0WKcchaZ-n_g-gwnqKc3SBR6ygzAn2EjS75KTF0YkfiNccUCfEK1YDRfkkJZspRL7eRylaUm2-C5toyCsufuj5gO9j5EzmF-ctkaOK0m87EzJGSv67ZphtG97R086T9YFYiF6Qc1edu4-2TCkxX3qv9U72wo3KVmIOfpw-1P6-kCQ3JpYeyKrgjDEI3d6IWqvjobj9TRyALG-2oxtzgZh-2IdkNI412Dlr49Ksu_wv9yPMeq8Hjs6xsuOdwmrLXMS1hXHCIitRp1RurTOwIx2mmEsmS72erjA01afBpW2-ZrKKbqWyXFX9SpRqLOEugDz5hk3fRmFTBOUbLYN-aCwNu2EnXfhWZ-aSd1bnTpqSKJz3ve5esVZga8NvdfMbR4nfjdXydsyy6IuWCsnQ%26flowName%3DGeneralOAuthFlow%26as%3DS-30493650%253A1784981104747726%26client_id%3D288002387414-hv85cg8e4busep33og37amldeie7vs51.apps.googleusercontent.com%26requestPath%3D%252Fsignin%252Foauth%252Fconsent%26pli%3D1&authuser=0 | Sign in – Google accounts
+[Chrome] HIST | 2026-07-25 15:05:15 | [1x] https://accounts.google.com/InteractiveLogin?authuser=0&continue=https://accounts.google.com/signin/oauth/consent?authuser%3D0%26part%3DAJi8hAPFeBBiqbn__9iKSW-0hmN7ciz3ModGa_wLkR8G-o8x14U5SswtxL900FpV-OKn4_DgRot9Wn3E0WKcchaZ-n_g-gwnqKc3SBR6ygzAn2EjS75KTF0YkfiNccUCfEK1YDRfkkJZspRL7eRylaUm2-C5toyCsufuj5gO9j5EzmF-ctkaOK0m87EzJGSv67ZphtG97R086T9YFYiF6Qc1edu4-2TCkxX3qv9U72wo3KVmIOfpw-1P6-kCQ3JpYeyKrgjDEI3d6IWqvjobj9TRyALG-2oxtzgZh-2IdkNI412Dlr49Ksu_wv9yPMeq8Hjs6xsuOdwmrLXMS1hXHCIitRp1RurTOwIx2mmEsmS72erjA01afBpW2-ZrKKbqWyXFX9SpRqLOEugDz5hk3fRmFTBOUbLYN-aCwNu2EnXfhWZ-aSd1bnTpqSKJz3ve5esVZga8NvdfMbR4nfjdXydsyy6IuWCsnQ%26flowName%3DGeneralOAuthFlow%26as%3DS-30493650%253A1784981104747726%26client_id%3D288002387414-hv85cg8e4busep33og37amldeie7vs51.apps.googleusercontent.com%26requestPath%3D%252Fsignin%252Foauth%252Fconsent%26pli%3D1&rart=ANgoxccgyiZw2Q7JxznBZiQw-KE02i1y3ImzxpoYVmGfXxCWN9DE16FR6bQusz8DRFfxE_BQVVfMrCkbYaqg2fOXJ5HqoOQC3uRtuuaVxxrpY4k3h7r40mk&dsh=S-2079937836:1784981114849875 | Sign in – Google accounts
+[Chrome] HIST | 2026-07-25 15:05:15 | [1x] https://accounts.google.com/signin/oauth/consent?authuser=0&part=AJi8hAPFeBBiqbn__9iKSW-0hmN7ciz3ModGa_wLkR8G-o8x14U5SswtxL900FpV-OKn4_DgRot9Wn3E0WKcchaZ-n_g-gwnqKc3SBR6ygzAn2EjS75KTF0YkfiNccUCfEK1YDRfkkJZspRL7eRylaUm2-C5toyCsufuj5gO9j5EzmF-ctkaOK0m87EzJGSv67ZphtG97R086T9YFYiF6Qc1edu4-2TCkxX3qv9U72wo3KVmIOfpw-1P6-kCQ3JpYeyKrgjDEI3d6IWqvjobj9TRyALG-2oxtzgZh-2IdkNI412Dlr49Ksu_wv9yPMeq8Hjs6xsuOdwmrLXMS1hXHCIitRp1RurTOwIx2mmEsmS72erjA01afBpW2-ZrKKbqWyXFX9SpRqLOEugDz5hk3fRmFTBOUbLYN-aCwNu2EnXfhWZ-aSd1bnTpqSKJz3ve5esVZga8NvdfMbR4nfjdXydsyy6IuWCsnQ&flowName=GeneralOAuthFlow&as=S-30493650%3A1784981104747726&client_id=288002387414-hv85cg8e4busep33og37amldeie7vs51.apps.googleusercontent.com&requestPath=%2Fsignin%2Foauth%2Fconsent&pli=1&rapt=AEjHL4M8ogrutT_KEzF9yKDrHT9ckSuetAwpsGohTVLXB-nMFc6VPODzBs1zluB163i3Pn_RSUFamhNnHLtUrj3RPFyiB_rRFWbP2qJHCz-2H8oY0NY44fo | Sign in – Google accounts
+[Chrome] HIST | 2026-07-25 15:05:15 | [1x] https://accounts.google.com/signin/oauth/id?authuser=0&part=AJi8hANElnPkbIvqOAl2SmcXWEMXHHHcB2u92a-hJRr-bUsPVrdJyMVFxValjDbjj7TC6M4Bd1TJP_V8sU-AUbSk-Pb-A6RZhhepxUrowycXbw0LMT5AG-hNPMaxUL6iKdItzpTgXXx1UWxdd3mIX_1qnq1TMzgL--WfKe-bA1EUhiFHmT4zh2rh9yVtbKW77TIUAIYH6aAxF7Ou1PNw0XS_-As6jyFftseWGQ-JoaKWOgWCBe8pe7EHfBnUjYEjEzFJ5XPrhImQJ-KI2WOoF7SgcuKd4bSxgDLqlrPex_VNJiG8_Zbxa_gl5dzA2pDDOA6Bb_iYuxfJGfBhT7F3JKWqI1ttJXhf0jUedPG5WOtUK0mHaObUr-3qC1qSyFfLUMsumpX0gvyEU5MsoL-1oPZlS2Hg3cTuUVv2wHgF7RQgHqLwiTs_nj8mlSw2h0NfeBzOAyRHvuJQFTIqlaj3SlmwLwiAS9hmmcFwEXm1vR5qtpFBsUhtUL7kbhduZeDwOXnx3tjJe2_izD7OryBGaluSb3eNIKSurFaV7SnnhU-FlW9QIhCn7OOj2Sc0ZiyIjpr-G3HJfEhkPN5jQ3gNChH7TixbD7CapT6EsIzDIKpG7zdMkBJLbSPTTSutqV-drwbkviA07r0y9tUvz-o8plJzW7WoXQ4iUL36POTAEVLPwx97D6DAlRK_JM0YoKHlCoCFiNGmTTgL203TIgc3wuBYyEYx1eZpY_tO7N4F6Rm9RVmVLoxRc-1KzYw8REJTuVEsIpRcqITUMysDr-wOe5kApOKpf_3a-u_4yp05lFkFIeBshzWuu5_OEPWAYG6hQgI3EJRhDOc0KWR3CFFVQuYmKMWtcQErIg&flowName=GeneralOAuthFlow&as=S-30493650%3A1784981104747726&client_id=288002387414-hv85cg8e4busep33og37amldeie7vs51.apps.googleusercontent.com&rapt=AEjHL4M8ogrutT_KEzF9yKDrHT9ckSuetAwpsGohTVLXB-nMFc6VPODzBs1zluB163i3Pn_RSUFamhNnHLtUrj3RPFyiB_rRFWbP2qJHCz-2H8oY0NY44fo# | Sign in – Google accounts
+[Chrome] HIST | 2026-07-25 15:05:04 | [1x] https://accounts.google.com/o/oauth2/auth?response_type=code&client_id=288002387414-hv85cg8e4busep33og37amldeie7vs51.apps.googleusercontent.com&redirect_uri=https%3A%2F%2Fauth.lovable.dev%2F__%2Fauth%2Fhandler&state=AMbdmDlbVGk30O_ercu6YwoCJi0n1kASWi_VQwXRC4TU3KoF2hla_nUXUXwSY1wuL-EhBLxrmcGxOy5ti-bOkAqXODZybnfEFEJyhRKOqxXfuG3yfdESNWpGezbDtOvoAYVKKd7Hd6Q82dLYXJqDAOFzCrDIL438H9LHZIKXbFmrf-jlcjsygLy-df0PTnRrkCEzXsuXPd8XNPCkXdA_pd6Jtn-2TyvCSolZGXQviUhWV5_5b1SLphOJd0nWJr2tmoZbnLuzB96Yq19kLHkytqPSfysmU-8Oq7assv03Wls0E2KwUT2cnGLPGg&scope=openid%20https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email%20profile%20email&context_uri=https%3A%2F%2Flovable.dev | Sign in – Google accounts
+[Chrome] HIST | 2026-07-25 15:05:04 | [1x] https://accounts.google.com/v3/signin/accountchooser?client_id=288002387414-hv85cg8e4busep33og37amldeie7vs51.apps.googleusercontent.com&context_uri=https%3A%2F%2Flovable.dev&redirect_uri=https%3A%2F%2Fauth.lovable.dev%2F__%2Fauth%2Fhandler&response_type=code&scope=openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+profile+email&state=AMbdmDlbVGk30O_ercu6YwoCJi0n1kASWi_VQwXRC4TU3KoF2hla_nUXUXwSY1wuL-EhBLxrmcGxOy5ti-bOkAqXODZybnfEFEJyhRKOqxXfuG3yfdESNWpGezbDtOvoAYVKKd7Hd6Q82dLYXJqDAOFzCrDIL438H9LHZIKXbFmrf-jlcjsygLy-df0PTnRrkCEzXsuXPd8XNPCkXdA_pd6Jtn-2TyvCSolZGXQviUhWV5_5b1SLphOJd0nWJr2tmoZbnLuzB96Yq19kLHkytqPSfysmU-8Oq7assv03Wls0E2KwUT2cnGLPGg&dsh=S-30493650%3A1784981104747726&o2v=1&service=lso&flowName=GeneralOAuthFlow&opparams=%253Fcontext_uri%253Dhttps%25253A%25252F%25252Flovable.dev&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAPFeBBiqbn__9iKSW-0hmN7ciz3ModGa_wLkR8G-o8x14U5SswtxL900FpV-OKn4_DgRot9Wn3E0WKcchaZ-n_g-gwnqKc3SBR6ygzAn2EjS75KTF0YkfiNccUCfEK1YDRfkkJZspRL7eRylaUm2-C5toyCsufuj5gO9j5EzmF-ctkaOK0m87EzJGSv67ZphtG97R086T9YFYiF6Qc1edu4-2TCkxX3qv9U72wo3KVmIOfpw-1P6-kCQ3JpYeyKrgjDEI3d6IWqvjobj9TRyALG-2oxtzgZh-2IdkNI412Dlr49Ksu_wv9yPMeq8Hjs6xsuOdwmrLXMS1hXHCIitRp1RurTOwIx2mmEsmS72erjA01afBpW2-ZrKKbqWyXFX9SpRqLOEugDz5hk3fRmFTBOUbLYN-aCwNu2EnXfhWZ-aSd1bnTpqSKJz3ve5esVZga8NvdfMbR4nfjdXydsyy6IuWCsnQ%26flowName%3DGeneralOAuthFlow%26as%3DS-30493650%253A1784981104747726%26client_id%3D288002387414-hv85cg8e4busep33og37amldeie7vs51.apps.googleusercontent.com%26requestPath%3D%252Fsignin%252Foauth%252Fconsent%23&app_domain=https%3A%2F%2Fauth.lovable.dev | Sign in – Google accounts
+[Chrome] HIST | 2026-07-25 15:05:02 | [1x] https://auth.lovable.dev/__/auth/handler?apiKey=AIzaSyBQNjlw9Vp4tP4VVeANzyPJnqbG2wLbYPw&appName=%5BDEFAULT%5D&authType=signInViaPopup&redirectUrl=https%3A%2F%2Flovable.dev%2F&v=11.10.0&eventId=7674578215&providerId=google.com&scopes=profile%2Cemail | Sign in – Google accounts
+[Chrome] HIST | 2026-07-25 15:04:18 | [1x] https://www.google.com/search?q=lovable&oq=lovable&gs_lcrp=EgZjaHJvbWUqBwgAEAAYjwIyBwgAEAAYjwIyEwgBEC4YgwEYxwEYsQMY0QMYgAQyCggCEAAYsQMYgAQyDQgDEAAYgwEYsQMYgAQyBwgEEAAYgAQyBwgFEAAYgAQyBwgGEAAYgAQyBwgHEAAYgAQyBwgIEAAYgAQyBwgJEAAYgATSAQoxMDQ5M2owajE1qAIIsAIB8QUZvIjgMzHz6w&sourceid=chrome&source=chrome.rb&ie=UTF-8 | lovable - Google Search
+[Chrome] HIST | 2026-07-22 14:24:26 | [6x] https://chatgpt.com/ | ChatGPT
+[Edge] HIST | 2026-07-28 09:44:28 | [2x] https://onecompiler.com/c#draft-wffb | C Online Compiler
+[Edge] HIST | 2026-07-28 09:44:25 | [2x] https://onecompiler.com/c | C Online Compiler
+[Edge] HIST | 2026-07-28 09:44:20 | [3x] https://onecompiler.com/ | OneCompiler - Write, run and share code online | Free online
+[Edge] HIST | 2026-07-28 09:40:26 | [2x] https://onecompiler.com/c#draft-43fr | C Online Compiler
+[Edge] HIST | 2026-07-28 09:38:05 | [2x] https://www.bing.com/search?qs=OS&pq=onecom&sk=CSYN1&sc=16-6&pglt=427&q=one+compiler&cvid=fa1cc2226b894e0f88970a12d06c6592&gs_lcrp=EgRlZGdlKgYIARAAGEAyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQABhAMgYICBAAGEDSAQg0OTE3ajBqMagCALACAA&FORM=ANSPA1&PC=U531 | one compiler - Search
+[Edge] HIST | 2026-07-28 09:38:05 | [1x] https://www.bing.com/ck/a?!&&p=5ebf652ba120c0d5446838147107fa283c56726e9d0579570ae345fb8a430f7bJmltdHM9MTc4NTExMDQwMA&ptn=3&ver=2&hsh=4&fclid=3e9653d5-1f56-65bd-3a42-457f1e8264bc&psq=one+compiler&u=a1aHR0cHM6Ly9vbmVjb21waWxlci5jb20v&ntb=1 | ?
+[Edge] HIST | 2026-07-28 09:30:17 | [7x] https://gemini.google.com/signin?continue=https%3A%2F%2Fgemini.google.com%2Fapp | Sign in - Google Accounts
+[Edge] HIST | 2026-07-28 09:30:17 | [7x] https://accounts.google.com/ServiceLogin?passive=1209600&continue=https://gemini.google.com/signin?continue%3Dhttps://gemini.google.com/app&followup=https://gemini.google.com/signin?continue%3Dhttps://gemini.google.com/app&authuser=0 | Sign in - Google Accounts
+[Edge] HIST | 2026-07-28 09:30:17 | [1x] https://accounts.google.com/InteractiveLogin?authuser=0&continue=https://gemini.google.com/signin?continue%3Dhttps://gemini.google.com/app&followup=https://gemini.google.com/signin?continue%3Dhttps://gemini.google.com/app&passive=1209600&dsh=S104667376:1785220216588513 | Sign in - Google Accounts
+[Edge] HIST | 2026-07-28 09:30:17 | [1x] https://accounts.google.com/v3/signin/confirmidentifier?authuser=0&continue=https%3A%2F%2Fgemini.google.com%2Fsignin%3Fcontinue%3Dhttps%3A%2F%2Fgemini.google.com%2Fapp&dsh=S104667376%3A1785220216588513&followup=https%3A%2F%2Fgemini.google.com%2Fsignin%3Fcontinue%3Dhttps%3A%2F%2Fgemini.google.com%2Fapp&passive=1209600&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=Ac50bxu7lZfztSdRE2eSN1-ZyHxbJktZ9Qxn6X8F0saGSW8khrVyyizkKay2Zf9Hnvst_w1Sk41Bdg | Sign in - Google Accounts
+[Edge] HIST | 2026-07-28 09:30:10 | [21x] https://gemini.google.com/app | Google Gemini
+[Edge] HIST | 2026-07-28 09:30:08 | [15x] https://gemini.google.com/ | ‎Google Gemini
+[Edge] HIST | 2026-07-28 09:30:08 | [2x] https://www.bing.com/search?q=gemini&form=ANNTH1&refig=6a684c2271ea46a38f90d75c6022808d&pc=U531&pq=g&pqlth=1&assgl=6&sgcn=gemini&qs=HS&sgtpv=HS&smvpcn=0&swbcn=10&sctcn=0&sc=10-1&sp=1&ghc=0&cvid=6a684c2271ea46a38f90d75c6022808d&clckatsg=1&hsmssg=0 | gemini - Search
+[Edge] HIST | 2026-07-28 09:30:08 | [1x] https://www.bing.com/ck/a?!&&p=424a8a9333cf9c1773e3b68afdf1bef02b48441fd2edbeb574d7de1d3a876e2cJmltdHM9MTc4NTExMDQwMA&ptn=3&ver=2&hsh=4&fclid=3e9653d5-1f56-65bd-3a42-457f1e8264bc&psq=gemini&u=a1aHR0cHM6Ly9nZW1pbmkuZ29vZ2xlLmNvbS8&ntb=1 | ?
+[Edge] HIST | 2026-07-28 09:03:45 | [6x] http://localhost/phpmyadmin/index.php?route=/server/sql | localhost / 127.0.0.1 | phpMyAdmin 5.2.1
+[Edge] HIST | 2026-07-28 09:03:17 | [7x] http://localhost/phpmyadmin/ | localhost / 127.0.0.1 | phpMyAdmin 5.2.1
+[Edge] HIST | 2026-07-28 08:37:35 | [2x] https://www.bing.com/search?q=XAMPP&filters=ufn%3a%22XAMPP%22+sid%3a%226995a82e-44f6-834b-fc50-cf09097c756c%22&asbe=EP&form=WSBEDG&qs=MB&cvid=450a06c59ace421489d8ef6f15b92261&pq=X&cc=US&setlang=en-US&nclid=15631F7BD110086AA311EAB6283535D2&ts=1785217052122&wsso=Moderate&PC=WSBQUF | XAMPP - Search
+[Edge] HIST | 2026-07-28 08:37:35 | [7x] https://www.bing.com/?form=SPHPRE1&bbtnserp=1&bbtnfrm=WSBEDG | XAMPP - Search
+[Edge] HIST | 2026-07-28 08:37:33 | [1x] https://www.bing.com/search?q=XAMPP&filters=ufn%3a%22XAMPP%22+sid%3a%226995a82e-44f6-834b-fc50-cf09097c756c%22&asbe=EP&form=WSBEDG&qs=MB&cvid=450a06c59ace421489d8ef6f15b92261&pq=X&cc=US&setlang=en-US&nclid=15631F7BD110086AA311EAB6283535D2&ts=1785217052122&nclidts=1785217052&tsms=122&wsso=Moderate&PC=WSBQUF | XAMPP - Search
+[Edge] HIST | 2026-07-28 06:13:58 | [1x] https://sourceforge.net/projects/xampp/ | XAMPP download | SourceForge.net
+[Edge] HIST | 2026-07-28 06:13:47 | [1x] https://sourceforge.net/projects/xampp/postdownload | Find out more about XAMPP | SourceForge.net
+[Edge] HIST | 2026-07-28 06:13:27 | [1x] https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/8.2.12/xampp-windows-x64-8.2.12-0-VS16-installer.exe | Download xampp-windows-x64-8.2.12-0-VS16-installer.exe (XAMP
+[Edge] HIST | 2026-07-28 06:13:27 | [1x] https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/8.2.12/xampp-windows-x64-8.2.12-0-VS16-installer.exe/ | Download xampp-windows-x64-8.2.12-0-VS16-installer.exe (XAMP
+[Edge] HIST | 2026-07-28 06:13:27 | [1x] https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/8.2.12/xampp-windows-x64-8.2.12-0-VS16-installer.exe/download | Download xampp-windows-x64-8.2.12-0-VS16-installer.exe (XAMP
+[Edge] HIST | 2026-07-28 06:13:25 | [1x] https://www.apachefriends.org/download_success.html | XAMPP Download Success
+[Edge] HIST | 2026-07-28 06:12:58 | [1x] https://www.apachefriends.org/download.html | Download XAMPP
+[Edge] HIST | 2026-07-28 06:12:58 | [3x] https://www.bing.com/search?q=XAMPP&filters=ufn%3a%22XAMPP%22+sid%3a%226995a82e-44f6-834b-fc50-cf09097c756c%22&asbe=EP&form=WSBEDG&qs=MB&cvid=92bcb755681440868257303854eb4c47&pq=xa&cc=US&setlang=en-US&nclid=15631F7BD110086AA311EAB6283535D2&ts=1785207711556&wsso=Moderate&PC=WSBQUF | XAMPP - Search
+[Edge] HIST | 2026-07-28 06:12:58 | [1x] https://www.bing.com/ck/a?!&&p=36f9cabdb7ec07daa18baf0c729438e62a342fe6a74fa68996838a84ff74e92bJmltdHM9MTc4NTExMDQwMA&ptn=3&ver=2&hsh=4&fclid=3e9653d5-1f56-65bd-3a42-457f1e8264bc&psq=XAMPP&u=a1aHR0cHM6Ly93d3cuYXBhY2hlZnJpZW5kcy5vcmcvZG93bmxvYWQuaHRtbA&ntb=1 | ?
+[Edge] HIST | 2026-07-28 06:01:52 | [1x] https://www.bing.com/search?q=XAMPP&filters=ufn%3a%22XAMPP%22+sid%3a%226995a82e-44f6-834b-fc50-cf09097c756c%22&asbe=EP&form=WSBEDG&qs=MB&cvid=92bcb755681440868257303854eb4c47&pq=xa&cc=US&setlang=en-US&nclid=15631F7BD110086AA311EAB6283535D2&ts=1785207711556&nclidts=1785207711&tsms=556&wsso=Moderate&PC=WSBQUF | XAMPP - Search
+[Edge] HIST | 2026-07-27 12:28:12 | [1x] file:///D:/READMEVB.HTM | Visual Basic Readme
+[Edge] HIST | 2025-11-18 21:25:57 | [8x] chrome-extension://pkggemhbcdfhhabkmlafgbcpeflpdbjc/screen.html#/pwd | Browser Lock
+[Edge] HIST | 2025-11-18 15:20:38 | [4x] file:///C:/Users/STUDENT/Desktop/QUESTION%202A.html | GRADIENT FINDER
+[Edge] HIST | 2025-11-18 14:50:06 | [1x] file:///C:/Users/STUDENT/Downloads/validate%20form.html | Simple Registration
+[Edge] HIST | 2025-11-18 14:32:29 | [1x] file:///C:/Users/STUDENT/Downloads/sales%20calculator.html | sales calculator
+[Edge] HIST | 2025-11-18 14:29:56 | [1x] file:///C:/Users/STUDENT/Downloads/madini/madini/slope.html | slope
+[Edge] HIST | 2025-11-18 08:10:21 | [2x] file:///C:/Users/STUDENT/Downloads/oi.html | oi
+[Edge] HIST | 2025-11-17 20:39:40 | [1x] https://www.icloud.com/iclouddrive | iCloud Drive - Apple iCloud
+[Edge] HIST | 2025-11-17 20:39:38 | [2x] https://www.bing.com/search?q=apple+drive&cvid=27fb491226a04890b147dcdddfd993d0&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQABhAMgYICBAAGEDSAQg0MTc1ajBqMagCA7ACAQ&FORM=ANAB01&PC=U531 | apple drive - Search
+[Edge] HIST | 2025-11-17 20:39:38 | [1x] https://www.bing.com/ck/a?!&&p=bb5d651be6c3c071fad4721ed303dc169ae5cc9ed12510c6d8a7116ec8bff0bcJmltdHM9MTc2MzMzNzYwMA&ptn=3&ver=2&hsh=4&fclid=326759e3-b789-6864-15ab-4f41b6a869cb&psq=apple+drive&u=a1aHR0cHM6Ly93d3cuaWNsb3VkLmNvbS9pY2xvdWRkcml2ZQ&ntb=1 | ?
+[Edge] HIST | 2025-11-17 20:33:06 | [5x] file:///C:/Users/STUDENT/Desktop/21NECTA.html | COMPUTER SCIENCE
+[Edge] HIST | 2025-11-17 20:22:40 | [2x] https://gameograf.com/?utm_source=installAnimecursor&utm_medium=link&utm_campaign=bg&utm_content=installAnimecursor | Gameograf – Best Chrome Live Wallpaper & HD Wallpapers for N
+[Edge] HIST | 2025-11-17 20:22:34 | [10x] chrome-extension://iihkiogemkpgdadhcohilpgeemfjjcgj/newtab.html | New Tab
+[Edge] HIST | 2025-11-17 20:22:01 | [2x] https://browserlock.io/installed/welcome?extid=pkggemhbcdfhhabkmlafgbcpeflpdbjc | BrowserLock | Lock your Browser
+[Edge] HIST | 2025-11-17 20:21:58 | [1x] chrome-extension://pkggemhbcdfhhabkmlafgbcpeflpdbjc/screen.html | Browser Lock
+[Edge] HIST | 2025-11-17 20:20:55 | [5x] https://chatgpt.com/ | ChatGPT
+[Edge] HIST | 2025-11-17 20:20:54 | [2x] https://www.bing.com/search?q=chatgpt&form=ANSPH1&refig=691b593802dc426bbeac6ae6b32d755b&pc=U531&pq=c&pqlth=1&assgl=7&sgcn=chatgpt&qs=MB&sgtpv=AS&smvpcn=0&swbcn=10&sctcn=0&sc=10-1&sp=2&ghc=0&cvid=691b593802dc426bbeac6ae6b32d755b&clckatsg=1&hsmssg=0 | chatgpt - Search
+[Edge] HIST | 2025-11-17 20:20:52 | [1x] https://www.bing.com/ck/a?!&&p=6627dd350104dec1a202e4003ee5ad9b498e53c78076309df9a1381c0b3906a2JmltdHM9MTc2MzMzNzYwMA&ptn=3&ver=2&hsh=4&fclid=326759e3-b789-6864-15ab-4f41b6a869cb&psq=chatgpt&u=a1aHR0cHM6Ly9jaGF0Z3B0LmNvbS8&ntb=1 | ?
+[Edge] HIST | 2025-11-17 20:20:40 | [1x] https://www.bing.com/copilotsearch?q=chatgpt&FORM=CSSCOP | chatgpt
+[Edge] HIST | 2025-11-17 19:58:12 | [1x] https://www.bing.com/search?pglt=2083&q=NECTA&cvid=d03093d1b1f84497a4b64bd95ec4245c&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQRRg80gEINTg3N2owajGoAgGwAgE&FORM=ANSPA1&PC=U531 | NECTA - Search
+[Edge] HIST | 2025-11-17 19:45:45 | [1x] https://iforgot.apple.com/ | Recover Your Apple Account - Apple
+[Edge] HIST | 2025-11-17 19:44:26 | [1x] https://iforgot.apple.com/password/verify/appleid | Recover Your Apple Account - Apple
+[Edge] HIST | 2025-11-17 19:38:31 | [1x] https://www.bing.com/search?q=atomic+mail+login&form=ANNTH1&refig=691b4f79e79847c48fdfbdd45b1052ff&pc=U531&pq=atomic+mail&pqlth=11&assgl=17&sgcn=atomic+mail+login&qs=MT&sgtpv=MT&smvpcn=0&swbcn=10&sctcn=0&sc=10-11&sp=2&ghc=0&cvid=691b4f79e79847c48fdfbdd45b1052ff&clckatsg=1&hsmssg=0 | atomic mail login - Search
+[Edge] HIST | 2025-11-17 19:36:11 | [1x] https://account.apple.com/sign-in | Manage your Apple Account
+[Edge] HIST | 2025-11-17 19:36:08 | [1x] https://www.bing.com/ck/a?!&&p=95de0321e424be7a290845161c45adc0331d15697399a043ae515ce0259f4381JmltdHM9MTc2MzMzNzYwMA&ptn=3&ver=2&hsh=4&fclid=326759e3-b789-6864-15ab-4f41b6a869cb&psq=apple+login+account&u=a1aHR0cHM6Ly9hY2NvdW50LmFwcGxlLmNvbS9zaWduLWlu&ntb=1 | ?
+[Edge] HIST | 2025-11-17 13:34:17 | [14x] chrome-extension://nldijlfmoepgjkjhmdiiainkjgmpdnmj/screen.html#/pwd | Browser Lock
+[Edge] HIST | 2025-11-17 11:05:15 | [1x] file:///C:/Users/STUDENT/Desktop/trial.html | trial
+[Edge] HIST | 2025-11-17 10:18:40 | [1x] https://www.youtube.com/results?search_query=mrbeast | mrbeast - YouTube
+[Edge] HIST | 2025-11-17 10:18:18 | [1x] https://www.youtube.com/results?search_query=ishowspeed | ishowspeed - YouTube
+[Edge] HIST | 2025-11-17 10:17:44 | [14x] https://www.youtube.com/ | YouTube
+[Edge] HIST | 2025-11-17 10:16:28 | [1x] https://www.youtube.com/watch?v=S_rgZ4cSdWg | THIS LEFT ME COMPLETELY SPEECHLESS! - YouTube
+[Edge] HIST | 2026-04-29 14:58:28 | [1x] file:///C:/Users/STUDENT/Downloads/heart.html | Document
+[Edge] HIST | 2026-04-29 14:55:16 | [1x] file:///C:/Users/STUDENT/Desktop/uji/Prolific/car_rental.html | RFS Car Rental
+[Edge] HIST | 2026-04-29 14:55:11 | [1x] file:///C:/Users/STUDENT/Desktop/uji/Prolific/capitals.html | file:///C:/Users/STUDENT/Desktop/uji/Prolific/capitals.html
+[Edge] HIST | 2026-04-29 14:55:03 | [1x] file:///C:/Users/STUDENT/Desktop/uji/Prolific/tourism.html | file:///C:/Users/STUDENT/Desktop/uji/Prolific/tourism.html
+[Edge] HIST | 2026-04-29 14:54:58 | [1x] file:///C:/Users/STUDENT/Desktop/uji/Prolific/restaurant_program.html | file:///C:/Users/STUDENT/Desktop/uji/Prolific/restaurant_pro
+[Edge] HIST | 2026-04-29 14:54:52 | [1x] file:///C:/Users/STUDENT/Desktop/uji/Prolific/kwetupazuri.html | file:///C:/Users/STUDENT/Desktop/uji/Prolific/kwetupazuri.ht
+[Edge] HIST | 2026-04-29 14:54:05 | [1x] file:///C:/Users/STUDENT/Desktop/uji/S5953-0573/qn%202.html | file:///C:/Users/STUDENT/Desktop/uji/S5953-0573/qn%202.html
+[Edge] HIST | 2026-04-29 14:52:05 | [1x] file:///C:/Users/STUDENT/Desktop/uji/family%20wealth.html | Document
+[Edge] HIST | 2026-04-29 14:51:43 | [1x] file:///C:/Users/STUDENT/Desktop/uji/mgar/maga.html | file:///C:/Users/STUDENT/Desktop/uji/mgar/maga.html
+
+────────────────────────────────────────────────────────────
+  8. BOOKMARKS
+────────────────────────────────────────────────────────────
+[Edge] BM | bookmark_bar | chatgpt - Search | https://www.bing.com/search?q=chatgpt&filters=ufn%3a%22ChatGPT%22+sid%3a%22ca572841-55be-4ed6-3d83-4ffff84bdc9f%22&asbe=EP&form=WSHBSH&qs=MB&cvid=9c2e218c95664645aa0f83ef81c523aa&pq=&cc=US&setlang=en-US&nclid=15631F7BD110086AA311EAB6283535D2&ts=1783963360295&wsso=Moderate&PC=WSBREC
+[Edge] BM | other | compete 4 ps5 mcity | https://www.facebook.com/ads/ig_redirect/?d=Ad9FT7QXlebRpGxv3eTzEC76z3FVQ-9Xw599MILv_IPM2H1uG0MPSjZQ4AgJcM6X734kBMXQJDwGYFWjfn-eCV9ZoT3u1l2nrtzkKUbEDQJsLSP8-LIYSXf4ry78iBHDgI0JZToZ9ctU1CncgkCqlYzZj4nsu0Tu4-d3oi5hIdh7N16v8pZdFZuKD-OAA8376KNTNntCDnT1enJp9l-66v24y8TnrelzsjOtt8lIz2sEI6JW7wH4I9vyLT2mCQSuVggE0J0efdpZYZ7DKfL6WKeEXlOIy5Iq3qwIU86HzDukLlNpNhMN9HXXlC12dV33xQrsRfeCkGqQa1s2PuP1g9VDmAQTPXguH6fC8GiGKw9dHEBb499Ml93jmzjiQboR-e0aGHT6PG_MG4gcp4hOMZnKhBiJ4ahBQYUcyNDTZci6j4xIkP2xaqw7BDKQ58NTyafgUxpx5-BEPBrxmOwAUhp-XaVYCn6NBKzNAs9PIvylTd85K_5itsnCgPrfyKOx47O1HwtYuSyktlT7P01L51iWOdYXWPfwePFuuoXFSizT5pvKQKXupmcDC5jc5mW9dTSdMLIAXkEP1lS8wTrmD0oKyyJemBcE74tH7b8k5aRbbTLMm7NKUwOmT6n43bLjmOVjJIzf3WMn-lCjzMRjuu2mEZnr0t49nh-UnHy2pemRhe5azO-7F2LajN_pX6MiIi8YSsG1g5G-z3wbd1iGjKX2sDOanlSqWnTEIofoiWKYjXMPxg5r-hmcohyIXL2JhTI&a=1&hash=Ad8FGF-o-rQl5HYcQro&c[0]=AI%40AQKMuBDuO_li-lLk8mD76zLXzGcYJ6BnT0WkBMbdneSjOgsOle8WwRDhJBMgrSv6b6KeLFSy1fZZPkRhU8WFZ5dx&__tn__=*J-R&e=12c53279-57e3-4024-9cee-0febe9a399ab&g=4
+
+────────────────────────────────────────────────────────────
+  9. INSTALLED EXTENSIONS
+────────────────────────────────────────────────────────────
+[Chrome] EXT | __MSG_APP_NAME__ | 1.0.0.6_0
+[Edge] EXT | __MSG_extName__ | 1.108.1_0
+[Edge] EXT | Edge relevant text changes | 1.2.1_0
+[Edge] EXT | __MSG_extName__ | 1.97.1_0
+[Edge] EXT | __MSG_appName__ | 3_0
+[Edge] EXT | Edge relevant text changes | 1.2.1_0
+[Edge] EXT | __MSG_appName__ | 1.0.1_0
+[Edge] EXT | __MSG_full_name__ | 2.0.4_0
+[Edge] EXT | __MSG_extName__ | 1.104.1_0
+[Edge] EXT | Edge relevant text changes | 1.2.1_0
+
+────────────────────────────────────────────────────────────
+  10. WINDOWS STORED CREDENTIALS
+────────────────────────────────────────────────────────────
+
+Currently stored credentials:
+
+    Target: MicrosoftAccount:target=SSO_POP_Device
+    Type: Generic 
+    User: 02ltpakdccpbatch
+    Saved for this logon only
+    
+    Target: MicrosoftAccount:target=SSO_POP_User:user=Leendric@gmail.com
+    Type: Generic 
+    User: Leendric@gmail.com
+    Saved for this logon only
+    
+    Target: LegacyGeneric:target=MicrosoftAccount:user=leendric@gmail.com
+    Type: Generic 
+    User: Leendric@gmail.com
+    Local machine persistence
+    
+    Target: WindowsLive:target=virtualapp/didlogical
+    Type: Generic 
+    User: 02ltpakdccpbatch
+    Local machine persistence
+    
+
+
+============================================================
+                  END OF REPORT
+============================================================
