@@ -1,0 +1,215 @@
+============================================================
+                  COMPLETE SYSTEM REPORT
+============================================================
+  PC:          SC-LAB1-PC27
+  User:        STUDENT
+  External IP: 41.59.97.138
+  Local IP:    192.168.88.136
+  MAC:         6C-3C-8C-0C-83-84
+  AV:          Windows Defender
+  OS:          Microsoft Windows 11 Pro
+  Time:        2026-07-28 11:38:11
+============================================================
+
+────────────────────────────────────────────────────────────
+  1. PERSISTENCE
+────────────────────────────────────────────────────────────
+[-] Install failed
+
+────────────────────────────────────────────────────────────
+  2. WIFI NETWORKS
+────────────────────────────────────────────────────────────
+[WiFi] No saved profiles
+
+────────────────────────────────────────────────────────────
+  4. SAVED PASSWORDS
+────────────────────────────────────────────────────────────
+[Edge] PWD | https://www.roblox.com/login | thunderbloxking6 | 
+[Edge] PWD | https://accounts.google.com/v3/signin/challenge/pwd | nirouhnyusuph@gmail.com | 
+
+────────────────────────────────────────────────────────────
+  5. COOKIES (HIGH-VALUE SITES)
+────────────────────────────────────────────────────────────
+  (none found)
+
+────────────────────────────────────────────────────────────
+  6. AUTOFILL — NAMES, EMAILS, PHONES, ADDRESSES, CARDS
+────────────────────────────────────────────────────────────
+[Edge] CC | ? | ? | 3/2029
+[Edge] AUTOFILL | Email Address = madbrilliance804@gmail.com
+[Edge] AUTOFILL | Email Address = madbrilliance@gmail.com
+[Edge] AUTOFILL | Email Address = shedrackchisuse@gmail.com
+[Edge] AUTOFILL | email = black.ranger5578@gmail.com
+[Edge] AUTOFILL | email = memrutiloishiye@gmail.com
+[Edge] AUTOFILL | identifier = black.ranger5578@gmail.com
+[Edge] AUTOFILL | Email Address = madbrilliance804@gmail.com
+[Edge] AUTOFILL | identifier = nirouhnyusuph@gmail.com
+
+────────────────────────────────────────────────────────────
+  7. BROWSING HISTORY (RECENT 30 PER PROFILE)
+────────────────────────────────────────────────────────────
+[Edge] HIST | 2025-10-08 13:06:30 | [1x] https://www.bing.com/search?pglt=43&q=google+slide&cvid=233e3e859a1a4943bafac773ce6ac115&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQRRhA0gEINzU5NmowajGoAgCwAgA&FORM=ANSPA1&PC=U531&ntref=1 | google slide - Search
+[Edge] HIST | 2025-10-08 12:59:08 | [6x] https://chatgpt.com/ | What is BIOS
+[Edge] HIST | 2025-10-08 12:59:01 | [1x] https://auth.openai.com/api/accounts/authorize?client_id=app_X8zY6vW2pQ9tR3dE7nK1jL5gH&scope=openid%20email%20profile%20offline_access%20model.request%20model.read%20organization.read%20organization.write&response_type=code&redirect_uri=https%3A%2F%2Fchatgpt.com%2Fapi%2Fauth%2Fcallback%2Fopenai&audience=https%3A%2F%2Fapi.openai.com%2Fv1&device_id=7c9ab6c1-a60d-4597-aeb1-aaffb7cdfbce&prompt=login&screen_hint=login_or_signup&ext-oai-did=7c9ab6c1-a60d-4597-aeb1-aaffb7cdfbce&auth_session_logging_id=bd81e39a-087a-44fb-844f-67bf86e4bb80&state=4-gYuU8JOItXlAPEF9RDOwv5yUXoyr0kGdwz-m0kAzo | ?
+[Edge] HIST | 2025-10-08 12:59:01 | [1x] https://auth.openai.com/log-in-or-create-account | ?
+[Edge] HIST | 2025-10-08 12:54:21 | [3x] https://workspace.google.com/products/slides/ | Google Slides: Presentation Slideshow Maker | Google Workspa
+[Edge] HIST | 2025-10-08 12:54:19 | [3x] https://www.bing.com/search?pglt=43&q=google+slide&cvid=233e3e859a1a4943bafac773ce6ac115&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQRRhA0gEINzU5NmowajGoAgCwAgA&FORM=ANSPA1&PC=U531 | google slide - Search
+[Edge] HIST | 2025-10-08 12:54:19 | [2x] https://www.bing.com/ck/a?!&&p=3d05a0c707c4dcb1623da65fd38cca5aaf4b79e8d5748c1f439862eb650e88d9JmltdHM9MTc1OTg4MTYwMA&ptn=3&ver=2&hsh=4&fclid=3f63f5af-5507-6055-1477-e3d85423611c&psq=google+slide&u=a1aHR0cHM6Ly93b3Jrc3BhY2UuZ29vZ2xlLmNvbS9wcm9kdWN0cy9zbGlkZXMv&ntb=1 | ?
+[Edge] HIST | 2025-10-08 12:54:12 | [3x] https://workspace.google.com/business/ | Business Streamlining & Collaboration Solutions | Google Wor
+[Edge] HIST | 2025-10-08 12:54:11 | [3x] https://workspace.google.com/solutions/ai/ | AI Tools for Business | Google Workspace
+[Edge] HIST | 2025-10-08 12:54:09 | [2x] https://workspace.google.com/business/signup/welcome?source=gafb-ai-hero-en&hl=en&ga_region=noram&ga_country=us&ga_lang=en&uj=gafb-ai-hero-en | Sign up for Google Workspace
+[Edge] HIST | 2025-10-08 12:54:07 | [1x] https://workspace.google.com/business/signup/contact?source=gafb-ai-hero-en&hl=en&ga_region=noram&ga_country=us&ga_lang=en&uj=gafb-ai-hero-en | Sign up for Google Workspace
+[Edge] HIST | 2025-10-08 12:51:21 | [1x] https://workspace.google.com/business/signup/welcome?source=gafb-ai-hero-en&hl=en&ga_region=noram&ga_country=us&ga_lang=en&uj=gafb-slides-global_nav-en&uj=gafb-business-global_nav-en&uj=gafb-docs-global_nav-en&uj=gafb-ai-hero-en | Sign up for Google Workspace
+[Edge] HIST | 2025-10-08 12:51:06 | [1x] https://workspace.google.com/products/docs/ | Google Docs: Online Document & PDF Editor | Google Workspace
+[Edge] HIST | 2025-10-07 14:37:11 | [1x] https://copilot.microsoft.com/ | Microsoft Copilot: Your AI companion
+[Edge] HIST | 2025-10-07 14:37:10 | [1x] https://copilot.microsoft.com/?cvid=0bf00cb049714cbb9e06e922fc3b61c4&nclid=A532886C9EAC3DCD4295ACF93C71867A&ts=1759837024234&nclidts=1759837024&tsms=234 | Microsoft Copilot: Your AI companion
+[Edge] HIST | 2025-10-07 14:37:07 | [1x] https://copilot.microsoft.com/?form=WSBSH2&cvid=0bf00cb049714cbb9e06e922fc3b61c4&nclid=A532886C9EAC3DCD4295ACF93C71867A&ts=1759837024234&nclidts=1759837024&tsms=234 | Microsoft Copilot: Your AI companion
+[Edge] HIST | 2025-10-06 20:55:20 | [2x] https://www.bing.com/search?q=ig&form=ANSPH1&refig=68e4024ed13549669f1a1418a4a84431&pc=U531 | ig - Search
+[Edge] HIST | 2025-10-06 20:55:20 | [5x] https://www.bing.com/ck/a?!&&p=425ff67344fd3f70e833bcec94d0993617c563e2c7bf03d8ed24f344e025de74JmltdHM9MTc1OTcwODgwMA&ptn=3&ver=2&hsh=4&fclid=3f63f5af-5507-6055-1477-e3d85423611c&psq=ig&u=a1aHR0cHM6Ly93d3cuaW5zdGFncmFtLmNvbS8&ntb=1 | ?
+[Edge] HIST | 2025-10-06 20:49:22 | [1x] https://www.youtube.com/results?search_query=crystal+palace | crystal palace - YouTube
+[Edge] HIST | 2025-10-06 20:49:12 | [4x] https://www.youtube.com/results?search_query=barcelona+vs+sevilla | barcelona vs sevilla - YouTube
+[Edge] HIST | 2025-10-06 20:49:01 | [3x] https://www.youtube.com/watch?v=8Lhmxd52c_A | barcelona vs sevilla - YouTube
+[Edge] HIST | 2025-10-06 20:45:31 | [1x] https://www.youtube.com/watch?v=b6DRZbYwpbk | REAL MADRID 3 - 1 VILLARREAL CF | HIGHLIGHTS LALIGA EA SPORT
+[Edge] HIST | 2025-10-06 20:41:43 | [2x] https://www.youtube.com/ | YouTube
+[Edge] HIST | 2025-10-06 20:41:23 | [1x] https://r.search.yahoo.com/_ylt=AwrNZvw8_.No8wEAOE5XNyoA;_ylu=Y29sbwNiZjEEcG9zAzEEdnRpZAMEc2VjA3Ny/RV=2/RE=1760982077/RO=10/RU=https%3a%2f%2fwww.youtube.com%2f/RK=2/RS=Iq56y74YIyYYR0HoAfW7XPw0Gt0- | YouTube
+[Edge] HIST | 2025-10-06 20:41:19 | [1x] https://search.yahoo.com/search;_ylt=AwrigQrE_uNoNm8IaUJXNyoA;_ylc=X1MDMjc2NjY3OQRfcgMyBGZyA3NmcARmcjIDcDpzLHY6dyxtOnNhLHNhX21rOjMwBGdwcmlkAzdPclY3MzlsU1d1dDFZekttZjhFa0EEbl9yc2x0AzAEbl9zdWdnAzEwBG9yaWdpbgNzZWFyY2gueWFob28uY29tBHBvcwM0BHBxc3RyA3kEcHFzdHJsAzEEcXN0cmwDNwRxdWVyeQNZb3VUdWJlBHQ1cG9zAzEEdF9zdG1wAzE3NTk3NzI0NzYEdXNlX2Nhc2UD?p=YouTube&fr=sfp&fr2=p%3As%2Cv%3Aw%2Cm%3Asa%2Csa_mk%3A30&d=%7B%22dn%22%3A%22yk%22%2C%22subdn%22%3A%22company%22%2C%22ykid%22%3A%228ebb8ca8-b27b-4032-8f14-912163003fd2%22%7D&fd=%7B%22imageUrl%22%3A%22https%3A%2F%2Fs.yimg.com%2Fzb%2Fimgv1%2F18bfd4a8-601d-3d52-acc3-3ab3e7a8a73e%2Ft_140x140%22%2C%22short_desc%22%3A%22YouTube+is+an+American+online+video+sharing+platform+owned+by+Google.+YouTube+was+founded+on+February+14%2C+2005%2C+by+Chad+Hurley%2C+Jawed+Karim%2C+and+Steve+Chen%2C+who+were+former+employees+of+PayPal.%22%2C%22o_imgUrl%22%3A%22https%3A%2F%2Fs.yimg.com%2Fzb%2Fimgv1%2F18bfd4a8-601d-3d52-acc3-3ab3e7a8a73e%2Ft_1024x1024%22%7D&mkr=30 | YouTube - Yahoo Search Results
+[Edge] HIST | 2025-10-06 20:39:17 | [1x] https://search.yahoo.com/search;_ylt=AwrhbSi2_uNo9Skp4R1DDWVH;_ylc=X1MDMTE5NzgwNDg2NwRfcgMyBGZyAwRmcjIDcDpzLHY6c2ZwLG06c2ItdG9wBGdwcmlkAwRuX3JzbHQDMARuX3N1Z2cDMARvcmlnaW4Dc2VhcmNoLnlhaG9vLmNvbQRwb3MDMARwcXN0cgMEcHFzdHJsAzAEcXN0cmwDMgRxdWVyeQNpZwR0X3N0bXADMTc1OTc3MjM1Ng--?p=ig&fr=sfp&fr2=p%3As%2Cv%3Asfp%2Cm%3Asb-top&iscqry= | ig - Yahoo Search Results
+[Edge] HIST | 2025-10-06 20:39:03 | [1x] https://search.yahoo.com/web | Yahoo Search - Web Search
+[Edge] HIST | 2025-10-06 20:39:01 | [3x] https://www.bing.com/search?q=yahoo&qs=n&form=QBRE&sp=-1&lq=0&pq=&sc=0-0&sk=&cvid=15F5C0DA1760459F92AFF23964C70283 | yahoo - Search
+[Edge] HIST | 2025-10-06 20:39:01 | [1x] https://www.bing.com/ck/a?!&&p=ca8cbdb1f4e08cb142a4455dacb290e84415a620f9271dbd11cc4354407de1d3JmltdHM9MTc1OTcwODgwMA&ptn=3&ver=2&hsh=4&fclid=3f63f5af-5507-6055-1477-e3d85423611c&psq=yahoo&u=a1aHR0cHM6Ly9zZWFyY2gueWFob28uY29tL3dlYg&ntb=1 | ?
+[Edge] HIST | 2025-10-06 20:38:40 | [2x] https://www.bing.com/search?q=ig&form=ANNTH1&refig=68e3fe4bb37044f8b29d0be8ba0a82a0&pc=U531 | ig - Search
+[Edge] HIST | 2026-07-28 11:06:06 | [2x] https://www.bing.com/search?q=get+help+with+file+explorer+in+windows&filters=guid:%224026535-en-dia%22%20lang:%22en%22&form=S00028 | get help with file explorer in windows - Search
+[Edge] HIST | 2026-07-28 11:06:06 | [3x] https://www.bing.com/?form=SPHPRE1&bbtnserp=1&bbtnfrm=S00028 | get help with file explorer in windows - Search
+[Edge] HIST | 2026-07-28 11:06:03 | [1x] https://go.microsoft.com/fwlink/?LinkId=528884 | get help with file explorer in windows - Search
+[Edge] HIST | 2026-07-27 13:03:59 | [1x] https://www.wikipedia.org/ | Wikipedia
+[Edge] HIST | 2026-07-27 11:00:21 | [1x] https://www.bing.com/search?pglt=299&q=einstein+mtweve&cvid=a3c8a6177da54ff597a95061846a6923&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOdIBCDQ3ODZqMGoxqAIAsAIA&FORM=ANNTA1&adppc=EDGEXST&PC=U531 | einstein mtweve - Search
+[Edge] HIST | 2026-07-27 06:19:51 | [1x] https://chatgpt.com/auth/login | Get started | ChatGPT
+[Edge] HIST | 2026-07-27 06:19:49 | [2x] https://www.bing.com/search?q=chatgpt&form=ANSPH1&refig=6a66cd6c93394761967e022711eb097d&pc=U531&adppc=EDGEXST&pq=ch&pqlth=2&assgl=7&sgcn=chatgpt&qs=HS&sgtpv=HS&smvpcn=0&swbcn=10&sctcn=0&sc=10-2&sp=1&ghc=0&cvid=6a66cd6c93394761967e022711eb097d&clckatsg=1&hsmssg=0 | chatgpt - Search
+[Edge] HIST | 2026-07-27 06:19:49 | [1x] https://www.bing.com/ck/a?!&&p=06c503272b54c17fdc0963e07e7e696304866f4a78b80492539b996e61b4f111JmltdHM9MTc4NTAyNDAwMA&ptn=3&ver=2&hsh=4&fclid=31bc0659-5406-67af-11e1-1027557b66e3&psq=chatgpt&u=a1aHR0cHM6Ly9jaGF0Z3B0LmNvbS9hdXRoL2xvZ2lu&ntb=1 | ?
+[Edge] HIST | 2026-07-27 06:19:35 | [2x] https://copilot.microsoft.com/?form=MY02JR&showconv=1&sendquery=1&q=WHATS%20WRONG%20IN%20THIS%20CODE%20INSERT%20INTO%20POLICE_REGISTRATION%20(POLICEID%2CPOLICEFULLNAME%2CPOLICEMIDDLENAME%2CPOLICELASTNAME%2CPOLICESALARY%2CADDRESS)%20VALUES(%271234%27%2C%27GOERGE%27%2C%27ANDREW%27%2C%27BRIAN%27%2C%27150000%27%2C%27ARUSHA%27)%3B&bypassredir=1 | Microsoft Copilot: Your AI companion
+[Edge] HIST | 2026-07-27 06:19:35 | [1x] https://copilot.microsoft.com/?form=MY02JR&showconv=%221%22&sendquery=%221%22&q=WHATS+WRONG+IN+THIS+CODE+INSERT+INTO+POLICE_REGISTRATION+%28POLICEID%2CPOLICEFULLNAME%2CPOLICEMIDDLENAME%2CPOLICELASTNAME%2CPOLICESALARY%2CADDRESS%29+VALUES%28%271234%27%2C%27GOERGE%27%2C%27ANDREW%27%2C%27BRIAN%27%2C%27150000%27%2C%27ARUSHA%27%29%3B&bypassredir=%221%22 | Microsoft Copilot: Your AI companion
+[Edge] HIST | 2026-07-27 06:19:35 | [1x] https://copilot.microsoft.com/?form=MY02JR&showconv=1&sendquery=1&bypassredir=1 | Microsoft Copilot: Your AI companion
+[Edge] HIST | 2026-07-27 06:19:35 | [5x] https://copilot.microsoft.com/ | Microsoft Copilot: Your AI companion
+[Edge] HIST | 2026-07-27 06:19:24 | [1x] https://auth.copilot.microsoft.com/authorize?client_id=IalDS3vRtEI5X0zvsmGG7zJP9UrHTcei&scope=openid+profile+email+offline_access+ChatAI.ReadWrite&audience=https%3A%2F%2Fcopilot.microsoft.com&redirect_uri=https%3A%2F%2Fcopilot.microsoft.com&prompt=select_account&connection=google-oauth2&response_type=code&response_mode=query&state=cmdVTWMwcTNHZVFuQWdwakVVNmtSSkw5bUtnRH53aE1FMlpHV1duWVl2Nw%3D%3D&nonce=fllWS0hudDJCTUluanFVTlVjNlRPbkNyMFBZYjY2SGpTQklpUlc0LUhPYQ%3D%3D&code_challenge=E9aekZ9YwVF0hryth-yQKK_JzDdHyc9Izf79YAhiTm8&code_challenge_method=S256&auth0Client=eyJuYW1lIjoiYXV0aDAtc3BhLWpzIiwidmVyc2lvbiI6IjIuMS4zIn0%3D | Sign in - Google Accounts
+[Edge] HIST | 2026-07-27 06:19:24 | [1x] https://accounts.google.com/o/oauth2/auth?prompt=select_account&library_name=Auth0&response_type=code&redirect_uri=https%3A%2F%2Fauth.copilot.microsoft.com%2Flogin%2Fcallback&scope=email%20profile&state=F4yG3BmOiM9kDkLFVOG8IZMwWpdd_bOc&client_id=293702255113-5edfm31r2gdeamh7uhlkf6ol4s8vrj1b.apps.googleusercontent.com | Sign in - Google Accounts
+[Edge] HIST | 2026-07-27 06:19:24 | [1x] https://accounts.google.com/v3/signin/accountchooser?client_id=293702255113-5edfm31r2gdeamh7uhlkf6ol4s8vrj1b.apps.googleusercontent.com&library_name=Auth0&prompt=select_account&redirect_uri=https%3A%2F%2Fauth.copilot.microsoft.com%2Flogin%2Fcallback&response_type=code&scope=email+profile&state=F4yG3BmOiM9kDkLFVOG8IZMwWpdd_bOc&dsh=S-887656256%3A1785122364051135&o2v=1&service=lso&flowName=GeneralOAuthFlow&opparams=%253Flibrary_name%253DAuth0&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hAP359-tl7WSVwdwE1BQIT1j43gMT7iWLGDMgx9oK7l5c2IGwEKjb1O47YcoLrX08z9ZehNbE_qoiufscxKJ6bVjmSt7uMQhdyJ-vtLcQYOdrLuAGHLwTS0CuRoxY7CrX-_e5vEC_kk1GtPnFj8Dokgrpi-E7x61v_Z8SR3dhBFOmhTrSJwHexIy-whtkJN8gHKANYLFsqU2ip3drfj4xjix72meHyaN-5RLhTGJIs3_mebLgDr1ZmaGa11npGrFrGi0BdyOb5rcvvlIqjzIbRjqVm7zzkkiepTCjv8mhaVzMi6u-Em1Lxk7jhqNiW2M4SVLJKHCm3QzKEyKT4OAHyg8YwYkEFCyQQK-GLHL720TzKR5uPwLiyFfPAVEPHhbBdhQJ7iwL1A2bEeQaLH2Kux2m7s9jBPXJPLSP5OiyO4Pqr0Nn8RRXo4OTx_pZbTRpdc9S88svnx8IO-Lp4UtsKrhYOHTHffWf1IfX38qG3oib1-Ts-Y%26flowName%3DGeneralOAuthFlow%26as%3DS-887656256%253A1785122364051135%26client_id%3D293702255113-5edfm31r2gdeamh7uhlkf6ol4s8vrj1b.apps.googleusercontent.com%26requestPath%3D%252Fsignin%252Foauth%252Fconsent%23&app_domain=https%3A%2F%2Fauth.copilot.microsoft.com | Sign in - Google Accounts
+[Edge] HIST | 2026-07-27 06:19:04 | [2x] https://copilot.microsoft.com/?showconv=1&sendquery=1&bypassredir=1 | Microsoft Copilot: Your AI companion
+[Edge] HIST | 2026-07-27 06:19:04 | [1x] https://copilot.microsoft.com/?showconv=1&sendquery=1&q=WHATS+WRONG+IN+THIS+CODE+INSERT+INTO+POLICE_REGISTRATION+%28POLICEID%2CPOLICEFULLNAME%2CPOLICEMIDDLENAME%2CPOLICELASTNAME%2CPOLICESALARY%2CADDRESS%29+VALUES%28%271234%27%2C%27GOERGE%27%2C%27ANDREW%27%2C%27BRIAN%27%2C%27150000%27%2C%27ARUSHA%27%29%3B&bypassredir=1 | Microsoft Copilot: Your AI companion
+[Edge] HIST | 2026-07-27 06:19:02 | [1x] https://copilot.microsoft.com/?form=MY02JR&showconv=1&sendquery=1&q=WHATS%20WRONG%20IN%20THIS%20CODE%20INSERT%20INTO%20POLICE_REGISTRATION%20(POLICEID%2CPOLICEFULLNAME%2CPOLICEMIDDLENAME%2CPOLICELASTNAME%2CPOLICESALARY%2CADDRESS)%20VALUES(%271234%27%2C%27GOERGE%27%2C%27ANDREW%27%2C%27BRIAN%27%2C%27150000%27%2C%27ARUSHA%27)%3B | Microsoft Copilot: Your AI companion
+[Edge] HIST | 2026-07-24 11:38:42 | [4x] http://localhost/phpmyadmin/index.php?route=/database/sql&db=employee | localhost / 127.0.0.1 / employee | phpMyAdmin 5.2.1
+[Edge] HIST | 2026-07-24 11:38:28 | [4x] http://localhost/phpmyadmin/index.php?route=/database/structure&db=employee | localhost / 127.0.0.1 / employee | phpMyAdmin 5.2.1
+[Edge] HIST | 2026-07-24 11:32:38 | [2x] http://localhost/phpmyadmin/index.php?route=/server/sql | localhost / 127.0.0.1 | phpMyAdmin 5.2.1
+[Edge] HIST | 2026-07-24 11:32:20 | [3x] http://localhost/phpmyadmin/index.php?route=/server/sql&lang=en | localhost / 127.0.0.1 | phpMyAdmin 5.2.1
+[Edge] HIST | 2026-07-24 11:31:09 | [1x] http://localhost/phpmyadmin/ | localhost / 127.0.0.1 | phpMyAdmin 5.2.1
+[Edge] HIST | 2026-07-21 15:47:26 | [2x] file:///C:/Users/STUDENT/Downloads/GOOGE263718282.pdf | GOOGE263718282.pdf
+[Edge] HIST | 2026-07-16 12:05:33 | [2x] https://www.epsonconnect.com/?p=0 | Epson Connect - Print and Scan From Anywhere
+[Edge] HIST | 2026-07-15 16:07:53 | [3x] https://copilot.microsoft.com/library | Microsoft Copilot: Your AI companion
+[Edge] HIST | 2026-07-15 16:07:51 | [2x] https://copilot.microsoft.com/labs | Microsoft Copilot: Your AI companion
+[Edge] HIST | 2026-07-15 16:07:50 | [2x] https://copilot.microsoft.com/imagine | Microsoft Copilot: Your AI companion
+[Edge] HIST | 2026-07-15 16:07:49 | [2x] https://copilot.microsoft.com/discover | Microsoft Copilot: Your AI companion
+[Edge] HIST | 2026-07-15 16:04:41 | [2x] https://copilot.microsoft.com/chats/EvqHqRJk6ZyjS9Cev2wWB | Microsoft Copilot: Your AI companion
+[Edge] HIST | 2026-05-24 14:18:19 | [1x] https://www.canva.com/ | Canva: Visual Suite for Everyone
+[Edge] HIST | 2026-05-24 14:18:17 | [1x] https://www.google.com/search?q=canva&rlz=1C1CHBF_enTZ1214TZ1214&oq=CANVA&gs_lcrp=EgZjaHJvbWUqBwgAEAAYjwIyBwgAEAAYjwIyEAgBEC4YxwEYsQMY0QMYgAQyDwgCEEUYORjjAhixAxiABDIHCAMQABiABDIHCAQQABiABDIHCAUQABiABDIHCAYQABiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiPAtIBCTM2MDNqMGoxNagCALACAQ&sourceid=chrome&ie=UTF-8&sei=d94Saq6xCMmxhbIPxOHEuAU | canva - Tafuta na Google
+[Edge] HIST | 2026-01-22 16:29:06 | [448x] http://127.0.0.1:3000/c:/Users/STUDENT/Desktop/S5953-0567/QUESTION%2002.HTML | Question 2
+[Edge] HIST | 2026-01-22 16:21:17 | [2x] file:///C:/Users/STUDENT/Desktop/S5953-0567/QUESTION%2002.HTML | Question 2
+[Edge] HIST | 2026-01-22 15:50:30 | [107x] http://127.0.0.1:3000/c:/Users/STUDENT/Desktop/S5953-0567/trial.html? | Question 2.a)
+[Edge] HIST | 2026-01-22 15:40:25 | [2x] http://127.0.0.1:3000/c:/Users/STUDENT/Desktop/S5953-0567/trial.html | Question 2.a)
+[Edge] HIST | 2026-01-22 15:38:25 | [29x] http://127.0.0.1:3000/endpoint_unsaved/Untitled-1 | Question 2.a)
+[Edge] HIST | 2026-01-22 15:37:28 | [2x] file:///C:/Users/STUDENT/Downloads/2.%20a).html | Question 2.a)
+[Edge] HIST | 2026-01-20 11:18:01 | [1x] https://www.roblox.com/my/account?creatorCollaboration#!/info | ( ✦ ) Settings - Roblox
+[Edge] HIST | 2026-01-20 11:18:01 | [1x] https://www.roblox.com/my/account?creatorCollaboration#!/ | ( ✦ ) Settings - Roblox
+[Edge] HIST | 2026-01-20 11:17:55 | [1x] https://www.roblox.com/my/account?creatorCollaboration | ( ✦ ) Settings - Roblox
+[Edge] HIST | 2026-01-20 08:56:11 | [1x] https://www.roblox.com/download | Download Roblox
+[Edge] HIST | 2026-01-20 08:56:10 | [2x] https://www.bing.com/search?q=roblox+player&form=ANSPH1&refig=696f18bcbe0344b5a1c1aab7a1a88ece&pc=U531&pq=roblox&pqlth=6&assgl=13&sgcn=roblox+player&qs=AS&sgtpv=AS&smvpcn=0&swbcn=10&sctcn=0&sc=10-6&sp=5&ghc=0&cvid=696f18bcbe0344b5a1c1aab7a1a88ece&clckatsg=1&hsmssg=0 | roblox player - Search
+[Edge] HIST | 2026-01-20 08:56:10 | [1x] https://www.bing.com/ck/a?!&&p=48fc275c92df650b461dbcbb5aee985d61fe63079fa44e2065b8cb72dda0a5c6JmltdHM9MTc2ODc4MDgwMA&ptn=3&ver=2&hsh=4&fclid=33598b94-82d0-68f4-1c1d-9d0e834b69ed&psq=roblox+player&u=a1aHR0cHM6Ly93d3cucm9ibG94LmNvbS9kb3dubG9hZA&ntb=1 | ?
+[Edge] HIST | 2026-01-20 08:55:31 | [3x] https://www.bing.com/search?pglt=43&q=roblox&cvid=6358fb671d3447729d46271dfbe57493&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQABhAMgYICBAAGEDSAQgzODAyajBqMagCALACAA&FORM=ANSPA1&PC=U531 | roblox - Search
+[Edge] HIST | 2026-01-20 08:55:30 | [3x] https://play.google.com/store/apps/details?id=com.roblox.client&hl=en-US | Roblox - Apps on Google Play
+[Edge] HIST | 2026-01-20 08:55:29 | [2x] https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fplay.google.com%2Fweb%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.roblox.client%26hl%3Den-US%26raii%3Dcom.roblox.client&dsh=S1715070916%3A1768888279299071&ifkv=AXbMIuBgwErTmukfXVIi38kQF8_79Q8D32KBWfPU9whpfzgDGXpDvFa5IVqh3_uLbOe-l8cPkV13Og&passive=86400&service=googleplay&flowName=GlifWebSignIn&flowEntry=ServiceLogin | Google Play
+[Edge] HIST | 2026-01-20 08:55:28 | [2x] https://gds.google.com/web/recoveryoptions?cardIndex=0&hl=en&authuser=0&tda=CAA&gdsid=-786798323&continue=https%3A%2F%2Faccounts.google.com%2FServiceLogin%3Fcontinue%3Dhttps%3A%2F%2Fplay.google.com%2Fweb%2Fstore%2Fapps%2Fdetails%3Fid%253Dcom.roblox.client%2526hl%253Den-US%2526raii%253Dcom.roblox.client%26service%3Dgoogleplay%26hl%3Den%26authuser%3D0%26passive%3Dtrue%26sarp%3D1%26aodrpl%3D1%26checkedDomains%3Dyoutube%26checkConnection%3Dyoutube%3A1038%26pstMsg%3D1&rapt=AEjHL4N8v0TLKgDlttc-OK_Dv88mGtYjrd9kzoE4xPBpY9USskjtk1dPgLRTQJmCgR82fgUbFyA9JOBkuwMLXqE_B7i-5nWXaA&ep=p&asp=EgQIFhAC | Account Recovery Options
+[Edge] HIST | 2026-01-20 08:55:27 | [2x] https://gds.google.com/web/homeaddress?cardIndex=1&hl=en&authuser=0&tda=CAA&gdsid=-786798323&continue=https%3A%2F%2Faccounts.google.com%2FServiceLogin%3Fcontinue%3Dhttps%3A%2F%2Fplay.google.com%2Fweb%2Fstore%2Fapps%2Fdetails%3Fid%253Dcom.roblox.client%2526hl%253Den-US%2526raii%253Dcom.roblox.client%26service%3Dgoogleplay%26hl%3Den%26authuser%3D0%26passive%3Dtrue%26sarp%3D1%26aodrpl%3D1%26checkedDomains%3Dyoutube%26checkConnection%3Dyoutube%3A1038%26pstMsg%3D1&asp=EgQIFhAC&rapt=AEjHL4N8v0TLKgDlttc-OK_Dv88mGtYjrd9kzoE4xPBpY9USskjtk1dPgLRTQJmCgR82fgUbFyA9JOBkuwMLXqE_B7i-5nWXaA&ep=p | Google Account
+[Edge] HIST | 2026-01-20 08:55:25 | [6x] https://play.google.com/store/apps/details?id=com.roblox.client&hl=en-US&pli=1 | Roblox - Apps on Google Play
+[Edge] HIST | 2026-01-20 08:55:22 | [2x] https://accounts.google.com/InteractiveLogin?authuser=0&continue=https://play.google.com/web/store/apps/details?id%3Dcom.roblox.client%26hl%3Den-US%26raii%3Dcom.roblox.client%26pli%3D1%26raii%3Dcom.roblox.client&dsh=S1812820662:1768888384112351&hl=en-US&iar=1&ifkv=AXbMIuCMqmJTwXpEN6Zy_5Ff8bmVd2alOmjDipgrq5-5UMqhearZE0V9wk0ySAmR3UrftKVtrcDK&rart=ANgoxccEEdzIIJ29K8zzUfnZ5OZkYQA0fYj6ZGSM6xR0dxoBAnsiUdnzkT1-I5Z7XB5TaR6-vcPaqC38YuxUrI2mo99PRe_TGYAqc_WwZLheyf5U0TrAeDw&service=googleplay | ?
+[Edge] HIST | 2026-01-20 08:55:22 | [2x] https://accounts.google.com/v3/signin/challenge/pwd?TL=APgKAcbXykRdUhgbIUtBdxWMFc9fephD5E0q83DlhqvjAtkxOVMT7v52mtewJmVb&authuser=0&cid=3&continue=https%3A%2F%2Fplay.google.com%2Fweb%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.roblox.client%26hl%3Den-US%26raii%3Dcom.roblox.client%26pli%3D1%26raii%3Dcom.roblox.client&dsh=S1812820662%3A1768888384112351&flowName=GlifWebSignIn&hl=en-US&ifkv=AXbMIuCMqmJTwXpEN6Zy_5Ff8bmVd2alOmjDipgrq5-5UMqhearZE0V9wk0ySAmR3UrftKVtrcDK&rart=ANgoxccEEdzIIJ29K8zzUfnZ5OZkYQA0fYj6ZGSM6xR0dxoBAnsiUdnzkT1-I5Z7XB5TaR6-vcPaqC38YuxUrI2mo99PRe_TGYAqc_WwZLheyf5U0TrAeDw&service=googleplay | ?
+[Edge] HIST | 2026-01-20 08:55:22 | [1x] https://accounts.google.com/ServiceLogin?authuser=0&continue=https://play.google.com/web/store/apps/details?id%3Dcom.roblox.client%26hl%3Den-US%26raii%3Dcom.roblox.client%26pli%3D1%26raii%3Dcom.roblox.client&dsh=S1812820662:1768888384112351&hl=en-US&iar=1&ifkv=AXbMIuCMqmJTwXpEN6Zy_5Ff8bmVd2alOmjDipgrq5-5UMqhearZE0V9wk0ySAmR3UrftKVtrcDK&rart=ANgoxccEEdzIIJ29K8zzUfnZ5OZkYQA0fYj6ZGSM6xR0dxoBAnsiUdnzkT1-I5Z7XB5TaR6-vcPaqC38YuxUrI2mo99PRe_TGYAqc_WwZLheyf5U0TrAeDw&service=googleplay | ?
+[Edge] HIST | 2026-01-20 08:55:22 | [1x] https://accounts.google.com/v3/signin/challenge/pwd?TL=APgKAcbsd-XdwWGPjwes0LySXJdXtirTSb088z8ox2iHoJrfUkeAqaKzW2oVN5SV&authuser=0&cid=3&continue=https%3A%2F%2Fplay.google.com%2Fweb%2Fstore%2Fapps%2Fdetails%3Fid%3Dcom.roblox.client%26hl%3Den-US%26raii%3Dcom.roblox.client%26pli%3D1%26raii%3Dcom.roblox.client&dsh=S1812820662%3A1768888384112351&flowName=GlifWebSignIn&hl=en-US&ifkv=AXbMIuCMqmJTwXpEN6Zy_5Ff8bmVd2alOmjDipgrq5-5UMqhearZE0V9wk0ySAmR3UrftKVtrcDK&rart=ANgoxccEEdzIIJ29K8zzUfnZ5OZkYQA0fYj6ZGSM6xR0dxoBAnsiUdnzkT1-I5Z7XB5TaR6-vcPaqC38YuxUrI2mo99PRe_TGYAqc_WwZLheyf5U0TrAeDw&service=googleplay | ?
+[Edge] HIST | 2026-01-20 08:55:07 | [1x] https://play.google.com/store/apps/details?id=com.roblox.client&hl=en-US&raii=com.roblox.client&pli=1&raii=com.roblox.client&rapt=AEjHL4MDKQiF5-ueKgTWVx4Jdu2x5t8vbTX2AtsFu3le6Qbayv7-qn3pXc_gDkxXi-9J4z2rbExVkLlehehcZM6xhgEFirxz0_YK_tsd119RT5ladNnV7ErLWskasuN4ytX70NTeNFdS | Roblox - Apps on Google Play
+[Edge] HIST | 2026-01-20 08:55:06 | [1x] https://accounts.google.com/CheckCookie?continue=https://play.google.com/web/store/apps/details?id%3Dcom.roblox.client%26hl%3Den-US%26raii%3Dcom.roblox.client%26pli%3D1%26raii%3Dcom.roblox.client%26rapt%3DAEjHL4MDKQiF5-ueKgTWVx4Jdu2x5t8vbTX2AtsFu3le6Qbayv7-qn3pXc_gDkxXi-9J4z2rbExVkLlehehcZM6xhgEFirxz0_YK_tsd119RT5ladNnV7ErLWskasuN4ytX70NTeNFdS&service=googleplay&hl=en-US&rart=ANgoxccEEdzIIJ29K8zzUfnZ5OZkYQA0fYj6ZGSM6xR0dxoBAnsiUdnzkT1-I5Z7XB5TaR6-vcPaqC38YuxUrI2mo99PRe_TGYAqc_WwZLheyf5U0TrAeDw&flowName=GlifWebSignIn&ifkv=AXbMIuCMqmJTwXpEN6Zy_5Ff8bmVd2alOmjDipgrq5-5UMqhearZE0V9wk0ySAmR3UrftKVtrcDK&chtml=LoginDoneHtml&gidl=EgIIAA&authuser=0 | Roblox - Apps on Google Play
+[Edge] HIST | 2026-01-20 08:55:06 | [1x] https://accounts.youtube.com/accounts/SetSID?ssdc=1&sidt=ALWU2cvdCoPWrRgWJgf1PXYVips3iZQO%2BCAykrp4qg/AluqAWHrW%2BINr48UMzpbu8tWZ889iHMLWJ1aTFFTx3lT0PmNtSwZhTDcAm01wEG3UTx%2BO2/a4MtFazJcYTuF0wlpcdiUnamrw10AXnkRa3YnwjaEGP6BcLVrwxTpzuYwW2LbXl05bilQC9F9UDeZxk/URX2LRGj6PuRllSEV4ArQRREhAcOuum2RvIGWfVRefz2EMgl7W%2BcK6BT0CvtSIynZ82GdHHAIxqTODbOVk6bLeQOvUsoGhJ7/0HvDUWooXj5cP0HH07eyXk1TJ201d9UCS0EQ7fduEY/7ojRPG6e4EVCT5LmVBwA2PJ6SFyS6qV1oIsQouOIAKaTDrOBQklfbenRuo3Tb6zGMh0glqPypkDltxPHu8KTxK8tipVz2Pm404v3mW5cJjvZGKpK6JhMJPWgJwPxgfpZlhlTQ%2BEX0HoaXPYVN6TmrKYJQe72I4dbrYVBPT6B8AXegAHoXgm6QkkbVZgN8DTGHr9%2BpwOyYGRsjglnMarJbPcnHSn589c2JzJFJoH1EpFvsulSQEg8K5z%2Bfa0qwaaym14M437VmabO8ORQo7bv86vrVn5zxKKvXIDvojkPiKosEJ7Ulh6RU6zOnwwk8hYfanW9XC/M46ppb5xbiGwyn/bKKKu1lV8rlzv05hsOF0kOWUu7eDOTXtEVbUVTqEJqx2y9ImiO%2B7P2gu9H/RnaSW1Q3PKulQsOdSS%2BC3wMfGDzT1hWFD0df7mir2SSne3EiqaSL5j3RYgGSBn8gpF3uppYZETbinILreDSsR9kRtuRyRuM3OxO5qByWNCSrg%2BVYZ64efRt81mtecVdjWCqjk7a0hpIqOYrucxflyqqgtZoCoZuqWKAzOXUEMvtgIfN%2B%2BupPhLJfVgGj91KF6hmX7otLQj3Qz%2BFSazvgTMkyCs3m56Kiaaadocj7Z7gxuMwnBDCkCDfn1xNtNQGrkGFsvuL69jWsaVKh7/3F96cMfw0yZtHUYIwoUsP0xsKqTL38pyifN3B2cu5%2BuPIKtkNrZf7u0XkjmKjkiDX2q6SRqCgmDXKG4qEDoT1Lnw2yKUBhcykk%2BWVk/J9UwyPX5nyOCpe2tF%2BJXuL%2BVgxn3rbzXtAd1AJk/Vb/EZOc6XEWO7JJrr/z5EUIgsH4QVG6j2pMGD/wwfGPT1IyVPNsXYdF6lYH0yrJTyL12WGdN0Ks2uwJYAmkN33vt5KnZEUBbb3g%2Bta8I3C3Acdmn3Q9agIlBObL5ID%2BdMTYRCu84I4noX/DY%2B%2BzmiEGjt1XAaWErDBgRJO6oxaJGIyy8Zi4VLM1GrKlvHAi4OW3Mfcusv0vcmJiRrQTrhRFDqQx66VHi3ZhJ4tELDAZYq7ThpzmQlElLX4N6pS8k8jurW1VHi1Pri8ETDwwbd2YNPuHm/cP/ukxmtJG4W8ldvKeTjD6EaKT1nHJ7BptPy6ejrCxCVoZYBewdromSIGZFQ8eyLtjryKa297Sae%2Bc%2B%2BBjPqb/59FwwcF0%2BOwarleHxU7qbthSm/Qj23n6RDhiZHX0CZATSowSymmh1we%2BMWNaosrVpQgsp05boojsgNPtHs/tmtQ1SI6evFD9W84bY4yIvwZXnuqPE3ZVZyDhpG6bdoWOFwE8xsoy26ZfTZkVKdI872%2Bj7ZKiV25BWClb10D0rGw53H3Ch/NF82QItSa6VFlw1mI1onDdybu/k6IcSBVIqHV4FGKfTGZRk4581eqqoprhYcpK6Jf0DE7g3QyVofMkOAqPhId9pIz%2B0t4EYn2Pg3ZFkKj%2BLG1lB%2BJQdrSqfZbN%2BlYFTcgwykT42k0/YUxUyc5h9qpQ%2BLs0WRYLspP%2BGYqwW2y4wq/L%2Bf%2B0qQKY//QB/ie5uB79H/7UWr6dLawfoIDvQmwp498CPU92XySO%2BO%2B2qihdPdl%2B0e1gODzFypVJfrzekomKWdUXqgyqJmRKgRteDCth9dKoqNBs5SwIyWwtRd7bvtoR7BDFMvigGxEAn2o7zgoYmqUw1ZIJo3GGriPqsfNpR2WHEX89Muxpz%2BgSdWD91196vngk4soDL6B%2BNeRH2%2B8ncMECSUxQdDny5GUyQaxs/Yqq5orhFujoSJRq5kwuAkNo4%2Bu39YbTzbGMkIStqN17dTFQ33Kg6Oyv/4aFjQtSoVQsj%2B0nleTFmMOKNPRH%2ByqBIVqjija/mXlJAlCRZHiI2Zps5t36ADJ5I7r4/K5n1ANnboQEr2d8wal/mp2N3idHTeRqiLkzdyG4WLHpyY3qo29yUdyKVrsdC4rGemtLde58zYclZC9EeGjcwruMvSNZrMAdgmTZ5s0FEl6PnJ83lbRE25XtTrMSoQzvbptMol%2Bml6XUn1VZ9cDeuaDPor2wp2hf7dDFu/o6CgzDyXA7R%2Bq5dFORB7ag5s8GspVmXeeOao7EzLmHaQPVq8WQ3ABpVQkI/smbafy7wBEtzEF5gLL294w09XKSkJo4efBhwILng8m%2BM5hM1UWBNzgHWSvzbGN3kze078QiQLjXhTXCaSgFUscCo3ChOefUJX46UYkwkJrZP6UNS0aJyP7TBfAobezNjun1tZKmkahtWXBEPVTehg56iDP92od%2BDb1SrDbH%2Bet7ik54hgqOfAiGcbdxqFUfOrJ6egTIpihiEv1IxI/5rYOKXwVu%2Bscs%3D&continue=https://play.google.com/web/store/apps/details?id%3Dcom.roblox.client%26hl%3Den-US%26raii%3Dcom.roblox.client%26pli%3D1%26raii%3Dcom.roblox.client%26rapt%3DAEjHL4MDKQiF5-ueKgTWVx4Jdu2x5t8vbTX2AtsFu3le6Qbayv7-qn3pXc_gDkxXi-9J4z2rbExVkLlehehcZM6xhgEFirxz0_YK_tsd119RT5ladNnV7ErLWskasuN4ytX70NTeNFdS%26authuser%3D0&tcc=1&dbus=TZ | Roblox - Apps on Google Play
+[Edge] HIST | 2026-01-20 08:55:06 | [1x] https://accounts.google.co.tz/accounts/SetSID?ssdc=1&sidt=ALWU2cvNFu6vkd0LUzpfL0U2FZFLVhdoAzIBgc6SZEoeQVMHrPIDUGFmM42paqqcrGbArnqIZEg6/tTwCBbjNOpmgpVlZG9M7Uo5dhSAR0ARjQmO2mI3fXMCMHe7ssaZ24o0l1IofvOTKvwAzEdzZ7WCbDrry0UrafZStoTs0dWgZS2OPwB6Mya/ts7cw7cA7P6i4R4aH2%2BGksYi7IhTEzcHaTK8eMM2HRPK08M42eW/1a1zZblGYiDfT32myvC/8YNyrnr6LjFJ%2BruG/p40BHgSH8vRR%2Blugivxhqm68E8R6WsY0c6SANSf9x/2DnD1ihT8j%2BVZe9aRSYgxKlU6b0zUb85JX2HR6IutWkpeatcmIvY4B2JMEqz/5IjDvBKn4f2XiP4gtaYZiiZpiRq7eQR4PGvnQBryOYI7oto9rHl3N796r2fqtcp%2BJC9IxSLQo%2BcIMBsJj0mdTee6VFMoWg90FhDB1hMOcQeK2hp6QQ/rJwHP/9gapgc5jDV%2BKT%2BTeuKro8J7n9mxvtrd6kTCsjm/9FfUv8BcMlFT9mzuUQFtv7cMMQHQhVtgeieRYXRq%2Byn01G0LK076ixGkLkQhOZCuHSSqu8wzwcAabaTsXc0cK6PKoFQTWls1Y%2B8aKOlgOx23L3s2CY30C8zEy0TYJTzoh8%2Be%2B8uMT4g1ky2WCrVDxtH6BVrkrUuePFXa/lrrSimj1YihEDya7MXX7hb5oZFfq5uqCC13d2khsgp%2Bg8lSYJN0LMnQhSQrd28WZ00BRdqde5uB7Jw0k%2BL/UwS2O3ge9BAoXLCwjhJt7em%2B9tiFGNdsvhRH4p32b1fhD2cZj/XasxiAw4I3Z3JV4XJ0FIqIEZxNS7Z%2BHthvjexiHeJYxK1rCW3noRanEdSuZe8jt154LDMqMzdvHpGOh3EYw9Euio%2BWkRp6w193qWvfHeHl4K4JXstPELVjGyAwLGNPB3LhQoM6ZhmI6iOR738fbSvpmgeoGgy9IULVhyRZtF5oDutY3eVOwp/IK%2BYW%2BkznKjHrkr2bAMedyJuiAYjifN1lfnM5klRxoOqWmET0W2o4xuNb0mNp%2Btetplau5AuojjOVyEw9WtNZkzSkLOEODcAEpIcvW2E3WZ33EHSwb%2BZZ2rKP2WmlWszB2NmfeLh7V9x1imIGICj7h4xINjoDpAV2rL%2BMjASkigXS3FczkMcr1dDzR05IX/p1rZHduqRtVcaP1YjMICV3cf%2BNtiJK2RdQNTsITKateNce8Km7K5YHqWf4RUx%2Bxq4c6DCtzSn8o5tDNGdc0WwBapPZK5RnngKyLxpHaNookUrLvpOXjPw%2ByKzEtDrrw/GPwsxr6mhAfTNqIwmSNmgEC8dw7MOSlkH3NQSkRt0LGwQNR9pmXMBz%2BiBjKxggQIM7PRknYjCr%2BASbQq3UwlxEHm7VgXp3bzJ9EIYogz2ukw7rBuxTMJM/k0yF5oJMms5lQuLOTLxWPu4E6pHHc8XutYj7KjJ%2BZtieW/Wv78/1irscWz0%2Bu6Sr5WuwzMKofXb8oUP5jNhoEleR4IhRyXmHCC5Ok7xrRHEYaf1ixl5ekpl02Z6bnMY/JKUjF7hGFfcylzCly0D1fLAxTctXVyLG1sIfZDbKX6GRW3tyeDAHYc1bXpz9zfMxhII/EnQr2QSlGuzK8gFJc%2BGMxqMxmq34r/u%2Btrb1GXnIcXQGx2FvX/GgkFZtxvlm8LVrM/7B3EFDmKggX6HFK1swPkwDweM6/iasHHmLuM8QzhBlgzhDvSxrhHDfZQtNfEXVHU98Hx4vZMcpHVE3U3RDarxT/PW5yJ4uZJXR4/vlfeM9vHFnQTxTlfvDIcN6dH12org6exYZnl4OA94Z7NYzxa/Oc27aH2R/mgiquQOawqn30iWEcE3Jj/AlyziCKGp4vL5o/ofX3NIhvoqckvfbU0PSsvjrf35SOS%2BhUDD6W1FhvyUG47qIh9MsmZuXZ1AdD9cF1En0%2BKfT3fMC1tBL1FXOK1B4oZ6pgVMkVD%2BAkBMI3pNPauHSn1oCl/J2ALYQYEt4BvnJ0Qw7LxU/Yk/Ckdg2nMOPJNdx7%2BhiDBo/L5fY4ocTBhu%2BSJvtG/bhDpwtArwPyG5EGTzeqJC%2BDsDaAUbLFXtuSljvvvNIP1dZRAh9eynKGWUiYFJYY80CFZFZGtUbV7DlnN1JUvlSHjS4mrTxS26Cvselu6fzBPDrEgkpSY467LtlOF05t5J2VRoEFbYu7FEx9CojFXt9UsS50t83eCdRZ4MKtUW8MkHNppeaOZ7B5Z77jHSQ6TwP1jqnD41P8nWvFU15aTb2jghOCAzinssmbRe6NYJw3gMHb91kyPuZdE5MO5oJH%2BPRd4SbSIr/MexC6rZmFlmK//1MsHTYAuwknl6bAO2zo%2BgoUFTDPNsfL8X7nTzv/mw7orPPHXb9jkkzDzCVrMNHVpSDl3F3K87tk9MNgyXlw9/Ec2F3KrPFcCI10K%2BJoaWznPa7dknBH15yASTNW26P%2BRE0EmHf52vpkqlXgUhtbeid%2Bo2eaOUwt/XCdm5O53iDcCCXJ6uy2IrwxKjRd9e4RwP8UVlClDAfjf0B6bMBmTpj9WYpvZeDfncAApgmjNYOJlQo0fXxG0it/e0HjJzQQ7f6hX6zPvBM2t%2BesCgpUYH/Ul7ciew9gDq7hHoFXa6gK29g9%2Bcr870%3D&continue=https://play.google.com/web/store/apps/details?id%3Dcom.roblox.client%26hl%3Den-US%26raii%3Dcom.roblox.client%26pli%3D1%26raii%3Dcom.roblox.client%26rapt%3DAEjHL4MDKQiF5-ueKgTWVx4Jdu2x5t8vbTX2AtsFu3le6Qbayv7-qn3pXc_gDkxXi-9J4z2rbExVkLlehehcZM6xhgEFirxz0_YK_tsd119RT5ladNnV7ErLWskasuN4ytX70NTeNFdS%26authuser%3D0&tcc=1 | Roblox - Apps on Google Play
+[Edge] HIST | 2026-01-20 08:55:06 | [1x] https://play.google.com/web/store/apps/details?id=com.roblox.client&hl=en-US&raii=com.roblox.client&pli=1&raii=com.roblox.client&rapt=AEjHL4MDKQiF5-ueKgTWVx4Jdu2x5t8vbTX2AtsFu3le6Qbayv7-qn3pXc_gDkxXi-9J4z2rbExVkLlehehcZM6xhgEFirxz0_YK_tsd119RT5ladNnV7ErLWskasuN4ytX70NTeNFdS&authuser=0 | Roblox - Apps on Google Play
+[Edge] HIST | 2026-01-20 08:55:06 | [1x] https://play.google.com/web/store/apps/details?id=com.roblox.client&hl=en-US&raii=com.roblox.client&pli=1&raii=com.roblox.client&rapt=AEjHL4MDKQiF5-ueKgTWVx4Jdu2x5t8vbTX2AtsFu3le6Qbayv7-qn3pXc_gDkxXi-9J4z2rbExVkLlehehcZM6xhgEFirxz0_YK_tsd119RT5ladNnV7ErLWskasuN4ytX70NTeNFdS | Roblox - Apps on Google Play
+
+────────────────────────────────────────────────────────────
+  8. BOOKMARKS
+────────────────────────────────────────────────────────────
+[Edge] BM | bookmark_bar | BASKETBALL STARS - Play Online for Free! | Poki | https://poki.com/en/g/basketball-stars?msockid=31bc0659540667af11e11027557b66e3
+[Edge] BM | other | www.google.com | https://www.google.com/search?q=canva&rlz=1C1CHBF_enTZ1214TZ1214&oq=&gs_lcrp=EgZjaHJvbWUqCQgAEEUYOxjCAzIJCAAQRRg7GMID0gEJMTk4OWowajE1qAIBsAIB&sourceid=chrome&ie=UTF-8
+[Edge] BM | other | www.google.com | https://www.google.com/search?q=canva&rlz=1C1CHBF_enTZ1214TZ1214&oq=&gs_lcrp=EgZjaHJvbWUqCQgAEEUYOxjCAzIJCAAQRRg7GMID0gEJMTk4OWowajE1qAIBsAIB&sourceid=chrome&ie=UTF-8
+
+────────────────────────────────────────────────────────────
+  9. INSTALLED EXTENSIONS
+────────────────────────────────────────────────────────────
+[Edge] EXT | __MSG_extName__ | 1.96.1_0
+[Edge] EXT | Edge relevant text changes | 1.2.1_0
+[Edge] EXT | __MSG_extName__ | 1.108.1_0
+[Edge] EXT | Edge relevant text changes | 1.2.1_0
+[Edge] EXT | __MSG_extName__ | 1.98.1_0
+[Edge] EXT | Edge relevant text changes | 1.2.1_0
+[Edge] EXT | __MSG_extName__ | 1.106.1_0
+[Edge] EXT | Edge relevant text changes | 1.2.1_0
+
+────────────────────────────────────────────────────────────
+  10. WINDOWS STORED CREDENTIALS
+────────────────────────────────────────────────────────────
+
+Currently stored credentials:
+
+    Target: MicrosoftAccount:target=SSO_POP_User:user=big7worldwide@outlook.com
+    Type: Generic 
+    User: big7worldwide@outlook.com
+    Saved for this logon only
+    
+    Target: MicrosoftAccount:target=SSO_POP_Device
+    Type: Generic 
+    User: 02uyfvjoobllhplc
+    Saved for this logon only
+    
+    Target: LegacyGeneric:target=https://www.roblox.com:RobloxStudioAuthCookies
+    Type: Generic 
+    Local machine persistence
+    
+    Target: LegacyGeneric:target=MicrosoftAccount:user=big7worldwide@outlook.com
+    Type: Generic 
+    User: big7worldwide@outlook.com
+    Local machine persistence
+    
+    Target: LegacyGeneric:target=https://www.roblox.com:RobloxStudioAuthuserid
+    Type: Generic 
+    Local machine persistence
+    
+    Target: LegacyGeneric:target=https://www.roblox.com:RobloxStudioAuthexpiresAtSecSinceEpoch9475053933
+    Type: Generic 
+    Local machine persistence
+    
+    Target: LegacyGeneric:target=https://www.roblox.com:RobloxStudioAuthaccessToken9475053933
+    Type: Generic 
+    Local machine persistence
+    
+    Target: WindowsLive:target=virtualapp/didlogical
+    Type: Generic 
+    User: 02uyfvjoobllhplc
+    Local machine persistence
+    
+    Target: LegacyGeneric:target=https://www.roblox.com:RobloxStudioAuth.ROBLOSECURITY9475053933
+    Type: Generic 
+    Local machine persistence
+    
+    Target: LegacyGeneric:target=https://www.roblox.com:RobloxStudioAuthoauth2RefreshToken9475053933
+    Type: Generic 
+    Local machine persistence
+    
+
+
+============================================================
+                  END OF REPORT
+============================================================
