@@ -1,0 +1,79 @@
+=======================================================
+  SYSTEM REPORT
+=======================================================
+  PC:       SC-LAB1-PC27
+  User:     STUDENT
+  IP:       41.59.97.138
+  Local:    192.168.88.136
+  MAC:      6C-3C-8C-0C-83-84
+  AV:       Windows Defender
+  OS:       Microsoft Windows 11 Pro
+  Time:     2026-07-28 11:31:47
+=======================================================
+
+  PERSISTENCE
+------------------------------
+[-] Install failed
+
+  WIFI NETWORKS
+------------------------------
+[WiFi] No saved profiles
+
+  BROWSER CREDENTIALS
+------------------------------
+[Browsers] No credentials found
+
+  STORED CREDENTIALS
+------------------------------
+
+Currently stored credentials:
+
+    Target: MicrosoftAccount:target=SSO_POP_User:user=big7worldwide@outlook.com
+    Type: Generic 
+    User: big7worldwide@outlook.com
+    Saved for this logon only
+    
+    Target: MicrosoftAccount:target=SSO_POP_Device
+    Type: Generic 
+    User: 02uyfvjoobllhplc
+    Saved for this logon only
+    
+    Target: LegacyGeneric:target=https://www.roblox.com:RobloxStudioAuthCookies
+    Type: Generic 
+    Local machine persistence
+    
+    Target: LegacyGeneric:target=MicrosoftAccount:user=big7worldwide@outlook.com
+    Type: Generic 
+    User: big7worldwide@outlook.com
+    Local machine persistence
+    
+    Target: LegacyGeneric:target=https://www.roblox.com:RobloxStudioAuthuserid
+    Type: Generic 
+    Local machine persistence
+    
+    Target: LegacyGeneric:target=https://www.roblox.com:RobloxStudioAuthexpiresAtSecSinceEpoch9475053933
+    Type: Generic 
+    Local machine persistence
+    
+    Target: LegacyGeneric:target=https://www.roblox.com:RobloxStudioAuthaccessToken9475053933
+    Type: Generic 
+    Local machine persistence
+    
+    Target: WindowsLive:target=virtualapp/didlogical
+    Type: Generic 
+    User: 02uyfvjoobllhplc
+    Local machine persistence
+    
+    Target: LegacyGeneric:target=https://www.roblox.com:RobloxStudioAuth.ROBLOSECURITY9475053933
+    Type: Generic 
+    Local machine persistence
+    
+    Target: LegacyGeneric:target=https://www.roblox.com:RobloxStudioAuthoauth2RefreshToken9475053933
+    Type: Generic 
+    Local machine persistence
+    
+
+
+=======================================================
+  END OF REPORT
+=======================================================
