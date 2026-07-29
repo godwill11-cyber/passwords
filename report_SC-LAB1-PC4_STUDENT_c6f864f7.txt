@@ -9,7 +9,7 @@
   MAC:         6C-3C-8C-4C-65-95
   AV:          Windows Defender, Avast Antivirus
   OS:          ?
-  Last Update: 2026-07-29 14:18:03
+  Last Update: 2026-07-29 14:18:39
 ============================================================
 
 ────────────────────────────────────────────────────────────
@@ -439,8 +439,28 @@ Currently stored credentials:
   12. KEYLOGGER (RECENT KEYS)
 ────────────────────────────────────────────────────────────
 
-[WINDOW: New Tab - Google Chrome]
-browser lock
+[WINDOW: browser lock - Google Search - Google Chrome]
+
+[WINDOW: BrowserLock | Lock your Browser - Google Chrome]
+
+[WINDOW: File Explorer]
+
+[WINDOW: CCCOMA_X64FRE_EN-US_DV9 (D:) - File Explorer]
+
+[WINDOW: UEFI_NTFS (F:) - File Explorer]
+
+[WINDOW: CCCOMA_X64FRE_EN-US_DV9 (D:) - File Explorer]
+
+[WINDOW: Replace or Skip Files]
+
+[WINDOW: 0% complete]
+
+[WINDOW: 37% complete]
+
+[WINDOW: 86% complete]
+
+[WINDOW: CCCOMA_X64FRE_EN-US_DV9 (D:) - File Explorer]
+
 
 ============================================================
   END OF REPORT — PC: SC-LAB1-PC4_STUDENT_c6f864f7 — CONTINUOUS MONITORING ACTIVE
