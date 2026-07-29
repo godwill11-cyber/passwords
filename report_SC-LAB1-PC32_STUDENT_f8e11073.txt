@@ -9,7 +9,7 @@
   MAC:         6C-3C-8C-0C-82-6E
   AV:          Windows Defender
   OS:          Microsoft Windows 11 Pro
-  Last Update: 2026-07-29 14:24:47
+  Last Update: 2026-07-29 14:25:22
 ============================================================
 
 ────────────────────────────────────────────────────────────
@@ -399,14 +399,16 @@ Currently stored credentials:
 ────────────────────────────────────────────────────────────
 
 [WINDOW: Instagram - Google Chrome]
-obadiaothund2141[ENTER]
-[BACK][BACK][BACK][BACK][BACK][BACK][BACK]
-[WINDOW: C:\Windows\System32\getmac.exe]
+othund2141[ENTER]
+othund21[ENTER]
+[ENTER]
+[ENTER]
+[ENTER]
+[ENTER]
+ [BACK][BACK][BACK]othund21[ENTER]
+[ENTER]
+[ENTER]
 
-[WINDOW: C:\Windows\System32\Wbem\wmic.exe]
-
-[WINDOW: C:\Windows\System32\systeminfo.exe]
-[BACK]
 
 ============================================================
   END OF REPORT — PC: SC-LAB1-PC32_STUDENT_f8e11073 — CONTINUOUS MONITORING ACTIVE
