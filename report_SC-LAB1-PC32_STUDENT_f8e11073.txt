@@ -9,7 +9,7 @@
   MAC:         6C-3C-8C-0C-82-6E
   AV:          Windows Defender
   OS:          Microsoft Windows 11 Pro
-  Last Update: 2026-07-29 14:26:00
+  Last Update: 2026-07-29 14:26:34
 ============================================================
 
 ────────────────────────────────────────────────────────────
@@ -398,11 +398,16 @@ Currently stored credentials:
   12. KEYLOGGER (RECENT KEYS)
 ────────────────────────────────────────────────────────────
 
-[WINDOW: skillsboxcoreuserproduction account email verification code - obadiandaro91@gmail.com - Gmail - Google Chrome]
-
-[WINDOW: Inbox (9) - obadiandaro91@gmail.com - Gmail - Google Chrome]
+[WINDOW: Instagram - Google Chrome]
+908748[ENTER]
 
 [WINDOW: Verify your profile - obadiandaro91@gmail.com - Gmail - Google Chrome]
+
+[WINDOW: Skillsbox UI - Google Chrome]
+
+[WINDOW: Instagram - Google Chrome]
+
+[WINDOW: www.instagram.com wants to]
 
 
 ============================================================
