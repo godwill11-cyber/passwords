@@ -9,7 +9,7 @@
   MAC:         6C-3C-8C-0A-05-CD
   AV:          Windows Defender
   OS:          Microsoft Windows 11 Pro
-  Last Update: 2026-07-29 14:49:18
+  Last Update: 2026-07-29 14:49:50
 ================================================================================
 
 ────────────────────────────────────────────────────────────────────────────────
@@ -40,8 +40,9 @@
 ────────────────────────────────────────────────────────────────────────────────
   KEYLOGGER (RECENT KEYS)
 ────────────────────────────────────────────────────────────────────────────────
-[TAB][TAB][TAB][TAB][TAB][TAB][TAB][TAB][TAB][BACK][BACK][BACK][BACK][BACK][BACK][BACK][BACK][BACK][TAB][TAB][TAB][TAB][TAB][TAB][TAB][TAB][TAB][TAB][TAB][BACK][BACK][BACK][BACK][BACK][BACK][BACK][BACK][BACK][BACK][BACK]S
-[WINDOW: Save As]
+
+[WINDOW: Brain.py - Visual Studio Code]
+[TAB]cd [TAB][TAB][TAB][TAB][BACK][BACK][BACK][BACK][BACK][BACK][BACK][BACK][BACK][BACK]d[TAB][TAB][ENTER]
 
 
 ================================================================================
