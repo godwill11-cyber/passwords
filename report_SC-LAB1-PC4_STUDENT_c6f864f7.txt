@@ -9,7 +9,7 @@
   MAC:         6C-3C-8C-4C-65-95
   AV:          Windows Defender, Avast Antivirus
   OS:          ?
-  Last Update: 2026-07-29 14:15:44
+  Last Update: 2026-07-29 14:16:17
 ============================================================
 
 ────────────────────────────────────────────────────────────
@@ -441,11 +441,9 @@ Currently stored credentials:
 
 [WINDOW: New Tab - Google Chrome]
 
-[WINDOW: Google Images - Google Chrome]
+[WINDOW: Gmail - Google Chrome]
 
-[WINDOW: photos.google.com/?pli=1 - Google Chrome]
-
-[WINDOW: Photos - Google Photos - Google Chrome]
+[WINDOW: Inbox (177) - romsdemark12@gmail.com - Gmail - Google Chrome]
 
 
 ============================================================
