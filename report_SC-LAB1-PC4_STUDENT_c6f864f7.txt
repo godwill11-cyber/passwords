@@ -1,0 +1,440 @@
+============================================================
+  LIVE REPORT — PC: SC-LAB1-PC4_STUDENT_c6f864f7
+============================================================
+  PC:          SC-LAB1-PC4
+  User:        STUDENT
+  PC ID:       SC-LAB1-PC4_STUDENT_c6f864f7
+  External IP: 41.59.97.138
+  Local IP:    192.168.88.73
+  MAC:         6C-3C-8C-4C-65-95
+  AV:          Windows Defender, Avast Antivirus
+  OS:          Microsoft Windows 11 Pro
+  Last Update: 2026-07-29 13:56:27
+============================================================
+
+────────────────────────────────────────────────────────────
+  1. PERSISTENCE
+────────────────────────────────────────────────────────────
+[+] AppData copy
+[+] Binary at: C:\Users\STUDENT\AppData\Local\sppsvc.exe
+[+] Registry Run
+[+] Registry RunOnce
+[+] Startup folder
+[+] SchTask (SYSTEM)
+[+] WMI Filter
+
+────────────────────────────────────────────────────────────
+  2. WIFI NETWORKS
+────────────────────────────────────────────────────────────
+[WiFi] No saved profiles
+
+────────────────────────────────────────────────────────────
+  4. SAVED PASSWORDS
+────────────────────────────────────────────────────────────
+[Edge] PWD | https://k12.instructure.com/login/canvas | kellyskennedy2@outlook.com | 
+[Edge] PWD | https://www.roblox.com/ | thunder34349 | 
+[Edge] PWD | https://accounts.google.com/v3/signin/challenge/pwd | mkundahery0@gmail.com | 
+[Edge] PWD | https://www.skillsboxonline.com/ | ibrahnation092@gmail.com | 
+[Edge] PWD | https://accounts.snapchat.com/accounts/v2/password | i_branation | 
+[Edge] PWD | https://www.instagram.com/reels/DDjBiYwtKho/ | its_.brahm | 
+[Edge] PWD | https://ol.tie.go.tz/auth/login | ibrajack@outlook.com | 
+[Edge] PWD | https://sms.aaarushascience.co.tz/studentlogin.php | AS/2024/0088 | 
+[Edge] PWD | https://sms.aaarushascience.co.tz/studentlogin.php | AS/2024/0113 | 
+[Edge] PWD | https://www.instagram.com/ | ismail_a.b.s | 
+[Edge] PWD | https://hfrs.moh.go.tz/web/index.php | Sumasaid94@gmail.com | 
+[Edge] PWD | https://www.instagram.com/accounts/login/ | @_.raven_crew | 
+[Edge] PWD | https://www.instagram.com/ | sumasaid94@gmail.com | 
+[Edge] PWD | https://looka.com/explore | muhammad yusuph | 
+[Edge] PWD | https://verification.nhif.or.tz/ServicePortal/login | winfridaa | 
+[Edge] PWD | https://www.instagram.com/accounts/login/ | _i_nation | 
+[Edge] PWD | https://accounts.google.com/ | sumasaid94@gmail.com | 
+[Edge] PWD | https://accounts.google.com/v3/signin/challenge/pwd | ibrahnation092@gmail.com | 
+[Edge] PWD | http://192.168.1.4/ | Ismail | 
+[Edge] PWD | https://home.openweathermap.org/users/sign_up | cytro | 
+[Edge] PWD | https://azure-charters.lovable.app/ | edmdamu21@gmail.com | 
+[Edge] PWD | https://www.klaviyo.com/register | edmdamu21@gmail.com | 
+[Edge] PWD | https://duolingo.com/ | ibrahnation092@gmail.com | 
+[Edge] PWD | https://beta.partners.adsterra.com/signup/ | edmdamu21@gmail.com | 
+[Edge] PWD | https://aaarushascience.co.tz/ | Ibrahim Jackson Pius | 
+[Edge] PWD | https://1wobaa.top/casino | breezybonito275@gmail.com | 
+[Edge] PWD | https://www.digistore24.com/extern/register/signup_iframe/ | Emmanuelmdamu | 
+[Edge] PWD | https://www.wasafibet.co.tz/casino/vppso4 | 0618533795 | 
+[Edge] PWD | https://account.proton.me/ | ibrajack@proton.me | 
+[Edge] PWD | https://account.ycombinator.com/ | cytro | 
+[Edge] PWD | https://portal.ethiack.com/signup | 21cytro | 
+[Edge] PWD | https://app.emaillistverify.com/signup | edmdamu21@gmail.com | 
+[Edge] PWD | https://app.fundingpips.com/register | emmamdamu21@gmail.com | 
+[Edge] PWD | https://secure.tdmarkets.com/ | emmanuelsakarani@gmail.com | 
+[Edge] PWD | https://zamotto.com/login | Ace21122006 | 
+[Edge] PWD | https://signin.cj.com/login | edmdamu21@gmail.com | 
+[Edge] PWD | https://lbl778.com/xml/index.html | 618533795 | 
+[Edge] PWD | https://nichescraper.com/register.php | edmdamu21@gmail.com | 
+[Edge] PWD | https://app.getgrass.io/register | Imma21 | 
+[Edge] PWD | https://login.twilio.com/u/signup | edmdamu21@gmail.com | 
+[Edge] PWD | https://x.com/ | _its_brahm | 
+[Edge] PWD | https://traders.uprisefx.com/register | emmamdamu21@gmail.com  | 
+[Edge] PWD | https://app.adalo.com/ | ibrahnation092@gmail.com | 
+[Edge] PWD | https://app.shophunter.com/register | edmdamu21@gmail.com | 
+[Edge] PWD | https://bitwise.ink/signup | Mdamu | 
+[Edge] PWD | https://signup.cj.com/member/signup/publisher/ | edmdamu21@gmail.com | 
+[Edge] PWD | https://www.fiverr.com/veronica_dee/create-etsy-shop-and-etsy-digital-product-etsy-listing-etsy-seo-etsy-shop-setup | emmamdamu21@gmail.com | 
+[Edge] PWD | https://www.digistore24.com/login/login_iframe/ | emmamdamu21@gmail.com  | 
+[Edge] PWD | https://yahoo.com/ | iNation | 
+[Edge] PWD | https://192.168.1.1/ | user | 
+[Edge] PWD | https://www.blackbox.ai/chat/3y7CcBz | edmdamu21@gmail.com | 
+[Edge] PWD | https://app.uppromote.com/register | edmdamu21@gmail.com | 
+[Edge] PWD | https://fine10.com/account/signup/ | albinoilala@gmail.com | 
+[Edge] PWD | https://canvas.instructure.com/ | ibrahnation092@gmail.com | 
+[Edge] PWD | https://earn-awrg.yachts/register.php | Imma21 | 
+[Edge] PWD | https://www.betpawa.co.tz/login | 692333795 | 
+[Edge] PWD | https://chat.deepseek.com/ | ibrahnation092@gmail.com | 
+[Edge] PWD | https://tiktok.com/ | @infer52 | 
+[Edge] PWD | https://api.developer.attomdata.com/signup | ace21 | 
+[Edge] PWD | https://www.betpawa.co.tz/join-now | 755835378 | 
+[Edge] PWD | https://justmarkets.com/registration/trader | emmanuelmdamu4@gmail.com | 
+[Edge] PWD | https://www.skillsboxonline.com/25c94cab-3ea8-4762-b286-d5019d73ed35/b2c_1a_signin_combinedflow/oauth2/v2.0/authorize | edmdamu21@gmail.com | 
+[Edge] PWD | https://accounts.clickbank.com/master/create-account | edmdamu21@gmail.com | 
+[Edge] PWD | https://appoint-zenith-schedule.lovable.app/register | edmdamu21@gmail.com | 
+[Edge] PWD | https://sokabet.co.tz/Register | 619533795 | 
+[Edge] PWD | https://canvas.instructure.com/login/canvas | emmadeograsias21@gmail.com | 
+[Edge] PWD | https://fantasticagency.co.tz/register | Imma21 | 
+[Edge] PWD | https://sso.ftmo.com/auth/realms/FTMO-Global/login-actions/authenticate | Kidinno255@gmail.com | 
+[Edge] PWD | https://justmarkets.com/login | edmdamu21@gmail.com | 
+[Edge] PWD | https://facebook.com/ | Jp Chege | 
+[Edge] PWD | https://accounts.google.com/v3/signin/challenge/pwd | breezybonito275@gmail.com | 
+[Edge] PWD | https://app.buildmystores.com/login | edmdamu21@gmail.com | 
+[Edge] PWD | https://login.laliga.es/LaLigaDspProB2C.onmicrosoft.com/oauth2/v2.0/authorize | ejpthwrjbyfk@ouvzc.com | 
+[Edge] PWD | https://fundednext.firstpromoter.com/ | emmamdamu21@gmail.com | 
+[Edge] PWD | https://accounts.dsers.com/accounts/register | emmamdamu21@gmail.com | 
+[Edge] PWD | http://192.168.1.1/ | user | 
+[Edge] PWD | https://k12.instructure.com/login/canvas | emmadeograsias21@gmail.com | 
+[Edge] PWD | https://m.pigabet.co.tz/en/ | 255789620208 | 
+[Edge] PWD | https://web.facebook.com/ | Jp Chege | 
+[Edge] PWD | https://m.facebook.com/recover/password/ | vqyhad | 
+[Edge] PWD | https://login.paytmmoney.com/ | breezybonito399@gmail.com | 
+[Edge] PWD | https://www.jvzoo.com/auth/register | emmamdamu21@gmail.com | 
+[Edge] PWD | https://login.live.com/oauth20_authorize.srf | breezybonito399@outlook.com | 
+[Edge] PWD | https://app.toptiertrader.com/login | kidinno255@gmail.com | 
+[Edge] PWD | https://www.betpawa.co.tz/join-now | 786443276 | 
+[Edge] PWD | https://www.eveonline.com/signup | 21cytro | 
+[Edge] PWD | https://www.altowax.com/login | kidinno255@gmail.com | 
+[Edge] PWD | https://signup.cj.com/member/signup/publisher/ | emmamdamu21@gmail.com | 
+[Edge] PWD | https://app.shophunter.com/register | emmamdamu21@gmail.com  | 
+[Edge] PWD | https://app.spysales.com/ | edmdamu21@gmail.com | 
+[Edge] PWD | https://www.aliexpress.com/ | edmdamu21@gmail.com | 
+[Edge] PWD | https://expo.dev/signup | ACE21 | 
+[Edge] PWD | http://aaarushascience.co.tz/sms/studentlogin.php | AS/2024/0031 | 
+[Edge] PWD | https://www.betpawa.co.tz/join-now | 618533795 | 
+[Edge] PWD | https://app.fundednext.com/become/subscribe/plan/30 | emmamdamu21@gmail.com | 
+[Edge] PWD | https://github.com/login | cytro21 | 
+[Edge] PWD | https://dashboard.render.com/login | edmdamu21@gmail.com | 
+[Edge] PWD | https://www.betway.co.tz/ | 618533795 | 
+[Edge] PWD | https://www.betpawa.co.tz/login | 767476787 | 
+[Edge] PWD | https://fegdex.com/register | edmdamu21@gmail.com | 
+[Edge] PWD | https://www.bangbet.com/welcome/login.html | 618533795 | 
+[Edge] PWD | https://www.sigmatraffic.com/login | emmamdamu21@gmail.com | 
+[Edge] PWD | https://users.premierleague.com/ | breezybonito399@gmail.com | 
+[Edge] PWD | https://dashboard.stripe.com/register | edmdamu21@gmail.com | 
+[Opera] PWD | https://auth0.openai.com/u/signup/password | kizford903@gmail.com | 
+[Opera] PWD | https://xrpstorm.com/register | Gracio | 
+[Opera] PWD | https://www.codecademy.com/checkout | grayziey21@gmail.com | 
+[Opera] PWD | https://www.pinterest.com/login/ | grayziey21@gmail.com | 
+[Opera] PWD | https://xrpstorm.com/register | Grayziey | 
+
+────────────────────────────────────────────────────────────
+  5. COOKIES (HIGH-VALUE SITES)
+────────────────────────────────────────────────────────────
+  (none found)
+
+────────────────────────────────────────────────────────────
+  6. AUTOFILL — NAMES, EMAILS, PHONES, ADDRESSES, CARDS
+────────────────────────────────────────────────────────────
+[Edge] AUTOFILL | Email Address = innocentmunale@gmail.com
+[Edge] AUTOFILL | Email Address = kennedymbuba@gmail.com
+[Edge] AUTOFILL | Email Address = nyamtemah@gmail.com
+[Edge] AUTOFILL | email = innocentmunale@gmail.com
+[Edge] AUTOFILL | email = kennedymbuba750@gmail.com
+[Edge] AUTOFILL | email = kennedymbuba750@gmasil.com
+[Edge] AUTOFILL | email = mkundahery0@gmail.com
+[Edge] AUTOFILL | email = peterngoye7383@gmail.com
+[Edge] AUTOFILL | identifier = Markkishaiti@gmail.com
+[Edge] AUTOFILL | identifier = brinakimario28@gmail.com
+[Edge] AUTOFILL | identifier = innocentmunale@gmail.com
+[Edge] AUTOFILL | identifier = janethmwilangali@gmail.com
+[Edge] AUTOFILL | identifier = kennedymbuba750@gmail.com
+[Edge] AUTOFILL | identifier = kennedymbuba@gmail.com
+[Edge] AUTOFILL | identifier = peterngoye7383@gmail.com
+[Edge] AUTOFILL | identifier = spencermariki5@gmail.com
+[Edge] AUTOFILL | identifier = wittyhenry9@gmail.com
+[Edge] AUTOFILL | loginfmt = innocentmunale@outlook.com
+[Edge] AUTOFILL | username = annanderua@gmail.com
+[Edge] AUTOFILL | username = kaishujaah@proton.me
+[Edge] AUTOFILL | /paypalAccountData/email = breezybonito275@gmail.com
+[Edge] AUTOFILL | /paypalAccountData/email = breezybonito399@gmail.com
+[Edge] AUTOFILL | 329209119 = edmdamu21@gmail.com
+[Edge] AUTOFILL | :rf: = omaryismart@gmail.com
+[Edge] AUTOFILL | Bill[PyrEmail] = samsonmesia2@gmail.com
+[Edge] AUTOFILL | EMAIL = brasensilao@gmail.com
+[Edge] AUTOFILL | Email = breezybonito275@gmail.com 
+[Edge] AUTOFILL | Email = elishamahubi@gmail.com
+[Edge] AUTOFILL | Email Address = dorcydanny56@gmail.com
+[Edge] AUTOFILL | Email Address = duncanduncan625@gmail.com
+[Edge] AUTOFILL | Email Address = edmdamu21@gmail.com
+[Edge] AUTOFILL | Email Address = elishamgalla59@gmail.com
+[Edge] AUTOFILL | Email Address = elvismmbando@gmail.com
+[Edge] AUTOFILL | Email Address = g.malimi09@gmail.com
+[Edge] AUTOFILL | Email Address = gabrielmussabillia@gmail.com
+[Edge] AUTOFILL | Email Address = gladygwakisa@gmail.com
+[Edge] AUTOFILL | Email Address = hanshenry21@gmail.com
+[Edge] AUTOFILL | Email Address = ibrahnation092@gmail.com
+[Edge] AUTOFILL | Email Address = ipyanakayuni59@gmail.com
+[Edge] AUTOFILL | Email Address = janethmkwizu2005@gmail.com
+[Opera] AUTOFILL | Email Address = brianomary55@gmail.com
+[Opera] AUTOFILL | Email Address = geraldchilewa974@gmail.com
+[Opera] AUTOFILL | Email Address = kassimmussa2004@gmail.com
+[Opera] AUTOFILL | Email Address = mandarahanniel@gmail.com
+[Opera] AUTOFILL | Email Address = martingiliard945@gmail.com
+[Opera] AUTOFILL | Email Address = noorabdi200580@gmail.com
+[Opera] AUTOFILL | Email Address = pastorarthur75@gmail.com
+[Opera] AUTOFILL | email = Markkishaiti@gmail.com
+[Opera] AUTOFILL | email = fabianfelista@gmail.com
+[Opera] AUTOFILL | email = graywilly21@gmail.com
+[Opera] AUTOFILL | email = tonnysalala@gmai;l.com
+[Opera] AUTOFILL | email = tonnysalala@gmail.com
+[Opera] AUTOFILL | identifier = Markkishaiti@gmail.com
+[Opera] AUTOFILL | identifier = graywilly21@gmail.com
+[Opera] AUTOFILL | identifier = grayziey21@gmail.com
+[Opera] AUTOFILL | identifier = katekahangala08@gmail.com
+[Opera] AUTOFILL | identifier = mkamajustin5@gmail.com
+[Opera] AUTOFILL | identifier = witnesshenry736@gmail.com
+[Opera] AUTOFILL | login = graywilly21@gmail.com
+[Opera] AUTOFILL | loginfmt = hashy7854@outlook.com
+
+────────────────────────────────────────────────────────────
+  7. BROWSING HISTORY (RECENT 30 PER PROFILE)
+────────────────────────────────────────────────────────────
+[Edge] HIST | 2026-07-29 11:22:43 | [2x] https://www.bing.com/search?q=sblime&form=WSBEDG&qs=SW&cvid=cdaea5b3e64e412ba11b397ce181425b&pq=sblime&cc=US&setlang=en-US&nclid=D2D31F152A7EC578197F922051F57AED&ts=1785313361813&PC=WSBQUF | sblime - Search
+[Edge] HIST | 2026-07-29 11:22:43 | [12x] https://www.bing.com/?form=SPHPRE1&bbtnserp=1&bbtnfrm=WSBEDG | sblime - Search
+[Edge] HIST | 2026-07-29 11:22:42 | [1x] https://www.bing.com/search?q=sblime&form=WSBEDG&qs=SW&cvid=cdaea5b3e64e412ba11b397ce181425b&pq=sblime&cc=US&setlang=en-US&nclid=D2D31F152A7EC578197F922051F57AED&ts=1785313361813&nclidts=1785313361&tsms=813&PC=WSBQUF | sblime - Search
+[Edge] HIST | 2026-07-29 11:22:27 | [8x] http://localhost/phpmyadmin/index.php?route=/server/sql | localhost / 127.0.0.1 | phpMyAdmin 5.2.1
+[Edge] HIST | 2026-07-29 11:21:51 | [8x] http://localhost/phpmyadmin/ | localhost / 127.0.0.1 | phpMyAdmin 5.2.1
+[Edge] HIST | 2026-07-28 21:46:32 | [1x] http://localhost/FORMsix/intro.php | ?
+[Edge] HIST | 2026-07-28 21:07:52 | [1x] https://www.bing.com/spotlight?spotlightid=WL_WhiteSandsYuccaNewMexico&q=White+Sands+National+Park%2C+New+Mexico&form=M403J8 | White Sands National Park, New Mexico - Search
+[Edge] HIST | 2026-07-28 20:40:51 | [2x] https://www.bing.com/search?q=XAMPP&filters=ufn%3a%22XAMPP%22+sid%3a%226995a82e-44f6-834b-fc50-cf09097c756c%22&asbe=HS&form=WSQFSH&qs=HS&cvid=99e1d8dd382a402f9f0660cecc05f72d&pq=xa&cc=US&setlang=en-US&nclid=D2D31F152A7EC578197F922051F57AED&ts=1785260447611&PC=WSBREC | XAMPP - Search
+[Edge] HIST | 2026-07-28 20:40:51 | [8x] https://www.bing.com/?form=SPHPRE1&bbtnserp=1&bbtnfrm=WSQFSH | XAMPP - Search
+[Edge] HIST | 2026-07-28 20:40:51 | [1x] https://www.bing.com/search?q=XAMPP&filters=ufn%3a%22XAMPP%22+sid%3a%226995a82e-44f6-834b-fc50-cf09097c756c%22&asbe=HS&form=WSQFSH&qs=HS&cvid=99e1d8dd382a402f9f0660cecc05f72d&pq=xa&cc=US&setlang=en-US&nclid=D2D31F152A7EC578197F922051F57AED&ts=1785260447611&nclidts=1785260447&tsms=611&PC=WSBREC | XAMPP - Search
+[Edge] HIST | 2026-07-28 13:09:32 | [1x] https://copilot.microsoft.com/chats/ANeeZDCVhcnJLYrUAyJXm | Microsoft Copilot: Your AI companion
+[Edge] HIST | 2026-07-28 13:09:18 | [2x] https://copilot.microsoft.com/ | Microsoft Copilot: Your AI companion
+[Edge] HIST | 2026-07-28 13:08:45 | [1x] https://copilot.microsoft.com/chats/vtMRHpFqgyTJaSq9ZHa1y?msockid=052450a32f8c6df00b5f46282e0e6c12 | Microsoft Copilot: Your AI companion
+[Edge] HIST | 2026-07-28 13:08:05 | [2x] https://copilot.microsoft.com/?msockid=052450a32f8c6df00b5f46282e0e6c12 | Microsoft Copilot: Your AI companion
+[Edge] HIST | 2026-07-28 13:08:03 | [1x] https://accounts.google.com/ServiceLogin?app_domain=https%3A%2F%2Fauth.copilot.microsoft.com&authuser=2&client_id=293702255113-5edfm31r2gdeamh7uhlkf6ol4s8vrj1b.apps.googleusercontent.com&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hANtPMCVpwUkIw-y0_3K9F1LAieAJXQ9bq9XGBywAmVJGOS4WlFeXIQLEwTPr93-O7wWAba47IaiM-T55eGxwbJE7U-raYuIJJhdzBQ0aY8YTaAPQCJ4ZQE8l_ptJOGwm14UWW8VzSMqIaFe5kO5Mv1ZHtqvs1HV-c63b7rg_5Vle9p9WQ9Q3TVCkOTMJl61Z7wU1kkZUBYgV_UOLWx94VXi_--eZg4HypFz-wmElsB0P_b0bwORH2BXBe2nK05TbDMp_9KXMF6QGab3cvAcBO4TnB6tx52XSzWLwgvLNsRcnVZFMEhMfmtlMrOqeE74d8WF97Zcr-hqOKPJP8l1Vl6ujukWWLTo-3S4koW1V5GcGv4zt12A0XC9PWvw9e54upQD6PR8avWkRpx1JTDQGwTNGZTt56DHM9y_nEOc97TjNRpXjj3_Ok8JQVymky4TXd5nFMptHmixJAB1T8P22ECmBM3HQ2LoclYziXqRSXvYkP-YV50%26flowName%3DGeneralOAuthFlow%26as%3DS-1056564030%253A1785233275992834%26client_id%3D293702255113-5edfm31r2gdeamh7uhlkf6ol4s8vrj1b.apps.googleusercontent.com%26requestPath%3D%252Fsignin%252Foauth%252Fconsent%23&dsh=S-1056564030%3A1785233275992834&flowName=GeneralOAuthFlow&o2v=1&opparams=%253Flibrary_name%253DAuth0&passive=true&prompt=select_account&redirect_uri=https%3A%2F%2Fauth.copilot.microsoft.com%2Flogin%2Fcallback&response_type=code&sacu=1&scope=email%20profile&service=lso&state=ylqLLnjbGegFhcxZyDawC2EcQOVghVOR | Microsoft Copilot: Your AI companion
+[Edge] HIST | 2026-07-28 13:08:03 | [1x] https://accounts.google.com/signin/oauth/consent?authuser=2&part=AJi8hANtPMCVpwUkIw-y0_3K9F1LAieAJXQ9bq9XGBywAmVJGOS4WlFeXIQLEwTPr93-O7wWAba47IaiM-T55eGxwbJE7U-raYuIJJhdzBQ0aY8YTaAPQCJ4ZQE8l_ptJOGwm14UWW8VzSMqIaFe5kO5Mv1ZHtqvs1HV-c63b7rg_5Vle9p9WQ9Q3TVCkOTMJl61Z7wU1kkZUBYgV_UOLWx94VXi_--eZg4HypFz-wmElsB0P_b0bwORH2BXBe2nK05TbDMp_9KXMF6QGab3cvAcBO4TnB6tx52XSzWLwgvLNsRcnVZFMEhMfmtlMrOqeE74d8WF97Zcr-hqOKPJP8l1Vl6ujukWWLTo-3S4koW1V5GcGv4zt12A0XC9PWvw9e54upQD6PR8avWkRpx1JTDQGwTNGZTt56DHM9y_nEOc97TjNRpXjj3_Ok8JQVymky4TXd5nFMptHmixJAB1T8P22ECmBM3HQ2LoclYziXqRSXvYkP-YV50&flowName=GeneralOAuthFlow&as=S-1056564030:1785233275992834&client_id=293702255113-5edfm31r2gdeamh7uhlkf6ol4s8vrj1b.apps.googleusercontent.com&requestPath=/signin/oauth/consent&pli=1# | Microsoft Copilot: Your AI companion
+[Edge] HIST | 2026-07-28 13:08:03 | [1x] https://accounts.google.com/ServiceLogin?rart=ANgoxcfFaoSOu1IS0AaKpuwOAypcPU01dLvunmsEka-C0aVj-IILvc9J15RznUufVbcclNTtMGP_Q2BiHCy1r5b1nY8kl4iE0Q-eHLC5j44rg8NDCZ3g3oQ&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3D2%26part%3DAJi8hANtPMCVpwUkIw-y0_3K9F1LAieAJXQ9bq9XGBywAmVJGOS4WlFeXIQLEwTPr93-O7wWAba47IaiM-T55eGxwbJE7U-raYuIJJhdzBQ0aY8YTaAPQCJ4ZQE8l_ptJOGwm14UWW8VzSMqIaFe5kO5Mv1ZHtqvs1HV-c63b7rg_5Vle9p9WQ9Q3TVCkOTMJl61Z7wU1kkZUBYgV_UOLWx94VXi_--eZg4HypFz-wmElsB0P_b0bwORH2BXBe2nK05TbDMp_9KXMF6QGab3cvAcBO4TnB6tx52XSzWLwgvLNsRcnVZFMEhMfmtlMrOqeE74d8WF97Zcr-hqOKPJP8l1Vl6ujukWWLTo-3S4koW1V5GcGv4zt12A0XC9PWvw9e54upQD6PR8avWkRpx1JTDQGwTNGZTt56DHM9y_nEOc97TjNRpXjj3_Ok8JQVymky4TXd5nFMptHmixJAB1T8P22ECmBM3HQ2LoclYziXqRSXvYkP-YV50%26flowName%3DGeneralOAuthFlow%26as%3DS-1056564030%253A1785233275992834%26client_id%3D293702255113-5edfm31r2gdeamh7uhlkf6ol4s8vrj1b.apps.googleusercontent.com%26requestPath%3D%252Fsignin%252Foauth%252Fconsent%26pli%3D1&authuser=2 | Microsoft Copilot: Your AI companion
+[Edge] HIST | 2026-07-28 13:08:03 | [1x] https://accounts.google.com/InteractiveLogin?authuser=2&continue=https://accounts.google.com/signin/oauth/consent?authuser%3D2%26part%3DAJi8hANtPMCVpwUkIw-y0_3K9F1LAieAJXQ9bq9XGBywAmVJGOS4WlFeXIQLEwTPr93-O7wWAba47IaiM-T55eGxwbJE7U-raYuIJJhdzBQ0aY8YTaAPQCJ4ZQE8l_ptJOGwm14UWW8VzSMqIaFe5kO5Mv1ZHtqvs1HV-c63b7rg_5Vle9p9WQ9Q3TVCkOTMJl61Z7wU1kkZUBYgV_UOLWx94VXi_--eZg4HypFz-wmElsB0P_b0bwORH2BXBe2nK05TbDMp_9KXMF6QGab3cvAcBO4TnB6tx52XSzWLwgvLNsRcnVZFMEhMfmtlMrOqeE74d8WF97Zcr-hqOKPJP8l1Vl6ujukWWLTo-3S4koW1V5GcGv4zt12A0XC9PWvw9e54upQD6PR8avWkRpx1JTDQGwTNGZTt56DHM9y_nEOc97TjNRpXjj3_Ok8JQVymky4TXd5nFMptHmixJAB1T8P22ECmBM3HQ2LoclYziXqRSXvYkP-YV50%26flowName%3DGeneralOAuthFlow%26as%3DS-1056564030%253A1785233275992834%26client_id%3D293702255113-5edfm31r2gdeamh7uhlkf6ol4s8vrj1b.apps.googleusercontent.com%26requestPath%3D%252Fsignin%252Foauth%252Fconsent%26pli%3D1&rart=ANgoxcfFaoSOu1IS0AaKpuwOAypcPU01dLvunmsEka-C0aVj-IILvc9J15RznUufVbcclNTtMGP_Q2BiHCy1r5b1nY8kl4iE0Q-eHLC5j44rg8NDCZ3g3oQ&dsh=S1630050446:1785233279643954 | Microsoft Copilot: Your AI companion
+[Edge] HIST | 2026-07-28 13:08:03 | [1x] https://accounts.google.com/signin/oauth/consent?authuser=2&part=AJi8hANtPMCVpwUkIw-y0_3K9F1LAieAJXQ9bq9XGBywAmVJGOS4WlFeXIQLEwTPr93-O7wWAba47IaiM-T55eGxwbJE7U-raYuIJJhdzBQ0aY8YTaAPQCJ4ZQE8l_ptJOGwm14UWW8VzSMqIaFe5kO5Mv1ZHtqvs1HV-c63b7rg_5Vle9p9WQ9Q3TVCkOTMJl61Z7wU1kkZUBYgV_UOLWx94VXi_--eZg4HypFz-wmElsB0P_b0bwORH2BXBe2nK05TbDMp_9KXMF6QGab3cvAcBO4TnB6tx52XSzWLwgvLNsRcnVZFMEhMfmtlMrOqeE74d8WF97Zcr-hqOKPJP8l1Vl6ujukWWLTo-3S4koW1V5GcGv4zt12A0XC9PWvw9e54upQD6PR8avWkRpx1JTDQGwTNGZTt56DHM9y_nEOc97TjNRpXjj3_Ok8JQVymky4TXd5nFMptHmixJAB1T8P22ECmBM3HQ2LoclYziXqRSXvYkP-YV50&flowName=GeneralOAuthFlow&as=S-1056564030%3A1785233275992834&client_id=293702255113-5edfm31r2gdeamh7uhlkf6ol4s8vrj1b.apps.googleusercontent.com&requestPath=%2Fsignin%2Foauth%2Fconsent&pli=1&rapt=AEjHL4OoR5NemcqBUJbsrBvxWrDToXFkNx5n_uzdHCH9iB0tZB_SoEj68igMKv-40PKLK4NyxahKh8NQntqg-EOM5-bTuyqNZsRbOa0Afco_1Eu6TqztVUY | Microsoft Copilot: Your AI companion
+[Edge] HIST | 2026-07-28 13:08:03 | [1x] https://auth.copilot.microsoft.com/login/callback?state=ylqLLnjbGegFhcxZyDawC2EcQOVghVOR&iss=https%3A%2F%2Faccounts.google.com&code=4%2F0AXEQxIAWdyy1SWCYXNtLmR6i_5kmdnvsMEjWAd_oACRv4cIeprBqTwRqrSU2qBL9ANB9SQ&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid&authuser=2&prompt=none | Microsoft Copilot: Your AI companion
+[Edge] HIST | 2026-07-28 13:08:03 | [1x] https://auth.copilot.microsoft.com/authorize/resume?state=zHnQvjX1G7XjKg9gZp9mP29DhM_XIr5g | Microsoft Copilot: Your AI companion
+[Edge] HIST | 2026-07-28 13:08:03 | [1x] https://copilot.microsoft.com/?code=yFpYJNQ5S6-AvvkRymvLOjMtzjmvyQYJdbFRGJR2VD599&state=fmJrM25QOVJSMEo1c2YzOVo3c2lXa3BMRmpaemJkTWc3dG45R1ZQRWVoSg%3D%3D | Microsoft Copilot: Your AI companion
+[Edge] HIST | 2026-07-28 13:07:58 | [1x] https://auth.copilot.microsoft.com/authorize?client_id=IalDS3vRtEI5X0zvsmGG7zJP9UrHTcei&scope=openid+profile+email+offline_access+ChatAI.ReadWrite&audience=https%3A%2F%2Fcopilot.microsoft.com&redirect_uri=https%3A%2F%2Fcopilot.microsoft.com&prompt=select_account&connection=google-oauth2&response_type=code&response_mode=query&state=fmJrM25QOVJSMEo1c2YzOVo3c2lXa3BMRmpaemJkTWc3dG45R1ZQRWVoSg%3D%3D&nonce=ZDNCNnMtVG5GOGhLeUlsb3NLX25BbUZUVFRRNDRLWTdIWXYwdWExZnFybw%3D%3D&code_challenge=Iub1UkqDV8-YGsKWzLkpqh56BTEkp_j7exXXCM5Og34&code_challenge_method=S256&auth0Client=eyJuYW1lIjoiYXV0aDAtc3BhLWpzIiwidmVyc2lvbiI6IjIuMS4zIn0%3D | Sign in - Google Accounts
+[Edge] HIST | 2026-07-28 13:07:58 | [1x] https://accounts.google.com/o/oauth2/auth?prompt=select_account&library_name=Auth0&response_type=code&redirect_uri=https%3A%2F%2Fauth.copilot.microsoft.com%2Flogin%2Fcallback&scope=email%20profile&state=ylqLLnjbGegFhcxZyDawC2EcQOVghVOR&client_id=293702255113-5edfm31r2gdeamh7uhlkf6ol4s8vrj1b.apps.googleusercontent.com | Sign in - Google Accounts
+[Edge] HIST | 2026-07-28 13:07:58 | [1x] https://accounts.google.com/v3/signin/accountchooser?client_id=293702255113-5edfm31r2gdeamh7uhlkf6ol4s8vrj1b.apps.googleusercontent.com&library_name=Auth0&prompt=select_account&redirect_uri=https%3A%2F%2Fauth.copilot.microsoft.com%2Flogin%2Fcallback&response_type=code&scope=email+profile&state=ylqLLnjbGegFhcxZyDawC2EcQOVghVOR&dsh=S-1056564030%3A1785233275992834&o2v=1&service=lso&flowName=GeneralOAuthFlow&opparams=%253Flibrary_name%253DAuth0&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3Dunknown%26part%3DAJi8hANtPMCVpwUkIw-y0_3K9F1LAieAJXQ9bq9XGBywAmVJGOS4WlFeXIQLEwTPr93-O7wWAba47IaiM-T55eGxwbJE7U-raYuIJJhdzBQ0aY8YTaAPQCJ4ZQE8l_ptJOGwm14UWW8VzSMqIaFe5kO5Mv1ZHtqvs1HV-c63b7rg_5Vle9p9WQ9Q3TVCkOTMJl61Z7wU1kkZUBYgV_UOLWx94VXi_--eZg4HypFz-wmElsB0P_b0bwORH2BXBe2nK05TbDMp_9KXMF6QGab3cvAcBO4TnB6tx52XSzWLwgvLNsRcnVZFMEhMfmtlMrOqeE74d8WF97Zcr-hqOKPJP8l1Vl6ujukWWLTo-3S4koW1V5GcGv4zt12A0XC9PWvw9e54upQD6PR8avWkRpx1JTDQGwTNGZTt56DHM9y_nEOc97TjNRpXjj3_Ok8JQVymky4TXd5nFMptHmixJAB1T8P22ECmBM3HQ2LoclYziXqRSXvYkP-YV50%26flowName%3DGeneralOAuthFlow%26as%3DS-1056564030%253A1785233275992834%26client_id%3D293702255113-5edfm31r2gdeamh7uhlkf6ol4s8vrj1b.apps.googleusercontent.com%26requestPath%3D%252Fsignin%252Foauth%252Fconsent%23&app_domain=https%3A%2F%2Fauth.copilot.microsoft.com | Sign in - Google Accounts
+[Edge] HIST | 2026-07-28 13:07:40 | [2x] https://www.bing.com/search?qs=AS&pq=cop&sk=CSYN1&sc=15-3&pglt=43&q=copilot&cvid=b3d473e2f7a24543821d3f50cad1a630&gs_lcrp=EgRlZGdlKgYIARAAGEAyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQLhhAMgYICBAAGEDSAQgyMTE4ajBqN6gCALACAA&FORM=ANAB01&PC=SCOODB | copilot - Search
+[Edge] HIST | 2026-07-28 13:07:40 | [1x] https://www.bing.com/ck/a?!&&p=f2addde8f9b929772fbb804af9eb573bed2a2d5d528e761004ba8465b4386aa7JmltdHM9MTc4NTE5NjgwMA&ptn=3&ver=2&hsh=4&fclid=052450a3-2f8c-6df0-0b5f-46282e0e6c12&psq=copilot&u=a1aHR0cHM6Ly9jb3BpbG90Lm1pY3Jvc29mdC5jb20vP21zb2NraWQ9MDUyNDUwYTMyZjhjNmRmMDBiNWY0NjI4MmUwZTZjMTI&ntb=1 | ?
+[Edge] HIST | 2026-07-28 13:07:22 | [2x] https://auth.openai.com/add-phone | Phone number required - OpenAI
+[Edge] HIST | 2026-07-28 13:07:22 | [1x] https://accounts.google.com/o/oauth2/v2/auth?response_type=code&client_id=799222349882-ne3i0s9jdm5s0p7ll2d7tlsi1vc1halt.apps.googleusercontent.com&redirect_uri=https%3A%2F%2Fauth.openai.com%2Fapi%2Faccounts%2Fcallback%2Fgoogle&scope=openid+profile+email&state=9ad18588-53d5-40a0-bd7f-ba16acae566c&audience=799222349882-ne3i0s9jdm5s0p7ll2d7tlsi1vc1halt.apps.googleusercontent.com&login_hint=peterngoye7383%40gmail.com&nonce=Jpm54yGyu8wLMKX2cuby | Phone number required - OpenAI
+[Edge] HIST | 2026-07-28 13:07:22 | [1x] https://auth.openai.com/api/accounts/callback/google?state=9ad18588-53d5-40a0-bd7f-ba16acae566c&iss=https%3A%2F%2Faccounts.google.com&code=4%2F0AXEQxIDG6fZVzK28kqu6UUuVfMw5gFICzylH0GV-WikTwRobBKHvD7hWPRid9nVsztOfpA&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&authuser=2&prompt=none | Phone number required - OpenAI
+[Edge] HIST | 2025-10-13 15:04:25 | [1x] https://www.skillsboxonline.com/25c94cab-3ea8-4762-b286-d5019d73ed35/b2c_1a_signin_combinedflow/oauth2/v2.0/authorize?client_id=75302778-627f-46bf-82e8-ea9a9d816e43&scope=openid%20offline_access%20https%3A%2F%2Fskillsboxcoreuserproduction.onmicrosoft.com%2F75302778-627f-46bf-82e8-ea9a9d816e43%2FAPI.Access%20profile&redirect_uri=https%3A%2F%2Fcore.skillsbox.com%2Fauthentication%2Flogin-callback&client-request-id=b960fae3-0063-4373-81f0-c0f17df33c7a&response_mode=fragment&response_type=code&x-client-SKU=msal.js.browser&x-client-VER=2.33.0&client_info=1&code_challenge=-rhK1jCAlsxulZ9SZwkUuGKY3I5afEHmjo2vylOwm_U&code_challenge_method=S256&nonce=c076be95-855f-4817-8d3c-0e3ab508f43a&state=eyJpZCI6ImRjYTQ3YTU1LTE2MmItNGYzNi04MDkyLTQ0NzJmOGVlOTU2NyIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoicmVkaXJlY3QifX0%3D%7CeyJyZXR1cm5VcmwiOiJodHRwcyUzQSUyRiUyRmNvcmUuc2tpbGxzYm94LmNvbSUyRiJ9 | Choose your account
+[Edge] HIST | 2025-10-13 15:04:07 | [2x] https://core.skillsbox.com/ | Skillsbox UI
+[Edge] HIST | 2025-10-13 15:03:57 | [2x] https://skillsbox.com/ | Skillsbox
+[Edge] HIST | 2025-10-13 15:03:50 | [1x] http://skillsbox.com/ | Skillsbox
+[Edge] HIST | 2025-11-04 14:41:57 | [1x] https://account.live.com/tou/accrue?mkt=EN-US&uiflavor=web&client_id=1E00004831683A&id=293577&ru=https://login.live.com/oauth20_authorize.srf%3fuaid%3ddd96e04c750e457db2bf94449c9f6245%26client_id%3d81feaced-5ddd-41e7-8bef-3e20a2689bb7%26opid%3d818C290B8AFE7751%26mkt%3dEN-US%26opidt%3d1762256514 | We're updating our terms
+[Edge] HIST | 2025-11-04 14:41:55 | [1x] https://login.microsoftonline.com/consumers/oauth2/v2.0/authorize?client_id=81feaced-5ddd-41e7-8bef-3e20a2689bb7&scope=openid%20profile%20offline_access&redirect_uri=https%3A%2F%2Faccount.microsoft.com%2Fauth%2Fcomplete-client-signin-oauth-silent&client-request-id=dd96e04c-750e-457d-b2bf-94449c9f6245&response_mode=fragment&response_type=code&x-client-SKU=msal.js.browser&x-client-VER=2.37.0&client_info=1&code_challenge=iAxNXtVBmkP960JJtCplmApfrVF5SrfoMH7rShCpQq8&code_challenge_method=S256&login_hint=ibrahnation092%40icloud.com&X-AnchorMailbox=UPN%3Aibrahnation092%40icloud.com&nonce=4ccc957a-021f-4fc5-9b9b-209c019c752c&state=eyJpZCI6IjI5ZDQ2YjlkLWI0NzgtNDAxNi05OGFhLTViMjk3NzEwMDg0ZCIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoicmVkaXJlY3QifX0%3D | Continue
+[Edge] HIST | 2025-11-04 14:41:55 | [1x] https://login.live.com/oauth20_authorize.srf?client_id=81feaced-5ddd-41e7-8bef-3e20a2689bb7&scope=openid+profile+offline_access&redirect_uri=https%3a%2f%2faccount.microsoft.com%2fauth%2fcomplete-client-signin-oauth-silent&response_type=code&state=eyJpZCI6IjI5ZDQ2YjlkLWI0NzgtNDAxNi05OGFhLTViMjk3NzEwMDg0ZCIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoicmVkaXJlY3QifX0%3d&response_mode=fragment&nonce=4ccc957a-021f-4fc5-9b9b-209c019c752c&login_hint=ibrahnation092%40icloud.com&code_challenge=M6QhsJFMVv-M5piyTABFbfqRBBuAJQINUzGgDkwAZm0&code_challenge_method=S256&x-client-SKU=msal.js.browser&x-client-Ver=2.37.0&uaid=dd96e04c750e457db2bf94449c9f6245&msproxy=1&issuer=mso&tenant=consumers&ui_locales=en-US&client_info=1&epct=PAQABDgEAAABlMNzVhAPUTrARzfQjWPtKbQQthX17Xz6ZKFAMiw-JYUY0NqtAqIxQJFuukEQ4Wfx80vZcXjPo7rqIMycCeoEdxtP5-G8cwwAn7LnjYzAh4gbirDMD2Afs-Nz5NaNRx9xCMmEzukm8nta7K4gwl_XhPWvX6ZjpvFwDBkH0N1x5xG3_pqha8YNAwyjzDA7wwHVgzVtBuOc5bKe_qFyLfCPOF8wen_cjoygfd3wTfyLRECAA&jshs=0# | Continue
+[Edge] HIST | 2025-11-04 14:41:44 | [2x] https://account.microsoft.com/?ref=Edge_settings | Continue
+[Edge] HIST | 2025-11-04 14:41:44 | [1x] https://login.microsoftonline.com/consumers/oauth2/v2.0/authorize?scope=service::account.microsoft.com::MBI_SSL+openid+profile+offline_access&response_type=code&client_id=81feaced-5ddd-41e7-8bef-3e20a2689bb7&redirect_uri=https:%2F%2Faccount.microsoft.com%2Fauth%2Fcomplete-signin-oauth&login_hint=ibrahnation092%40icloud.com&x-anchormailbox=upn:ibrahnation092%40icloud.com&client-request-id=e9dc7699-980c-4629-8f0e-3aea33a41037&x-client-SKU=MSAL.Desktop&x-client-Ver=4.66.1.0&x-client-OS=Windows+Server+2019+Datacenter&prompt=none&client_info=1&state=H4sIAAAAAAAEAAXBTXuCIAAA4P-yqwfE8KPDDqJTs2yYNrEbioZR9oyZSr9-7_sxYT9cHcLtY3FngRxTpUszsB595tiaP8cIRu_uJr7jYuDXGVaH91KUdxCxs7ey5QKsrOEhfNw4NU6Jb4na9DaStnUtFZoBCpvQbnt2TCzSdpRkuSwnsJQFGmU0w4BW-QVxVtY3I8sb0Pl2Eyj8cJxX_JBKAveXmgd7_Yoz6WCg5aHuz8-X1VzQ-mPho4Ouh28oXoZpCqQI6am7W5Jxc8pe2_j055J4y8uZK72mOt62fnkNMB-mYgD2splIyizf611vVKR546Ya3eVnjtAueKPqS0-hfg65ywScxluqJrHf0VYkwmZH2XGNWx3YLe4SD6YjyyruhgzVPcyx0fnA2Al3zSjUCUnV09sPIT1_fvwDNscv724BAAA&msaoauth2=true | ?
+[Edge] HIST | 2025-11-04 14:41:44 | [1x] https://login.live.com/oauth20_authorize.srf?client_id=81feaced-5ddd-41e7-8bef-3e20a2689bb7&scope=service%3a%3aaccount.microsoft.com%3a%3aMBI_SSL+openid+profile+offline_access&redirect_uri=https%3a%2f%2faccount.microsoft.com%2fauth%2fcomplete-signin-oauth&response_type=code&state=H4sIAAAAAAAEAAXBTXuCIAAA4P-yqwfE8KPDDqJTs2yYNrEbioZR9oyZSr9-7_sxYT9cHcLtY3FngRxTpUszsB595tiaP8cIRu_uJr7jYuDXGVaH91KUdxCxs7ey5QKsrOEhfNw4NU6Jb4na9DaStnUtFZoBCpvQbnt2TCzSdpRkuSwnsJQFGmU0w4BW-QVxVtY3I8sb0Pl2Eyj8cJxX_JBKAveXmgd7_Yoz6WCg5aHuz8-X1VzQ-mPho4Ouh28oXoZpCqQI6am7W5Jxc8pe2_j055J4y8uZK72mOt62fnkNMB-mYgD2splIyizf611vVKR546Ya3eVnjtAueKPqS0-hfg65ywScxluqJrHf0VYkwmZH2XGNWx3YLe4SD6YjyyruhgzVPcyx0fnA2Al3zSjUCUnV09sPIT1_fvwDNscv724BAAA&prompt=none&login_hint=ibrahnation092%40icloud.com&x-client-SKU=MSAL.Desktop&x-client-Ver=4.66.1.0&uaid=e9dc7699980c46298f0e3aea33a41037&msproxy=1&issuer=mso&tenant=consumers&ui_locales=en-US&client_info=1&epct=PAQABDgEAAABlMNzVhAPUTrARzfQjWPtK--XBSF2uYAsyk2IolfLYy3xl06bnEzkbvK18gAWSQVWtKHmzPBIvaEWiRPJCqxT7TZ0A0m235mWtj6SkLYvqz8rEKdjYNpCGGx0BVfKRsmNuPQAURkyDYaEYBrJoglxMzJeIMbKw08mVVRwb4TGbF_ejgCUqSCnLuq_8I7IrJIBLHHGf7YEtacLfYAcLuUmOptjq8MrhteIPEeK0r08NDiAA&jshs=0# | ?
+[Edge] HIST | 2025-11-04 14:41:44 | [1x] https://account.microsoft.com/auth/complete-signin-oauth?code=M.C527_BL2.2.U.bb9bea17-712f-7c79-18ad-b99518e07f1c&client_info=eyJ2ZXIiOiIxLjAiLCJzdWIiOiJBQUFBQUFBQUFBQUFBQUFBQUFBQUFQcnVLMm1pWkZ2eXZsU25sQjRoTlpjIiwibmFtZSI6IklicmFoaW0gUGl1cyIsInByZWZlcnJlZF91c2VybmFtZSI6ImlicmFobmF0aW9uMDkyQGljbG91ZC5jb20iLCJvaWQiOiIwMDAwMDAwMC0wMDAwLTAwMDAtNjM4MC01ZTc4MjQ3NjgzODMiLCJ0aWQiOiI5MTg4MDQwZC02YzY3LTRjNWItYjExMi0zNmEzMDRiNjZkYWQiLCJob21lX29pZCI6IjAwMDAwMDAwLTAwMDAtMDAwMC02MzgwLTVlNzgyNDc2ODM4MyIsInVpZCI6IjAwMDAwMDAwLTAwMDAtMDAwMC02MzgwLTVlNzgyNDc2ODM4MyIsInV0aWQiOiI5MTg4MDQwZC02YzY3LTRjNWItYjExMi0zNmEzMDRiNjZkYWQifQ&state=H4sIAAAAAAAEAAXBTXuCIAAA4P-yqwfE8KPDDqJTs2yYNrEbioZR9oyZSr9-7_sxYT9cHcLtY3FngRxTpUszsB595tiaP8cIRu_uJr7jYuDXGVaH91KUdxCxs7ey5QKsrOEhfNw4NU6Jb4na9DaStnUtFZoBCpvQbnt2TCzSdpRkuSwnsJQFGmU0w4BW-QVxVtY3I8sb0Pl2Eyj8cJxX_JBKAveXmgd7_Yoz6WCg5aHuz8-X1VzQ-mPho4Ouh28oXoZpCqQI6am7W5Jxc8pe2_j055J4y8uZK72mOt62fnkNMB-mYgD2splIyizf611vVKR546Ya3eVnjtAueKPqS0-hfg65ywScxluqJrHf0VYkwmZH2XGNWx3YLe4SD6YjyyruhgzVPcyx0fnA2Al3zSjUCUnV09sPIT1_fvwDNscv724BAAA | ?
+[Edge] HIST | 2025-11-04 14:41:44 | [1x] https://account.microsoft.com/auth/complete-client-signin-oauth-silent?state=H4sIAAAAAAAEAAXByYKCIAAA0H-Z6xwGcSGPg1lkIlaM2y2XDMqtTNGvn_e-fKFJJ3ivqNShbsE0TkEqbhOK6ilbFEah3IuO2ixu3olWHiuVKxMd0IeH-SfTHIo86FTuGvHbJcXHy9gZV92t4TI8Fffmu1-Hw2SAilRRoe1oNE9E2vYErYT3gY0Vb-wVqIBnrbW_seTUsACy-AUFhHFFPVbievbZvbhWtvHu40PZLcgfOxqvBAfNqzYBGWstzfaIDcE4iSQCwGxzN9RbhKkMLWZ01xx_Xhl40AbsBJw84dvFivvHBmMW9Xl4OiTiB8C7uSFXedoa8vd5OAfdabP3eNvqv2rsO9ulauGT8NP8jXA0dqXkw1aGiMzusvvLju0PUs4f6fmwvEitXOs7Os-bs4G36-5yNIvAUZ5LHHChmcxC07mhJM09s_j6B4tS0o2CAQAA | ?
+[Edge] HIST | 2025-11-04 14:41:36 | [1x] https://go.microsoft.com/fwlink/?linkid=2114187 | Continue
+[Edge] HIST | 2025-11-04 14:41:36 | [1x] https://login.live.com/login.srf?wa=wsignin1.0&rpsnv=179&checkda=1&ct=1762256492&rver=7.5.2234.0&wp=MBI_SSL&wreply=https:%2F%2Faccount.microsoft.com%2Fauth%2Fcomplete-silent-signin%3Fru%3Dhttps%253A%252F%252Faccount.microsoft.com%252F%253Fref%253DEdge_settings&lc=1033&id=292666 | Continue
+[Edge] HIST | 2025-11-04 14:41:00 | [0x] https://www.mozilla.org/firefox/?utm_medium=firefox-desktop&utm_source=bookmarks-toolbar&utm_campaign=new-users&utm_content=-global | Getting Started
+[Edge] HIST | 2025-11-04 14:41:00 | [0x] https://www.bing.com/search?pglt=2083&q=earth+magnetic+field+to+generate+electicity&cvid=cb8b81f064cc428f81b5050682be487d&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQABhA0gEJNDAyNzFqMGoxqAIIsAIB&FORM=ANNTA1&PC=U531 | earth magnetic field to generate electicity - Search
+[Edge] HIST | 2025-11-04 14:41:00 | [0x] https://www.bing.com/search?q=nhif+verification+portal&gs_lcrp=EgRlZGdlKgcIARBFGMIDMgcIABBFGMIDMgcIARBFGMID0gELMzExNjcxNmowajGoAgKwAgE&FORM=ANAB01&PC=U531 | nhif verification portal - Search
+[Edge] HIST | 2025-11-04 14:41:00 | [0x] https://verification.nhif.or.tz/ServicePortal/modules/verification/pre-approvals | verification.nhif.or.tz/ServicePortal/modules/verification/p
+[Edge] HIST | 2025-11-04 14:41:00 | [0x] https://utweb.rainberrytv.com/gui/index.html?v=1.4.0.5759&localauth=localapiad8a349fd5e2f57c:#/dashboard | μTorrent Web
+[Edge] HIST | 2025-11-04 14:41:00 | [0x] http://192.168.1.4:8080/ | inaya
+[Edge] HIST | 2025-11-04 14:41:00 | [0x] https://verification.nhif.or.tz/ServicePortal/ | National Health Insurance Fund
+[Edge] HIST | 2025-11-04 14:41:00 | [0x] http://192.168.1.4/ | inaya
+[Edge] HIST | 2025-11-04 14:41:00 | [0x] https://www.mozilla.org/about/ | About Us
+[Edge] HIST | 2025-11-04 14:41:00 | [0x] https://www.mozilla.org/contribute/ | Get Involved
+[Edge] HIST | 2025-11-04 14:41:00 | [0x] https://support.mozilla.org/kb/customize-firefox-controls-buttons-and-toolbars?utm_source=firefox-browser&utm_medium=default-bookmarks&utm_campaign=customize | Customize Firefox
+[Edge] HIST | 2025-11-04 14:41:00 | [0x] https://support.mozilla.org/products/firefox | Get Help
+[Edge] HIST | 1601-01-01 03:00:00 | [0x] https://www.instagram.com/ | (1) Instagram • Messages
+[Opera] HIST | 2025-09-24 12:28:19 | [1x] https://chatgpt.com/c/68d3b99c-d2f4-8332-ab43-ce55353fe661 | chatgpt.com
+[Opera] HIST | 2025-09-24 12:27:56 | [9x] https://chatgpt.com/ | chatgpt.com
+[Opera] HIST | 2025-09-24 12:27:49 | [1x] https://www.google.com/search?client=opera&hs=tdQ&sca_esv=9349b9a2334e1130&sxsrf=AE3TifPHZJi7RHh2r64pTVuAiI-WqLj_nw:1758706066661&q=chatgpt&sa=X&ved=2ahUKEwjOmvjSivGPAxX_hv0HHYnyOHEQ7xYoAHoECAoQAQ&biw=1866&bih=958 | chatgpt - Google Search
+[Opera] HIST | 2025-09-24 12:27:47 | [1x] https://www.google.com/search?client=opera&q=cht+gp&sourceid=opera&ie=UTF-8&oe=UTF-8 | cht gp - Google Search
+[Opera] HIST | 2025-09-17 11:25:13 | [10x] http://aaarushascience.co.tz/sms/studentlogin.php | ARUSHA SCIENCE
+[Opera] HIST | 2025-09-17 11:25:13 | [4x] https://aaarushascience.co.tz/sms/studentlogin.php | ARUSHA SCIENCE
+[Opera] HIST | 2025-09-15 12:13:37 | [4x] https://aaarushascience.co.tz/ | Arusha Science
+[Opera] HIST | 2025-09-15 12:13:33 | [3x] https://www.google.com/search?client=opera&q=arusha+science+secondary+school&sourceid=opera&ie=UTF-8&oe=UTF-8 | arusha science secondary school - Google Search
+[Opera] HIST | 2025-09-15 12:09:20 | [1x] https://accounts.google.com/lifecycle/steps/signup/error/1?TL=ALgCv6x6Y6w1O2tuGLaynnBFfdtXBRvYDWvY7Q_w9p35SYTawog2lHqz9MDh6kNP&continue=https%3A%2F%2Faccounts.google.com%2FManageAccount%3Fnc%3D1&dsh=S-350503246%3A1757918922057063&flowEntry=SignUp&flowName=GlifWebSignIn&ifkv=AdBytiNua_2zXdur2Kydvr3Fa7Cnxg44Z-hUe3PZbmDi9F4f-CDSQ0-419vpu3d_uuMNeEcl668F&pstMsg=0 | Sign in - Google Accounts
+[Opera] HIST | 2025-09-15 10:06:35 | [2x] https://aaarushascience.co.tz/# | Arusha Science
+[Opera] HIST | 2025-09-15 10:03:05 | [3x] http://aaarushascience.co.tz/sms/student/index.php | ARUSHA SCIENCE
+[Opera] HIST | 2025-09-15 09:56:30 | [1x] https://myaccount.google.com/people-and-sharing | People & sharing
+[Opera] HIST | 2025-09-15 09:54:42 | [2x] https://myaccount.google.com/personal-info | Personal info
+[Opera] HIST | 2025-09-15 09:54:35 | [1x] https://myaccount.google.com/ | Google Account
+[Opera] HIST | 2025-09-15 09:53:41 | [5x] https://myaccount.google.com/?authuser=0 | Google Account
+[Opera] HIST | 2025-09-15 09:53:41 | [5x] https://accounts.google.com/ServiceLogin?service=accountsettings&passive=1209600&osid=1&continue=https://myaccount.google.com/?authuser%3D0&followup=https://myaccount.google.com/?authuser%3D0&authuser=0 | Google Account
+[Opera] HIST | 2025-09-15 09:53:41 | [5x] https://myaccount.google.com/?authuser=0&pli=1 | Google Account
+[Opera] HIST | 2025-09-15 09:53:41 | [5x] https://myaccount.google.com/?pli=1 | Google Account
+[Opera] HIST | 2025-09-15 09:53:41 | [1x] https://accounts.google.com/ServiceLogin?continue=https://accounts.google.com/&hl=en&authuser=0&passive=true&sarp=1&aodrpl=1&pstMsg=0 | Google Account
+[Opera] HIST | 2025-09-15 09:53:41 | [1x] https://accounts.google.co.tz/accounts/SetSID?ssdc=1&sidt=ALWU2cuuTw8HtwDPuZra3zgsbmsBhs1bSTiNqpbzwnSUpIyBxTXZH/WLbaSoJsZrLG8rWtg3AkElztR1B/xtP6c790JpVmy8EaC4dyPwqNudk42fGfZPoMh9E8QQ9G/UevglXHAp2uMRgxmQpWGXlQ%2BN/PtUMM6zKJdR6RsYbs8bQviM7Uc5S7TQ5Vz94hkdo1%2BdCVJ6ehy3T63K79VY/EJhjZrDLi6za3UetaplyJZ1QV2g1pq9QXgiiF2GvSmwaflzR33VbZa07cFnlvwCpkPSAtSbGDVRFMM9mgTsU9DyOTeFO%2Bpp1jYcCPKX5OfgxLcyddQbY9VO5mpTUWBEzSb3VIXv57EIG/eYwhqVrmKgaxvgUJJgrvK3G07FkUc01zCq7La/DNa2wlKM2UzRcbiZGcIOM9rfaPINQUMAtPikmpNaOstoMllY3mCjAWfOCdGEVU05ZIGmljmOIKM7kU/k0BbqqxaqeU3JYCING4v4wcaNBftBYOo/HoigCat/aOF47K3AzPI0c3%2BRpOsOod73xCfk0oZzJBItK3R0q/Ks3GhA2syR7Z6Ssb2/4nOEYJxrdBG6bnOSEVNOSLIjiG2dM8mOEXE%2BI/M8lx/w9GMCjFFeoQx%2BjIHIl%2BaXdGSiBAM9AUzVlVZdDrZ6aWu1WgjysXJcQpbJr7QPdP4apdqJC98E1iRGEr%2BZl0DUm3WvhSx5CT%2BerOg3uBCYvobpY2LjiBy4K2jF7Pg0BpDOtfAfzBOODOtvi83PaeE9FY26OiHftJgqBXyoz/oeZvtC%2BH5aDVKAYQnYiuMHj7Q9PxEbZsqkKrKpCdvPs7skc1aRzp2ho2RjUroWOnZueMrCg9ig5HlMAO9aESWKmks4mICTqFsM%2BCD6y2LNbXO58IX0ksBRZ8MDgN2y9EpyYwD4puCwq73HFHcpvTAXHa%2B%2BqiNOSrFBM5HoU6Pjix250uzUGhB0zmHr%2BSZRmRpJ9uH5wois3BPxgwg4L28MuDEszc37MeGVWPmozevKkjCHK27hip52H9ApH8pC6mOvw6VPxlx92PTPQ1ZbdipWxeKAt9tObXfF1bZccRi%2B9f66fFSVJsRB2o45WXo6gEowx5xWurkzDFgycIL/VsdeDNjH%2BtWh8T%2BotT3t%2BOIXgOj0txg%2B2y1sT8uqXjcYzJPuj/jyHI/RtUQflgHULEuorqNlNUYvBQ999M8c7vzRjg3EA4EIoaWix/O4ElnqXgNyMJ6sWAdTDoQ3XnDfxnwXc20vLl/pUIy35c9KiYAHvK5Jt%2B38FP1U%2BZ3Jjl4ILcZKothI2aiAf7cuOCPPneU/WiKPFTDyN%2BhVRWoKLVo94u7NJDo8Tj/CQObo1%2BjlzAxYBvWs6Vxt9frucYWfwzhGD59rpZRstbu/JIbT8Nby%2Bg8Rl9HwgX%2BVjE%2BJ%2BgEJGy/FNc60QLP521u%2BPKmpdrsG4RGt7ChWywG6qnF7bUvwsOxc7uP85WBzaydL%2B1oW9JrQSN5LQ5zsx7LG7C44KInn57KdmvFGYTrEZxJB/pWOQz6AB6T83R%2BMXzQ5LGJ/22Uhi1/l2SpIYpXpOl/UOxqWYaQ%2Bi463s16mMG0Y/ZTOoTEDRvMGTXrH2aqPfib37jUlzkapLCHLvk/LnriQi4jHdAWrrSV6VI5klWrQB1Bn8qLjqW58ldTe4oaLxMhCwIydEKUad/La1GNyJQ7SmvoJzWyDg7lgeVoOEGqhIk22H47/y3E6w81Bn/MvHx2bFJ5xxVyG4xdu9gftnRpuqbgdtJddWMcbf42hi5kuZ9Ml%2BeBVZ66eAKKI%2BsBUn5dqVzbSQb8eeFDlr7wrMQmzZfyyEqAgTzRdz9XhmdfCPXwkP8XsM9RVFM39ud/2ERsiWkB07Lv4%2BKJce4VxsiEBH/Lty/Ti4yLC1XoW4MK4vzzJM2UjcRyAA62LaPlCA3%2BehJlKn7WxvxbKYiRx9h0GVnvD6dqZvvLeDglSYcvWxL6tZSf/phESqLUmAV0n6nvGnQ4OdKk3qlfrt3kz0dXz3jZtHGCC0QD3QJm3%2BDTsNVeIa28n3f54nLlvJubUNCM%2B2y6pzSnj6wc7MuY32F4POfYUtd6lVoflUCBmTzNj8ST24qBBeYXsjxWJqN2D76BbBSS73DshoS9ixB/fTWLR9PARc9d%2BaQB2G1poqUrsgbNv3QSCL1Uqlx318Ua4DHVgheSdVWZjPkMj01gr8g7m2DYukbfQPvETLEh0e4sl7jtQw%2B9onkS4%2B5B%2BXj0j7PMggZG9eDyhpPsgrM8j9lo6fINPk2tCkp7VIzieiZ2%2BD9hICcPmlsNGhF%2BPgj396ovnLQnbZNdvgJorsedLIwD8ZAeK6jYZeM8xuuemdsDGR5fIqOsA1ShaAYzykIChVJvmA7gqZPULggBTo7IxSJNBqI8quZEE3i/RpfSp%2BDD1544kpCtSYpaiiyJXkQ7T9h%2BkvCdYQd9noeTg9rlyiUKb8tIDRPRf0duKQfhV%2ByfiEDTOU8AtVoz0zFJgShhHMHbsLOKNsAbrCAd6Z6WJNIRRSykLEHxhQ3KhjuSDGF1OMl68NfEuFy%2B451lIH6kDQKq%2Bywnn180XVgJxGqYbrX2cx7C12yp9arC4y0ClVGSdnRLgJbI4xFwq9YOyvoX8%2Bp7KOPLF0GNHA/wgGqaCVx9tJfw7j8sz0I9M7qinSC0hwbY%3D&continue=https://accounts.google.com/?pli%3D1 | Google Account
+[Opera] HIST | 2025-09-15 09:53:41 | [1x] https://accounts.google.com/?pli=1 | Google Account
+[Opera] HIST | 2025-09-15 09:53:41 | [1x] https://myaccount.google.com/accounts/SetOSID?authuser=0&continue=https://myaccount.google.com/?authuser%3D0%26pli%3D1&osidt=ALWU2cs4BUhh2ImvvqXFLZhLk46TvZuTYub84QYv-zhdqP7LcLW_hluSo-mITzkBgCZ5xh43aC-1DHdZ6Lh2Yxx5pf1vz1C-Ay0gBjFVx7ABbYMT6wKSFfTTn-7tfSCTiromJ2R9F4E2iSOzhOxHsrXElivB6ysNgbd8T2yM31bnWLNZWsboXSITOqK6IliSPCccYIEm5s_BWJbYlWET5KxPLBNwttX9kf1P9pFOSrH_mh3FFNaTsVpn7iOXOLWGb-emEbN_CFY0_kE5AxK9KQP-oxst8ZpQRPiTHO2s7zOOymSd0gBWsSEUzDmCaflUf4sPqICoySyog-BIvDb0ILv4hFNpj0odjIyF4GiFwpydHKK2YmdV4uG1poAV_YS3itQeHcFPlBLYWGbwsjWH6sZCCjhhCGE1f-qx_ExVt6jJXYeFYjx6xT9te0wKtsWzNPR0gqRab_kio-ha54IRkYPm-rgDFT9Izjhxcm73Mp4vj_7MQQXcMzE&ifkv=AdBytiPotCJ1x-FwEoAAxU9vioWGxv1eKv03RWzGa29BwvRLMrhbifnqZGpmoTwh5z00TNj-sry3Aw | Google Account
+[Opera] HIST | 2025-09-15 09:53:32 | [1x] https://support.google.com/accounts/answer/27441?hl=en&ref_topic=3382296&sjid=18209904943698206250-EU | Create a Google Account - Computer - Google Account Help
+[Opera] HIST | 2025-09-15 09:53:22 | [1x] https://support.google.com/accounts?hl=en&visit_id=638935160008461830-1519195360&rd=2&p=account_iph#topic=3382296 | Google Account Help
+[Opera] HIST | 2025-09-15 09:53:21 | [1x] https://support.google.com/accounts?hl=en-US&p=account_iph | Google Account Help
+[Opera] HIST | 2025-09-15 09:53:21 | [1x] https://support.google.com/accounts/?hl=en&p=account_iph | Google Account Help
+[Opera] HIST | 2025-09-15 09:53:21 | [1x] https://support.google.com/accounts?hl=en&visit_id=638935160008461830-1519195360&p=account_iph&rd=1 | Google Account Help
+[Opera] HIST | 2025-09-15 09:53:21 | [1x] https://support.google.com/accounts?hl=en&visit_id=638935160008461830-1519195360&rd=2&p=account_iph | Google Account Help
+[Opera] HIST | 2025-09-15 09:52:31 | [1x] https://gds.google.com/web/chip?cardIndex=1&hl=en&authuser=0&tda=CAA&gdsid=2026283491&continue=https%3A%2F%2Faccounts.google.com%2FServiceLogin%3Fcontinue%3Dhttps%3A%2F%2Faccounts.google.com%2F%26hl%3Den%26authuser%3D0%26passive%3Dtrue%26sarp%3D1%26aodrpl%3D1%26pstMsg%3D0&rapt=AEjHL4OulILX09i4keu3U_B2jIvQ-_95IMjOabne5SjrqgInnShw8E_l3RadcZ8OStrOKrC_VPDvzcClFSSxt1YoEo0geIVoFg&ep=p | Google Account
+[Opera] HIST | 2025-09-15 09:52:25 | [1x] https://gds.google.com/web/homeaddress?cardIndex=0&hl=en&authuser=0&tda=CAA&gdsid=2026283491&continue=https%3A%2F%2Faccounts.google.com%2FServiceLogin%3Fcontinue%3Dhttps%3A%2F%2Faccounts.google.com%2F%26hl%3Den%26authuser%3D0%26passive%3Dtrue%26sarp%3D1%26aodrpl%3D1%26pstMsg%3D0&rapt=AEjHL4OulILX09i4keu3U_B2jIvQ-_95IMjOabne5SjrqgInnShw8E_l3RadcZ8OStrOKrC_VPDvzcClFSSxt1YoEo0geIVoFg&ep=p | Google Account
+
+────────────────────────────────────────────────────────────
+  8. BOOKMARKS
+────────────────────────────────────────────────────────────
+[Edge] BM | bookmark_bar | Gmail | https://accounts.google.com/b/0/AddMailService
+[Edge] BM | bookmark_bar | YouTube | https://youtube.com/
+[Edge] BM | bookmark_bar | Maps | https://maps.google.com/
+[Edge] BM | bookmark_bar | inaya | http://192.168.1.4:8080/
+[Edge] BM | bookmark_bar | Instagram | https://www.instagram.com/
+[Edge] BM | bookmark_bar | lo | http://192.168.1.4/
+[Edge] BM | bookmark_bar | μTorrent Web | https://utweb.rainberrytv.com/gui/index.html?v=1.4.0.5759&localauth=localapiad8a349fd5e2f57c:#/dashboard
+[Edge] BM | bookmark_bar | inaya | http://192.168.1.4/
+[Edge] BM | bookmark_bar | verification.nhif.or.tz/ServicePortal/modules/verification/pre-approvals | https://verification.nhif.or.tz/ServicePortal/modules/verification/pre-approvals
+[Edge] BM | bookmark_bar | nhif verification portal - Search | https://www.bing.com/search?q=nhif+verification+portal&gs_lcrp=EgRlZGdlKgcIARBFGMIDMgcIABBFGMIDMgcIARBFGMID0gELMzExNjcxNmowajGoAgKwAgE&FORM=ANAB01&PC=U531
+[Edge] BM | bookmark_bar | earth magnetic field to generate electicity - Search | https://www.bing.com/search?pglt=2083&q=earth+magnetic+field+to+generate+electicity&cvid=cb8b81f064cc428f81b5050682be487d&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQABhA0gEJNDAyNzFqMGoxqAIIsAIB&FORM=ANNTA1&PC=U531
+[Edge] BM | bookmark_bar | Getting Started | https://www.mozilla.org/firefox/?utm_medium=firefox-desktop&utm_source=bookmarks-toolbar&utm_campaign=new-users&utm_content=-global
+[Edge] BM | other/Mozilla Firefox Bookmarks Menu/Mozilla Firefox | Get Help | https://support.mozilla.org/products/firefox
+[Edge] BM | other/Mozilla Firefox Bookmarks Menu/Mozilla Firefox | Customize Firefox | https://support.mozilla.org/kb/customize-firefox-controls-buttons-and-toolbars?utm_source=firefox-browser&utm_medium=default-bookmarks&utm_campaign=customize
+[Edge] BM | other/Mozilla Firefox Bookmarks Menu/Mozilla Firefox | Get Involved | https://www.mozilla.org/contribute/
+[Edge] BM | other/Mozilla Firefox Bookmarks Menu/Mozilla Firefox | About Us | https://www.mozilla.org/about/
+[Edge] BM | other/Mozilla Firefox Bookmarks Menu | inaya | http://192.168.1.4/
+[Edge] BM | other/Mozilla Firefox Bookmarks Menu | National Health Insurance Fund | https://verification.nhif.or.tz/ServicePortal/
+[Opera] BM | bookmark_bar | Gmail | https://accounts.google.com/b/0/AddMailService
+[Opera] BM | bookmark_bar | YouTube | https://youtube.com/
+[Opera] BM | bookmark_bar | Maps | https://maps.google.com/
+[Opera] BM | bookmark_bar | InVideo - Online Video Editor | Make professional videos within minutes | https://invideo.io/dashboard
+[Opera] BM | bookmark_bar | Mockup Market Videos, Download The BEST Free 4k Stock Video Footage & Mockup Market HD Video Clips | https://www.pexels.com/search/videos/mockup%20market/
+
+────────────────────────────────────────────────────────────
+  9. INSTALLED EXTENSIONS
+────────────────────────────────────────────────────────────
+[Edge] EXT | AEM Chrome Plug-in | 2.0.0_0
+[Edge] EXT | __MSG_extName__ | 1.107.1_0
+[Edge] EXT | Edge relevant text changes | 1.2.1_0
+[Edge] EXT | PSI In-application Extension | 1.0.0.12_0
+[Edge] EXT | Plugins | 8.1.0.0_0
+[Edge] EXT | __MSG_extName__ | 1.96.1_0
+[Edge] EXT | Edge relevant text changes | 1.2.1_0
+[Edge] EXT | __MSG_extName__ | 1.96.1_0
+[Edge] EXT | Edge relevant text changes | 1.2.1_0
+[Edge] EXT | __MSG_extName__ | 1.97.1_0
+[Edge] EXT | Edge relevant text changes | 1.2.1_0
+[Edge] EXT | __MSG_EXTENSION_TITLE__ | 2.10.1_0
+[Opera] EXT | Rich Hints Agent | 1.1.3_0
+[Opera] EXT | Opera Wallet | 1.19.13_0
+[Opera] EXT | Aria | 6.12.0.5_0
+[Opera] EXT | PSI In-application Extension | 1.0.0.12_0
+[Opera] EXT | __MSG_uygulama_baslik__ | 1.0.7_0
+
+────────────────────────────────────────────────────────────
+  10. WINDOWS STORED CREDENTIALS
+────────────────────────────────────────────────────────────
+
+Currently stored credentials:
+
+    Target: MicrosoftAccount:target=SSO_POP_User:user=salvatoryjacque@gmail.com
+    Type: Generic 
+    User: salvatoryjacque@gmail.com
+    Saved for this logon only
+    
+    Target: MicrosoftAccount:target=SSO_POP_Device
+    Type: Generic 
+    User: 02sozseopavlpnqo
+    Saved for this logon only
+    
+    Target: LegacyGeneric:target=MicrosoftAccount:user=grayziey21@gmail.com
+    Type: Generic 
+    User: grayziey21@gmail.com
+    Local machine persistence
+    
+    Target: LegacyGeneric:target=XblGrts|704208617||Production|RETAIL|Dtoken|http://auth.xboxlive.com||JWT
+    Type: Generic 
+    Local machine persistence
+    
+    Target: LegacyGeneric:target=MicrosoftAccount:user=salvatoryjacque@gmail.com
+    Type: Generic 
+    User: salvatoryjacque@gmail.com
+    Local machine persistence
+    
+    Target: LegacyGeneric:target=https://www.roblox.com:RobloxStudioAuthhasMigratedToMultiUser2
+    Type: Generic 
+    Local machine persistence
+    
+    Target: LegacyGeneric:target=XblGrts|506671725||Production|RETAIL|Ttoken|http://auth.xboxlive.com||JWT
+    Type: Generic 
+    Local machine persistence
+    
+    Target: LegacyGeneric:target=XblGrts|506671725||Production|RETAIL|Xtoken|http://xboxlive.com||JWT
+    Type: Generic 
+    Local machine persistence
+    
+    Target: LegacyGeneric:target=XblGrts|506671725||Production|RETAIL|Xtoken|http://mp.microsoft.com/||JWT
+    Type: Generic 
+    Local machine persistence
+    
+    Target: LegacyGeneric:target=XblGrts|704208617||Production|RETAIL|Dtoken|http://auth.xboxlive.com||JWT|1
+    Type: Generic 
+    Local machine persistence
+    
+    Target: LegacyGeneric:target=eos-sdk:7557708b72ce4eda9a8d5250901f471d:0
+    Type: Generic 
+    Local machine persistence
+    
+    Target: LegacyGeneric:target=MicrosoftAccount:user=mhozyaclement29@gmail.com
+    Type: Generic 
+    User: mhozyaclement29@gmail.com
+    Local machine persistence
+    
+    Target: WindowsLive:target=virtualapp/didlogical
+    Type: Generic 
+    User: 02sozseopavlpnqo
+    Local machine persistence
+    
+    Target: LegacyGeneric:target=XblGrts|506671725||Production|RETAIL|Dtoken|http://auth.xboxlive.com||JWT
+    Type: Generic 
+    Local machine persistence
+    
+    Target: LegacyGeneric:target=XblGrts|DeviceKey
+    Type: Generic 
+    Local machine persistence
+    
+    Target: LegacyGeneric:target=XblGrts|506671725||Production|RETAIL|Dtoken|http://auth.xboxlive.com||JWT|1
+    Type: Generic 
+    Local machine persistence
+    
+    Target: Domain:target=Server2
+    Type: Domain Password
+    User: Server2
+    
+
+
+────────────────────────────────────────────────────────────
+  11. CLIPBOARD SNIFFING
+────────────────────────────────────────────────────────────
+
+============================================================
+  END OF REPORT — PC: SC-LAB1-PC4_STUDENT_c6f864f7 — CONTINUOUS MONITORING ACTIVE
+============================================================
