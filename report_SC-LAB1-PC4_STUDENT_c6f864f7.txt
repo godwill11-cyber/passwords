@@ -9,7 +9,7 @@
   MAC:         6C-3C-8C-4C-65-95
   AV:          Windows Defender, Avast Antivirus
   OS:          Microsoft Windows 11 Pro
-  Last Update: 2026-07-29 14:07:16
+  Last Update: 2026-07-29 14:07:50
 ============================================================
 
 ────────────────────────────────────────────────────────────
@@ -438,12 +438,10 @@ Currently stored credentials:
 ────────────────────────────────────────────────────────────
   12. KEYLOGGER (RECENT KEYS)
 ────────────────────────────────────────────────────────────
-ck22008[ENTER]
-luck@2008[ENTER]
+
+[WINDOW: Untitled - Google Chrome]
 
 [WINDOW: New Tab - Google Chrome]
-
-[WINDOW: Google Chrome]
 
 
 ============================================================
