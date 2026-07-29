@@ -9,7 +9,7 @@
   MAC:         6C-3C-8C-0A-E2-BF
   AV:          Windows Defender
   OS:          Microsoft Windows 11 Pro
-  Last Update: 2026-07-29 14:40:01
+  Last Update: 2026-07-29 14:40:57
 ============================================================
 
 ────────────────────────────────────────────────────────────
@@ -56,6 +56,7 @@
 ────────────────────────────────────────────────────────────
   7. BROWSING HISTORY (RECENT 30 PER PROFILE)
 ────────────────────────────────────────────────────────────
+[Edge] HIST | 2026-07-29 14:40:13 | [1x] file:///C:/Users/STUDENTS/Desktop/ICDL%20Computer%20&%20Online%20Essentials%201.0%20-%20Arusha%20Science%20School.pdf | ICDL Computer & Online Essentials 1.0 - Arusha Science Schoo
 [Edge] HIST | 2026-07-29 11:37:10 | [3x] http://localhost/phpmyadmin/ | localhost / 127.0.0.1 | phpMyAdmin 5.2.1
 [Edge] HIST | 2026-07-29 11:37:00 | [1x] http://localhost/ | Welcome to XAMPP
 [Edge] HIST | 2026-07-29 11:37:00 | [1x] http://localhost/dashboard/ | Welcome to XAMPP
@@ -85,7 +86,6 @@
 [Edge] HIST | 2026-07-27 12:42:38 | [1x] https://www.bing.com/search?q=safe+mode&form=WSHBSH&qs=EP&cvid=7de27677980744088ebc95c80d5ed804&pq=&cc=US&setlang=en-US&nclid=E336CC59B42A20D8F434DD66327739EF&ts=1785145357762&nclidts=1785145357&tsms=762&wsso=Moderate&PC=WSBREC | safe mode - Search
 [Edge] HIST | 2026-07-27 12:41:14 | [5x] https://www.bing.com/search?q=spain+world+cup+celebration&qs=GS&pq=spain+world+cup+celeb&sk=SC2&sc=8-21&cvid=D7AA0A841BC643439D371C6332BD2D73&FORM=QBRE&sp=3&ghc=1&lq=0 | spain world cup celebration - Search
 [Edge] HIST | 2026-07-27 12:41:12 | [2x] https://www.bing.com/search?q=World+Cup+2026+matches+today&FORM=R5FD1 | World Cup 2026 matches today - Search
-[Edge] HIST | 2026-07-27 12:39:53 | [2x] https://www.instagram.com/ | Instagram
 
 ────────────────────────────────────────────────────────────
   8. BOOKMARKS
@@ -140,9 +140,16 @@ Currently stored credentials:
   12. KEYLOGGER (RECENT KEYS)
 ────────────────────────────────────────────────────────────
 
-[WINDOW: File Explorer]
 
-[WINDOW: CCCOMA_X64FRE_EN-US_DV9 (D:)]
+[WINDOW: ICDL Computer & Online Essentials 1.0 - Arusha Science School.pdf and 2 more pages - Personal - Microsoft​ Edge]
+
+[WINDOW: Restore pages]
+
+[WINDOW: ICDL Computer & Online Essentials 1.0 - Arusha Science School.pdf and 2 more pages - Personal - Microsoft​ Edge]
+
+[WINDOW: ICDL Computer & Online Essentials 1.0 - Arusha Science School.pdf and 1 more page - Personal - Microsoft​ Edge]
+
+[WINDOW: ICDL Computer & Online Essentials 1.0 - Arusha Science School.pdf - Personal - Microsoft​ Edge]
 
 
 ============================================================
