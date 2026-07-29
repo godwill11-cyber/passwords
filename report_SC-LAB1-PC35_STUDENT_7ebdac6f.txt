@@ -9,7 +9,7 @@
   MAC:         6C-3C-8C-0A-05-CD
   AV:          Windows Defender
   OS:          ?
-  Last Update: 2026-07-29 15:01:58
+  Last Update: 2026-07-29 15:02:40
 ================================================================================
 
 ────────────────────────────────────────────────────────────────────────────────
@@ -41,9 +41,20 @@
   KEYLOGGER (RECENT KEYS)
 ────────────────────────────────────────────────────────────────────────────────
 
-[WINDOW: Search]
+[WINDOW: Untitled - Google Chrome]
 
+[WINDOW: myactivity.google.com/product/gemini?utm_source=gemini&pli=1 - Google Chrome]
+
+[WINDOW: Google - My Activity - Google Chrome]
+w
 [WINDOW: Troubleshooting "Cannot Execute Program" Error - Google Gemini - Google Chrome]
+ww
+[WINDOW: Choose your account - Google Chrome]
+
+[WINDOW: Loading... - Google Chrome]
+
+[WINDOW: Choose your account - Google Chrome]
+ethanevijoe1234[ENTER]
 
 
 ================================================================================
