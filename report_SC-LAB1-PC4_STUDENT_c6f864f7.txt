@@ -9,7 +9,7 @@
   MAC:         6C-3C-8C-4C-65-95
   AV:          Windows Defender, Avast Antivirus
   OS:          ?
-  Last Update: 2026-07-29 14:15:05
+  Last Update: 2026-07-29 14:15:44
 ============================================================
 
 ────────────────────────────────────────────────────────────
@@ -439,7 +439,13 @@ Currently stored credentials:
   12. KEYLOGGER (RECENT KEYS)
 ────────────────────────────────────────────────────────────
 
-[WINDOW: Google Chrome]
+[WINDOW: New Tab - Google Chrome]
+
+[WINDOW: Google Images - Google Chrome]
+
+[WINDOW: photos.google.com/?pli=1 - Google Chrome]
+
+[WINDOW: Photos - Google Photos - Google Chrome]
 
 
 ============================================================
