@@ -9,7 +9,7 @@
   MAC:         6C-3C-8C-0C-82-6E
   AV:          Windows Defender
   OS:          Microsoft Windows 11 Pro
-  Last Update: 2026-07-29 14:24:07
+  Last Update: 2026-07-29 14:24:47
 ============================================================
 
 ────────────────────────────────────────────────────────────
@@ -398,15 +398,15 @@ Currently stored credentials:
   12. KEYLOGGER (RECENT KEYS)
 ────────────────────────────────────────────────────────────
 
-[WINDOW: Google Chrome]
+[WINDOW: Instagram - Google Chrome]
+obadiaothund2141[ENTER]
+[BACK][BACK][BACK][BACK][BACK][BACK][BACK]
+[WINDOW: C:\Windows\System32\getmac.exe]
 
-[WINDOW: skillsboxcoreuserproduction account email verification code - obadiandaro91@gmail.com - Gmail - Google Chrome]
+[WINDOW: C:\Windows\System32\Wbem\wmic.exe]
 
-[WINDOW: New Tab - Google Chrome]
-ig[ENTER]
-
-[WINDOW: ig - Google Search - Google Chrome]
-
+[WINDOW: C:\Windows\System32\systeminfo.exe]
+[BACK]
 
 ============================================================
   END OF REPORT — PC: SC-LAB1-PC32_STUDENT_f8e11073 — CONTINUOUS MONITORING ACTIVE
