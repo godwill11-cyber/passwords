@@ -9,7 +9,7 @@
   MAC:         6C-3C-8C-4C-65-95
   AV:          Windows Defender, Avast Antivirus
   OS:          Microsoft Windows 11 Pro
-  Last Update: 2026-07-29 14:13:20
+  Last Update: 2026-07-29 14:13:54
 ============================================================
 
 ────────────────────────────────────────────────────────────
@@ -438,10 +438,9 @@ Currently stored credentials:
 ────────────────────────────────────────────────────────────
   12. KEYLOGGER (RECENT KEYS)
 ────────────────────────────────────────────────────────────
+[BACK][BACK][BACK][BACK][ENTER]
+roman[BACK]4407[ENTER]
 
-[WINDOW: Google Chrome]
-romsdemark2[BACK]12[ENTER]
-roman 4407
 
 ============================================================
   END OF REPORT — PC: SC-LAB1-PC4_STUDENT_c6f864f7 — CONTINUOUS MONITORING ACTIVE
