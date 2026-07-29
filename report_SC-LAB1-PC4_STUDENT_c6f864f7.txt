@@ -9,7 +9,7 @@
   MAC:         6C-3C-8C-4C-65-95
   AV:          Windows Defender, Avast Antivirus
   OS:          Microsoft Windows 11 Pro
-  Last Update: 2026-07-29 14:22:57
+  Last Update: 2026-07-29 14:23:33
 ============================================================
 
 ────────────────────────────────────────────────────────────
@@ -439,22 +439,7 @@ Currently stored credentials:
   12. KEYLOGGER (RECENT KEYS)
 ────────────────────────────────────────────────────────────
 
-[WINDOW: Google Chrome]
-
 [WINDOW: New Tab - Google Chrome]
-
-[WINDOW: _crx_nldijlfmoepgjkjhmdiiainkjgmpdnmj]
-
-[WINDOW: Browser Lock]
-roman07[ENTER]
-
-[WINDOW: New Tab - Google Chrome]
-
-[WINDOW: Gmail - Google Chrome]
-
-[WINDOW: Inbox (178) - romsdemark12@gmail.com - Gmail - Google Chrome]
-
-[WINDOW: Email Verification - romsdemark12@gmail.com - Gmail - Google Chrome]
 
 
 ============================================================
