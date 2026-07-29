@@ -9,7 +9,7 @@
   MAC:         6C-3C-8C-0C-82-6E
   AV:          Windows Defender
   OS:          Microsoft Windows 11 Pro
-  Last Update: 2026-07-29 15:05:47
+  Last Update: 2026-07-29 15:06:26
 ============================================================
 
 ────────────────────────────────────────────────────────────
@@ -398,13 +398,7 @@ Currently stored credentials:
   12. KEYLOGGER (RECENT KEYS)
 ────────────────────────────────────────────────────────────
 
-[WINDOW: spiderman brand new day - Google Search - Google Chrome]
-
-[WINDOW: New Tab - Google Chrome]
-
-[WINDOW: Settings - You and Google - Google Chrome]
-
-[WINDOW: New Tab - Google Chrome]
+[WINDOW: Instagram - Google Chrome]
 
 
 ============================================================
