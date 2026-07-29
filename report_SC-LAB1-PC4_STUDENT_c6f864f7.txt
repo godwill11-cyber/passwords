@@ -9,7 +9,7 @@
   MAC:         6C-3C-8C-4C-65-95
   AV:          Windows Defender, Avast Antivirus
   OS:          Microsoft Windows 11 Pro
-  Last Update: 2026-07-29 15:21:42
+  Last Update: 2026-07-29 15:22:17
 ============================================================
 
 ────────────────────────────────────────────────────────────
@@ -439,19 +439,15 @@ Currently stored credentials:
   12. KEYLOGGER (RECENT KEYS)
 ────────────────────────────────────────────────────────────
 
-[WINDOW: Home | Lovable - Google Chrome]
+[WINDOW: Desktop - File Explorer]
 
-[WINDOW: Lovable - Google Chrome]
+[WINDOW: ICDL Computer & Online Essentials 1.0 - Arusha Science School.pdf — Mozilla Firefox]
 
-[WINDOW: Smart Schedule Assistant | Lovable - Google Chrome]
+[WINDOW: Mozilla Firefox]
 
-[WINDOW: Untitled - Google Chrome]
+[WINDOW: PDF.js viewer — Mozilla Firefox]
 
-[WINDOW: New Tab - Google Chrome]
-
-[WINDOW: ChatGPT - Google Chrome]
-
-[WINDOW: New Tab - Google Chrome]
+[WINDOW: ICDL Computer & Online Essentials 1.0 - Arusha Science School.pdf — Mozilla Firefox]
 
 
 ============================================================
