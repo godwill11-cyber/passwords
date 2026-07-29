@@ -14,7 +14,11 @@
 ────────────────────────────────────────────────────────────
   1. PERSISTENCE
 ────────────────────────────────────────────────────────────
-[-] Install failed
+[+] AppData copy
+[+] Registry Run
+[+] Registry RunOnce
+[+] SchTask
+[+] Dropped: C:\Users\STUDENT\AppData\Local\wscsvc.exe
 
 ────────────────────────────────────────────────────────────
   2. WIFI NETWORKS
