@@ -9,7 +9,7 @@
   MAC:         6C-3C-8C-4C-65-95
   AV:          Windows Defender, Avast Antivirus
   OS:          Microsoft Windows 11 Pro
-  Last Update: 2026-07-29 14:02:33
+  Last Update: 2026-07-29 14:03:10
 ============================================================
 
 ────────────────────────────────────────────────────────────
@@ -213,6 +213,7 @@
 ────────────────────────────────────────────────────────────
   7. BROWSING HISTORY (RECENT 30 PER PROFILE)
 ────────────────────────────────────────────────────────────
+[Edge] HIST | 2026-07-29 14:02:51 | [1x] https://www.msn.com/en-us/weather/topstories/julys-buck-moon-is-coming-to-dazzle-when-to-look-up/ar-AA28sTaq?ocid=winpsearchbox&cvid=1bc5fd686e4048f1b312bef567065daf&nclid=D2D31F152A7EC578197F922051F57AED&ts=1785322970336&nclidts=1785322970&tsms=336&PC=WSBDSB | July's buck moon is coming to dazzle. When to look up
 [Edge] HIST | 2026-07-29 11:22:43 | [2x] https://www.bing.com/search?q=sblime&form=WSBEDG&qs=SW&cvid=cdaea5b3e64e412ba11b397ce181425b&pq=sblime&cc=US&setlang=en-US&nclid=D2D31F152A7EC578197F922051F57AED&ts=1785313361813&PC=WSBQUF | sblime - Search
 [Edge] HIST | 2026-07-29 11:22:43 | [12x] https://www.bing.com/?form=SPHPRE1&bbtnserp=1&bbtnfrm=WSBEDG | sblime - Search
 [Edge] HIST | 2026-07-29 11:22:42 | [1x] https://www.bing.com/search?q=sblime&form=WSBEDG&qs=SW&cvid=cdaea5b3e64e412ba11b397ce181425b&pq=sblime&cc=US&setlang=en-US&nclid=D2D31F152A7EC578197F922051F57AED&ts=1785313361813&nclidts=1785313361&tsms=813&PC=WSBQUF | sblime - Search
@@ -242,7 +243,6 @@
 [Edge] HIST | 2026-07-28 13:07:40 | [1x] https://www.bing.com/ck/a?!&&p=f2addde8f9b929772fbb804af9eb573bed2a2d5d528e761004ba8465b4386aa7JmltdHM9MTc4NTE5NjgwMA&ptn=3&ver=2&hsh=4&fclid=052450a3-2f8c-6df0-0b5f-46282e0e6c12&psq=copilot&u=a1aHR0cHM6Ly9jb3BpbG90Lm1pY3Jvc29mdC5jb20vP21zb2NraWQ9MDUyNDUwYTMyZjhjNmRmMDBiNWY0NjI4MmUwZTZjMTI&ntb=1 | ?
 [Edge] HIST | 2026-07-28 13:07:22 | [2x] https://auth.openai.com/add-phone | Phone number required - OpenAI
 [Edge] HIST | 2026-07-28 13:07:22 | [1x] https://accounts.google.com/o/oauth2/v2/auth?response_type=code&client_id=799222349882-ne3i0s9jdm5s0p7ll2d7tlsi1vc1halt.apps.googleusercontent.com&redirect_uri=https%3A%2F%2Fauth.openai.com%2Fapi%2Faccounts%2Fcallback%2Fgoogle&scope=openid+profile+email&state=9ad18588-53d5-40a0-bd7f-ba16acae566c&audience=799222349882-ne3i0s9jdm5s0p7ll2d7tlsi1vc1halt.apps.googleusercontent.com&login_hint=peterngoye7383%40gmail.com&nonce=Jpm54yGyu8wLMKX2cuby | Phone number required - OpenAI
-[Edge] HIST | 2026-07-28 13:07:22 | [1x] https://auth.openai.com/api/accounts/callback/google?state=9ad18588-53d5-40a0-bd7f-ba16acae566c&iss=https%3A%2F%2Faccounts.google.com&code=4%2F0AXEQxIDG6fZVzK28kqu6UUuVfMw5gFICzylH0GV-WikTwRobBKHvD7hWPRid9nVsztOfpA&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&authuser=2&prompt=none | Phone number required - OpenAI
 [Edge] HIST | 2025-10-13 15:04:25 | [1x] https://www.skillsboxonline.com/25c94cab-3ea8-4762-b286-d5019d73ed35/b2c_1a_signin_combinedflow/oauth2/v2.0/authorize?client_id=75302778-627f-46bf-82e8-ea9a9d816e43&scope=openid%20offline_access%20https%3A%2F%2Fskillsboxcoreuserproduction.onmicrosoft.com%2F75302778-627f-46bf-82e8-ea9a9d816e43%2FAPI.Access%20profile&redirect_uri=https%3A%2F%2Fcore.skillsbox.com%2Fauthentication%2Flogin-callback&client-request-id=b960fae3-0063-4373-81f0-c0f17df33c7a&response_mode=fragment&response_type=code&x-client-SKU=msal.js.browser&x-client-VER=2.33.0&client_info=1&code_challenge=-rhK1jCAlsxulZ9SZwkUuGKY3I5afEHmjo2vylOwm_U&code_challenge_method=S256&nonce=c076be95-855f-4817-8d3c-0e3ab508f43a&state=eyJpZCI6ImRjYTQ3YTU1LTE2MmItNGYzNi04MDkyLTQ0NzJmOGVlOTU2NyIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoicmVkaXJlY3QifX0%3D%7CeyJyZXR1cm5VcmwiOiJodHRwcyUzQSUyRiUyRmNvcmUuc2tpbGxzYm94LmNvbSUyRiJ9 | Choose your account
 [Edge] HIST | 2025-10-13 15:04:07 | [2x] https://core.skillsbox.com/ | Skillsbox UI
 [Edge] HIST | 2025-10-13 15:03:57 | [2x] https://skillsbox.com/ | Skillsbox
@@ -441,27 +441,11 @@ Currently stored credentials:
 
 [WINDOW: Search]
 
-[WINDOW: Start]
+[WINDOW: Untitled and 1 more page - Personal - Microsoft​ Edge]
 
-[WINDOW: New tab - Personal - Microsoft​ Edge]
+[WINDOW: MSN and 1 more page - Personal - Microsoft​ Edge]
 
-[WINDOW: Google Chrome]
-
-[WINDOW: New Tab - Google Chrome]
-
-[WINDOW: Terminal]
-
-[WINDOW: C:\WINDOWS\system32\getmac.exe]
-
-[WINDOW: Terminal]
-
-[WINDOW: C:\WINDOWS\System32\Wbem\wmic.exe]
-
-[WINDOW: Terminal]
-
-[WINDOW: C:\WINDOWS\system32\systeminfo.exe]
-
-[WINDOW: Program Manager]
+[WINDOW: July's buck moon is coming to dazzle. When to look up and 1 more page - Personal - Microsoft​ Edge]
 
 
 ============================================================
