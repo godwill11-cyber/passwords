@@ -9,7 +9,7 @@
   MAC:         6C-3C-8C-0C-82-6E
   AV:          Windows Defender
   OS:          Microsoft Windows 11 Pro
-  Last Update: 2026-07-29 14:10:21
+  Last Update: 2026-07-29 14:11:00
 ============================================================
 
 ────────────────────────────────────────────────────────────
@@ -397,19 +397,12 @@ Currently stored credentials:
 ────────────────────────────────────────────────────────────
   12. KEYLOGGER (RECENT KEYS)
 ────────────────────────────────────────────────────────────
-![ENTER]
-2141[ENTER]
-[ENTER]
-[ENTER]
-[ENTER]
-[ENTER]
-[ENTER]
+"%3A1785323402%2C"acD"%3A0%7D%2C%7B"ac"%3A"T011T010"%2C"acST"%3A1785323413%2C"acD"%3A1654%7D%2C%7B"ac"%3A"T012T010"%2C"acST"%3A1785323452%2C"acD"%3A380%7D%2C%7B"ac"%3A"T017"%2C"acST"%3A1785323452%2C"acD"%3A452%7D%2C%7B"ac"%3A"T017T010"%2C"acST"%3A1785323453%2C"acD"%3A529%7D%2C%7B"ac"%3A"T002"%2C"acST"%3A1785323453%2C"acD"%3A0%7D%2C%7B"ac"%3A"T017T010"%2C"acST"%3A1785323453%2C"acD"%3A530%7D%5D%7D - Google Chrome]
 
 [WINDOW: Loading... - Google Chrome]
 
 [WINDOW: User details - Google Chrome]
-obadia[ENTER]
-
+othund
 
 ============================================================
   END OF REPORT — PC: SC-LAB1-PC32_STUDENT_f8e11073 — CONTINUOUS MONITORING ACTIVE
