@@ -1,0 +1,141 @@
+============================================================
+  LIVE REPORT — PC: SC-LAB1-PC34_STUDENTS_20fb888f
+============================================================
+  PC:          SC-LAB1-PC34
+  User:        STUDENTS
+  PC ID:       SC-LAB1-PC34_STUDENTS_20fb888f
+  External IP: 41.59.97.138
+  Local IP:    192.168.88.169
+  MAC:         6C-3C-8C-0A-E2-BF
+  AV:          Windows Defender
+  OS:          Microsoft Windows 11 Pro
+  Last Update: 2026-07-29 14:02:57
+============================================================
+
+────────────────────────────────────────────────────────────
+  1. PERSISTENCE
+────────────────────────────────────────────────────────────
+[+] AppData copy
+[+] Binary at: C:\Users\STUDENTS\AppData\Local\sppsvc.exe
+[+] Registry Run
+[+] Registry RunOnce
+[+] Startup folder
+[+] SchTask (SYSTEM)
+[+] WMI Filter
+
+────────────────────────────────────────────────────────────
+  2. WIFI NETWORKS
+────────────────────────────────────────────────────────────
+[WiFi] SSID: AS_MAIN_PARADE | Pass: Science123. | Auth: WPA2-Personal
+[WiFi] SSID: PHYSICS LAB | Pass: [Open/Unknown] | Auth: Open
+[WiFi] SSID: COMPUTER LAB 1 | Pass: [Open/Unknown] | Auth: Open
+[WiFi] SSID: SERVER | Pass: [Open/Unknown] | Auth: WPA2-Personal
+[WiFi] SSID: AS_ACADEMIC_OFFICE | Pass: Academic123 | Auth: WPA2-Personal
+[WiFi] SSID: DIRECT-8B-EPSON-1628E4 | Pass: 51671388 | Auth: WPA2-Personal
+
+────────────────────────────────────────────────────────────
+  4. SAVED PASSWORDS
+────────────────────────────────────────────────────────────
+[Edge] PWD | https://accounts.google.com/v3/signin/challenge/pwd | rockyshija744@gmail.com | 
+
+────────────────────────────────────────────────────────────
+  5. COOKIES (HIGH-VALUE SITES)
+────────────────────────────────────────────────────────────
+  (none found)
+
+────────────────────────────────────────────────────────────
+  6. AUTOFILL — NAMES, EMAILS, PHONES, ADDRESSES, CARDS
+────────────────────────────────────────────────────────────
+[Edge] AUTOFILL | Email Address = 811leinsonstreet@gmail.com
+[Edge] AUTOFILL | Email Address = hajratrajab0@gmail.com
+[Edge] AUTOFILL | email = @kingmacha.200266
+[Edge] AUTOFILL | email = nicholouslendii@gmail.com
+[Edge] AUTOFILL | identifier = billy.kilongozi26@gmail.com
+[Edge] AUTOFILL | identifier = econimics.ass2025@gmail.com
+
+────────────────────────────────────────────────────────────
+  7. BROWSING HISTORY (RECENT 30 PER PROFILE)
+────────────────────────────────────────────────────────────
+[Edge] HIST | 2026-07-29 11:37:10 | [3x] http://localhost/phpmyadmin/ | localhost / 127.0.0.1 | phpMyAdmin 5.2.1
+[Edge] HIST | 2026-07-29 11:37:00 | [1x] http://localhost/ | Welcome to XAMPP
+[Edge] HIST | 2026-07-29 11:37:00 | [1x] http://localhost/dashboard/ | Welcome to XAMPP
+[Edge] HIST | 2026-07-29 10:07:06 | [1x] https://www.bing.com/search?q=ascii+long+form&qs=SC&pq=ascii+lo+n&sc=12-10&cvid=4E4D3557A4A543978D2737F92978F981&FORM=QBRE&sp=1&ghc=1&lq=0 | ascii long form - Search
+[Edge] HIST | 2026-07-29 10:06:51 | [1x] https://www.bing.com/search?pglt=299&q=ASCII&cvid=37192c16432a4a67b611242f4b404d63&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQABhAMgYICBAAGEDSAQg0Mjk2ajBqN6gCCLACAQ&FORM=ANNTA1&adppc=EDGEXST&PC=U531&source=chrome.ob | ASCII - Search
+[Edge] HIST | 2026-07-29 10:04:31 | [1x] https://www.bing.com/search?qs=HS&pq=CS&sk=CSYN1MT3AS9UT1&sc=19-2&pglt=299&q=cs+tie+textbook+for+form+two&cvid=c189d1862e6243fab8ebf5481f6b41b8&gs_lcrp=EgRlZGdlKgYIARAAGEAyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQABhAMgYICBAAGEDSAQgzNzAzajBqN6gCCLACAQ&FORM=ANNTA1&adppc=EDGEXST&PC=U531&source=chrome.ob&ntref=1 | cs tie textbook for form two - Search
+[Edge] HIST | 2026-07-29 10:04:23 | [2x] https://darasahuru.ac.tz/computer-science-tie-book-form-two-new/#google_vignette | Computer Science TIE Book Form Two New
+[Edge] HIST | 2026-07-29 09:33:29 | [18x] file:///C:/ProgramData/pbtmp245.html | This website is blocked!
+[Edge] HIST | 2026-07-29 09:33:27 | [2x] https://www.skillsbox.com/ | Skillsbox
+[Edge] HIST | 2026-07-29 09:33:27 | [2x] https://www.bing.com/search?q=skillsbox&gs_lcrp=EgRlZGdlKgcIARBFGMIDMgcIABBFGMIDMgcIARBFGMIDMgcIAhBFGMIDMgcIAxBFGMIDMgcIBBBFGMIDMgcIBRBFGMIDMgcIBhBFGMIDMgcIBxBFGMID0gELMTQ1NDgwNGowajeoAgiwAgE&FORM=ANNTA1&adppc=EDGEXST&PC=U531&source=chrome.ob | skillsbox - Search
+[Edge] HIST | 2026-07-29 09:33:27 | [2x] https://www.bing.com/ck/a?!&&p=f0e1da2c00df5c7a2d2f6f0315b09e32481a43df037c15cd03a54366d20fd903JmltdHM9MTc4NTE5NjgwMA&ptn=3&ver=2&hsh=4&fclid=20da982b-0a32-64d2-247c-8f6a0bf16524&psq=skillsbox&u=a1aHR0cHM6Ly93d3cuc2tpbGxzYm94LmNvbS8&ntb=1 | ?
+[Edge] HIST | 2026-07-29 09:10:07 | [2x] https://drive.google.com/file/d/1Gpv0qqDM2ULCLXR1Vub1aQIPFmfm99yc/view | COMPUTER SCIENCE F2 - DarasaHuru.ac.tz.pdf - Google Drive
+[Edge] HIST | 2026-07-29 09:10:06 | [3x] https://drive.google.com/file/d/1Gpv0qqDM2ULCLXR1Vub1aQIPFmfm99yc/view?usp=sharing | COMPUTER SCIENCE F2 - DarasaHuru.ac.tz.pdf - Google Drive
+[Edge] HIST | 2026-07-29 09:09:28 | [5x] https://darasahuru.ac.tz/computer-science-tie-book-form-two-new/ | Computer Science TIE Book Form Two New
+[Edge] HIST | 2026-07-29 09:09:27 | [2x] https://www.bing.com/search?qs=HS&pq=CS&sk=CSYN1MT3AS9UT1&sc=19-2&pglt=299&q=cs+tie+textbook+for+form+two&cvid=c189d1862e6243fab8ebf5481f6b41b8&gs_lcrp=EgRlZGdlKgYIARAAGEAyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQABhAMgYICBAAGEDSAQgzNzAzajBqN6gCCLACAQ&FORM=ANNTA1&adppc=EDGEXST&PC=U531&source=chrome.ob | cs tie textbook for form two - Search
+[Edge] HIST | 2026-07-29 09:09:27 | [1x] https://www.bing.com/ck/a?!&&p=87d4c6904d2f3f5f53e2a520fd07afcd3a3961ea147c98bf5a1fd6d3c65594b9JmltdHM9MTc4NTE5NjgwMA&ptn=3&ver=2&hsh=4&fclid=20da982b-0a32-64d2-247c-8f6a0bf16524&psq=cs+tie+textbook+for+form+two&u=a1aHR0cHM6Ly9kYXJhc2FodXJ1LmFjLnR6L2NvbXB1dGVyLXNjaWVuY2UtdGllLWJvb2stZm9ybS10d28tbmV3Lw&ntb=1 | ?
+[Edge] HIST | 2026-07-28 20:38:08 | [1x] https://www.bing.com/search?q=Monkeytype&filters=ufn%3a%22Monkeytype%22+sid%3a%22bc43d7e0-bfb4-57ea-0870-cb3b996c9b2c%22&asbe=EP&form=WSBEDG&qs=MB&cvid=794c4174006844678d9f6d9e8a230aa8&pq=monke&cc=US&setlang=en-US&nclid=E336CC59B42A20D8F434DD66327739EF&ts=1785260285921&wsso=Moderate&PC=WSBQUF | Monkeytype - Search
+[Edge] HIST | 2026-07-28 20:38:08 | [1x] https://www.bing.com/search?q=Monkeytype&filters=ufn%3a%22Monkeytype%22+sid%3a%22bc43d7e0-bfb4-57ea-0870-cb3b996c9b2c%22&asbe=EP&form=WSBEDG&qs=MB&cvid=794c4174006844678d9f6d9e8a230aa8&pq=monke&cc=US&setlang=en-US&nclid=E336CC59B42A20D8F434DD66327739EF&ts=1785260285921&nclidts=1785260285&tsms=921&wsso=Moderate&PC=WSBQUF | Monkeytype - Search
+[Edge] HIST | 2026-07-28 14:32:29 | [3x] https://americas.skillsbox.com/phoenix/s/login/login2.do | ?
+[Edge] HIST | 2026-07-28 14:32:28 | [4x] https://www.bing.com/search?qs=HS&pq=ski&sk=CSYN1&sc=16-3&pglt=299&q=skillsbox&cvid=e200dcd2fffd4d10a9c7278d46c5d31d&gs_lcrp=EgRlZGdlKgYIARAAGEAyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEC4YQDIGCAQQABhAMgYIBRAAGEAyBggGEEUYPDIGCAcQRRg8MgYICBBFGDzSAQgzMDY0ajBqN6gCCLACAQ&FORM=ANNTA1&adppc=EDGEXST&PC=U531&source=chrome.ob | skillsbox - Search
+[Edge] HIST | 2026-07-28 14:32:28 | [2x] https://www.bing.com/ck/a?!&&p=730c59830aea42e1eb5c7b01e32be7dee32cfaa96fd83ad7b80124bca1ae7dbbJmltdHM9MTc4NTE5NjgwMA&ptn=3&ver=2&hsh=4&fclid=20da982b-0a32-64d2-247c-8f6a0bf16524&psq=skillsbox&u=a1aHR0cHM6Ly9hbWVyaWNhcy5za2lsbHNib3guY29tL3Bob2VuaXgvcy9sb2dpbi9sb2dpbjIuZG8&ntb=1 | ?
+[Edge] HIST | 2026-07-27 12:43:49 | [1x] https://www.bing.com/search?q=safe+mode&FORM=HDRSC1 | safe mode - Search
+[Edge] HIST | 2026-07-27 12:43:44 | [1x] https://www.bing.com/shop/topics?q=safe+mode&FORM=SHOPTB | safe mode Search Shopping
+[Edge] HIST | 2026-07-27 12:43:42 | [3x] https://www.bing.com/search?q=safe+mode&form=WSHBSH&qs=EP&cvid=7de27677980744088ebc95c80d5ed804&pq=&cc=US&setlang=en-US&nclid=E336CC59B42A20D8F434DD66327739EF&ts=1785145357762&wsso=Moderate&PC=WSBREC | safe mode - Search
+[Edge] HIST | 2026-07-27 12:43:42 | [1x] https://www.bing.com/ck/a?!&&p=565c3948294b69ed7c35b015c7cee08544e20fe239ad7a2517474caf80c57150JmltdHM9MTc4NTExMDQwMA&ptn=3&ver=2&hsh=4&fclid=20da982b-0a32-64d2-247c-8f6a0bf16524&u=a1L3Nob3AvdG9waWNzP3E9c2FmZSttb2RlJkZPUk09U0hPUFRC&ntb=1 | ?
+[Edge] HIST | 2026-07-27 12:42:38 | [1x] https://www.bing.com/?form=SPHPRE1&bbtnserp=1&bbtnfrm=WSHBSH | safe mode - Search
+[Edge] HIST | 2026-07-27 12:42:38 | [1x] https://www.bing.com/search?q=safe+mode&form=WSHBSH&qs=EP&cvid=7de27677980744088ebc95c80d5ed804&pq=&cc=US&setlang=en-US&nclid=E336CC59B42A20D8F434DD66327739EF&ts=1785145357762&nclidts=1785145357&tsms=762&wsso=Moderate&PC=WSBREC | safe mode - Search
+[Edge] HIST | 2026-07-27 12:41:14 | [5x] https://www.bing.com/search?q=spain+world+cup+celebration&qs=GS&pq=spain+world+cup+celeb&sk=SC2&sc=8-21&cvid=D7AA0A841BC643439D371C6332BD2D73&FORM=QBRE&sp=3&ghc=1&lq=0 | spain world cup celebration - Search
+[Edge] HIST | 2026-07-27 12:41:12 | [2x] https://www.bing.com/search?q=World+Cup+2026+matches+today&FORM=R5FD1 | World Cup 2026 matches today - Search
+[Edge] HIST | 2026-07-27 12:39:53 | [2x] https://www.instagram.com/ | Instagram
+
+────────────────────────────────────────────────────────────
+  8. BOOKMARKS
+────────────────────────────────────────────────────────────
+  (none found)
+
+────────────────────────────────────────────────────────────
+  9. INSTALLED EXTENSIONS
+────────────────────────────────────────────────────────────
+[Edge] EXT | __MSG_extName__ | 1.107.1_0
+[Edge] EXT | Edge relevant text changes | 1.2.1_0
+[Edge] EXT | PSI In-application Extension | 1.0.0.12_0
+
+────────────────────────────────────────────────────────────
+  10. WINDOWS STORED CREDENTIALS
+────────────────────────────────────────────────────────────
+
+Currently stored credentials:
+
+    Target: MicrosoftAccount:target=SSO_POP_User:user=nncorei9@gmail.com
+    Type: Generic 
+    User: nncorei9@gmail.com
+    Saved for this logon only
+    
+    Target: MicrosoftAccount:target=SSO_POP_Device
+    Type: Generic 
+    User: 02iaxeujdgnoqdvs
+    Saved for this logon only
+    
+    Target: LegacyGeneric:target=MicrosoftAccount:user=nncorei9@gmail.com
+    Type: Generic 
+    User: nncorei9@gmail.com
+    Local machine persistence
+    
+    Target: WindowsLive:target=virtualapp/didlogical
+    Type: Generic 
+    User: 02iaxeujdgnoqdvs
+    Local machine persistence
+    
+    Target: LegacyGeneric:target=Olk/PushNotificationsKey
+    Type: Generic 
+    User: Olk/PushNotificationsKey
+    Local machine persistence
+    
+
+
+────────────────────────────────────────────────────────────
+  11. CLIPBOARD SNIFFING
+────────────────────────────────────────────────────────────
+
+============================================================
+  END OF REPORT — PC: SC-LAB1-PC34_STUDENTS_20fb888f — CONTINUOUS MONITORING ACTIVE
+============================================================
