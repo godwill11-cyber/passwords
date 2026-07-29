@@ -9,7 +9,7 @@
   MAC:         6C-3C-8C-4C-65-95
   AV:          Windows Defender, Avast Antivirus
   OS:          Microsoft Windows 11 Pro
-  Last Update: 2026-07-29 14:58:47
+  Last Update: 2026-07-29 14:59:21
 ============================================================
 
 ────────────────────────────────────────────────────────────
@@ -439,23 +439,7 @@ Currently stored credentials:
   12. KEYLOGGER (RECENT KEYS)
 ────────────────────────────────────────────────────────────
 
-[WINDOW: Terminal]
-
 [WINDOW: ChatGPT - Google Chrome]
-
-[WINDOW: Terminal]
-
-[WINDOW: C:\WINDOWS\system32\getmac.exe]
-
-[WINDOW: ChatGPT - Google Chrome]
-
-[WINDOW: Terminal]
-
-[WINDOW: ChatGPT - Google Chrome]
-
-[WINDOW: Terminal]
-
-[WINDOW: C:\WINDOWS\system32\systeminfo.exe]
 
 
 ============================================================
