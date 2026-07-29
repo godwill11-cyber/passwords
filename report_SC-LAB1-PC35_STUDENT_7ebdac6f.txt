@@ -9,7 +9,7 @@
   MAC:         6C-3C-8C-0A-05-CD
   AV:          Windows Defender
   OS:          ?
-  Last Update: 2026-07-29 14:54:49
+  Last Update: 2026-07-29 14:55:25
 ================================================================================
 
 ────────────────────────────────────────────────────────────────────────────────
@@ -41,19 +41,11 @@
   KEYLOGGER (RECENT KEYS)
 ────────────────────────────────────────────────────────────────────────────────
 
-[WINDOW: C:\Windows\system32\ipconfig.exe]
-
 [WINDOW: Python AI Script - Google Chrome]
 
-[WINDOW: C:\Windows\system32\getmac.exe]
-
-[WINDOW: Python AI Script - Google Chrome]
-
-[WINDOW: C:\Windows\System32\Wbem\wmic.exe]
-
-[WINDOW: Python AI Script - Google Chrome]
-
-[WINDOW: C:\Windows\system32\systeminfo.exe]
+[WINDOW: Windows PowerShell]
+v[ENTER]
+[ENTER]
 
 
 ================================================================================
