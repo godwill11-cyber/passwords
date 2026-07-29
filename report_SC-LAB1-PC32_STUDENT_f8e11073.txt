@@ -9,7 +9,7 @@
   MAC:         6C-3C-8C-0C-82-6E
   AV:          Windows Defender
   OS:          Microsoft Windows 11 Pro
-  Last Update: 2026-07-29 14:18:14
+  Last Update: 2026-07-29 14:18:51
 ============================================================
 
 ────────────────────────────────────────────────────────────
@@ -397,7 +397,22 @@ Currently stored credentials:
 ────────────────────────────────────────────────────────────
   12. KEYLOGGER (RECENT KEYS)
 ────────────────────────────────────────────────────────────
-school[ENTER]
+trouble shoot[ENTER]
+[ENTER]
+[ENTER]
+[ENTER]
+[ENTER]
+[ENTER]
+[ENTER]
+[ENTER]
+
+[WINDOW: C:\Windows\System32\ipconfig.exe]
+
+[WINDOW: C:\Windows\System32\getmac.exe]
+
+[WINDOW: ChatGPT: Chat, Work, Create & Code with AI - Google Chrome]
+
+[WINDOW: C:\Windows\System32\systeminfo.exe]
 
 
 ============================================================
