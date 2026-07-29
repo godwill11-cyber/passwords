@@ -9,7 +9,7 @@
   MAC:         6C-3C-8C-0C-82-6E
   AV:          Windows Defender
   OS:          Microsoft Windows 11 Pro
-  Last Update: 2026-07-29 14:06:46
+  Last Update: 2026-07-29 14:07:20
 ============================================================
 
 ────────────────────────────────────────────────────────────
@@ -398,17 +398,10 @@ Currently stored credentials:
   12. KEYLOGGER (RECENT KEYS)
 ────────────────────────────────────────────────────────────
 
-[WINDOW: Drafts (1) - obadiandaro91@gmail.com - Gmail - Google Chrome]
-
 [WINDOW: Sent Mail - obadiandaro91@gmail.com - Gmail - Google Chrome]
-stphe
-[WINDOW: C:\Windows\System32\ipconfig.exe]
+[BACK][BACK][BACK]oaee we [BACK][BACK][BACK] msomi[ENTER]
 
-[WINDOW: C:\Windows\System32\getmac.exe]
-
-[WINDOW: C:\Windows\System32\Wbem\wmic.exe]
-
-[WINDOW: C:\Windows\System32\systeminfo.exe]
+[WINDOW: Drafts (1) - obadiandaro91@gmail.com - Gmail - Google Chrome]
 
 
 ============================================================
