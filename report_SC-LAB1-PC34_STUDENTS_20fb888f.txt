@@ -9,7 +9,7 @@
   MAC:         6C-3C-8C-0A-E2-BF
   AV:          Windows Defender
   OS:          Microsoft Windows 11 Pro
-  Last Update: 2026-07-29 14:06:27
+  Last Update: 2026-07-29 14:07:01
 ============================================================
 
 ────────────────────────────────────────────────────────────
@@ -135,6 +135,19 @@ Currently stored credentials:
 ────────────────────────────────────────────────────────────
   11. CLIPBOARD SNIFFING
 ────────────────────────────────────────────────────────────
+
+────────────────────────────────────────────────────────────
+  12. KEYLOGGER (RECENT KEYS)
+────────────────────────────────────────────────────────────
+iring Hacker - Google Chrome]
+gi[ENTER]
+
+[WINDOW: google.com/search?q=github&rlz=1C1GCEA_enTZ1210TZ1210&oq=github&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7MhUIARAuGEMYxwEYsQMY0QMYgAQYigUyDwgCEAAYQxixAxiABBiKBTIMCAMQABhDGIAEGIoFMgwIBBAAGEMYgAQYigUyBggFEEUYPDIGCAYQRRg8MgYIBxBFGDzSAQkxNzg1NWowajeoAgCwAgA&sourceid=chrome&source=chrome.ob&ie=UTF-8 - Google Chrome]
+
+[WINDOW: github - Google Search - Google Chrome]
+
+[WINDOW: GitHub · Change is constant. GitHub keeps you ahead. · GitHub - Google Chrome]
+
 
 ============================================================
   END OF REPORT — PC: SC-LAB1-PC34_STUDENTS_20fb888f — CONTINUOUS MONITORING ACTIVE
