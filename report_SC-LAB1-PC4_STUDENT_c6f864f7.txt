@@ -9,7 +9,7 @@
   MAC:         6C-3C-8C-4C-65-95
   AV:          Windows Defender, Avast Antivirus
   OS:          ?
-  Last Update: 2026-07-29 14:18:39
+  Last Update: 2026-07-29 14:19:17
 ============================================================
 
 ────────────────────────────────────────────────────────────
@@ -438,29 +438,22 @@ Currently stored credentials:
 ────────────────────────────────────────────────────────────
   12. KEYLOGGER (RECENT KEYS)
 ────────────────────────────────────────────────────────────
+: chromewebstore.google.com/detail/browser-lock-lock-your-br/nldijlfmoepgjkjhmdiiainkjgmpdnmj?pli=1 - Google Chrome]
 
-[WINDOW: browser lock - Google Search - Google Chrome]
+[WINDOW: Browser Lock | Lock Your Browser - Chrome Web Store - Google Chrome]
+
+[WINDOW: Untitled - Google Chrome]
+
+[WINDOW: Browser Lock | Lock Your Browser has been added to Chrome]
 
 [WINDOW: BrowserLock | Lock your Browser - Google Chrome]
 
-[WINDOW: File Explorer]
+[WINDOW: Browser Lock - Google Chrome]
 
-[WINDOW: CCCOMA_X64FRE_EN-US_DV9 (D:) - File Explorer]
+[WINDOW: BrowserLock | Lock your Browser - Google Chrome]
 
-[WINDOW: UEFI_NTFS (F:) - File Explorer]
-
-[WINDOW: CCCOMA_X64FRE_EN-US_DV9 (D:) - File Explorer]
-
-[WINDOW: Replace or Skip Files]
-
-[WINDOW: 0% complete]
-
-[WINDOW: 37% complete]
-
-[WINDOW: 86% complete]
-
-[WINDOW: CCCOMA_X64FRE_EN-US_DV9 (D:) - File Explorer]
-
+[WINDOW: Browser Lock - Google Chrome]
+r
 
 ============================================================
   END OF REPORT — PC: SC-LAB1-PC4_STUDENT_c6f864f7 — CONTINUOUS MONITORING ACTIVE
