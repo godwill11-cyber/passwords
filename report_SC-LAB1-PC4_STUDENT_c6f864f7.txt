@@ -9,7 +9,7 @@
   MAC:         6C-3C-8C-4C-65-95
   AV:          Windows Defender, Avast Antivirus
   OS:          ?
-  Last Update: 2026-07-29 14:19:17
+  Last Update: 2026-07-29 14:19:50
 ============================================================
 
 ────────────────────────────────────────────────────────────
@@ -438,22 +438,7 @@ Currently stored credentials:
 ────────────────────────────────────────────────────────────
   12. KEYLOGGER (RECENT KEYS)
 ────────────────────────────────────────────────────────────
-: chromewebstore.google.com/detail/browser-lock-lock-your-br/nldijlfmoepgjkjhmdiiainkjgmpdnmj?pli=1 - Google Chrome]
-
-[WINDOW: Browser Lock | Lock Your Browser - Chrome Web Store - Google Chrome]
-
-[WINDOW: Untitled - Google Chrome]
-
-[WINDOW: Browser Lock | Lock Your Browser has been added to Chrome]
-
-[WINDOW: BrowserLock | Lock your Browser - Google Chrome]
-
-[WINDOW: Browser Lock - Google Chrome]
-
-[WINDOW: BrowserLock | Lock your Browser - Google Chrome]
-
-[WINDOW: Browser Lock - Google Chrome]
-r
+roman ro[BACK][BACK]markromsdemark12@gmail.comrom
 
 ============================================================
   END OF REPORT — PC: SC-LAB1-PC4_STUDENT_c6f864f7 — CONTINUOUS MONITORING ACTIVE
