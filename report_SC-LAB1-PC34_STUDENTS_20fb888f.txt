@@ -1,6 +1,6 @@
-================================================================================
+============================================================
   LIVE REPORT — PC: SC-LAB1-PC34_STUDENTS_20fb888f
-================================================================================
+============================================================
   PC:          SC-LAB1-PC34
   User:        STUDENTS
   PC ID:       SC-LAB1-PC34_STUDENTS_20fb888f
@@ -9,22 +9,23 @@
   MAC:         6C-3C-8C-0A-E2-BF
   AV:          Windows Defender
   OS:          Microsoft Windows 11 Pro
-  Last Update: 2026-07-29 15:16:50
-================================================================================
+  Last Update: 2026-07-29 15:17:10
+============================================================
 
-────────────────────────────────────────────────────────────────────────────────
-  PERSISTENCE
-────────────────────────────────────────────────────────────────────────────────
+────────────────────────────────────────────────────────────
+  1. PERSISTENCE
+────────────────────────────────────────────────────────────
 [+] AppData copy
-[+] Binary at: C:\Users\STUDENTS\AppData\Local\wscsvc.exe
-[-] Startup copy failed: [Errno 13] Permission denied: 'C:\\Users\\STUDENTS\\AppData\\Roaming\\Microsoft\\Windows\\Start Menu\\Programs\\Startup\\WindowsUpdateService.exe'
+[+] Binary at: C:\Users\STUDENTS\AppData\Local\sppsvc.exe
 [+] Registry Run
 [+] Registry RunOnce
+[+] Startup folder
 [+] SchTask (SYSTEM)
+[+] WMI Filter
 
-────────────────────────────────────────────────────────────────────────────────
-  WIFI NETWORKS
-────────────────────────────────────────────────────────────────────────────────
+────────────────────────────────────────────────────────────
+  2. WIFI NETWORKS
+────────────────────────────────────────────────────────────
 [WiFi] SSID: AS_MAIN_PARADE | Pass: Science123. | Auth: WPA2-Personal
 [WiFi] SSID: PHYSICS LAB | Pass: [Open/Unknown] | Auth: Open
 [WiFi] SSID: COMPUTER LAB 1 | Pass: [Open/Unknown] | Auth: Open
@@ -32,37 +33,19 @@
 [WiFi] SSID: AS_ACADEMIC_OFFICE | Pass: Academic123 | Auth: WPA2-Personal
 [WiFi] SSID: DIRECT-8B-EPSON-1628E4 | Pass: 51671388 | Auth: WPA2-Personal
 
-────────────────────────────────────────────────────────────────────────────────
-  CLIPBOARD SNIFFING
-────────────────────────────────────────────────────────────────────────────────
+────────────────────────────────────────────────────────────
+  4. SAVED PASSWORDS
+────────────────────────────────────────────────────────────
+[Edge] PWD | https://accounts.google.com/v3/signin/challenge/pwd | rockyshija744@gmail.com | 
 
-================================================================================
-  CREDENTIAL TABLE — EMAIL:USERNAME:PASSWORD
-================================================================================
-
-#    BROWSER    URL                                 USERNAME/EMAIL                 PASSWORD                      
---------------------------------------------------------------------------------------------------------------
-
-1    Edge       https://accounts.google.com/v3/sig  rockyshija744@gmail.com                                      
-
-
-────────────────────────────────────────────────────────────────────────────────
-  ALL SAVED PASSWORDS (INCLUDING NON-EMAIL)
-────────────────────────────────────────────────────────────────────────────────
-
-#    BROWSER    URL                                 USERNAME/EMAIL                 PASSWORD                      
---------------------------------------------------------------------------------------------------------------
-
-1    Edge       https://accounts.google.com/v3/sig  rockyshija744@gmail.com                                      
-
-────────────────────────────────────────────────────────────────────────────────
-  COOKIES (HIGH-VALUE SITES)
-────────────────────────────────────────────────────────────────────────────────
+────────────────────────────────────────────────────────────
+  5. COOKIES (HIGH-VALUE SITES)
+────────────────────────────────────────────────────────────
   (none found)
 
-────────────────────────────────────────────────────────────────────────────────
-  AUTOFILL — NAMES, EMAILS, PHONES, ADDRESSES, CARDS
-────────────────────────────────────────────────────────────────────────────────
+────────────────────────────────────────────────────────────
+  6. AUTOFILL — NAMES, EMAILS, PHONES, ADDRESSES, CARDS
+────────────────────────────────────────────────────────────
 [Edge] AUTOFILL | Email Address = 811leinsonstreet@gmail.com
 [Edge] AUTOFILL | Email Address = hajratrajab0@gmail.com
 [Edge] AUTOFILL | email = @kingmacha.200266
@@ -70,9 +53,9 @@
 [Edge] AUTOFILL | identifier = billy.kilongozi26@gmail.com
 [Edge] AUTOFILL | identifier = econimics.ass2025@gmail.com
 
-────────────────────────────────────────────────────────────────────────────────
-  BROWSING HISTORY (RECENT PER PROFILE)
-────────────────────────────────────────────────────────────────────────────────
+────────────────────────────────────────────────────────────
+  7. BROWSING HISTORY (RECENT 30 PER PROFILE)
+────────────────────────────────────────────────────────────
 [Edge] HIST | 2026-07-29 14:40:13 | [1x] file:///C:/Users/STUDENTS/Desktop/ICDL%20Computer%20&%20Online%20Essentials%201.0%20-%20Arusha%20Science%20School.pdf | ICDL Computer & Online Essentials 1.0 - Arusha Science Schoo
 [Edge] HIST | 2026-07-29 11:37:10 | [3x] http://localhost/phpmyadmin/ | localhost / 127.0.0.1 | phpMyAdmin 5.2.1
 [Edge] HIST | 2026-07-29 11:37:00 | [1x] http://localhost/ | Welcome to XAMPP
@@ -104,21 +87,21 @@
 [Edge] HIST | 2026-07-27 12:41:14 | [5x] https://www.bing.com/search?q=spain+world+cup+celebration&qs=GS&pq=spain+world+cup+celeb&sk=SC2&sc=8-21&cvid=D7AA0A841BC643439D371C6332BD2D73&FORM=QBRE&sp=3&ghc=1&lq=0 | spain world cup celebration - Search
 [Edge] HIST | 2026-07-27 12:41:12 | [2x] https://www.bing.com/search?q=World+Cup+2026+matches+today&FORM=R5FD1 | World Cup 2026 matches today - Search
 
-────────────────────────────────────────────────────────────────────────────────
-  BOOKMARKS
-────────────────────────────────────────────────────────────────────────────────
+────────────────────────────────────────────────────────────
+  8. BOOKMARKS
+────────────────────────────────────────────────────────────
   (none found)
 
-────────────────────────────────────────────────────────────────────────────────
-  INSTALLED EXTENSIONS
-────────────────────────────────────────────────────────────────────────────────
+────────────────────────────────────────────────────────────
+  9. INSTALLED EXTENSIONS
+────────────────────────────────────────────────────────────
 [Edge] EXT | __MSG_extName__ | 1.107.1_0
 [Edge] EXT | Edge relevant text changes | 1.2.1_0
 [Edge] EXT | PSI In-application Extension | 1.0.0.12_0
 
-────────────────────────────────────────────────────────────────────────────────
-  WINDOWS STORED CREDENTIALS
-────────────────────────────────────────────────────────────────────────────────
+────────────────────────────────────────────────────────────
+  10. WINDOWS STORED CREDENTIALS
+────────────────────────────────────────────────────────────
 
 Currently stored credentials:
 
@@ -149,6 +132,10 @@ Currently stored credentials:
     
 
 
-================================================================================
-  END OF REPORT — PC: SC-LAB1-PC34_STUDENTS_20fb888f
-================================================================================
+────────────────────────────────────────────────────────────
+  11. CLIPBOARD SNIFFING
+────────────────────────────────────────────────────────────
+
+============================================================
+  END OF REPORT — PC: SC-LAB1-PC34_STUDENTS_20fb888f — CONTINUOUS MONITORING ACTIVE
+============================================================
