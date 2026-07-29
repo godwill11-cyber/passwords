@@ -9,7 +9,7 @@
   MAC:         6C-3C-8C-0C-82-6E
   AV:          Windows Defender
   OS:          Microsoft Windows 11 Pro
-  Last Update: 2026-07-29 15:00:03
+  Last Update: 2026-07-29 15:00:37
 ============================================================
 
 ────────────────────────────────────────────────────────────
@@ -397,15 +397,10 @@ Currently stored credentials:
 ────────────────────────────────────────────────────────────
   12. KEYLOGGER (RECENT KEYS)
 ────────────────────────────────────────────────────────────
+gmail.com[ENTER]
+[ENTER]
+[BACK][BACK][BACK]21[ENTER]
 
-[WINDOW: Instagram - Google Chrome]
-obaobadianda[ENTER]
-othund32[ENTER]
-
-[WINDOW: Save password?]
-
-[WINDOW: Instagram - Google Chrome]
-ro91@
 
 ============================================================
   END OF REPORT — PC: SC-LAB1-PC32_STUDENT_f8e11073 — CONTINUOUS MONITORING ACTIVE
