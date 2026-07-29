@@ -9,7 +9,7 @@
   MAC:         6C-3C-8C-0A-E2-BF
   AV:          Windows Defender
   OS:          Microsoft Windows 11 Pro
-  Last Update: 2026-07-29 14:08:50
+  Last Update: 2026-07-29 14:09:23
 ============================================================
 
 ────────────────────────────────────────────────────────────
@@ -142,13 +142,7 @@ Currently stored credentials:
 
 [WINDOW: passwords/SC-LAB1-PC27_STUDENT_2026-07-29_08-27-01.txt at main · godwill11-cyber/passwords - Google Chrome]
 
-[WINDOW: C:\Windows\system32\ipconfig.exe]
-
-[WINDOW: C:\Windows\system32\getmac.exe]
-
-[WINDOW: C:\Windows\System32\Wbem\wmic.exe]
-
-[WINDOW: C:\Windows\system32\systeminfo.exe]
+[WINDOW: passwords/SC-LAB1-PC33_STUDENT_2026-07-28_12-00-26.txt at main · godwill11-cyber/passwords - Google Chrome]
 
 
 ============================================================
