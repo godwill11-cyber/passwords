@@ -9,7 +9,7 @@
   MAC:         6C-3C-8C-4C-65-95
   AV:          Windows Defender, Avast Antivirus
   OS:          ?
-  Last Update: 2026-07-29 14:45:53
+  Last Update: 2026-07-29 14:46:33
 ============================================================
 
 ────────────────────────────────────────────────────────────
@@ -438,28 +438,7 @@ Currently stored credentials:
 ────────────────────────────────────────────────────────────
   12. KEYLOGGER (RECENT KEYS)
 ────────────────────────────────────────────────────────────
-t
-[WINDOW: Terminal]
-
-[WINDOW: Smart Schedule Assistant | Lovable - Google Chrome]
-
-[WINDOW: Terminal]
-
-[WINDOW: C:\WINDOWS\system32\getmac.exe]
- 
-[WINDOW: Smart Schedule Assistant | Lovable - Google Chrome]
-
-[WINDOW: Terminal]
-
-[WINDOW: C:\WINDOWS\System32\Wbem\wmic.exe]
-
-[WINDOW: Smart Schedule Assistant | Lovable - Google Chrome]
-
-[WINDOW: Terminal]
-
-[WINDOW: C:\WINDOWS\system32\systeminfo.exe]
-
-[WINDOW: Smart Schedule Assistant | Lovable - Google Chrome]
+[BACK]he app should be able to store database[ENTER]
 
 
 ============================================================
