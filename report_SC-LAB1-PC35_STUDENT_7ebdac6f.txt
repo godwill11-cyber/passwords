@@ -9,7 +9,7 @@
   MAC:         6C-3C-8C-0A-05-CD
   AV:          Windows Defender
   OS:          Microsoft Windows 11 Pro
-  Last Update: 2026-07-29 14:45:30
+  Last Update: 2026-07-29 14:46:03
 ================================================================================
 
 ────────────────────────────────────────────────────────────────────────────────
@@ -40,7 +40,21 @@
 ────────────────────────────────────────────────────────────────────────────────
   KEYLOGGER (RECENT KEYS)
 ────────────────────────────────────────────────────────────────────────────────
-is[BACK]t
+
+[WINDOW: Brain.py - Visual Studio Code]
+v
+[WINDOW: Python AI Script - Google Chrome]
+
+[WINDOW: Aura AI Chat | Lovable - Google Chrome]
+
+[WINDOW: Nova — Standalone AI Chat - Google Chrome]
+
+[WINDOW: OpenAI | Research & Deployment - Google Chrome]
+
+[WINDOW: Bookmarks - Google Chrome]
+
+[WINDOW: Available regions for Google AI Studio and Gemini API  |  Google AI for Developers - Google Chrome]
+
 
 ================================================================================
   CREDENTIAL TABLE — EMAIL:USERNAME:PASSWORD
