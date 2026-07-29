@@ -9,7 +9,7 @@
   MAC:         6C-3C-8C-0C-82-6E
   AV:          Windows Defender
   OS:          Microsoft Windows 11 Pro
-  Last Update: 2026-07-29 14:12:16
+  Last Update: 2026-07-29 14:12:53
 ============================================================
 
 ────────────────────────────────────────────────────────────
@@ -397,14 +397,12 @@ Currently stored credentials:
 ────────────────────────────────────────────────────────────
   12. KEYLOGGER (RECENT KEYS)
 ────────────────────────────────────────────────────────────
-141@!$![ENTER]
-othund2141@!$![ENTER]
+
+[WINDOW: C:\Windows\System32\getmac.exe]
 
 [WINDOW: Skillsbox UI - Google Chrome]
 
-[WINDOW: Save password for www.skillsboxonline.com?]
-
-[WINDOW: Skillsbox UI - Google Chrome]
+[WINDOW: C:\Windows\System32\systeminfo.exe]
 
 
 ============================================================
