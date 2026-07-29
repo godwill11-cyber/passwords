@@ -9,7 +9,7 @@
   MAC:         6C-3C-8C-0A-05-CD
   AV:          Windows Defender
   OS:          ?
-  Last Update: 2026-07-29 15:23:59
+  Last Update: 2026-07-29 15:24:32
 ================================================================================
 
 ────────────────────────────────────────────────────────────────────────────────
@@ -40,18 +40,12 @@
 ────────────────────────────────────────────────────────────────────────────────
   KEYLOGGER (RECENT KEYS)
 ────────────────────────────────────────────────────────────────────────────────
-c
-[WINDOW: C:\Windows\System32\cmd.exe]
-
-[WINDOW: Select Windows PowerShell]
-
-[WINDOW: C:\Windows\System32\cmd.exe]
-
-[WINDOW: Python AI Script - Google Chrome]
 
 [WINDOW: Brain.py - Visual Studio Code]
-avs
+
 [WINDOW: Python AI Script - Google Chrome]
+
+[WINDOW: C:\Windows\System32\cmd.exe]
 
 
 ================================================================================
