@@ -9,7 +9,7 @@
   MAC:         6C-3C-8C-0A-E2-BF
   AV:          Windows Defender
   OS:          Microsoft Windows 11 Pro
-  Last Update: 2026-07-29 14:05:20
+  Last Update: 2026-07-29 14:05:54
 ============================================================
 
 ────────────────────────────────────────────────────────────
@@ -140,22 +140,7 @@ Currently stored credentials:
   12. KEYLOGGER (RECENT KEYS)
 ────────────────────────────────────────────────────────────
 
-[WINDOW: Untitled - Google Chrome]
-
-[WINDOW: Hacker Tab | For Every Aspiring Hacker - Google Chrome]
-skils box[ENTER]
-
-[WINDOW: skils box - Google Search - Google Chrome]
-
-[WINDOW: Skillsbox - Google Chrome]
-
 [WINDOW: This website is blocked! - Google Chrome]
-
-[WINDOW: Skillsbox - Google Chrome]
-
-[WINDOW: This website is blocked! - Google Chrome]
-
-[WINDOW: Skillsbox - Google Chrome]
 
 
 ============================================================
