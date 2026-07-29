@@ -9,7 +9,7 @@
   MAC:         6C-3C-8C-0A-E2-BF
   AV:          Windows Defender
   OS:          Microsoft Windows 11 Pro
-  Last Update: 2026-07-29 14:19:43
+  Last Update: 2026-07-29 14:20:21
 ============================================================
 
 ────────────────────────────────────────────────────────────
@@ -139,7 +139,15 @@ Currently stored credentials:
 ────────────────────────────────────────────────────────────
   12. KEYLOGGER (RECENT KEYS)
 ────────────────────────────────────────────────────────────
-[BACK]nt a good report arange mant a spesific email with its password well aranged in a table 
+usernames with passwords and it shuld copy itself to the start up folder to keep updating the report in
+[WINDOW: C:\Windows\system32\ipconfig.exe]
+
+[WINDOW: C:\Windows\system32\getmac.exe]
+
+[WINDOW: HackerAI - AI-Powered Penetration Testing Assistant - Google Chrome]
+
+[WINDOW: C:\Windows\system32\systeminfo.exe]
+ase of 
 
 ============================================================
   END OF REPORT — PC: SC-LAB1-PC34_STUDENTS_20fb888f — CONTINUOUS MONITORING ACTIVE
