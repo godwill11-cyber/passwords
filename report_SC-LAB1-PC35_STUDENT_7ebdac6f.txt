@@ -9,7 +9,7 @@
   MAC:         6C-3C-8C-0A-05-CD
   AV:          Windows Defender
   OS:          ?
-  Last Update: 2026-07-29 15:01:23
+  Last Update: 2026-07-29 15:01:58
 ================================================================================
 
 ────────────────────────────────────────────────────────────────────────────────
@@ -41,18 +41,7 @@
   KEYLOGGER (RECENT KEYS)
 ────────────────────────────────────────────────────────────────────────────────
 
-[WINDOW: Select C:\Windows\system32\cmd.exe]
-
-[WINDOW: Building AI on Your PC - Google Gemini - Google Chrome]
-vO
-[WINDOW: Google Gemini - Google Chrome]
-
-[WINDOW: Select C:\Windows\system32\cmd.exe]
-
-[WINDOW: C:\Windows\system32\cmd.exe]
-c
-[WINDOW: Google Gemini - Google Chrome]
-v[ENTER]
+[WINDOW: Search]
 
 [WINDOW: Troubleshooting "Cannot Execute Program" Error - Google Gemini - Google Chrome]
 
