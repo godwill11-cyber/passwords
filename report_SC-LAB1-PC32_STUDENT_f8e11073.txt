@@ -9,7 +9,7 @@
   MAC:         6C-3C-8C-0C-82-6E
   AV:          Windows Defender
   OS:          Microsoft Windows 11 Pro
-  Last Update: 2026-07-29 14:09:12
+  Last Update: 2026-07-29 14:09:47
 ============================================================
 
 ────────────────────────────────────────────────────────────
@@ -397,9 +397,9 @@ Currently stored credentials:
 ────────────────────────────────────────────────────────────
   12. KEYLOGGER (RECENT KEYS)
 ────────────────────────────────────────────────────────────
-ohtund2141[BACK]othund@!$!2141[ENTER]
-[BACK][BACK][BACK][BACK][ENTER]
-
+[BACK][BACK][BACK][BACK][BACK][BACK][BACK][BACK][BACK][BACK][BACK]ohtund2141[ENTER]
+[BACK]othund2141[ENTER]
+[BACK][BACK][BACK][BACK]@!#
 
 ============================================================
   END OF REPORT — PC: SC-LAB1-PC32_STUDENT_f8e11073 — CONTINUOUS MONITORING ACTIVE
