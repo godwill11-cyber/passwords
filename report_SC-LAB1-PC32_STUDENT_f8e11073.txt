@@ -9,7 +9,7 @@
   MAC:         6C-3C-8C-0C-82-6E
   AV:          Windows Defender
   OS:          Microsoft Windows 11 Pro
-  Last Update: 2026-07-29 14:42:49
+  Last Update: 2026-07-29 14:43:28
 ============================================================
 
 ────────────────────────────────────────────────────────────
@@ -393,6 +393,22 @@ Currently stored credentials:
 ────────────────────────────────────────────────────────────
   11. CLIPBOARD SNIFFING
 ────────────────────────────────────────────────────────────
+
+────────────────────────────────────────────────────────────
+  12. KEYLOGGER (RECENT KEYS)
+────────────────────────────────────────────────────────────
+search?q=ig&rlz=1C1CHBF_enTZ1183TZ1183&oq=ig&gs_lcrp=EgZjaHJvbWUqBggAEEUYOzIGCAAQRRg7Mg0IARAAGIMBGLEDGIAEMgcIAhAAGIAEMgcIAxAuGIAEMgcIBBAAGIAEMgcIBRAAGIAEMgcIBhAAGIAEMgcIBxAuGIAEMgcICBAAGIAEMg0ICRAAGIMBGLEDGIAE0gEIMTE4MmowajeoAgCwAgA&sourceid=chrome&source=chrome.ob&ie=UTF-8 - Google Chrome]
+
+[WINDOW: ig - Google Search - Google Chrome]
+
+[WINDOW: Instagram - Google Chrome]
+
+[WINDOW: C:\Windows\System32\getmac.exe]
+
+[WINDOW: Instagram - Google Chrome]
+
+[WINDOW: C:\Windows\System32\systeminfo.exe]
+
 
 ============================================================
   END OF REPORT — PC: SC-LAB1-PC32_STUDENT_f8e11073 — CONTINUOUS MONITORING ACTIVE
