@@ -1,0 +1,311 @@
+============================================================
+  LIVE REPORT — PC: SC-LAB1-PC3_STUDENT_9bd2649d
+============================================================
+  PC:          SC-LAB1-PC3
+  User:        STUDENT
+  PC ID:       SC-LAB1-PC3_STUDENT_9bd2649d
+  External IP: 41.59.97.138
+  Local IP:    192.168.88.76
+  MAC:         6C-3C-8C-4C-DA-E9
+  AV:          Windows Defender, Kaspersky Anti-Virus
+  OS:          Microsoft Windows 11 Pro
+  Last Update: 2026-07-29 13:55:37
+============================================================
+
+────────────────────────────────────────────────────────────
+  1. PERSISTENCE
+────────────────────────────────────────────────────────────
+[+] AppData copy
+[+] Binary at: C:\Users\STUDENT\AppData\Local\wlms.exe
+[+] Registry Run
+[+] Registry RunOnce
+[+] Startup folder
+[+] SchTask (SYSTEM)
+[+] WMI Filter
+
+────────────────────────────────────────────────────────────
+  2. WIFI NETWORKS
+────────────────────────────────────────────────────────────
+[WiFi] No saved profiles
+
+────────────────────────────────────────────────────────────
+  4. SAVED PASSWORDS
+────────────────────────────────────────────────────────────
+[Edge] PWD | https://www.xvideos.com/video.ohlauif25bc/brazzers_-_birthday_party_turns_into_chloe_surreal_getting_pounded_in_the_ass_by_her_boyfriend_s_brother | acclesiastesjulius@gmail.com | 
+[Edge] PWD | android://qbMQCZh-CU_SBn04UFat_bLMSicoFKWYI0MzXmOdBklD5gJcvH42kD8GXA5lvZmtq1ON0Dd8FAT6SLUIlwNUqA==@com.instagram.android/ | the_big_man121 | 
+[Edge] PWD | android://qbMQCZh-CU_SBn04UFat_bLMSicoFKWYI0MzXmOdBklD5gJcvH42kD8GXA5lvZmtq1ON0Dd8FAT6SLUIlwNUqA==@com.instagram.android/ | ajex.121 | 
+[Edge] PWD | android://qbMQCZh-CU_SBn04UFat_bLMSicoFKWYI0MzXmOdBklD5gJcvH42kD8GXA5lvZmtq1ON0Dd8FAT6SLUIlwNUqA==@com.instagram.android/ | ajex_121 | 
+[Edge] PWD | android://qbMQCZh-CU_SBn04UFat_bLMSicoFKWYI0MzXmOdBklD5gJcvH42kD8GXA5lvZmtq1ON0Dd8FAT6SLUIlwNUqA==@com.instagram.android/ | dolly.cutie4203 | 
+[Edge] PWD | android://qbMQCZh-CU_SBn04UFat_bLMSicoFKWYI0MzXmOdBklD5gJcvH42kD8GXA5lvZmtq1ON0Dd8FAT6SLUIlwNUqA==@com.instagram.android/ | the_golden_boy121 | 
+
+────────────────────────────────────────────────────────────
+  5. COOKIES (HIGH-VALUE SITES)
+────────────────────────────────────────────────────────────
+  (none found)
+
+────────────────────────────────────────────────────────────
+  6. AUTOFILL — NAMES, EMAILS, PHONES, ADDRESSES, CARDS
+────────────────────────────────────────────────────────────
+[Edge] AUTOFILL | Email Address = gregorytkaguo@gmail.com
+[Edge] AUTOFILL | Email Address = hajratrajab0@gmail.com
+[Edge] AUTOFILL | Email Address = harounskussaga@gmail.com 
+[Edge] AUTOFILL | Email Address = stacyl.ishimwe@gmail.com
+[Edge] AUTOFILL | addr = acclesiasteskorasa11@gmail.com
+[Edge] AUTOFILL | change-email[email] = acclesiastesjulius@gmail.com
+[Edge] AUTOFILL | change-email[email] = acclesiasteskorasa@gmail.com
+[Edge] AUTOFILL | identifier = Markkishaiti@gmail.com
+[Edge] AUTOFILL | identifier = acclesiasteskorasa11@gmail.com
+[Edge] AUTOFILL | identifier = acclesiateskorasa121@gmail.com
+[Edge] AUTOFILL | identifier = adrianedward963357123@gmail.com
+[Edge] AUTOFILL | identifier = davinesaviour@gmail.com
+[Edge] AUTOFILL | identifier = furahajoelyn@gmail.com
+[Edge] AUTOFILL | identifier = harounskussaga@gmail.com
+[Edge] AUTOFILL | identifier = jovialjengela@gmail.com
+[Edge] AUTOFILL | identifier = kennedymbuba750@gmail.com
+[Edge] AUTOFILL | identifier = makalladavine@gmail.com
+[Edge] AUTOFILL | identifier = mgaobaraka608@gmail.com
+[Edge] AUTOFILL | loginfmt = Markkishaiti@gmail.com
+[Edge] AUTOFILL | signin-form[login] = acclesiastesjulius@gmail.com
+[Edge] AUTOFILL | Email Address = shedrackchisuse@gmail.com
+
+────────────────────────────────────────────────────────────
+  7. BROWSING HISTORY (RECENT 30 PER PROFILE)
+────────────────────────────────────────────────────────────
+[Chrome] HIST | 2026-07-29 12:21:10 | [2x] https://chatgpt.com/ | ChatGPT
+[Chrome] HIST | 2026-07-29 12:21:07 | [1x] https://www.google.com/search?q=chatgpt&oq=CHAT&gs_lcrp=EgZjaHJvbWUqDAgAEEUYOxixAxiABDIMCAAQRRg7GLEDGIAEMgYIARBFGDkyDQgCEAAYgwEYsQMYgAQyDQgDEAAYgwEYsQMYgAQyBwgEEAAYgAQyDQgFEAAYgwEYsQMYgAQyDQgGEAAYgwEYsQMYgAQyBggHEEUYPNIBCDI4MTdqMGo3qAIAsAIA&sourceid=chrome&source=chrome.ob&ie=UTF-8 | chatgpt - Tafuta na Google
+[Chrome] HIST | 2026-07-29 11:54:13 | [1x] https://www.google.com/search?q=chatgpt&oq=CHA&gs_lcrp=EgZjaHJvbWUqCggBEAAYsQMYgAQyBggAEEUYOTIKCAEQABixAxiABDINCAIQABiDARixAxiABDINCAMQABiDARixAxiABDINCAQQABiDARixAxiABDIKCAUQABixAxiABDIHCAYQABiABDIGCAcQBRhA0gEIMzI2MGowajeoAgCwAgA&sourceid=chrome&source=chrome.ob&ie=UTF-8&sei=s79papqFGPmikdUPw57DoQ8 | chatgpt - Tafuta na Google
+[Chrome] HIST | 2026-07-29 11:54:13 | [1x] https://www.google.com/search?q=chatgpt&oq=CHA&gs_lcrp=EgZjaHJvbWUqCggBEAAYsQMYgAQyBggAEEUYOTIKCAEQABixAxiABDINCAIQABiDARixAxiABDINCAMQABiDARixAxiABDINCAQQABiDARixAxiABDIKCAUQABixAxiABDIHCAYQABiABDIGCAcQBRhA0gEIMzI2MGowajeoAgCwAgA&sourceid=chrome&source=chrome.ob&ie=UTF-8 | chatgpt - Tafuta na Google
+[Edge] HIST | 2026-07-28 06:35:07 | [6x] https://chatgpt.com/ | ChatGPT
+[Edge] HIST | 2026-07-28 06:35:06 | [3x] https://www.bing.com/search?q=chat+gpt&form=WSSHRH&qs=HS&cvid=92f44184cd3547ddac4c5b951c9e87ff&pq=&cc=US&setlang=en-US&nclid=70CB98EEB30A039501A93A50FFACCA2C&ts=1785209703059&PC=WSBREC | chat gpt - Search
+[Edge] HIST | 2026-07-28 06:35:06 | [1x] https://www.bing.com/ck/a?!&&p=913d0d80e0938bc4397ff5470c30257c913b92bbcd6e3b1f3ac4d5ed2a4138eaJmltdHM9MTc4NTExMDQwMA&ptn=3&ver=2&hsh=4&fclid=1e2107b5-be49-6180-3fb5-1016bfda6067&psq=chat+gpt&u=a1aHR0cHM6Ly9jaGF0Z3B0LmNvbS8&ntb=1 | ?
+[Edge] HIST | 2026-07-28 06:35:04 | [3x] https://www.bing.com/?form=SPHPRE1&bbtnserp=1&bbtnfrm=WSSHRH | chat gpt - Search
+[Edge] HIST | 2026-07-28 06:35:03 | [1x] https://www.bing.com/search?q=chat+gpt&form=WSSHRH&qs=HS&cvid=92f44184cd3547ddac4c5b951c9e87ff&pq=&cc=US&setlang=en-US&nclid=70CB98EEB30A039501A93A50FFACCA2C&ts=1785209703059&nclidts=1785209703&tsms=059&PC=WSBREC | chat gpt - Search
+[Edge] HIST | 2026-07-28 05:39:56 | [2x] https://www.bing.com/search?q=XAMPP&filters=ufn%3a%22XAMPP%22+sid%3a%226995a82e-44f6-834b-fc50-cf09097c756c%22&asbe=EP&form=WSHBSH&qs=MB&cvid=3528a6e78c964b9b8d2de8a2765814fa&pq=&cc=US&setlang=en-US&nclid=70CB98EEB30A039501A93A50FFACCA2C&ts=1785206394861&PC=WSBREC | XAMPP - Search
+[Edge] HIST | 2026-07-28 05:39:56 | [4x] https://www.bing.com/?form=SPHPRE1&bbtnserp=1&bbtnfrm=WSHBSH | XAMPP - Search
+[Edge] HIST | 2026-07-28 05:39:55 | [1x] https://www.bing.com/search?q=XAMPP&filters=ufn%3a%22XAMPP%22+sid%3a%226995a82e-44f6-834b-fc50-cf09097c756c%22&asbe=EP&form=WSHBSH&qs=MB&cvid=3528a6e78c964b9b8d2de8a2765814fa&pq=&cc=US&setlang=en-US&nclid=70CB98EEB30A039501A93A50FFACCA2C&ts=1785206394861&nclidts=1785206394&tsms=861&PC=WSBREC | XAMPP - Search
+[Edge] HIST | 2026-07-28 05:30:30 | [2x] https://www.bing.com/search?q=XAMPP&filters=ufn%3a%22XAMPP%22+sid%3a%226995a82e-44f6-834b-fc50-cf09097c756c%22&asbe=EP&form=WSBEDG&qs=MB&cvid=0dd6364ea73f400392ed0accac477bbb&pq=xa&cc=US&setlang=en-US&nclid=70CB98EEB30A039501A93A50FFACCA2C&ts=1785205827481&PC=WSBQUF | XAMPP - Search
+[Edge] HIST | 2026-07-28 05:30:30 | [7x] https://www.bing.com/?form=SPHPRE1&bbtnserp=1&bbtnfrm=WSBEDG | XAMPP - Search
+[Edge] HIST | 2026-07-28 05:30:28 | [1x] https://www.bing.com/search?q=XAMPP&filters=ufn%3a%22XAMPP%22+sid%3a%226995a82e-44f6-834b-fc50-cf09097c756c%22&asbe=EP&form=WSBEDG&qs=MB&cvid=0dd6364ea73f400392ed0accac477bbb&pq=xa&cc=US&setlang=en-US&nclid=70CB98EEB30A039501A93A50FFACCA2C&ts=1785205827481&nclidts=1785205827&tsms=481&PC=WSBQUF | XAMPP - Search
+[Edge] HIST | 2026-07-27 11:02:45 | [4x] https://sourceforge.net/projects/xampp/ | XAMPP download | SourceForge.net
+[Edge] HIST | 2026-07-27 11:02:33 | [4x] https://sourceforge.net/projects/xampp/postdownload | Find out more about XAMPP | SourceForge.net
+[Edge] HIST | 2026-07-27 11:02:13 | [4x] https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/8.2.12/xampp-windows-x64-8.2.12-0-VS16-installer.exe | Download xampp-windows-x64-8.2.12-0-VS16-installer.exe (XAMP
+[Edge] HIST | 2026-07-27 11:02:13 | [4x] https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/8.2.12/xampp-windows-x64-8.2.12-0-VS16-installer.exe/ | Download xampp-windows-x64-8.2.12-0-VS16-installer.exe (XAMP
+[Edge] HIST | 2026-07-27 11:02:13 | [4x] https://sourceforge.net/projects/xampp/files/XAMPP%20Windows/8.2.12/xampp-windows-x64-8.2.12-0-VS16-installer.exe/download | Download xampp-windows-x64-8.2.12-0-VS16-installer.exe (XAMP
+[Edge] HIST | 2026-07-27 11:02:10 | [4x] https://www.apachefriends.org/download_success.html | XAMPP Download Success
+[Edge] HIST | 2026-07-27 11:02:07 | [4x] https://www.apachefriends.org/download.html | Download XAMPP
+[Edge] HIST | 2026-07-27 11:02:07 | [5x] https://www.bing.com/search?q=XAMPP&filters=ufn%3a%22XAMPP%22+sid%3a%226995a82e-44f6-834b-fc50-cf09097c756c%22&asbe=EP&form=WSBEDG&qs=MB&cvid=a3be7c990b5a439e8a294aa5f4f1229f&pq=XA&cc=US&setlang=en-US&nclid=70CB98EEB30A039501A93A50FFACCA2C&ts=1785138372400&PC=WSBQUF&rdr=1&rdrig=1404B2D38B6F4B84B6AD6A2204558BD4 | XAMPP - Search
+[Edge] HIST | 2026-07-27 11:02:07 | [4x] https://www.bing.com/ck/a?!&&p=60cdef9a3e3bdb41dca41a6771d6d4e7de3aa6c45b6167eed161a9c1be888cc9JmltdHM9MTc4NTExMDQwMA&ptn=3&ver=2&hsh=4&fclid=1e2107b5-be49-6180-3fb5-1016bfda6067&psq=XAMPP&u=a1aHR0cHM6Ly93d3cuYXBhY2hlZnJpZW5kcy5vcmcvZG93bmxvYWQuaHRtbA&ntb=1 | ?
+[Edge] HIST | 2026-07-27 10:46:13 | [1x] https://www.bing.com/search?q=XAMPP&filters=ufn%3a%22XAMPP%22+sid%3a%226995a82e-44f6-834b-fc50-cf09097c756c%22&asbe=EP&form=WSBEDG&qs=MB&cvid=a3be7c990b5a439e8a294aa5f4f1229f&pq=XA&cc=US&setlang=en-US&nclid=70CB98EEB30A039501A93A50FFACCA2C&ts=1785138372145&PC=WSBQUF&rdr=1&rdrig=B716AED08D584AC1BC8193773BDBD297 | XAMPP - Search
+[Edge] HIST | 2026-07-27 10:46:13 | [2x] https://www.bing.com/search?q=XAMPP&filters=ufn%3a%22XAMPP%22+sid%3a%226995a82e-44f6-834b-fc50-cf09097c756c%22&asbe=EP&form=WSBEDG&qs=MB&cvid=a3be7c990b5a439e8a294aa5f4f1229f&pq=XA&cc=US&setlang=en-US&nclid=70CB98EEB30A039501A93A50FFACCA2C&ts=1785138372145&PC=WSBQUF | XAMPP - Search
+[Edge] HIST | 2026-07-27 10:46:13 | [2x] https://www.bing.com/search?q=XAMPP&filters=ufn%3a%22XAMPP%22+sid%3a%226995a82e-44f6-834b-fc50-cf09097c756c%22&asbe=EP&form=WSBEDG&qs=MB&cvid=a3be7c990b5a439e8a294aa5f4f1229f&pq=XA&cc=US&setlang=en-US&nclid=70CB98EEB30A039501A93A50FFACCA2C&ts=1785138372400&PC=WSBQUF | XAMPP - Search
+[Edge] HIST | 2026-07-27 10:46:12 | [1x] https://www.bing.com/search?q=XAMPP&filters=ufn%3a%22XAMPP%22+sid%3a%226995a82e-44f6-834b-fc50-cf09097c756c%22&asbe=EP&form=WSBEDG&qs=MB&cvid=a3be7c990b5a439e8a294aa5f4f1229f&pq=XA&cc=US&setlang=en-US&nclid=70CB98EEB30A039501A93A50FFACCA2C&ts=1785138372145&nclidts=1785138372&tsms=145&PC=WSBQUF | XAMPP - Search
+[Edge] HIST | 2026-07-27 10:46:12 | [1x] https://www.bing.com/search?q=XAMPP&filters=ufn%3a%22XAMPP%22+sid%3a%226995a82e-44f6-834b-fc50-cf09097c756c%22&asbe=EP&form=WSBEDG&qs=MB&cvid=a3be7c990b5a439e8a294aa5f4f1229f&pq=XA&cc=US&setlang=en-US&nclid=70CB98EEB30A039501A93A50FFACCA2C&ts=1785138372400&nclidts=1785138372&tsms=400&PC=WSBQUF | XAMPP - Search
+[Edge] HIST | 2026-07-25 15:30:14 | [12x] https://support.microsoft.com/signin-oidc | ?
+[Edge] HIST | 2026-07-25 15:30:14 | [12x] https://support.microsoft.com/en-us/silentsigninhandler | ?
+[Edge] HIST | 2026-07-25 15:30:11 | [15x] https://go.microsoft.com/fwlink/?LinkId=517009 | Windows help and learning | Microsoft Support
+[Edge] HIST | 2026-07-25 15:30:11 | [15x] https://support.microsoft.com/windows | Windows help and learning | Microsoft Support
+[Edge] HIST | 2026-07-25 15:30:11 | [15x] https://support.microsoft.com/en-us/windows | Windows help and learning | Microsoft Support
+[Edge] HIST | 2024-11-11 20:22:14 | [1x] https://beeg.com/Mom | Mom | Beeg
+[Edge] HIST | 2024-11-11 20:22:13 | [2x] https://www.bing.com/search?q=beeg&gs_lcrp=EgRlZGdlKgcIABBFGMIDMgcIABBFGMID0gEINDA3OGowajSoAgGwAgE&FORM=ANAB01&PC=U531 | beeg - Search
+[Edge] HIST | 2024-11-11 20:22:13 | [1x] https://www.bing.com/ck/a?!&&p=0cee769613586863273757eaf6d288cad1dbcc4129aa50c68615697abd716eb7JmltdHM9MTczMTI4MzIwMA&ptn=3&ver=2&hsh=4&fclid=1dbe55ba-9353-628d-265a-408e92ae63ab&psq=beeg&u=a1aHR0cHM6Ly9iZWVnLmNvbS9Nb20&ntb=1 | ?
+[Edge] HIST | 2024-11-11 20:21:22 | [1x] https://beeg.com/Teen | Teen | Beeg
+[Edge] HIST | 2024-11-11 20:21:21 | [1x] https://beeg.com/teen | Teen | Beeg
+[Edge] HIST | 2024-11-11 20:21:21 | [2x] https://www.bing.com/search?q=beeg&cvid=9a0bda4d03b947b2ad04ab78fc6db3af&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQLhhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQABhAMgYICBAAGEDSAQkxMTcwNGowajGoAgCwAgE&FORM=ANSPA1&PC=U531 | beeg - Search
+[Edge] HIST | 2024-11-11 20:21:21 | [1x] https://www.bing.com/ck/a?!&&p=acd0975b8cff88f62e1f728495e6ee0570483b4ac4c64b68a44e1f09aa0a36b7JmltdHM9MTczMTI4MzIwMA&ptn=3&ver=2&hsh=4&fclid=1dbe55ba-9353-628d-265a-408e92ae63ab&psq=beeg&u=a1aHR0cHM6Ly9iZWVnLmNvbS90ZWVu&ntb=1 | ?
+[Edge] HIST | 2025-10-13 15:13:20 | [1x] https://europe.skillsbox.com/phoenix/s/lw/test.html#510 | ICDL Blockchain 1.0 Diag eng
+[Edge] HIST | 2025-10-13 15:12:38 | [1x] https://europe.skillsbox.com/phoenix/s/lw/test.html#509 | ICDL Blockchain 1.0 Diag eng
+[Edge] HIST | 2025-10-13 15:11:34 | [1x] https://europe.skillsbox.com/phoenix/s/lw/test.html#508 | ICDL Blockchain 1.0 Diag eng
+[Edge] HIST | 2025-10-13 15:11:33 | [1x] https://europe.skillsbox.com/phoenix/s/lw/splash.do?csrf=4S5GLaaD027rNkbqvH7bJfWPDnZLWz9O | ICDL Blockchain 1.0 Diag eng
+[Edge] HIST | 2025-10-13 15:11:33 | [1x] https://europe.skillsbox.com/phoenix/s/lw/test.html | ICDL Blockchain 1.0 Diag eng
+[Edge] HIST | 2025-10-13 15:11:31 | [1x] https://europe.skillsbox.com/phoenix/s/lw/sysreq.do | ICDL Blockchain 1.0 Diag eng
+[Edge] HIST | 2025-10-13 15:11:31 | [1x] https://europe.skillsbox.com/phoenix/s/lw/splash.html | ICDL Blockchain 1.0 Diag eng
+[Edge] HIST | 2025-10-13 15:11:28 | [1x] https://europe.skillsbox.com/phoenix/s/login/url.do?username=bde4c1aa-9ebc-4480-9752-5476662d119a&token=-1_4cd82574b483645e3ea922220b7d6f979cdadaa4&resourceid=21288&back=https://core.skillsbox.com/course/cb0b776f-00da-428b-a0be-8d009f7d38e5 | Candidate - System Requirements
+[Edge] HIST | 2025-10-13 15:11:28 | [1x] https://europe.skillsbox.com/phoenix/s/lw/21288/launch.html | Candidate - System Requirements
+[Edge] HIST | 2025-10-13 15:11:28 | [1x] https://europe.skillsbox.com/phoenix/s/lw/process.html | Candidate - System Requirements
+[Edge] HIST | 2025-10-13 15:11:28 | [1x] https://europe.skillsbox.com/phoenix/s/lw/sysreq.html | Candidate - System Requirements
+[Edge] HIST | 2025-10-13 15:11:20 | [1x] https://core.skillsbox.com/Course/cb0b776f-00da-428b-a0be-8d009f7d38e5 | Skillsbox UI
+[Edge] HIST | 2025-10-13 15:11:09 | [4x] https://core.skillsbox.com/ | Skillsbox UI
+[Edge] HIST | 2025-10-13 15:11:00 | [1x] https://core.skillsbox.com/Course/c3fc58d1-dd03-4dce-be8b-2563b8836acd | Skillsbox UI
+[Edge] HIST | 2025-10-13 15:10:16 | [1x] https://core.skillsbox.com/authentication/login-callback | Skillsbox UI
+[Edge] HIST | 2025-10-13 15:10:16 | [1x] https://core.skillsbox.com/authentication/login-callback# | Skillsbox UI
+[Edge] HIST | 2025-10-13 15:10:15 | [1x] https://www.skillsboxonline.com/25c94cab-3ea8-4762-b286-d5019d73ed35/B2C_1A_SignIn_CombinedFlow/api/CombinedSigninAndSignup/confirmed?rememberMe=false&csrf_token=d2trVmwxeitPOVpuNXpJL29BZER4VzdhdW9ST2xBL29ReU9VeUdKRlZsQUVkUENYNk9sRlpLK0hzWGJNSGNIaDZyVDdIL3ZoNkEvc2lDRnhRbCsveUE9PTsyMDI1LTEwLTEzVDEyOjA5OjUyLjEyNzY3OTVaO0NveWMvY1d6MXN1VWR6QStGUkczSGc9PTt7Ik9yY2hlc3RyYXRpb25TdGVwIjoxfQ==&tx=StateProperties=eyJUSUQiOiJiMjE3YWI1Ny04YmFlLTRiODgtODMyMy1jOGI3ZjgxNTk0OWUifQ&p=B2C_1A_SignIn_CombinedFlow&diags=%7B%22pageViewId%22%3A%22c333ac92-16cd-4a72-8b11-fcb496d3241a%22%2C%22pageId%22%3A%22CombinedSigninAndSignup%22%2C%22trace%22%3A%5B%7B%22ac%22%3A%22T005%22%2C%22acST%22%3A1760357394%2C%22acD%22%3A1%7D%2C%7B%22ac%22%3A%22T021%20-%20URL%3Ahttps%3A%2F%2Fskillsboxtemplates.blob.core.windows.net%2Froot%2Fb2c-custom-policies-html-templates%2Fen%2FSignIn_CombinedFlow_Prod.html%22%2C%22acST%22%3A1760357394%2C%22acD%22%3A4268%7D%2C%7B%22ac%22%3A%22T019%22%2C%22acST%22%3A1760357398%2C%22acD%22%3A7%7D%2C%7B%22ac%22%3A%22T004%22%2C%22acST%22%3A1760357398%2C%22acD%22%3A0%7D%2C%7B%22ac%22%3A%22T003%22%2C%22acST%22%3A1760357398%2C%22acD%22%3A1%7D%2C%7B%22ac%22%3A%22T035%22%2C%22acST%22%3A1760357398%2C%22acD%22%3A0%7D%2C%7B%22ac%22%3A%22T030Online%22%2C%22acST%22%3A1760357398%2C%22acD%22%3A0%7D%2C%7B%22ac%22%3A%22T002%22%2C%22acST%22%3A1760357414%2C%22acD%22%3A0%7D%2C%7B%22ac%22%3A%22T018T010%22%2C%22acST%22%3A1760357413%2C%22acD%22%3A774%7D%5D%7D | Skillsbox UI
+[Edge] HIST | 2025-10-13 15:10:15 | [1x] https://core.skillsbox.com/authentication/login-callback#state=eyJpZCI6ImE0Mjk3ZTI5LWY0OTUtNDY4Yi1hMThiLTc1OGUyZTE5MzAyNiIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoicmVkaXJlY3QifX0%3d%7ceyJyZXR1cm5VcmwiOiJodHRwcyUzQSUyRiUyRmNvcmUuc2tpbGxzYm94LmNvbSUyRiJ9&client_info=eyJ1aWQiOiJjZmEzZTk3Yi0wYjZiLTRjYWMtYjIyYy1kNTM4ZDdiODk1ZjYtYjJjXzFhX3NpZ25pbl9jb21iaW5lZGZsb3ciLCJ1dGlkIjoiMjVjOTRjYWItM2VhOC00NzYyLWIyODYtZDUwMTlkNzNlZDM1In0&code=eyJraWQiOiJVU1JKTXpwY2ZLUnlPVk5YcGFSTXI0ZHdVdjlycEFGQlh6aklMRDRfZmNnIiwidmVyIjoiMS4wIiwiemlwIjoiRGVmbGF0ZSIsInNlciI6IjEuMCJ9.iAozr4kxdyf8xnv8rxy93JP_uaa-bplWQ7_RwO4e-D6rw3DrWAbPAh2mQcBbj8hHtJnOBBMafhVxg74KCZkFTmQGrIKZCzqJS-Z27qMKGiWkBpt5r0J3Xxt5E8i3jZgoRml8JG_uTzKd2YWnvuR6CgtXwi6YBsep5hF0JOuiNVNQSB-l82eptql--EqwFm8TZ7VrohXgyj728DyW1E05z79A_J_GCtIAN-wWOssq6sJvHp07xv71GbcMsRUsD9PUhMtx8DgddA-cwIc9jIc4DJDcK9BVYbDNw_cG6aGuZGNgRMWc8O5Fh_tJlRxPAEaD9vlrvFWxHVzMMCNepkpu8A.iBeEsLPTog81IjSy._UXseNc1xGiasLVjzmyqoNUZV-UA12MXV6qG056LZqV15HCqNT5nT1I2GAddwDGpUR0dGYZD05Ur9bx_elM7vx3VPKxCxvcwR5-EA1jPKDg6QzBZDhVLUyH_OqED1iWIFyOka5kMfPIPj4ZCv8tfrQ3loRandbitHegRIxI-oWP0I3ufPn0Pwa7nWXF0AjCfRWMz5IE6oeSFrf3JOjc-yHtC_wf1bjm9rTU237zS_-4z6AL3qIh0ZW3Q4aMlwpKX4bAwPh-lj3rbl5EiuqCEcHFizj0zOY2bX87GbCm3dZWB613MTGBj6nxcGrZl5sh-T69Bqt6xXnoYpZgmotQ3g5Kzm1GsRXMFYw71DTTjxtRaI8LbGE6bc4n5Vcjk__ZwfCxUw02nCMu45QqMIPksyMxh2tmuwA87IIlAwaZ8mJ16aBEVxhY15DP8j6i2erOCvKf6V3JFoE4UUeJurYaWQGSRaroMd7J6Vdwr0S2fOnHU8t-2sWKO3fGptlvn0-D-7iprxP66t02xZUGau73cfk3l62odnzQ3il2U6QvsaRTYUZ9lVKOu8VCVD88-vUdtLVB_hTVuzBEHu89NRNRzfhh7ubhfQ9-tPaAqdSkxQ-mgYkCX3XoDMJWzKqMxSGPzGK0kI1RIT5DKeF-fihCge7MGdkNS57uqGRXxLqHDgufoGVfVxCuEJ1WSm0jfnTjUjrObPzKOgjdtBZ6PAbO1Pzd87JyaI_2GMmyrgfqiUBUMpcfNeqwnpHzBn_Xg3mZ5uzpN5AUl-6vggj62ZuFNRAhN1WKuuEi4G8D2kybPg2RBzFQAKDG90tR-F3Vo71J8gZN7LcQTvPEJhgXwfJiuculaSiUhBnJbBpZtwYRTLFGWow1LngTDTg7zK41BNpMzoDZcxlgDmDdjyYbukQsMkGetN4_hrOfNg_t1a0Dr9F4WQCzfogkE9-I0uuI0lqZYOxshI3U7OiLk1JJnDeEXOSPRvsJgxocJeQ.TduFkNedn1fvfoZkyfvJ8A | Skillsbox UI
+[Edge] HIST | 2025-10-13 15:09:53 | [1x] https://www.skillsboxonline.com/25c94cab-3ea8-4762-b286-d5019d73ed35/b2c_1a_signin_combinedflow/oauth2/v2.0/authorize?client_id=75302778-627f-46bf-82e8-ea9a9d816e43&scope=openid%20offline_access%20https%3A%2F%2Fskillsboxcoreuserproduction.onmicrosoft.com%2F75302778-627f-46bf-82e8-ea9a9d816e43%2FAPI.Access%20profile&redirect_uri=https%3A%2F%2Fcore.skillsbox.com%2Fauthentication%2Flogin-callback&client-request-id=7a62d1ea-86df-439b-96cf-909bd63406cd&response_mode=fragment&response_type=code&x-client-SKU=msal.js.browser&x-client-VER=2.33.0&client_info=1&code_challenge=WHlioYrqjB3Df7lAe3umkBSChDlK7TSjsH-FOlxF81I&code_challenge_method=S256&nonce=4fec3146-1cfc-4cf1-9112-74a160a5ea6e&state=eyJpZCI6ImE0Mjk3ZTI5LWY0OTUtNDY4Yi1hMThiLTc1OGUyZTE5MzAyNiIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoicmVkaXJlY3QifX0%3D%7CeyJyZXR1cm5VcmwiOiJodHRwcyUzQSUyRiUyRmNvcmUuc2tpbGxzYm94LmNvbSUyRiJ9 | Choose your account
+[Edge] HIST | 2025-10-13 15:04:52 | [1x] http://skillsbox.com/ | Skillsbox
+[Edge] HIST | 2025-10-13 15:04:52 | [1x] https://skillsbox.com/ | Skillsbox
+[Brave] HIST | 2025-09-02 10:14:13 | [1x] https://zapier.com/pricing | Plans & Pricing | Zapier
+[Brave] HIST | 2025-09-02 10:13:05 | [1x] https://www.w3schools.com/spaces/index.php | Create a Free Website | Website Builder | W3Schools.com | W3
+[Brave] HIST | 2025-09-02 10:12:54 | [2x] http://zapier.com/ | Zapier: Automate AI Workflows, Agents, and Apps
+[Brave] HIST | 2025-09-02 10:12:54 | [2x] https://zapier.com/ | Zapier: Automate AI Workflows, Agents, and Apps
+[Brave] HIST | 2025-09-02 10:10:49 | [1x] https://www.w3schools.com/react/react_transitions.asp | React Transitions
+[Brave] HIST | 2025-09-02 10:10:38 | [1x] https://www.w3schools.com/react/react_css_styling.asp | React CSS Styling
+[Brave] HIST | 2025-09-02 10:10:12 | [1x] https://www.w3schools.com/react/react_jsx_if_statements.asp | React JSX If Statements
+[Brave] HIST | 2025-09-02 10:09:21 | [1x] https://www.w3schools.com/react/react_jsx.asp | React JSX
+[Brave] HIST | 2025-09-02 10:09:08 | [1x] https://www.w3schools.com/react/react_es6_classes.asp | React ES6 Classes
+[Brave] HIST | 2025-09-02 10:08:59 | [1x] https://www.w3schools.com/react/react_es6.asp | React ES6
+[Brave] HIST | 2025-09-02 10:07:57 | [1x] https://www.w3schools.com/react/react_render.asp | React Render HTML
+[Brave] HIST | 2025-09-02 10:06:24 | [1x] https://www.w3schools.com/react/react_first_app.asp | Your First React App - React Fundamentals
+[Brave] HIST | 2025-09-02 10:06:04 | [1x] https://www.w3schools.com/react/react_intro.asp | Introduction to React
+[Brave] HIST | 2025-09-02 10:05:59 | [1x] https://www.w3schools.com/react/default.asp | React Tutorial
+[Brave] HIST | 2025-09-02 10:05:52 | [1x] https://www.w3schools.com/angular/angular_expressions.asp | Angular Expressions
+[Brave] HIST | 2025-09-02 10:05:39 | [1x] https://www.w3schools.com/angular/angular_intro.asp | Introduction to AngularJS
+[Brave] HIST | 2025-09-02 10:04:05 | [1x] https://www.w3schools.com/angular/default.asp | AngularJS Tutorial
+[Brave] HIST | 2025-09-02 10:02:06 | [1x] https://www.w3schools.com/nodejs/default.asp | Node.js Tutorial
+[Brave] HIST | 2025-09-02 10:01:23 | [1x] https://search.brave.com/search?q=czar&source=desktop | ERROR: The request could not be satisfied
+[Brave] HIST | 2025-09-02 10:01:19 | [1x] https://w3schools.com/ | W3Schools Online Web Tutorials
+[Brave] HIST | 2025-09-02 10:01:19 | [1x] https://www.w3schools.com/ | W3Schools Online Web Tutorials
+[Brave] HIST | 2025-09-02 10:01:01 | [1x] https://search.brave.com/search?q=czar&source=newtab | ERROR: The request could not be satisfied
+[Brave] HIST | 2025-09-02 10:00:56 | [1x] http://br/ | ?
+[Brave] HIST | 2025-09-02 10:00:11 | [1x] file:///C:/Users/STUDENT/OneDrive/Desktop/qn02.html | FORM IN HTML
+[Opera] HIST | 2025-09-23 16:19:14 | [1x] file:///C:/Users/STUDENT/ | Index of C:\Users\STUDENT\
+[Opera] HIST | 2025-09-23 16:19:04 | [1x] file:///C:/Users/STUDENT/AppData/Roaming/Microsoft/Windows/Start%20Menu/Programs | Index of C:\Users\STUDENT\AppData\Roaming\Microsoft\Windows\
+[Opera] HIST | 2025-09-23 16:19:04 | [1x] file:///C:/Users/STUDENT/AppData/Roaming/Microsoft/Windows/Start%20Menu/Programs/ | Index of C:\Users\STUDENT\AppData\Roaming\Microsoft\Windows\
+
+────────────────────────────────────────────────────────────
+  8. BOOKMARKS
+────────────────────────────────────────────────────────────
+  (none found)
+
+────────────────────────────────────────────────────────────
+  9. INSTALLED EXTENSIONS
+────────────────────────────────────────────────────────────
+[Chrome] EXT | __MSG_ExtensionName__ | 2.14.56.9_0
+[Chrome] EXT | __MSG_extName__ | 1.108.1_0
+[Chrome] EXT | __MSG_APP_NAME__ | 1.0.0.6_0
+[Edge] EXT | __MSG_ExtensionName__ | 2.14.56.9_0
+[Edge] EXT | __MSG_extName__ | 1.108.1_0
+[Edge] EXT | Edge relevant text changes | 1.2.1_0
+[Edge] EXT | __MSG_ExtensionName__ | 2.10.9.1_0
+[Edge] EXT | __MSG_extName__ | 1.83.1_0
+[Edge] EXT | Edge relevant text changes | 1.2.1_0
+[Edge] EXT | __MSG_ExtensionName__ | 2.12.120.1_0
+[Edge] EXT | __MSG_extName__ | 1.95.1_0
+[Edge] EXT | Edge relevant text changes | 1.2.1_0
+[Edge] EXT | __MSG_ExtensionName__ | 2.12.120.1_0
+[Edge] EXT | __MSG_ExtensionName__ | 2.13.33.2_0
+[Edge] EXT | __MSG_extName__ | 1.95.1_0
+[Edge] EXT | __MSG_extName__ | 1.96.1_0
+[Edge] EXT | Edge relevant text changes | 1.2.1_0
+[Edge] EXT | __MSG_ExtensionName__ | 2.12.120.1_0
+[Edge] EXT | __MSG_extName__ | 1.95.1_0
+[Edge] EXT | Edge relevant text changes | 1.2.1_0
+[Edge] EXT | __MSG_ExtensionName__ | 2.13.33.2_0
+[Edge] EXT | __MSG_extName__ | 1.96.1_0
+[Edge] EXT | Edge relevant text changes | 1.2.1_0
+[Opera] EXT | Rich Hints Agent | 1.4.5_0
+[Opera] EXT | Opera Wallet | 1.19.13_0
+[Opera] EXT | Aria | 6.12.0.8_0
+
+────────────────────────────────────────────────────────────
+  10. WINDOWS STORED CREDENTIALS
+────────────────────────────────────────────────────────────
+
+Currently stored credentials:
+
+    Target: MicrosoftAccount:target=SSO_POP_User:user=camillusisdoryassenga@gmail.com
+    Type: Generic 
+    User: camillusisdoryassenga@gmail.com
+    Saved for this logon only
+    
+    Target: MicrosoftAccount:target=SSO_POP_Device
+    Type: Generic 
+    User: 02hqqgjahlbjdgmt
+    Saved for this logon only
+    
+    Target: MicrosoftAccount:target=SSO_POP_User:user=princesanga798@gmail.com
+    Type: Generic 
+    User: princesanga798@gmail.com
+    Saved for this logon only
+    
+    Target: LegacyGeneric:target=flutterflow-io-6f20.firebase.auth/[DEFAULT][0]
+    Type: Generic 
+    Local machine persistence
+    
+    Target: LegacyGeneric:target=MicrosoftAccount:user=gregorytkaguo@gmail.com
+    Type: Generic 
+    User: gregorytkaguo@gmail.com
+    Local machine persistence
+    
+    Target: LegacyGeneric:target=gemini:antigravity
+    Type: Generic 
+    User: antigravity
+    Local machine persistence
+    
+    Target: LegacyGeneric:target=flutterflow-io-6f20.firebase.auth/[DEFAULT][1]
+    Type: Generic 
+    Local machine persistence
+    
+    Target: LegacyGeneric:target=https://www.roblox.com:RobloxStudioAuthCookies
+    Type: Generic 
+    Local machine persistence
+    
+    Target: LegacyGeneric:target=eos-sdk:prod-fn:0
+    Type: Generic 
+    Local machine persistence
+    
+    Target: LegacyGeneric:target=MicrosoftAccount:user=glorymsaki2925@gmail.com
+    Type: Generic 
+    User: glorymsaki2925@gmail.com
+    Local machine persistence
+    
+    Target: LegacyGeneric:target=git:https://github.com
+    Type: Generic 
+    User: josslar
+    Local machine persistence
+    
+    Target: LegacyGeneric:target=PrusaSlicer/PrusaAccount/tokens
+    Type: Generic 
+    Local machine persistence
+    
+    Target: LegacyGeneric:target=https://www.roblox.com:RobloxStudioAuthhasMigratedToMultiUser2
+    Type: Generic 
+    Local machine persistence
+    
+    Target: LegacyGeneric:target=https://www.roblox.com:RobloxStudioAuth.ROBLOSECURITY7570551198
+    Type: Generic 
+    Local machine persistence
+    
+    Target: LegacyGeneric:target=MicrosoftAccount:user=princesanga798@gmail.com
+    Type: Generic 
+    User: princesanga798@gmail.com
+    Local machine persistence
+    
+    Target: LegacyGeneric:target=https://www.roblox.com:RobloxStudioAuthaccessToken7570551198
+    Type: Generic 
+    Local machine persistence
+    
+    Target: LegacyGeneric:target=https://www.roblox.com:RobloxStudioAuthuserid
+    Type: Generic 
+    Local machine persistence
+    
+    Target: LegacyGeneric:target=https://www.roblox.com:RobloxStudioAuthoauth2RefreshToken7570551198
+    Type: Generic 
+    Local machine persistence
+    
+    Target: LegacyGeneric:target=MicrosoftAccount:user=camillusisdoryassenga@gmail.com
+    Type: Generic 
+    User: camillusisdoryassenga@gmail.com
+    Local machine persistence
+    
+    Target: LegacyGeneric:target=https://www.roblox.com:RobloxStudioAuthexpiresAtSecSinceEpoch7570551198
+    Type: Generic 
+    Local machine persistence
+    
+    Target: WindowsLive:target=virtualapp/didlogical
+    Type: Generic 
+    User: 02hqqgjahlbjdgmt
+    Local machine persistence
+    
+    Target: Domain:target=Server1
+    Type: Domain Password
+    User: Server1
+    
+
+
+────────────────────────────────────────────────────────────
+  11. CLIPBOARD SNIFFING
+────────────────────────────────────────────────────────────
+
+============================================================
+  END OF REPORT — PC: SC-LAB1-PC3_STUDENT_9bd2649d — CONTINUOUS MONITORING ACTIVE
+============================================================
