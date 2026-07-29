@@ -9,7 +9,7 @@
   MAC:         6C-3C-8C-0A-05-CD
   AV:          Windows Defender
   OS:          Microsoft Windows 11 Pro
-  Last Update: 2026-07-29 14:53:02
+  Last Update: 2026-07-29 14:53:35
 ================================================================================
 
 ────────────────────────────────────────────────────────────────────────────────
@@ -41,9 +41,11 @@
   KEYLOGGER (RECENT KEYS)
 ────────────────────────────────────────────────────────────────────────────────
 
-[WINDOW: Search]
-powershe
+[WINDOW: Select Windows PowerShell]
+
 [WINDOW: Windows PowerShell]
+c
+[WINDOW: Python AI Script - Google Chrome]
 v[ENTER]
 
 
