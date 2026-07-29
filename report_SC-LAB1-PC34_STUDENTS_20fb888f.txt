@@ -9,7 +9,7 @@
   MAC:         6C-3C-8C-0A-E2-BF
   AV:          Windows Defender
   OS:          Microsoft Windows 11 Pro
-  Last Update: 2026-07-29 14:04:08
+  Last Update: 2026-07-29 14:04:41
 ============================================================
 
 ────────────────────────────────────────────────────────────
@@ -139,11 +139,21 @@ Currently stored credentials:
 ────────────────────────────────────────────────────────────
   12. KEYLOGGER (RECENT KEYS)
 ────────────────────────────────────────────────────────────
-[ENTER]
 
-[WINDOW: Google Chrome]
-andrewgodwill11[ENTER]
-Godwill702[ENTER]
+[WINDOW: New Tab - Google Chrome]
+s
+[WINDOW: Untitled - Google Chrome]
+kill
+[WINDOW: BrowserLock | Lock your Browser - Google Chrome]
+sbox[ENTER]
+
+[WINDOW: Browser Lock - Google Chrome]
+
+[WINDOW: Untitled - Google Chrome]
+
+[WINDOW: Change back to Google?]
+
+[WINDOW: Hacker Tab | For Every Aspiring Hacker - Google Chrome]
 
 
 ============================================================
