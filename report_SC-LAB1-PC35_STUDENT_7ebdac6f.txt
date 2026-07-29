@@ -8,8 +8,8 @@
   Local IP:    192.168.88.189
   MAC:         6C-3C-8C-0A-05-CD
   AV:          Windows Defender
-  OS:          Microsoft Windows 11 Pro
-  Last Update: 2026-07-29 14:54:11
+  OS:          ?
+  Last Update: 2026-07-29 14:54:49
 ================================================================================
 
 ────────────────────────────────────────────────────────────────────────────────
@@ -41,15 +41,19 @@
   KEYLOGGER (RECENT KEYS)
 ────────────────────────────────────────────────────────────────────────────────
 
-[WINDOW: Windows PowerShell]
-v[ENTER]
+[WINDOW: C:\Windows\system32\ipconfig.exe]
 
-[WINDOW: Select Windows PowerShell]
-
-[WINDOW: Windows PowerShell]
-c
 [WINDOW: Python AI Script - Google Chrome]
-v[ENTER]
+
+[WINDOW: C:\Windows\system32\getmac.exe]
+
+[WINDOW: Python AI Script - Google Chrome]
+
+[WINDOW: C:\Windows\System32\Wbem\wmic.exe]
+
+[WINDOW: Python AI Script - Google Chrome]
+
+[WINDOW: C:\Windows\system32\systeminfo.exe]
 
 
 ================================================================================
