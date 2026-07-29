@@ -9,7 +9,7 @@
   MAC:         6C-3C-8C-4C-65-95
   AV:          Windows Defender, Avast Antivirus
   OS:          Microsoft Windows 11 Pro
-  Last Update: 2026-07-29 14:21:16
+  Last Update: 2026-07-29 14:21:49
 ============================================================
 
 ────────────────────────────────────────────────────────────
@@ -434,29 +434,6 @@ Currently stored credentials:
 ────────────────────────────────────────────────────────────
   11. CLIPBOARD SNIFFING
 ────────────────────────────────────────────────────────────
-
-────────────────────────────────────────────────────────────
-  12. KEYLOGGER (RECENT KEYS)
-────────────────────────────────────────────────────────────
-
-[WINDOW: Browser Lock - Google Chrome]
-
-[WINDOW: New Tab - Google Chrome]
-
-[WINDOW: Gmail - Google Chrome]
-
-[WINDOW: Inbox (177) - romsdemark12@gmail.com - Gmail - Google Chrome]
-
-[WINDOW: File Explorer]
-
-[WINDOW: Home - File Explorer]
-
-[WINDOW: Desktop - File Explorer]
-
-[WINDOW: Mozilla Firefox]
-
-[WINDOW: ICDL Computer & Online Essentials 1.0 - Arusha Science School.pdf — Mozilla Firefox]
-
 
 ============================================================
   END OF REPORT — PC: SC-LAB1-PC4_STUDENT_c6f864f7 — CONTINUOUS MONITORING ACTIVE
