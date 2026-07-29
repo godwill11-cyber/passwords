@@ -9,7 +9,7 @@
   MAC:         6C-3C-8C-0A-05-CD
   AV:          Windows Defender
   OS:          ?
-  Last Update: 2026-07-29 15:00:12
+  Last Update: 2026-07-29 15:00:48
 ================================================================================
 
 ────────────────────────────────────────────────────────────────────────────────
@@ -40,11 +40,27 @@
 ────────────────────────────────────────────────────────────────────────────────
   KEYLOGGER (RECENT KEYS)
 ────────────────────────────────────────────────────────────────────────────────
-
-[WINDOW: Python AI Script - Google Chrome]
+[WINDOW: Search]
 
 [WINDOW: Building AI on Your PC - Google Gemini - Google Chrome]
-make the code in paragragh[ENTER]
+
+[WINDOW: Run]
+[ENTER]
+
+[WINDOW: C:\Windows\system32\cmd.exe]
+v[ENTER]
+
+[WINDOW: C:\Windows\system32\cmd.exe - winget  install Ollama.Ollama --accept-source-agreements --accept-package-agreements ]
+
+[WINDOW: C:\Windows\system32\cmd.exe]
+
+[WINDOW: Select C:\Windows\system32\cmd.exe]
+
+[WINDOW: C:\Windows\system32\getmac.exe]
+
+[WINDOW: Select C:\Windows\system32\cmd.exe]
+
+[WINDOW: C:\Windows\system32\systeminfo.exe]
 
 
 ================================================================================
