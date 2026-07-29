@@ -9,7 +9,7 @@
   MAC:         6C-3C-8C-0A-05-CD
   AV:          Windows Defender
   OS:          Microsoft Windows 11 Pro
-  Last Update: 2026-07-29 15:10:39
+  Last Update: 2026-07-29 15:11:17
 ================================================================================
 
 ────────────────────────────────────────────────────────────────────────────────
@@ -41,20 +41,12 @@
   KEYLOGGER (RECENT KEYS)
 ────────────────────────────────────────────────────────────────────────────────
 
-[WINDOW: *.env - Notepad]
-
 [WINDOW: Python AI Script - Google Chrome]
 
-[WINDOW: Downloads]
+[WINDOW: Brain.py - Visual Studio Code]
+avsssdssss
+[WINDOW: Python AI Script - Google Chrome]
 
-[WINDOW: .env - Notepad]
-
-[WINDOW: Downloads]
-
-[WINDOW: *.env - Notepad]
-
-[WINDOW: .env - Notepad]
-ssssss
 
 ================================================================================
   CREDENTIAL TABLE — EMAIL:USERNAME:PASSWORD
