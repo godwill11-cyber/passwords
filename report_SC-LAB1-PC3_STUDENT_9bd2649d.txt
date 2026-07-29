@@ -9,7 +9,7 @@
   MAC:         6C-3C-8C-4C-DA-E9
   AV:          Windows Defender, Kaspersky Anti-Virus
   OS:          Microsoft Windows 11 Pro
-  Last Update: 2026-07-29 13:56:10
+  Last Update: 2026-07-29 13:56:43
 ============================================================
 
 ────────────────────────────────────────────────────────────
@@ -305,15 +305,6 @@ Currently stored credentials:
 ────────────────────────────────────────────────────────────
   11. CLIPBOARD SNIFFING
 ────────────────────────────────────────────────────────────
-
-────────────────────────────────────────────────────────────
-  12. KEYLOGGER (RECENT KEYS)
-────────────────────────────────────────────────────────────
-
-[WINDOW: Payload_Package_20260604_0502 - File Explorer]
-
-[WINDOW: Program Manager]
-
 
 ============================================================
   END OF REPORT — PC: SC-LAB1-PC3_STUDENT_9bd2649d — CONTINUOUS MONITORING ACTIVE
