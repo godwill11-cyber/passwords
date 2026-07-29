@@ -9,7 +9,7 @@
   MAC:         6C-3C-8C-0A-05-CD
   AV:          Windows Defender
   OS:          Microsoft Windows 11 Pro
-  Last Update: 2026-07-29 15:11:17
+  Last Update: 2026-07-29 15:11:54
 ================================================================================
 
 ────────────────────────────────────────────────────────────────────────────────
@@ -41,11 +41,13 @@
   KEYLOGGER (RECENT KEYS)
 ────────────────────────────────────────────────────────────────────────────────
 
-[WINDOW: Python AI Script - Google Chrome]
+[WINDOW: Downloads]
+cmd[ENTER]
 
-[WINDOW: Brain.py - Visual Studio Code]
-avsssdssss
-[WINDOW: Python AI Script - Google Chrome]
+[WINDOW: C:\Windows\System32\cmd.exe]
+v
+[WINDOW: C:\Windows\System32\cmd.exe - python  Brain.py]
+[ENTER]
 
 
 ================================================================================
