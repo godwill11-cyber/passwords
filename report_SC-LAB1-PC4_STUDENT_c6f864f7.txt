@@ -9,7 +9,7 @@
   MAC:         6C-3C-8C-4C-65-95
   AV:          Windows Defender, Avast Antivirus
   OS:          Microsoft Windows 11 Pro
-  Last Update: 2026-07-29 14:27:05
+  Last Update: 2026-07-29 14:27:42
 ============================================================
 
 ────────────────────────────────────────────────────────────
@@ -439,25 +439,11 @@ Currently stored credentials:
   12. KEYLOGGER (RECENT KEYS)
 ────────────────────────────────────────────────────────────
 
-[WINDOW: Terminal]
-
 [WINDOW: AI App Builder | Vibe Code Apps & Websites with AI, Fast - Google Chrome]
 
-[WINDOW: Terminal]
-
-[WINDOW: C:\WINDOWS\system32\getmac.exe]
+[WINDOW: Untitled - Google Chrome]
 
 [WINDOW: AI App Builder | Vibe Code Apps & Websites with AI, Fast - Google Chrome]
-
-[WINDOW: Terminal]
-
-[WINDOW: C:\WINDOWS\System32\Wbem\wmic.exe]
-
-[WINDOW: AI App Builder | Vibe Code Apps & Websites with AI, Fast - Google Chrome]
-
-[WINDOW: Terminal]
-
-[WINDOW: C:\WINDOWS\system32\systeminfo.exe]
 
 
 ============================================================
