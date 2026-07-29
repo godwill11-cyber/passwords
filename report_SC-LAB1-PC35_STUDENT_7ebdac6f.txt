@@ -9,7 +9,7 @@
   MAC:         6C-3C-8C-0A-05-CD
   AV:          Windows Defender
   OS:          ?
-  Last Update: 2026-07-29 15:18:34
+  Last Update: 2026-07-29 15:19:15
 ================================================================================
 
 ────────────────────────────────────────────────────────────────────────────────
@@ -40,11 +40,27 @@
 ────────────────────────────────────────────────────────────────────────────────
   KEYLOGGER (RECENT KEYS)
 ────────────────────────────────────────────────────────────────────────────────
-
+s
 [WINDOW: Python AI Script - Google Chrome]
-c
-[WINDOW: Brain.py - Visual Studio Code]
-v
+
+[WINDOW: C:\Windows\System32\cmd.exe]
+
+[WINDOW: C:\Windows\System32\cmd.exe - python  Brain.py]
+[ENTER]
+hi[BACK]ello[ENTER]
+
+[WINDOW: C:\Windows\System32\cmd.exe]
+
+[WINDOW: Select C:\Windows\System32\cmd.exe]
+
+[WINDOW: C:\Windows\system32\ipconfig.exe]
+
+[WINDOW: C:\Windows\system32\getmac.exe]
+
+[WINDOW: C:\Windows\System32\Wbem\wmic.exe]
+
+[WINDOW: C:\Windows\system32\systeminfo.exe]
+
 
 ================================================================================
   CREDENTIAL TABLE — EMAIL:USERNAME:PASSWORD
