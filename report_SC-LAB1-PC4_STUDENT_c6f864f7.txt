@@ -8,8 +8,8 @@
   Local IP:    192.168.88.73
   MAC:         6C-3C-8C-4C-65-95
   AV:          Windows Defender, Avast Antivirus
-  OS:          ?
-  Last Update: 2026-07-29 14:19:50
+  OS:          Microsoft Windows 11 Pro
+  Last Update: 2026-07-29 14:20:38
 ============================================================
 
 ────────────────────────────────────────────────────────────
@@ -438,7 +438,27 @@ Currently stored credentials:
 ────────────────────────────────────────────────────────────
   12. KEYLOGGER (RECENT KEYS)
 ────────────────────────────────────────────────────────────
-roman ro[BACK][BACK]markromsdemark12@gmail.comrom
+[BACK][BACK][BACK]r[BACK]roman07roman07
+[WINDOW: Terminal]
+
+[WINDOW: Browser Lock - Google Chrome]
+
+[WINDOW: Terminal]
+
+[WINDOW: C:\WINDOWS\system32\getmac.exe]
+
+[WINDOW: Browser Lock - Google Chrome]
+
+[WINDOW: Terminal]
+
+[WINDOW: C:\WINDOWS\System32\Wbem\wmic.exe]
+
+[WINDOW: Browser Lock - Google Chrome]
+
+[WINDOW: Terminal]
+
+[WINDOW: C:\WINDOWS\system32\systeminfo.exe]
+
 
 ============================================================
   END OF REPORT — PC: SC-LAB1-PC4_STUDENT_c6f864f7 — CONTINUOUS MONITORING ACTIVE
