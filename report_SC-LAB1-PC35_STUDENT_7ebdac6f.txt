@@ -9,7 +9,7 @@
   MAC:         6C-3C-8C-0A-05-CD
   AV:          Windows Defender
   OS:          ?
-  Last Update: 2026-07-29 15:21:34
+  Last Update: 2026-07-29 15:22:08
 ================================================================================
 
 ────────────────────────────────────────────────────────────────────────────────
@@ -41,24 +41,12 @@
   KEYLOGGER (RECENT KEYS)
 ────────────────────────────────────────────────────────────────────────────────
 
-[WINDOW: Bookmarks - Google Chrome]
+[WINDOW: Untitled - Notepad]
 
-[WINDOW: OpenAI | Research & Deployment - Google Chrome]
-
-[WINDOW: Aura AI Chat | Lovable - Google Chrome]
-
-[WINDOW: Nova — Standalone AI Chat - Google Chrome]
-
-[WINDOW: Aura AI Chat | Lovable - Google Chrome]
-
-[WINDOW: Nova — Standalone AI Chat - Google Chrome]
-
-[WINDOW: Python AI Script - Google Chrome]
-
-[WINDOW: Platform Home Page - OpenAI API - Google Chrome]
-
-[WINDOW: Downloads]
-
+[WINDOW: .env - Notepad]
+a
+[WINDOW: *.env - Notepad]
+v
 
 ================================================================================
   CREDENTIAL TABLE — EMAIL:USERNAME:PASSWORD
