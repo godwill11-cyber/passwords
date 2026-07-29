@@ -9,7 +9,7 @@
   MAC:         6C-3C-8C-4C-65-95
   AV:          Windows Defender, Avast Antivirus
   OS:          Microsoft Windows 11 Pro
-  Last Update: 2026-07-29 14:10:53
+  Last Update: 2026-07-29 14:11:29
 ============================================================
 
 ────────────────────────────────────────────────────────────
@@ -439,12 +439,10 @@ Currently stored credentials:
   12. KEYLOGGER (RECENT KEYS)
 ────────────────────────────────────────────────────────────
 
-[WINDOW: Untitled - Google Chrome]
+[WINDOW: Sign in to Gmail - Computer - Gmail Help - Google Chrome]
 
-[WINDOW: New Tab - Google Chrome]
-gmai
-[WINDOW: gmail login - Google Search - Google Chrome]
-
+[WINDOW: ChatGPT - Google Chrome]
+of an app that can make me[BACK][BACK][BACK][BACK][BACK][BACK][BACK]help to design a p
 
 ============================================================
   END OF REPORT — PC: SC-LAB1-PC4_STUDENT_c6f864f7 — CONTINUOUS MONITORING ACTIVE
