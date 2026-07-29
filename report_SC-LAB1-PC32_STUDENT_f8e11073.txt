@@ -9,7 +9,7 @@
   MAC:         6C-3C-8C-0C-82-6E
   AV:          Windows Defender
   OS:          Microsoft Windows 11 Pro
-  Last Update: 2026-07-29 14:37:42
+  Last Update: 2026-07-29 14:38:16
 ============================================================
 
 ────────────────────────────────────────────────────────────
@@ -393,13 +393,6 @@ Currently stored credentials:
 ────────────────────────────────────────────────────────────
   11. CLIPBOARD SNIFFING
 ────────────────────────────────────────────────────────────
-
-────────────────────────────────────────────────────────────
-  12. KEYLOGGER (RECENT KEYS)
-────────────────────────────────────────────────────────────
-
-[WINDOW: ICDL Computer & Online Essentials 1.0 - Arusha Science School.pdf - Google Chrome]
-
 
 ============================================================
   END OF REPORT — PC: SC-LAB1-PC32_STUDENT_f8e11073 — CONTINUOUS MONITORING ACTIVE
