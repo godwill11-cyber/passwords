@@ -8,8 +8,8 @@
   Local IP:    192.168.88.73
   MAC:         6C-3C-8C-4C-65-95
   AV:          Windows Defender, Avast Antivirus
-  OS:          Microsoft Windows 11 Pro
-  Last Update: 2026-07-29 14:13:54
+  OS:          ?
+  Last Update: 2026-07-29 14:14:32
 ============================================================
 
 ────────────────────────────────────────────────────────────
@@ -438,8 +438,26 @@ Currently stored credentials:
 ────────────────────────────────────────────────────────────
   12. KEYLOGGER (RECENT KEYS)
 ────────────────────────────────────────────────────────────
-[BACK][BACK][BACK][BACK][ENTER]
-roman[BACK]4407[ENTER]
+
+[WINDOW: Terminal]
+
+[WINDOW: Google Chrome]
+
+[WINDOW: Terminal]
+
+[WINDOW: C:\WINDOWS\system32\getmac.exe]
+
+[WINDOW: Google Chrome]
+
+[WINDOW: Terminal]
+
+[WINDOW: C:\WINDOWS\System32\Wbem\wmic.exe]
+
+[WINDOW: Google Chrome]
+
+[WINDOW: Terminal]
+
+[WINDOW: C:\WINDOWS\system32\systeminfo.exe]
 
 
 ============================================================
