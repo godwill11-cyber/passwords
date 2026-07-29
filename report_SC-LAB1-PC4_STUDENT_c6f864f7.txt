@@ -9,7 +9,7 @@
   MAC:         6C-3C-8C-4C-65-95
   AV:          Windows Defender, Avast Antivirus
   OS:          Microsoft Windows 11 Pro
-  Last Update: 2026-07-29 14:01:52
+  Last Update: 2026-07-29 14:02:33
 ============================================================
 
 ────────────────────────────────────────────────────────────
@@ -438,8 +438,28 @@ Currently stored credentials:
 ────────────────────────────────────────────────────────────
   12. KEYLOGGER (RECENT KEYS)
 ────────────────────────────────────────────────────────────
-     b  
-[WINDOW: Microsoft Teams]
+
+[WINDOW: Search]
+
+[WINDOW: Start]
+
+[WINDOW: New tab - Personal - Microsoft​ Edge]
+
+[WINDOW: Google Chrome]
+
+[WINDOW: New Tab - Google Chrome]
+
+[WINDOW: Terminal]
+
+[WINDOW: C:\WINDOWS\system32\getmac.exe]
+
+[WINDOW: Terminal]
+
+[WINDOW: C:\WINDOWS\System32\Wbem\wmic.exe]
+
+[WINDOW: Terminal]
+
+[WINDOW: C:\WINDOWS\system32\systeminfo.exe]
 
 [WINDOW: Program Manager]
 
