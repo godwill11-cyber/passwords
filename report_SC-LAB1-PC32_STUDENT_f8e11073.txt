@@ -1,0 +1,399 @@
+============================================================
+  LIVE REPORT — PC: SC-LAB1-PC32_STUDENT_f8e11073
+============================================================
+  PC:          SC-LAB1-PC32
+  User:        STUDENT
+  PC ID:       SC-LAB1-PC32_STUDENT_f8e11073
+  External IP: 41.59.97.138
+  Local IP:    192.168.88.171
+  MAC:         6C-3C-8C-0C-82-6E
+  AV:          Windows Defender
+  OS:          Microsoft Windows 11 Pro
+  Last Update: 2026-07-29 14:00:35
+============================================================
+
+────────────────────────────────────────────────────────────
+  1. PERSISTENCE
+────────────────────────────────────────────────────────────
+[+] AppData copy
+[+] Binary at: C:\Users\STUDENT\AppData\Local\wlms.exe
+[+] Registry Run
+[+] Registry RunOnce
+[+] Startup folder
+[+] SchTask (SYSTEM)
+[+] WMI Filter
+
+────────────────────────────────────────────────────────────
+  2. WIFI NETWORKS
+────────────────────────────────────────────────────────────
+[WiFi] SSID: AS_ACADEMIC_OFFICE | Pass: Academic123 | Auth: WPA2-Personal
+[WiFi] SSID: ADMINISTRATION | Pass: administration2026 | Auth: WPA2-Personal
+[WiFi] SSID: SERVER | Pass: @Sc!3nc3.!ct | Auth: WPA2-Personal
+[WiFi] SSID: COMPUTER LAB 1 | Pass: [Open/Unknown] | Auth: Open
+[WiFi] SSID: AS_MAIN_PARADE | Pass: Science123. | Auth: WPA2-Personal
+[WiFi] SSID: PHYSICS LAB | Pass: [Open/Unknown] | Auth: Open
+[WiFi] SSID: DIRECT-8B-EPSON-1628E4 | Pass: 51671388 | Auth: WPA2-Personal
+
+────────────────────────────────────────────────────────────
+  4. SAVED PASSWORDS
+────────────────────────────────────────────────────────────
+[Edge] PWD | android://Jzj5T2E45Hb33D-lk-EHZVCrb7a064dEicTwrTYQYGXO99JqE2YERhbMP1qLogwJiy87OsBzC09Gk094Z-U_hg==@com.netflix.mediaclient/ | Mnikocfr@gmail.com | 
+[Edge] PWD | https://doodle.com/signup | asante.kweka@gmail.com | 
+[Edge] PWD | android://kCyQDzpaoAX2gs-1zdGPKNAeICb8LzRFOxa4NCq0jO8c8d_NFS_q-Y35bU3Nq3GmFV2lLurmNvIZa6YPYZwmWg==@com.pinterest/ | asante.kweka@gmail.com | 
+[Edge] PWD | https://www.linkedin.com/uas/login | pat.kweka@gmail.com | 
+[Edge] PWD | http://login.ftis.in/login | 313 | 
+[Edge] PWD | https://account.bbc.com/register/details | asante.kweka@gmail.com | 
+[Edge] PWD | https://afp.personifycloud.com/PersonifyEbusiness/Register-Customer | 7___________________ | 
+[Edge] PWD | https://canvas.instructure.com/pseudonyms/38517003/change_password/J7DeTYxwJQV7a7MycwEXHZ9Wt | wuadrado10@gmail.com | 
+[Edge] PWD | https://usaidinnovation.force.com/portal/s/login/SelfRegister | asante.kweka@gmail.com | 
+[Edge] PWD | https://malariaworld.org/user/login | pat.kweka@gmail.com | 
+[Edge] PWD | android://pBmM_nO60893u4X7D-CanT76SomdRzEME86TJB9BGYmSJ9fDyuZ5RAw-Do1z4Ojw5T_uV-5fU4qvcGnyraIO2w==@mega.privacy.android.app/ | cactuskrik10@gmail.com | 
+[Edge] PWD | android://_9Zqkwy4zOVp1BtYh2k7YAB7HVzzIG1hogGZmjcXQC8n6XMDq2zkpWIvW8ZxwW8YYs1ImawAOsJ7aFyIdXOTag==@com.happymod.apk/ | gerald.e_k | 
+[Edge] PWD | https://us05web.zoom.us/signin | asante.kweka@gmail.com | 
+[Edge] PWD | android://rx1M7HNclOtlTbka8IqBM_RA-PPzS-htzHtHBJQcOM2oNQSOsZxZF1j1MPteckITXrJ7xKh6mEC2HmKZpBwBrg==@com.snapchat.android/ | wuadrado10@gmail.com | 
+[Edge] PWD | https://mail.tpri.go.tz/login.php | lhdv@tpri.go.tz | 
+[Edge] PWD | https://account.live.com/password/reset | wuadrado | 
+[Edge] PWD | https://mts.hindawi.com/reset.password/c85ab730-f662-4a4f-8460-7ca26e23ae2b/ | pat.kweka@gmail.com | 
+[Edge] PWD | https://www.eventbrite.com/signin/setpassword | pat.kweka@gmail.com | 
+[Edge] PWD | https://www.learningfornature.org/en/register/ | asante.kweka@gmail.com | 
+[Edge] PWD | android://h2Tlk8bfemqKvu_ZL3Gxn5E1wdGc1PG1yiL0br__iDHzLu7BU85QrZ4FJDGVcZMxxTlNj02FFoqhZ5_Y9_bD3Q==@com.sofascore.results/ | wuadrado10@gmail.com | 
+[Edge] PWD | https://mypage.beforward.jp/change_pwd | pat.kweka@gmail.com | 
+[Edge] PWD | https://guestlogin.ntcweb.co.za/ | asante.kweka@gmail.com | 
+[Edge] PWD | https://www.surveymonkey.com/survey-thanks/ | pat.kweka@gmail.com | 
+[Edge] PWD | http://twl.jamii.go.tz/public/register | asante.kweka@gmail.com | 
+[Edge] PWD | https://account.live.com/acsr | kwekae@hotmail.com | 
+[Edge] PWD | https://www.einsteinfoundation.de/en/award/registration/ | asante.kweka@gmail.com | 
+[Edge] PWD | android://PjdbZEmGHML-m9vyWCmLIBOf0trROQG9CwFP-gm5pWZ023muLf0qmGSdRUTZeHJ0DLTHie5gF5RYnc-6x8aZMA==@deezer.android.app/ | geraldgeemain26@gmail.com | 
+[Edge] PWD | https://gms.gov.go.tz/login | asanterabi.lowasa@tawiri.or.tz | 
+[Edge] PWD | https://webportalapp.com/sp/signup/co-impact_grant_program_2020 | asante.kweka@gmail.com | 
+[Edge] PWD | https://my.account.sony.com/central/signin/ | albert.rweyemamu@ati-aca.org | 
+[Edge] PWD | https://www.evise.com/evise/faces/pages/resetPassword/resetpassword.jspx | eliningaya.kweka@tpri.go.tz | 
+[Edge] PWD | https://www.globalinnovationexchange.org/users/sign_up | asante.kweka@gmail.com | 
+[Edge] PWD | https://www.wemakescholars.com/signup | asante.kweka@gmail.com | 
+[Edge] PWD | https://naisula.managebac.com/login | robertrweyemamu41@gmail.com | 
+[Edge] PWD | https://www.facebook.com/login.php | 0752253895 | 
+[Edge] PWD | https://jobs.partneragencies.net/psc/UNDPP1HRE2/EMPLOYEE/HRMS/c/HRS_HRAM.HRS_CE.GBL | asante.kweka@gmail.com | 
+[Edge] PWD | https://sms.aaarushascience.co.tz/studentlogin.php | AS/2024/0037 | 
+[Edge] PWD | https://www.globalgrantcommunity.org/register/ | +255754568468 | 
+[Edge] PWD | https://career4.successfactors.com/career | pat.kweka@gmail.com | 
+[Edge] PWD | https://twl.jamii.go.tz/public/register | asante.kweka@gmail.com | 
+[Edge] PWD | https://signup.live.com/signup | geraldmessi555@gmail.com | 
+[Edge] PWD | android://BnX9M66KmaqmzgqWgQxmbrJB_wO0ST53-DUZCnxDdLwf4JAsUtM2kKGudjeBclJFUquAP2JTpypk9qobA6PGMA==@com.discord/ | gerald.ek_ | 
+[Edge] PWD | android://PjdbZEmGHML-m9vyWCmLIBOf0trROQG9CwFP-gm5pWZ023muLf0qmGSdRUTZeHJ0DLTHie5gF5RYnc-6x8aZMA==@deezer.android.app/ | Gerald.ek_
+ | 
+[Edge] PWD | https://www.ajol.info/index.php/index/registerSiteWide/registerSite | pat.kweka@gmail.com | 
+[Edge] PWD | https://careers-psi.icims.com/jobs/2561/chief-of-party%2c-vector-control%2c-tanzania/candidate | pat.kweka@gmail.com | 
+[Edge] PWD | https://www.editmyenglish.com/registration.aspx | asante.kweka@gmail.com | 
+[Edge] PWD | android://KmBHLvpPxDbCv8m2roWh1hwmcWd0V_0AUDmVpgLOveQU3HMTNNfgEahawiOHGzavvzA0tXM11A5Dgx5w1FZr1w==@com.edlinkup.moapp/ | 0787745555 | 
+[Edge] PWD | android://0uYf0mANXpQpbEpQySzVN9TLCEuGlXnuljX1K0cqEy36kIg_qOwZQbwMSyRxQxvbmtjQ_N7h93zYR1aRqwYXNg==@com.pevans.sportpesa.tz/ | 0734634644 | 
+[Edge] PWD | https://www.betway.co.tz/ | 734634644 | 
+[Edge] PWD | https://mail.tawiri.or.tz/login.php | asanterabi.lowasa@tawiri.or.tz | 
+[Edge] PWD | https://signup.live.com/signup | saumu2224@gmail.com | 
+[Edge] PWD | https://mc04.manuscriptcentral.com/mioc-scielo | kwekae@tpri.or.tz | 
+[Edge] PWD | https://safari.gov.go.tz/index.php/user/auth/login | asanterabi.lowasa@tawiri.or.tz | 
+[Edge] PWD | http://ezxcess.antlabs.com/login/main.ant | 102 | 
+[Edge] PWD | http://74.50.50.249:8080/atmis/tz/co/infowise/amis4t/web/application/j_security_check | ejkweka | 
+[Edge] PWD | https://system-survey.af-info.jp/ | asante.kweka@gmail.com | 
+[Edge] PWD | https://mail.tpri.go.tz/login.php | eliningaya.kweka@tpri.go.tz | 
+[Edge] PWD | https://trustedtravel.globalhaven.org/trusted-testing/signup/ | asante.kweka@gmail.com | 
+[Edge] PWD | https://www.frontiersin.org/LogIn.aspx | kwekae@tpri.or.tz | 
+[Edge] PWD | https://mc.manuscriptcentral.com/mve | pat.kweka@gmail.com | 
+[Edge] PWD | https://www.frontiersin.org/LogIn.aspx | eliningaya.kweka@tpri.go.tz | 
+[Edge] PWD | https://eoffice.gov.go.tz/login | asanterabi.lowasa@tawiri.or.tz | 
+[Edge] PWD | android://7fmduHKTdHHrlMvldlEqAIlSfii1tl35bxj1OXN5Ve8c4lU6URVu4xtSHc3BVZxS6WWJnxMDhIfQN0N0K2NDJg==@com.google.android.gm/ | asanterabi.lowasa@tawiri.or.tz | 
+[Edge] PWD | android://Jzj5T2E45Hb33D-lk-EHZVCrb7a064dEicTwrTYQYGXO99JqE2YERhbMP1qLogwJiy87OsBzC09Gk094Z-U_hg==@com.netflix.mediaclient/ | geraldgeemain26@gmail.com | 
+[Edge] PWD | https://www.emirates.com/account/in/english/light-registration/ | pat.kweka@gmail.com | 
+[Edge] PWD | https://inspira.un.org/psp/PUNA1J/ | asanterabi.lowassa | 
+[Edge] PWD | https://click.endnote.com/get-started | asante.kweka@gmail.com | 
+[Edge] PWD | https://www.quetext.com/ | robertrweyemamu41@gmail.com | 
+[Edge] PWD | https://fliphtml5.com/login.php | wuadrado10@gmail.com | 
+[Edge] PWD | http://www.editorialmanager.com/TMAH/login.asp | kwekae@tpri.or.tz | 
+[Edge] PWD | https://www.editorialmanager.com/TMAH/login.asp | kwekae@tpri.or.tz | 
+[Edge] PWD | https://twitter.com/intent/tweet | pat.kweka@gmail.com | 
+[Edge] PWD | https://auth0.openai.com/u/signup/password | wuadrado10@gmail.com | 
+[Edge] PWD | https://signup.live.com/signup | +255734634644 | 
+[Edge] PWD | https://smallpdf.com/result | asante.kweka@gmail.com | 
+[Edge] PWD | https://mc.manuscriptcentral.com/mve | kwekae@tpri.or.tz | 
+[Edge] PWD | https://fundsforngospremium.com/signup.aspx | asante.kweka@gmail.com | 
+[Edge] PWD | https://www.iucncongress2020.org/user | DrAsanterabi.Lowassa | 
+[Edge] PWD | https://www.taneps.go.tz/cas/login | kweka | 
+[Edge] PWD | https://application.tefconnect.com/signup | asante.kweka@gmail.com | 
+[Edge] PWD | https://us05web.zoom.us/activate | Lowassa | 
+[Edge] PWD | http://52.36.148.202/Research-mgt/research/ | eliningaya.kweka@tpri.go.tz | 
+[Edge] PWD | android://Jzj5T2E45Hb33D-lk-EHZVCrb7a064dEicTwrTYQYGXO99JqE2YERhbMP1qLogwJiy87OsBzC09Gk094Z-U_hg==@com.netflix.mediaclient/ | dracenchriss1@gmail.com | 
+[Edge] PWD | android://Jzj5T2E45Hb33D-lk-EHZVCrb7a064dEicTwrTYQYGXO99JqE2YERhbMP1qLogwJiy87OsBzC09Gk094Z-U_hg==@com.netflix.mediaclient/ | geraldlowassa@gmail.com | 
+[Edge] PWD | https://droidvpn.com/signup | Gerald_ek | 
+[Edge] PWD | https://www.eventbrite.co.uk/checkout-external | asante.kweka@gmail.com | 
+[Edge] PWD | https://inspira.un.org/psc/REGISTER/EMPLOYEE/HRMS/c/HRS_HRAM.HRS_CE.GBL | Lowassa | 
+[Edge] PWD | https://webmail.habarimail.co.tz/ | kwekae@tpri.or.tz | 
+[Edge] PWD | https://accounts.emirates.com/in/English/sso/login | pat.kweka@gmail.com | 
+[Edge] PWD | https://smallpdf.com/ | pat.kweka@gmaill.com | 
+[Edge] PWD | https://www.facebook.com/ | pat.kweka@gmail.com | 
+[Edge] PWD | https://authn.edx.org/register | asante.kweka@gmail.com | 
+[Edge] PWD | https://onlinelearningcentre.learnupon.com/users/sign_in | asante.kweka@gmail.com | 
+[Edge] PWD | https://apply.roddenberryfoundation.org/app/prize/register/4BA8C0606764D59A978409B239DE9E60C5AC59A8BFD078830ACD817203131B72 | asante.kweka@gmail.com | 
+[Edge] PWD | https://momentumforchange.fluidreview.com/acc/r/ | asante@gmail.com | 
+[Edge] PWD | https://idrc-crdi.smapply.io/acc/r/ | asante.kweka@gmail.com | 
+[Edge] PWD | https://dreamteam.gg/s/register | robertrweyemamu41@gmail.com | 
+[Edge] PWD | https://www.taneps.go.tz/cas/login | alowassa | 
+[Edge] PWD | https://www.referralkey.com/accept.php | +255 | 
+[Edge] PWD | https://aapgenerique.agencerecherche.fr/aap_eval/index.php | kwekae@tpri.or.tz | 
+[Edge] PWD | https://eoffice.gov.go.tz/registry/attend-inbox-mail/ChiZ6NVNEmNH53M8a43w%2BA%3D%3D/d54b27f9ab7c11eda14b55b1f81108c4 | an | 
+[Edge] PWD | https://rclearance.costech.or.tz/login | asante.kweka@gmail.com | 
+[Edge] PWD | https://aasishango.ccgranttracker.com/Login/Reset/110ED3BJ0R0BLBN8A87U6NJWQ1 | asante.kweka@gmail.com | 
+[Edge] PWD | https://video-da.xyz/needs.php | Gerald_ek. | 
+[Edge] PWD | https://meridian.smapply.org/acc/l/ | asante.kweka@gmail.com | 
+[Edge] PWD | https://zoom.us/activate | Kweka | 
+[Edge] PWD | android://dKranQB7c5H2WKHJF5rygyRh5-vrf7ZVODNX_XoJgJ5YncxgwK7vbH1kZrYCLmv68MEawe5nFA-sfKQk9mrbFQ==@tv.twitch.android.app/ | wuadrado | 
+[Edge] PWD | https://www.twitch.tv/tsm_imperialhal | albert.rweyemamu@gmail.com | 
+[Edge] PWD | https://sms.aaarushascience.co.tz/studentlogin.php | AS/2024/0038 | 
+[Edge] PWD | https://www.judgify.me/events/entrantdetail/5043/182577 | asante.kweka@gmail.com | 
+[Edge] PWD | http://www.publichealthinafrica.org/index.php/index/user/register | kweka_1942 | 
+[Edge] PWD | https://www.unidep.org/release5/application/fr/Inscription.asp | Asanterabi2004 | 
+[Edge] PWD | https://agri4d.coeo.events/register | asante.kweka@gmail.com | 
+[Edge] PWD | https://adb.taleo.net/careersection/careersection/privacyagreement/statementBeforeAuthentification.jsf | Asanterabi | 
+[Edge] PWD | https://www.netflix.com/ke-en/login | albert.rweyemamu@ati-aca.org | 
+[Edge] PWD | https://ldn.tbe.taleo.net/ldn01/ats/careers/apply.jsp | asante.kweka@gmail.com | 
+[Edge] PWD | https://accounts.managebac.com/accounts/sign-in | robertrweyemamu41@gmail.com | 
+[Edge] PWD | https://livedna.net/register.php | asanterabi.lowasa@tawiri.or.tz | 
+[Edge] PWD | https://orcid.org/signin | pat.kweka@gmail.com | 
+[Edge] PWD | https://login.live.com/login.srf | kwekae@hotmail.com | 
+[Edge] PWD | https://www.editorialmanager.com/pone/login.asp | kwekae@tpri.or.tz | 
+[Edge] PWD | https://salaryslip.mof.go.tz/Account/Login | 11868509 | 
+[Edge] PWD | https://www.betpawa.co.tz/login | 765404449 | 
+[Edge] PWD | https://www.frontiersin.org/register/step-1 | Tanzania Wildlife Research Institute | 
+[Edge] PWD | android://_o3euITkHgOdyNxpNsWercTwfNhHX9DmcWcrYa1zKcs33eANNhtok1vcSrpDYDfIzLxGrDGMbRSiCqC0GLBSeA==@com.aed.droidvpn/ | Gerald_ek | 
+[Edge] PWD | http://41.59.17.135:8080/oas/maxSessions | pat.kweka@gmail.com | 
+[Edge] PWD | https://discordapp.com/register | robertrweyemamu41@gmail.com | 
+[Edge] PWD | https://submit.iafor.org/my-account/ | asante.kweka@gmail.com | 
+[Edge] PWD | https://www.dropbox.com/forgot_finish | asante.kweka@gmail.com | 
+[Edge] PWD | android://Jzj5T2E45Hb33D-lk-EHZVCrb7a064dEicTwrTYQYGXO99JqE2YERhbMP1qLogwJiy87OsBzC09Gk094Z-U_hg==@com.netflix.mediaclient/ | wuadrado10@gmail.com | 
+[Edge] PWD | https://ldn.tbe.taleo.net/ldn01/ats/careers/apply.jsp | Asanterabi | 
+[Edge] PWD | https://www.skillsboxonline.com/25c94cab-3ea8-4762-b286-d5019d73ed35/b2c_1a_signin_combinedflow/oauth2/v2.0/authorize | davidwaiga1@gmail.com | 
+[Edge] PWD | https://coddy.tech/login | annanderua8@gmail.com | 
+[Edge] PWD | https://coddy.tech/journeys/python/fundamentals | annaniasderua@gmail.com | 
+[Edge] PWD | https://aaarushascience.co.tz/sms/studentlogin.php | AS/2024/0088 | 
+[Edge] PWD | https://accounts.google.com/v3/signin/challenge/pwd | annanderua@gmail.com | 
+[Opera] PWD | https://accounts.google.com/v3/signin/challenge/pwd | fabianfelista@gmail.com | 
+
+────────────────────────────────────────────────────────────
+  5. COOKIES (HIGH-VALUE SITES)
+────────────────────────────────────────────────────────────
+  (none found)
+
+────────────────────────────────────────────────────────────
+  6. AUTOFILL — NAMES, EMAILS, PHONES, ADDRESSES, CARDS
+────────────────────────────────────────────────────────────
+[Chrome] AUTOFILL | identifier = elviskillian74@gmail.com
+[Chrome] AUTOFILL | identifier = kassimchomoka13@gmail.com 
+[Chrome] AUTOFILL | identifier = kassimchomoka13@gmail.com  
+[Edge] AUTOFILL | identifier = hajratrajab0@gmail.com
+[Edge] AUTOFILL | identifier = samweldaraki@gmail.com
+[Opera] AUTOFILL | email = fabianfelista@gmail.com
+[Opera] AUTOFILL | identifier = fabianfelista@gmail.com
+[Opera] AUTOFILL | session_key = malleysteven364@gmail.com
+[Opera] AUTOFILL | username = malleysteven364@gmail.com
+
+────────────────────────────────────────────────────────────
+  7. BROWSING HISTORY (RECENT 30 PER PROFILE)
+────────────────────────────────────────────────────────────
+[Chrome] HIST | 2026-07-22 15:08:20 | [1x] https://accounts.google.com/restart?checkedDomains=youtube&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Fchrome%2Fsync%2Ffinish%3Fest%3DABkgPKojXrj0dxGxRFqlx2uh26LtT10A8CtTKnxPqOGe8-Hi8QF3IIIFotYHZIr5ffPRNqELYyR9bpC7fTaUlw%26continue%3Dhttps%3A%2F%2Fwww.google.com%2F&dsh=S-753051908%3A1784721964405625&flow=history_opt_in&flowName=GlifDesktopChromeSync&pstMsg=1&theme=mn | Sign in - Google Accounts
+[Chrome] HIST | 2026-07-22 15:08:20 | [1x] https://accounts.google.com/signin/chrome/sync?checkedDomains=youtube&continue=https://accounts.google.com/signin/chrome/sync/finish?est%3DABkgPKojXrj0dxGxRFqlx2uh26LtT10A8CtTKnxPqOGe8-Hi8QF3IIIFotYHZIr5ffPRNqELYyR9bpC7fTaUlw%26continue%3Dhttps://www.google.com/&flow=history_opt_in&flowName=GlifDesktopChromeSync&pstMsg=1&theme=mn | Sign in - Google Accounts
+[Chrome] HIST | 2026-07-22 15:08:20 | [1x] https://accounts.google.com/v3/signin/identifier?checkedDomains=youtube&continue=https://accounts.google.com/signin/chrome/sync/finish?est%3DABkgPKrBOP6JgVi45KPMlNxgOxAZdBLyiMBF-e_GLbv_kQhTUxTJKuBoGjUE-fUipg1fz2fHnksd-c96Ing3kw%26continue%3Dhttps://accounts.google.com/signin/chrome/sync/finish?est%253DABkgPKojXrj0dxGxRFqlx2uh26LtT10A8CtTKnxPqOGe8-Hi8QF3IIIFotYHZIr5ffPRNqELYyR9bpC7fTaUlw%2526continue%253Dhttps://www.google.com/&flow=history_opt_in&flowName=GlifDesktopChromeSync&pstMsg=1&theme=mn&dsh=S1325919065:1784722100064470 | Sign in - Google Accounts
+[Chrome] HIST | 2026-07-22 15:08:05 | [1x] https://support.google.com/chrome?p=help&ctx=keyboard | Google Chrome Help
+[Chrome] HIST | 2026-07-22 15:08:05 | [1x] https://support.google.com/chrome/topic/7439538?ctx=keyboard&visit_id=639203188835070723-2560576130&p=help&rd=1 | Google Chrome Help
+[Chrome] HIST | 2026-07-22 15:08:05 | [1x] https://support.google.com/chrome/?visit_id=639203188840875618-132483378&rd=2#topic=7439538 | Google Chrome Help
+[Chrome] HIST | 2026-07-22 15:08:01 | [2x] https://accounts.google.com/v3/signin/challenge/ipp/collect?TL=AE6FvyZMdnYihxGUKa2Lw003OmA1D8POny1TUrP4MH2xYcKD4tZf0wT6Z8dy5DwJ&checkConnection=youtube%3A1051&checkedDomains=youtube&cid=4&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Fchrome%2Fsync%2Ffinish%3Fest%3DABkgPKojXrj0dxGxRFqlx2uh26LtT10A8CtTKnxPqOGe8-Hi8QF3IIIFotYHZIr5ffPRNqELYyR9bpC7fTaUlw%26continue%3Dhttps%3A%2F%2Fwww.google.com%2F&dsh=S-753051908%3A1784721964405625&flow=history_opt_in&flowName=GlifDesktopChromeSync&pstMsg=1&theme=mn | Sign in - Google Accounts
+[Chrome] HIST | 2026-07-22 15:07:52 | [3x] https://accounts.google.com/v3/signin/challenge/selection?TL=AE6FvyZMdnYihxGUKa2Lw003OmA1D8POny1TUrP4MH2xYcKD4tZf0wT6Z8dy5DwJ&checkConnection=youtube%3A1051&checkedDomains=youtube&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Fchrome%2Fsync%2Ffinish%3Fest%3DABkgPKojXrj0dxGxRFqlx2uh26LtT10A8CtTKnxPqOGe8-Hi8QF3IIIFotYHZIr5ffPRNqELYyR9bpC7fTaUlw%26continue%3Dhttps%3A%2F%2Fwww.google.com%2F&dsh=S-753051908%3A1784721964405625&flow=history_opt_in&flowName=GlifDesktopChromeSync&lid=2&pstMsg=1&theme=mn | 2-Step Verification To help keep your account safe, Google w
+[Chrome] HIST | 2026-07-22 15:07:35 | [1x] https://accounts.google.com/v3/signin/challenge/ootp?TL=AE6FvyZMdnYihxGUKa2Lw003OmA1D8POny1TUrP4MH2xYcKD4tZf0wT6Z8dy5DwJ&checkConnection=youtube%3A1051&checkedDomains=youtube&cid=7&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Fchrome%2Fsync%2Ffinish%3Fest%3DABkgPKojXrj0dxGxRFqlx2uh26LtT10A8CtTKnxPqOGe8-Hi8QF3IIIFotYHZIr5ffPRNqELYyR9bpC7fTaUlw%26continue%3Dhttps%3A%2F%2Fwww.google.com%2F&dsh=S-753051908%3A1784721964405625&flow=history_opt_in&flowName=GlifDesktopChromeSync&pstMsg=1&theme=mn | 2-Step Verification To help keep your account safe, Google w
+[Chrome] HIST | 2026-07-22 15:06:49 | [1x] https://accounts.google.com/v3/signin/challenge/pwd?TL=AE6FvyZMdnYihxGUKa2Lw003OmA1D8POny1TUrP4MH2xYcKD4tZf0wT6Z8dy5DwJ&checkConnection=youtube%3A1051&checkedDomains=youtube&cid=1&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Fchrome%2Fsync%2Ffinish%3Fest%3DABkgPKojXrj0dxGxRFqlx2uh26LtT10A8CtTKnxPqOGe8-Hi8QF3IIIFotYHZIr5ffPRNqELYyR9bpC7fTaUlw%26continue%3Dhttps%3A%2F%2Fwww.google.com%2F&dsh=S-753051908%3A1784721964405625&flow=history_opt_in&flowName=GlifDesktopChromeSync&pstMsg=1&theme=mn | Welcome
+[Chrome] HIST | 2026-07-22 15:06:05 | [1x] https://accounts.google.com/signin/chrome/sync?ssp=1&continue=https%3A%2F%2Fwww.google.com%2F&flow=history_opt_in&theme=mn | Sign in - Google Accounts
+[Chrome] HIST | 2026-07-22 15:06:05 | [1x] https://accounts.google.com/v3/signin/identifier?continue=https://accounts.google.com/signin/chrome/sync/finish?est%3DABkgPKojXrj0dxGxRFqlx2uh26LtT10A8CtTKnxPqOGe8-Hi8QF3IIIFotYHZIr5ffPRNqELYyR9bpC7fTaUlw%26continue%3Dhttps://www.google.com/&flow=history_opt_in&ssp=1&theme=mn&flowName=GlifDesktopChromeSync&dsh=S-753051908:1784721964405625 | Sign in - Google Accounts
+[Chrome] HIST | 2026-07-22 14:31:25 | [5x] https://www.instagram.com/accounts/login/ | Instagram
+[Chrome] HIST | 2026-07-22 14:31:16 | [2x] https://www.google.com/search?q=instagram&rlz=1C1CHBF_enTZ1183TZ1183&oq=&gs_lcrp=EgZjaHJvbWUqCQgAEEUYOxjCAzIJCAAQRRg7GMIDMgkIARBFGDsYwgPSAQkxNDkxajBqMTWoAgKwAgE&sourceid=chrome&source=chrome.rb&ie=UTF-8 | instagram - Tafuta na Google
+[Chrome] HIST | 2026-07-22 14:31:11 | [2x] https://www.instagram.com/?hl=en | Instagram
+[Chrome] HIST | 2026-07-22 14:29:55 | [1x] https://www.instagram.com/auth_platform/?apc=AdpWeP7f4b3KFtCJXB6pXzsCtw4YtpDXT-kOtgsprSZsezpLWvK8yMQdBvGudwDwM35_hcIanGR6mDxP7rNhxwM22vJOXnjBUh9AId6FvL1PRESHVqRYG5Ecc4wZFlG7ipKe7PJpwy4a9t1hsaeRgvgBC8xMK7XFB5qsj5F45b-WjHvpqvnKMDug1JnBaOBeiTjN4hzFzOJkNfV23WaYQhgQwnMxa8-iJYU3YgUDJL2x4l3K6iD8saWMipzFplAfnELRt4uYSJQRbNcTsmzs9neSQ0x5mJn7M3sZ6QrI8uXm5lEgcw75AeDXeg1BZxUADW00KVgXhXwbCoi2OeovmQlEoavoODMZ3rxfdEGmrfh0Lc32eIJqCnXQbHBcqdFKW9rAD_pPWMzVr5hKf-R3iMExCBFY--DlEyzDZvYgtuvbfQbRh1CM3ZyqpIJZ-_lY14by1DEYsaziSPUTb8Ia7d5jJXkrFRr1pzTKBVbO_YvyaZuUDtFATUQgu-KGMV2rSSTORifP3Huy8D7iM7xmH4o6exA | Instagram
+[Chrome] HIST | 2026-07-22 14:29:55 | [1x] https://www.instagram.com/auth_platform/codeentry/?apc=Adoh-V76F-JlPyAte42GCKEVXbXnxadUkGkrwkpFc27DM7pQvXLe3lbNhrPfCGny-VCJ5z73F3xvkmRE8rcxQez_wHbF1ygWKka8XLpdfK4Udpx2PRZNdxIE4qOdyASAQEtaQ2Nyk76pQXqLFMKbgwG1HulxVauYuznuAXqVPK_pIfNk1yJIC-3j76nius8AVscHD-ffOUuLxyD9c1ZnEDlDv_z-P4gpT4qvVmjUPFoQ9PgJ-Q-PJbJ2epHZfyFAZxVrjxXn9KN696vkxa2K4uFPX325D0RQMS-_I6WIfL3BJ0SaaTYx0cjiGFsOAKEIeAB5dZ_VlhIXq00HupEl0Cce2clpT7j5gs3AGz6LzbsMnh-k6sJTQAqS1NR8--YDTpEki0FCKesAO-YFAZ7gwAbt4W670mK2rwJCNE9aJEQyoi_4O64W_755wIOPv2AuExEfIsYcNrJQbG7dO57M5RxyRxnvgsIpd2cp_Qa5hh7DDCywstr_jX8zrEV5yBElvnpsbx0TCqAH9jTzJHaIj-YC8QDBFJVHVTKTBn3umlaif8y8r4OdKiCPTUo-Hsyzqj1kDsZD8vdc-jKQalHq0OrZ7c2bbwX5d50JbTJcSY7ca5A87YROlghelPJ0JHiSDmihwijc1-xO2GjvVLTSWGAX3PTNEMXGJYI_bSJI03seHvwB6-HouKHnpZ6rctO_Uclu0qz-fNaHrFNOTBM3bFwjR-oR1qnZcvp8Y-aS2MHnWAVrW1hhii-hTfb9WteObN_giK7CluNJ7rQ1wUAF3r9tpHe9zhs6BS-EXi8V13kSFk7-ipX2r8jv5Q6-mVySEPgb4xlGD_KYp-J6h52kIVjf3UrZg2tChqjZ6IQJHoOJL4w6Z1isy0GkPPSBqGFMlGDBB-AicN0QIamWH4mrI8QxJG0zyWv6qVJKv2lyG7juyxrdzXLfDbDwxbtvsjrXKSSq9x0xkQQ_lCRB4IuuW4bWARoADylNd_hf4v9wWBgE9lY1JIuBvzsc864BMFLniL89iM6H0d5VoPnW7wk_JWLRz5CoTAg71lDYUX6yD1A6jSIRKLS4FrKV5vb9sIQ3YNgX7Ga5Ry6iyIG7Z6bFDWNCenYlkEXQau-F6MjVSODsekGwBqqzDTA2zE7pTrqMfuPN_LOgPIku2GwJkVw7vDVtSQfzi9Nnx_gd9BOrkCpiAH_-WeaRynRe0Bf1pAAN1TxRr939ZGJw7oWPbZMjfp6qsgfvmQuU2ZqefnABFSrZ8iLfqTiNtHVTbgXYgrxCbSLfVFjzyzk8HCbHZLqVbdPqj6TWUjpVUcFerZjk_tOQUX3uiCxMWddStW46N0xQOzz6-ZKETnZE2Xnz8w1S2lIGJiDVEaT5hCRBBtq2os0Y3QO2CLXRH2TRbpcVw4tr69VFTyf2NewVihu9CfYySyrlRxwACLqFuegPfpuFNLa-5gJAmPRAKyEgelXzFqvXerOO2QmHA4CtnovKTInJeO3fvCvKV-2aFuc3PC9aG_d3aEqf-c1YYJjORkNr6X7VQxQ8lR8MUB4oTs8_UtSbWUPkawQJy1Eo8o23wfSVFiAwQ_uaVb4vLoTwDvEuTO5gWz-XMEPWvRhHPvZLod1CMGuyY1vmlazELRri-vOcpg9w91WHOq6u8d21I34zsdtmBS5NWrRk9cdQLXTtwhlbG2TlKXC9sU7I4TAQU2h4rjjAtF2_L1UMKZRWUVU9MaYwAw2IASklD4S5c-Dq4DFJkgmJrB5DC4JjF6rbJHrBnXJrQ8LAO9-iVYg-Tq1XhHrxKcB29zx-e9RzP3IftB-wI2bqaola2l6XCPUIrdZ1lgM-Va3BjfNkHoPlALk10D6ras2R8_8LCnJSgNte3l2h51hb6q6F8ihibYoXfi637dhTbHSA8Ql4MUMJu0WftusbijrEPXvLnV3k-Xd2OIWeSV0bK0JpAEzn8TkjclhM6OvZGxwkJJ1oW5Glza-Y8oV_iuf9tzSW0w%7Caplc | Instagram
+[Chrome] HIST | 2026-07-22 14:16:25 | [1x] https://www.instagram.com/auth_platform/codeentry/?apc=AdqqgNLJW31ui5XVojG_fyB4CTKXUMkQB-UPViWGVPUIfy2DDE4hcLqL0I3Y6YM7ovq-imjc-2itjHXdIVh6cR-t6OuurG2vYqMEbABpHT4fZT6zlRU7YpUVazOexCx5gdPUCQmIQCPsRgN3RNHr85Ft0V3-Pidpkh48pZ6-xj0Wpk_4HrO-ps-c-0GQp7qFQNsN4aOoMG1sFnRFyMCMvnYDehVkP76EGE5MBej13kvCodLSBGb8rmDZZvkLZ014ggHQ0pGEz4txy-hg_DOldwOVZKJuQ_mJPABPrOvV3m0YvPjBjqYBVPunl3cFvSd3oFiEzxa7nc0mmhwUfnHCqPKEfgTTfQh6C_g_-ySLohFcGUvYPpQ8IsZi2RhFU3F6oPXgaqIm14-Rj4biuHDUDIuU-46Vm1vq5x2jbcSfRdysvvxTiY_E08Euf6MCJMVlMbpWp7R6ht1MRvpBPa3kY6hwE4DcOpC2mNdxeFX-uT5pUTsgCGFpBqr_Hzn9zZ6C318sa5tymkxcCLfsRHwr-lcDXcKqWRBsqmzwjwDHl_nrukeR7cqNDhcSIoTrBIyEEVTLL3PfIcZ2mgypLLPy4U0tBWUhtkS6Yzt2_FjupjKD3xz5sX0HyrEM3UL3ZDYy_AGrqB1uOmM1SGNLHM-MsGD4hg8mr-eCkpeDEA0mqnL9vLHM5gL6B_-Q30bKYR-1femPpQESXx_kG1P69uSqyi15uAuCIQFX3JLtLYkwEyYJr0r6D551U17HHgDE39fn-CqGMH01MWxE_KYsmQ_9CIrkewDSpN1X5W4nLxp4cPfUH8BavTXbMDEBHY_wCg06898ijoFt6B1YHY87bzy0tvyNezzhs0nWWjipW9IymPIpv1Qw0ct-f-UW52jLELGHEiGpgnQq4fYYJA38i7r1WATUJ93Msn5XVt3XSLeqjTGGOpxwMj9KZRfTJP_lYrD1IWEnw5Q15mip9Uf2Q8vwN-BgA7mqTy3o1d0kf4cVrUYnFT_PHMvILbbjJibX-InTHmQX2UpA6eyh75YLTJEmeT8ibDH7LchnhPmHGAkU14ICuRM7eIcC3WDRZ7OMf_DIv59ZwGpzYSImiVJ5txl5YfRls-dw8Mi7huMNgqhYZ_fg_V5z5HfedPyDjICgT_-Q2_VwLMBXqNq13wnFImcD10bzeqXszVZSLAkJPIM2O3JZq3hUC_4-zNsvqGffsRpOavr_icNBGiOWIZWkeM-ToMv1a5T3PlCyq1pXoF_gTxvHO0GSaYJZiX4m8oTU-0xNbaG8Z6s40EXHqhTE-uKDskX1WwFvHSmVTj1tBgPiblWNQ79LotYocGZaXh9urZvbsR8bQB9Mqoee_1Bd8uPGZ8QW_qBUqwAXs5vUNSY7WH_W1PWZcvrXj3YhyuDdAQmSs3-l-xl6iDgdIShFi-yJXD2y1eE6n_brcLRI-QYWeHmH4N440JZI9bw8PywNtrzRrgcBNqibm36sy5JKyd95vmkzsxh-fQN9PQgoeXMLy4tC32ww8e8INavIgH-aM_enijm7MmE9fmjRs-17letvUylv6hhUPPupAr_RQtzBUXjTcNuDStKDuRGSJK_27dzvoLKReKfA87q1d5pKfIIyFOdPEQ3IQY_zUBb40gg-XDgoTpF-uuCrO11-gWRmkTzoxbTwtbSR4axoHJgGU89ejlvXdWIShAxE7QBiKMrK53NeNQJIEre4egQZFEgQt_8Bcp4JQTum3bUrc2B8018shrRy25-_TeUQpMzK7QRL8781czQJIQ9toyvLBn0qdbOArxROUuMDIp_scDGsPXEN7VFqj774hnBHBuCIM802oFNXxGiQon6ep963yy4sDQfdoHFqxPDymKiKx877EoCDX8GNFWa0sH8LC4rFrLMAbNMO74mDpGpR-w0pfCwUCGCqampEijdEg96M6DMPmOWJWO1VtTVVWHikbtTiy4UpMQfHpQlSO_MFE27StyxD7zSrL9DnnxRt%7Caplc | Instagram
+[Chrome] HIST | 2026-07-22 14:16:07 | [1x] https://www.instagram.com/auth_platform/?apc=AdryZ2SpsRthfOsu_uCwBtVhF7wmB1asAnGYAlN0ufllZXKVTLMhSAUunRsR12rABNIhA_1ojrkr1WhQ_mRha0Exj-0J_tTNMoVvNM0X8ZEN206JYxsztejnf1VoP75MoUBjAayIjtz7DrdupYurxIeeHCUeh22VTPRRSrYe71_-gDyitJ3OH00bRw_kCItVoTwq672ddm7WkyO03pcJd1erySVicKOj6Yr6BCMY5vlfSjkb49UrgHMx5U2YYcH6nlQUunPP39j6nEWSWLD0oR7XrcUcVmqaG-0V9h_iPmLchu5VMxRBb_c_YgIBLAt_jvMPdnRsy80KHsOisw0PtD-ik6vHqCRRDOBuPn9tlT3DjxyV6-KhfrNLXlCfI6kawMv0ZeV3Gk8Du53-5b45UMphpGm2JamvqZK6XHNYtBpYf8lIqmFuSmlWKOAmOMVeuGYLA1bXawcOuENhev_BM9el_7kiarlJliUu8JH1DOdu79syYMoptWbcsPKscVW_cVjBquggTkwvTA4exxW_M0Eb7g | Instagram
+[Chrome] HIST | 2026-07-22 14:14:46 | [1x] https://www.instagram.com/auth_platform/codeentry/?apc=Adqha8lgI4A67Uc18QQZ7twbYfur0ko5PrJ8QcTdo05RA5bZhZJd5-FXjJls6ujOj10FodkR5zHgG0QiXdrPDdIYcNyVujqKvaxS2BAw9GDb-0k566dn69t-5HjA0a0XJCWz83p7z8yDz6-0Wi70P8EkMFiV8rBB95aIyi7cI1BARvVekjGfbw_F59UGXWYYzgqJFu3wtt-Ri4YTvcl-SSVKszeADZovI3Do3M1lCQYB_9j7SQu1zDpjh1z36XRkkf7ncb5KUcqznNUq8nzI3i-BXm3yW6nHYHUBH5taofqUECoSuqj6CBoYk7Mcy1VetTVuJ8IyHvjkZGkNjlbwOwWdvBiHPXhmbTvhtVQLsQF4TFIAbrKPgUOnWpxotqQ3wEfhMgGLqORs3dDU7NffQtgFaY1JW2PyDZpKTAFdy5rSQZ5MFhCwVtEMYBs4dMEt55FjxbckbkSvByhjdp1hGrsBS8VxdNDz72PvP_-ihf4ddzrvVjG69Ogj6-WQTiZO3eCNIvTOC2YzxdI79f4Frdm3S-ypYlEmj9huylT8dCAEeNK4XVBifoBgYDBYI0qXaW-UN-q7J2_gT6F7OVs5fPoCNPLDlQv162_iy1ox12_PqDZrYNNeupLKyMBqknA3wT0oS1X09MldIO4oqUcuTgWdlu8YWZoG_AB7z2qKSAO66a3w6nWKOlUKLLhGqKrkUIU-qhNhaFkJA2EnoozvcJVmItCyvY1KvyuFo1yF0VZHXzId826zrRNDlFp9pRUSTIh1xMyDF-Fsy9EQz9E9Es4GhLiO-o9OL5g87_7VJvHbfvw-BMyMmDmt0W7C_iFFCU4lxhW9QMXyPd9a04N8WTxGlutIBrq6X_wacIjudhbviewTu5B0ieZUm1YSM_yexuPj6gj0v6hWDto58lDiiPeOw_lQyJcVNHodRkSwGWGuyF8icjnFoqMXCrJOEmLj_cmM5euh1ETj-Nzc32LKbjKIDQAmh-siJ1MWd98oMc_gbxtSi0yExMhmAtFgwJq7oCOSsI46An7FIQVwXDMKIPXw8jCnywRYnbMvv_9ZC7f_F9YmQQO2wmHxFGW_feqnTsTrZZ10UAftI9zvNrH_v7Tcf8SDeT_Q8uQifSbWxqTfJQwfdAanQfd6udLoAYJRCfVGht1_yBGPAyGL0U7rom3ZHdnM7p-Tujn2dw606jZ-kmitR9o908Cx5ouGXsJLmlrczU11GAjMmmNDlUjGDGIJNOSV0UkXx_oDKFHmM--knucFClPLTjvv2D1Qa6vPWAaqQOG_8pnm36HLtixGCQOz2kpFgvQ95gAOWsU77jdMtCf7Xla7zZrHgff3WXQjWqir6Z1YzxX4wU5y7JL26EmEtk2nVKqenqulx4fzX229EH3u7Tr3uyonOM6_D5wHoP_kVoUiYrj9jIOf59f7kYPvwvc9Hk_f-5VXQ7BNvJGHQcVygIL8jYc04XiKhqykyLQVc1AWDh7hIfGjF1Q4mhMXTTCB7TS8NU3AE_DshQtLP4P-5K-3PzuliTOKxQv2iu8yrz0A7IkQvv64m8miJedjEuMyQZhAoViwuhleWjyTH0vknPAfxC7sLXl-O3yZAB70E3DtKhwypSBZAgVp1MAdVQb6UtxajFrVdvh52SV4M3m-ANKVmiM4T70M2pXj4whbBjCX5MQBI5fHtkNBY2kqxKVfajbp5PkSzt_9zElLfV-vZxtx5_e5SdxARWmU993xw5WbqX6y53Xr1ih5-Zhy3lSAtZ9wYAJ5iTu99gmRgt99hENU8jwArttlhmFoafbAgGYioiuwDjtDIfWhVK95nUu8s0BMoEsPvkIdR0m2AI-mJFDX-ooA44qY1RpKVwbz3lfF9mYC6Is8CBQ9azjEde9PLQUOLUsY6BngbD0_CHYfcgkgoXVjGOCB0hnQnxKZSP11tww0EFtZAanjpYFzjJHmC5HruJqXKtQTdHjA6XtBsx0oONl7OkyycBVKHrrf0nGb%7Caplc | Instagram
+[Chrome] HIST | 2026-07-22 14:13:17 | [1x] https://www.instagram.com/auth_platform/?apc=Adoqaxc68dlqXEVyguXBs3PjgO0GXnx1E2x0vJzJCKoO8Eucq8xX9EtOx_4nANy0Lt6Xl0DUIyHUQ3Q5L2tvBNocLBpddDPrUX-37baAamu-YPaEowg9VUNzA0ucy0Wtae27dMEJh5sxazaXm7CfkdftmRE5lPDOdlQKN10XxHeDKCxZMA_wgFMi1sfXcSiZ_tnlm7af_CHY0kfQT7EEbZp8kiGjdQSqAoB45IWSgn5mT7VHSBkNR4JmIQu7QumZXxB7ukAkwznJyVQtzse3GHfhjzD7LVwuZw888sD2LRJqlgnEU1U7Xc2QAJuwZMzxRRXnRm6aZmxAE5cRmiIseTN1X4wgEsxt6eTZ6N-cKI4aXZ1CJDeQMkkAN4GWAnzic5XSf-JNMUzEb-uQ-RsPjgG8nmSO52BxxniAoUas_86-gK9-p41NK4BIzL0MalbOdj_Rufer9K9HqBo4pJDWN3ENTh3IEX_gsbMCCGfMsx5WImulUKe8z3M6HjS1EEk5kBNgRntS3i5eBIeIPV-QOz0x6g | Instagram
+[Chrome] HIST | 2026-07-22 14:11:24 | [1x] https://www.google.com/search?q=instagram&rlz=1C1CHBF_enTZ1183TZ1183&oq=insta&gs_lcrp=EgZjaHJvbWUqDQgAEAAYgwEYsQMYgAQyDQgAEAAYgwEYsQMYgAQyBggBEEUYOTIHCAIQABiABDIHCAMQABiABDINCAQQABiDARixAxiABDIHCAUQABiABDINCAYQABiDARixAxiABDIHCAcQABiABDIHCAgQABiABDIHCAkQABiABNIBCDI1MDNqMGo3qAIBsAIB&sourceid=chrome&source=chrome.ob&ie=UTF-8 | instagram - Tafuta na Google
+[Chrome] HIST | 2026-07-15 14:38:41 | [1x] file:///C:/Users/STUDENT/Desktop/tzd-informatics-tst.pdf | tzd-informatics-tst.pdf
+[Chrome] HIST | 2026-07-14 12:54:45 | [2x] https://accounts.google.com/v3/signin/challenge/pwd?TL=AE6FvyavwLuK-_UdNcRW4phZogFXa4bgQXhT8qgIyeHqse3EAC4t_83ATkSofBzt&checkConnection=youtube%3A378&checkedDomains=youtube&cid=1&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Fservice%3Dmail%26flowName%3DGlifWebSignIn%26flowEntry%3DAccountChooser%26ec%3Dasw-gmail-globalnav-signin&dsh=S-2045946431%3A1784022471187349&flowEntry=ServiceLogin&flowName=GlifWebSignIn&ifkv=AcDsRvxjCyk8JVjT8XKWoqpTnf7BjdhbXUI4zKR1WikFJ3HDu9Gdme2mBolvmmwOMTyK_6n88bFBBg&pstMsg=1 | Welcome
+[Chrome] HIST | 2026-07-14 12:54:43 | [2x] https://accounts.google.com/v3/signin/identifier?checkedDomains=youtube&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Fservice%3Dmail%26flowName%3DGlifWebSignIn%26flowEntry%3DAccountChooser%26ec%3Dasw-gmail-globalnav-signin&dsh=S-2045946431%3A1784022471187349&flowEntry=ServiceLogin&flowName=GlifWebSignIn&ifkv=AcDsRvxjCyk8JVjT8XKWoqpTnf7BjdhbXUI4zKR1WikFJ3HDu9Gdme2mBolvmmwOMTyK_6n88bFBBg&pstMsg=1 | Sign in - Google Accounts
+[Chrome] HIST | 2026-07-14 12:54:37 | [1x] https://accounts.google.com/signin/v2/usernamerecovery?checkedDomains=youtube&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Fservice%3Dmail%26flowName%3DGlifWebSignIn%26flowEntry%3DAccountChooser%26ec%3Dasw-gmail-globalnav-signin&dsh=S-2045946431%3A1784022471187349&flowEntry=ServiceLogin&flowName=GlifWebSignIn&ifkv=AcDsRvxF7Ht5N2ngIbNBFcibMfsBwOrHMOOxPMP0llF7RM99CVFn3uve-t3S2y-KGwJWF4Py6aZLRg&pstMsg=1 | Pata anwani yako ya barua pepe Andika namba ya simu au barua
+[Chrome] HIST | 2026-07-14 12:54:35 | [1x] https://accounts.google.com/signin/v2/usernamerecovery?checkedDomains=youtube&continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Fservice%3Dmail%26flowName%3DGlifWebSignIn%26flowEntry%3DAccountChooser%26ec%3Dasw-gmail-globalnav-signin&dsh=S-2045946431%3A1784022471187349&flowEntry=ServiceLogin&flowName=GlifWebSignIn&ifkv=AcDsRvxjCyk8JVjT8XKWoqpTnf7BjdhbXUI4zKR1WikFJ3HDu9Gdme2mBolvmmwOMTyK_6n88bFBBg&pstMsg=1 | Ingia katika akaunti - Akaunti za Google
+[Chrome] HIST | 2026-07-14 12:48:34 | [1x] https://support.google.com/chrome/answer/6130773?hl=en-US | Browse Chrome as a guest - Computer - Google Chrome Help
+[Chrome] HIST | 2026-07-14 12:48:34 | [1x] https://support.google.com/chrome/answer/6130773?hl=en | Browse Chrome as a guest - Computer - Google Chrome Help
+[Chrome] HIST | 2026-07-14 12:48:30 | [2x] https://accounts.google.com/v3/signin/identifier?continue=https%3A%2F%2Fmail.google.com%2Fmail%2F%3Fservice%3Dmail%26flowName%3DGlifWebSignIn%26flowEntry%3DAccountChooser%26ec%3Dasw-gmail-globalnav-signin&dsh=S-2045946431%3A1784022471187349&uj=gafb-gmail_asw-globalnav-en&flowName=GlifWebSignIn&flowEntry=ServiceLogin&ifkv=AcDsRvxjCyk8JVjT8XKWoqpTnf7BjdhbXUI4zKR1WikFJ3HDu9Gdme2mBolvmmwOMTyK_6n88bFBBg | Sign in with your Google Account. This account will be avail
+[Edge] HIST | 2026-07-24 11:14:51 | [1x] http://127.0.0.1/ | Welcome to XAMPP
+[Edge] HIST | 2026-07-24 11:14:51 | [1x] http://127.0.0.1/dashboard/ | 127.0.0.1
+[Edge] HIST | 2026-07-14 11:20:17 | [2x] https://www.bing.com/search?q=how+to+get+help+in+windows&filters=guid:%224028227-en-dia%22%20lang:%22en%22&form=S00028 | how to get help in windows - Search
+[Edge] HIST | 2026-07-14 11:20:17 | [1x] https://www.bing.com/?form=SPHPRE1&bbtnserp=1&bbtnfrm=S00028 | how to get help in windows - Search
+[Edge] HIST | 2026-07-14 11:20:12 | [1x] https://go.microsoft.com/fwlink/?LinkId=528882 | how to get help in windows - Search
+[Edge] HIST | 2026-07-14 08:58:51 | [1x] https://www.microsoft.com/edge/update/?form=MT00ZZ&channel=stable&version=150.0.4078.65&sg=1&ptt=2&D=1 | What's new in Microsoft Edge
+[Edge] HIST | 2026-07-14 08:58:51 | [1x] https://explore.microsoft.com/en-gb/edge/update/150?form=MT00ZZ&channel=stable&version=150.0.4078.65&sg=1&ptt=2&D=1 | What's new in Microsoft Edge
+[Edge] HIST | 2026-07-14 08:58:51 | [1x] https://explore.microsoft.com/en-gb/edge/update/150?ep=0&es=369&form=MT00ZZ&channel=stable&version=150.0.4078.65&sg=1&ptt=2&D=1&cs=4133107541 | What's new in Microsoft Edge
+[Edge] HIST | 2026-07-13 12:19:29 | [1x] https://subwaysurfersgame.org/game/subway-surfers-nyc#google_vignette | Subway Surfers New York City - Play Online For Free - Subway
+[Edge] HIST | 2026-07-13 12:18:46 | [3x] https://subwaysurfersgame.org/game/subway-surfers-nyc | Subway Surfers New York City - Play Online For Free - Subway
+[Edge] HIST | 2026-05-30 10:41:09 | [1x] https://gamebol.com/ultimate-car-driving/#google_vignette | Ultimate Car Driving | Gamebol
+[Edge] HIST | 2026-05-30 10:40:03 | [1x] https://gamebol.com/ultimate-car-driving/ | Ultimate Car Driving | Gamebol
+[Edge] HIST | 2026-05-30 10:40:03 | [1x] chrome-extension://aomkpefnllinimbhddlfhelelngakbbn/Game_Source/index.html | Ultimate Car Driving Game
+[Edge] HIST | 2026-05-25 06:15:50 | [1x] https://www.youtube.com/ | YouTube
+[Edge] HIST | 2026-05-22 21:51:43 | [1x] https://www.canva.com/ | Home - Canva
+[Edge] HIST | 2026-05-22 21:36:01 | [1x] https://www.canva.com/design/DAHKNDhXSQg/e_CM0e8Dsj369afsDkT-uQ/edit | BLUE AND MARINE ECONOMY - Presentation
+[Edge] HIST | 2026-05-22 21:35:59 | [1x] https://www.canva.com/design/editor/shell?designId=DAHKNDhXSQg&extension=e_CM0e8Dsj369afsDkT-uQ&mode=edit | Canva
+[Edge] HIST | 2026-05-22 21:35:40 | [2x] https://www.canva.com/?msockid=026d4df6db8366241a715b6cda5b677c | Home - Canva
+[Edge] HIST | 2026-05-22 21:35:40 | [2x] https://www.canva.com/en_gb/?msockid=026d4df6db8366241a715b6cda5b677c | Home - Canva
+[Edge] HIST | 2026-05-22 21:35:36 | [1x] https://accounts.google.com/signin/oauth/consent?as=S-1257031948%3A1779474894864981&authuser=0&client_id=779010036194-lf6spugv22vvj41pqjdj4d8k2tq7o5fd.apps.googleusercontent.com&flowName=GeneralOAuthFlow&part=AJi8hANlOgstVsO1AQ5LxAoPm6j2e6whSk5ecXycNQBGSPFTVp9VpIhOn91foSgqj6bC4XCxCIWYd0JYm2FcSud6liqqD5PY5_4Nz5Hep2Fy0RqCOyWBw8MMh_yAsWurx6MeVZ-zjXdJprN_SQds_k-OkCNiBZG4e0imkTh3jm2ktIxjimfwlsmx-FsenocPjBnuJtv02j37mkrQAlyzyEo7lhIQwRGcP_BF57rBiKYB8cRgvf5ZPEUGar4w2jge5OtNz9npYlUgi984ac1h5uDTBH6tzQ2vh4QQPKl17LCgzMViFeDlaEP7kQ3x3d-7V_Dvtxy2EQDSN1eVESqi0li-kqVBHB0qb7Hnp1AFQT_dS2C2rPmhS6CD_gLeGidKBRlJUn2FsX7bsyEePk407Ht9hXer9WD5Kf0UQiwftKOe5oFpfmP_FOWZxeAzrDCX9U48QDlULV9mi8IwJmu8EYkJ6HWeCGhVMunMmweXDwtxViA6VzBRTyNxzgb8Kw3wWuNLzVp17LPbj4adZ4YysWbWdjb3lAPxX9a9E6ijk0QiF6FnSrpFwNNcXscrf0MYq7M0ft5bOvwHG-huTlfwxhQlngfMOa57D0e3t_koRV5ULTE8Y_LzSTm-rERuWz85WOcRSs7eNdxQZsWctnqMxoBNWuxGVJqqhYDgaPl4WkajCxxKxbyYRgcqISWQNZl19CjgWFcbjYnAv00QvT6jx2dw5xrnbpD0n62-ESKkfOtSRS3AMlMEYoy5GUZBzM-UsRrER_dN4IO9ZCanFmbSmN4t8RFZIVdVAuHtFw0cgsztgulQH-NhZz_b7DWHulpCktH6PNTWSmgyj1zlt3NAvv6GTybNFTD8k-PGY7tUK6TdQyP4LPTCg7sFs_UXnGlMFb5lytSqWNF1BQZaXLzVogzfzJUc209pHnVAHjbHlhq-qzaSBw-6yE2OwRanUevfWrLlh42c8jbAbSAB3wBM5lJeO2KHCnM99qW2Y3dzde1rF7K-QEASGU0&rapt=AEjHL4OGy5LHNXgaDatLOpT5Blw9OrG5q_Iw_eu-aXgRcqbg4WogYZz0Qo40dl3OrZNktaB4QhzM9740Sps4vCCNjHi-BcGBpwWHGOwF4ndSMxZHf7sgeb4&xsrf=AH3GJxyameuhcbv_LuS7ayV_QGr_%3A1779474930476 | Canva
+[Edge] HIST | 2026-05-22 21:35:36 | [1x] https://www.canva.com/oauth/authorized/google?state=0c34775d-4400-4cf6-b376-bde4e3312297&iss=https%3A%2F%2Faccounts.google.com&code=4%2F0AeoWuM9gKzGtKJAYFgdLCymd2q6A1fBosUC-HCy60qfHQyErtDjc58tbAgQ87SUdWo_dXw&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid&authuser=0&prompt=consent | Canva
+[Edge] HIST | 2026-05-22 21:35:30 | [1x] https://accounts.google.com/signin/oauth/consent?authuser=0&part=AJi8hAPnYvB5JRGvj2Vhbhy_iX1QWEfNSEwLlmsjKO46zQ-orY-5faUE0nmHWXP0wBvVhVBWZh5QupduODReWeYm9NTQWDEO1yOub6BGPQz7sgcPgvP4HDlYne1NUKJD7uNoqXbBqwbQzUoFwYIkRF_m6N5Dt3yYhie_6VhDi-RcwzRveHITY1-hsrnJzISttg2zPecWlkkIwIESzPeJyiYNMf0bqRWyCbz0NsNUuk3JizlfoI3x6_GEkf0t3eBy_t7iDRx-obk10d3rs3rE9Lt8u2WnRfVJndmk4MrFT4p7YCCptM9DO-iTZDAfiddKnmH21nbZdmzR3Rjr69_XzLx9jFlsPSr3IRklnZC1mX5z0LEdl-XXYVeeACO62bWUNgTJ5jcAa2_xE1EPRPXbyqMQkv0kDKaKTMEw5IB09Ifc5M94r4J_IIXnvs1OxjljWfp_ubDKNMhKcMIymfCFB78G6vmKkW9N_Q&flowName=GeneralOAuthFlow&as=S-1257031948:1779474894864981&client_id=779010036194-lf6spugv22vvj41pqjdj4d8k2tq7o5fd.apps.googleusercontent.com&requestPath=/signin/oauth/consent# | Sign in - Google Accounts
+[Edge] HIST | 2026-05-22 21:35:30 | [1x] https://accounts.google.com/ServiceLogin?rart=ANgoxcf8P_L0YiDeuoB2E6YqzkfZv1bjLF8nens7nssZa_iISndSjqQ3-XuNUq3E9n2IHFmkDbZJEWYw5Ru7-mvj6Neiu-h_B0e5zszhxTS3fcCLrJHw7GA&continue=https%3A%2F%2Faccounts.google.com%2Fsignin%2Foauth%2Fconsent%3Fauthuser%3D0%26part%3DAJi8hAPnYvB5JRGvj2Vhbhy_iX1QWEfNSEwLlmsjKO46zQ-orY-5faUE0nmHWXP0wBvVhVBWZh5QupduODReWeYm9NTQWDEO1yOub6BGPQz7sgcPgvP4HDlYne1NUKJD7uNoqXbBqwbQzUoFwYIkRF_m6N5Dt3yYhie_6VhDi-RcwzRveHITY1-hsrnJzISttg2zPecWlkkIwIESzPeJyiYNMf0bqRWyCbz0NsNUuk3JizlfoI3x6_GEkf0t3eBy_t7iDRx-obk10d3rs3rE9Lt8u2WnRfVJndmk4MrFT4p7YCCptM9DO-iTZDAfiddKnmH21nbZdmzR3Rjr69_XzLx9jFlsPSr3IRklnZC1mX5z0LEdl-XXYVeeACO62bWUNgTJ5jcAa2_xE1EPRPXbyqMQkv0kDKaKTMEw5IB09Ifc5M94r4J_IIXnvs1OxjljWfp_ubDKNMhKcMIymfCFB78G6vmKkW9N_Q%26flowName%3DGeneralOAuthFlow%26as%3DS-1257031948%253A1779474894864981%26client_id%3D779010036194-lf6spugv22vvj41pqjdj4d8k2tq7o5fd.apps.googleusercontent.com%26requestPath%3D%252Fsignin%252Foauth%252Fconsent&authuser=0 | Sign in - Google Accounts
+[Edge] HIST | 2026-05-22 21:35:30 | [1x] https://accounts.google.com/InteractiveLogin?authuser=0&continue=https://accounts.google.com/signin/oauth/consent?authuser%3D0%26part%3DAJi8hAPnYvB5JRGvj2Vhbhy_iX1QWEfNSEwLlmsjKO46zQ-orY-5faUE0nmHWXP0wBvVhVBWZh5QupduODReWeYm9NTQWDEO1yOub6BGPQz7sgcPgvP4HDlYne1NUKJD7uNoqXbBqwbQzUoFwYIkRF_m6N5Dt3yYhie_6VhDi-RcwzRveHITY1-hsrnJzISttg2zPecWlkkIwIESzPeJyiYNMf0bqRWyCbz0NsNUuk3JizlfoI3x6_GEkf0t3eBy_t7iDRx-obk10d3rs3rE9Lt8u2WnRfVJndmk4MrFT4p7YCCptM9DO-iTZDAfiddKnmH21nbZdmzR3Rjr69_XzLx9jFlsPSr3IRklnZC1mX5z0LEdl-XXYVeeACO62bWUNgTJ5jcAa2_xE1EPRPXbyqMQkv0kDKaKTMEw5IB09Ifc5M94r4J_IIXnvs1OxjljWfp_ubDKNMhKcMIymfCFB78G6vmKkW9N_Q%26flowName%3DGeneralOAuthFlow%26as%3DS-1257031948%253A1779474894864981%26client_id%3D779010036194-lf6spugv22vvj41pqjdj4d8k2tq7o5fd.apps.googleusercontent.com%26requestPath%3D%252Fsignin%252Foauth%252Fconsent&rart=ANgoxcf8P_L0YiDeuoB2E6YqzkfZv1bjLF8nens7nssZa_iISndSjqQ3-XuNUq3E9n2IHFmkDbZJEWYw5Ru7-mvj6Neiu-h_B0e5zszhxTS3fcCLrJHw7GA&dsh=S-1389137267:1779474928533513 | Sign in - Google Accounts
+[Edge] HIST | 2026-05-22 21:35:30 | [1x] https://accounts.google.com/signin/oauth/consent?authuser=0&part=AJi8hAPnYvB5JRGvj2Vhbhy_iX1QWEfNSEwLlmsjKO46zQ-orY-5faUE0nmHWXP0wBvVhVBWZh5QupduODReWeYm9NTQWDEO1yOub6BGPQz7sgcPgvP4HDlYne1NUKJD7uNoqXbBqwbQzUoFwYIkRF_m6N5Dt3yYhie_6VhDi-RcwzRveHITY1-hsrnJzISttg2zPecWlkkIwIESzPeJyiYNMf0bqRWyCbz0NsNUuk3JizlfoI3x6_GEkf0t3eBy_t7iDRx-obk10d3rs3rE9Lt8u2WnRfVJndmk4MrFT4p7YCCptM9DO-iTZDAfiddKnmH21nbZdmzR3Rjr69_XzLx9jFlsPSr3IRklnZC1mX5z0LEdl-XXYVeeACO62bWUNgTJ5jcAa2_xE1EPRPXbyqMQkv0kDKaKTMEw5IB09Ifc5M94r4J_IIXnvs1OxjljWfp_ubDKNMhKcMIymfCFB78G6vmKkW9N_Q&flowName=GeneralOAuthFlow&as=S-1257031948%3A1779474894864981&client_id=779010036194-lf6spugv22vvj41pqjdj4d8k2tq7o5fd.apps.googleusercontent.com&requestPath=%2Fsignin%2Foauth%2Fconsent&pli=1&rapt=AEjHL4OGy5LHNXgaDatLOpT5Blw9OrG5q_Iw_eu-aXgRcqbg4WogYZz0Qo40dl3OrZNktaB4QhzM9740Sps4vCCNjHi-BcGBpwWHGOwF4ndSMxZHf7sgeb4 | Sign in - Google Accounts
+[Edge] HIST | 2026-05-22 21:35:30 | [1x] https://accounts.google.com/signin/oauth/id?authuser=0&part=AJi8hAO6DEpyWxUzrSKLAKeGI7McCUGdI5R9tpAajsTjIC2ywah2Ugk0AhqCgjpO9tE0BwQHS__5e-kXXbLKR3Q10Z_2KX_p7K3XP4C7SFl0PUiRiZJppbTW8CaOFyUS4-TZa8OSBRZ2PSLorm7u4hz1vwzg66HjHa_4g_5ntMDriyR3XRRxwAG5zV2hQE-WUyQnVAlzSRBEPcAfqHl4wYJXIfVNiM9WtgBNM-EwdJWYdqPc-QJWDn4piPlEcQcNPgCmNyytL2Nli3wG8UZgj-13UG2AH2Ae89AmrFpIIcDRgio2-MBIMPiGkX610AOP_P2d20rNIAhY79i8AOR-Pm0FS0jeEbdz0apurJ6Xm-9Hn31dNXW-RXroi3uSqO9O4sNXqmXx-boOB-FNLL7h1LWQFNSjgvegnT4AiI2S9YVXdV4H3ql91joDLAplGkNBhftue_qXTJO29z7rSrgDfXDh6ZvCBopB4Z8GZlSDLtUpM7xuEbTR421vviaUP63_a8zgYgysD8RJZNMzHnTCtijxbY-o6losXF7Pwd1_GFV3f3Esr-eN5_mH0OJipFGlP9BwoIhwsJ5eSdf27ZnpI2u7YfVvQ01sdKnwqy_ZfEJYb0XPJFHqBQAKhQqvBLA6zCg9ClL6GHP-a7oMnQMywPV04a2WkqJ0tU38CxA8eP7immDCLwo_SLtacA7xgsTV0jRj8hXSv92naW_4-CDAzXWdfdL-t8yo8FZDEslgGanRQDfQQhrbxDKbMxcvuC3vpYLC6n_mRe2BKq3whfaWhFDsVS0vd5Jqi19At-eckTWMcWWG1UJfi80-6r17ZQLjLFsjqcIVLYjkcysfzSZMJ4HFdDorm3qPrSJjIDijFiAsbivmyewiW4dDbfVQ7qaO9eJ8r-HzQl_A2zpysFS7AG0S-FGo_yXdsx_N_BnnAC3up2xxKETXXLirLbrLth0h5On53LOim4IfSIsoyXXb8yiicSwOjCxaaa_C0LjlCFye5CmH9eGiRsU&flowName=GeneralOAuthFlow&as=S-1257031948%3A1779474894864981&client_id=779010036194-lf6spugv22vvj41pqjdj4d8k2tq7o5fd.apps.googleusercontent.com&rapt=AEjHL4OGy5LHNXgaDatLOpT5Blw9OrG5q_Iw_eu-aXgRcqbg4WogYZz0Qo40dl3OrZNktaB4QhzM9740Sps4vCCNjHi-BcGBpwWHGOwF4ndSMxZHf7sgeb4# | Sign in - Google Accounts
+[Edge] HIST | 2026-05-22 21:35:27 | [1x] https://accounts.google.co.tz/accounts/SetSID | Sign in - Google Accounts
+[Edge] HIST | 2026-05-22 21:35:27 | [1x] https://accounts.google.com/CheckCookie?continue=https://accounts.google.com/signin/oauth/consent?authuser%3Dunknown%26part%3DAJi8hAPnYvB5JRGvj2Vhbhy_iX1QWEfNSEwLlmsjKO46zQ-orY-5faUE0nmHWXP0wBvVhVBWZh5QupduODReWeYm9NTQWDEO1yOub6BGPQz7sgcPgvP4HDlYne1NUKJD7uNoqXbBqwbQzUoFwYIkRF_m6N5Dt3yYhie_6VhDi-RcwzRveHITY1-hsrnJzISttg2zPecWlkkIwIESzPeJyiYNMf0bqRWyCbz0NsNUuk3JizlfoI3x6_GEkf0t3eBy_t7iDRx-obk10d3rs3rE9Lt8u2WnRfVJndmk4MrFT4p7YCCptM9DO-iTZDAfiddKnmH21nbZdmzR3Rjr69_XzLx9jFlsPSr3IRklnZC1mX5z0LEdl-XXYVeeACO62bWUNgTJ5jcAa2_xE1EPRPXbyqMQkv0kDKaKTMEw5IB09Ifc5M94r4J_IIXnvs1OxjljWfp_ubDKNMhKcMIymfCFB78G6vmKkW9N_Q%26flowName%3DGeneralOAuthFlow%26as%3DS-1257031948%253A1779474894864981%26client_id%3D779010036194-lf6spugv22vvj41pqjdj4d8k2tq7o5fd.apps.googleusercontent.com%26requestPath%3D%252Fsignin%252Foauth%252Fconsent%23&service=lso&checkedDomains=youtube&checkConnection=youtube:4270&pstMsg=1&flowName=GeneralOAuthFlow&client_id=779010036194-lf6spugv22vvj41pqjdj4d8k2tq7o5fd.apps.googleusercontent.com&redirect_uri=https://www.canva.com/oauth/authorized/google&scope=https://www.googleapis.com/auth/userinfo.email+https://www.googleapis.com/auth/userinfo.profile&o2v=2&chtml=LoginDoneHtml&gidl=EgIIAA&ydo=Ae3KqmVPoBPgSpQ15woWii6-NkwSnmdjQTZUh6B3yaj9bd3JlgCVOiJlHAQiMYcYgopWiETDJWxY7jq8 | Inaelekeza kwingine
+[Edge] HIST | 2026-05-22 21:35:27 | [1x] https://accounts.youtube.com/accounts/SetSID?ssdc=1&sidt=ALWU2cto4T%2B78Pw%2BaJH3GAnwWBUoUflcnyJxLvb16x3HHyqxPPdfBvm72UlAWDGJ/d3eGWq75Ay44LZx7cSCuz3Qpfct5c2J0bdpo%2BChfCKlU9piYwJSZPgDJ60n7G75t4XlUFnNo7f0SbHHhKZoMC6B7nlmigDwk8YkuqxIYQA2T9GlndfjFnoYRx8Co4EYuGfibz1bjOCRtJQgwmbHrVKOljyGPs5newDQ4nTjDlrDMm66dwPVOX53B3VYwbHpqmdMAF6%2BjU8GbRqHTpowqrZ4BcltYiyaaP7eVGD7a4StWgxWc7MCzp0DHgAoYoAjB6kVXoPveRvQ/CG8qGb6MqAwifuGVYVrQyXIFgR5NFKqep72em7PPrZA%2BFx7AgY4u2sD9e4RDqNRVvvkRbXLQlmXCSwTPIH1drNdXx4GZ67RVWcdbWXjF8N6kCqWSjXabuEDPqeDBUU5Udch%2BDFo9MofEpKiYDWQ0VCCluIQQdtEx9RWTy/3pQpSSlU64aUC7d1qrZW6%2B%2BdrJOx8UHKOUD0M1X%2BDSur/rGHqdaB2nfocRePMNG8quLfGic5z85vGeOFkM9SS8OYrocYQg5cwK7GPTV6OMyLx9JHcusBWPcoIqj4867fxcdToNB/hOQM/uzmJMzf6eivNiM4/gzpiflf9ODrTGWYtbe7G40DpVwAU5N2F9OruaIDvSJkzUpTpkDFa1825WO0i4FYZ1LCN2FDn5boboIT1%2BgLO1UJQigwuQC7LvcU3M/oAkcLyK8rZlXhJO%2B17mWt7oV3Z6eZqCF8I1f4oc%2B8rZS2tfRDS4Sd3Bldib3%2BYT7WcmHO/%2BlYCpzhyyf7QSEF7QloqY2c9tm24Ooha2S0K4thwdsmT/B%2BlXBC3n4kmYGs5RvTygn8RyqiUg3snU%2BLN/dvgGI0uhM0kdlXmhsjYAx1gZbjyx9HP2Rkgeq9wZQOscXYjMXlf6A3f62E4JX/LKQDDwShKEstmi8bZKByPKbVRS6ySTF4AZwzpIuMO1lj1KqW35dn66tehx1sEE9s/s%2Bw0k1q3WGPMerUfbJ4ovulw1fWiDYXvqisa3Un1qq/sJNmV3//lMN6%2BVKSXNwHGJixEoZe43YvN5L6o%2BQwKp0Heor9oh%2B9RgAXgiAG7Y0aS59xXnXV1x/XNj9u6Avx6lWi1ltnjgJXScwq6OL1LP/VdRBg5tWUwyAGWFOFWk27owCtAC6e5af%2BLnXHhZl0oKgqN6U2Wm0gtf3CuZtzzEj6xRJj5octlwO7TUNMS9BjMZRDsBciHOQPSaW%2Bz2QjuautUYHXpii2V0pDugV9kEe161vQLNGf0WbTpDDZq/vxrDpNDj3W4Y0iFUozCZc1cHucIl3oJKDqvugGGW1s4X90f6sE%2Bd4R4pz/EIZAPsa46xx7Iven%2BnrXI/AIPrh1pN9n5NrxZZAs6mukOIeQSAR3VvaMUxoyTc7cp8X9173WiqE8/OE2A/x8kOky124bmqaDeMTksHmF%2BbKCenMZoTTmzAhQnzi7bwHnfFFpjQrxygLHqQZABzF4NgxVhGOqY15qfOrrkU5hC3kwUPPHHSHKWAi7mzVdwWeEN5hTktaB%2BbytSTtwSIVzePE3LFeTheF1AwrC2ZM2ZL8VKdcIDyaXGkOnIxNcj2IGrcVIzj3zYpVAdUJLEd6ynbLROsD4HqR/Z62GndhpaUGEnCcfqR%2Bo%2BIp5Rp9B9/QDd27rhtzy9%2BYGQOeSyyGGn0Fi9TTAoxbdQlL%2BWnzCQoUE/Gn0mjlPb0rcs7w1EU98QR0AI8mX7Wp/fDjlOiqOEzfSu9tavh2S%2BkO2GIif3tej3fgEd2LzFIYduDKhB3VwjaCwcmfLm9g4vn1q5KKbyKxulzbgzyQq1LPxrkuEBEm2SbwWSHu3pcM0LOXdwGZixlPiErgT0%2BykWqH6haDEaaoQrScdVuLkg/oHxIRika/enN8/UZiJ5JiR0DL9tVZumpaX3jO8/%2BvxT6aFkHt5b/RXcavm/ROcr9gIOCghH24C/8%2BXMrSV3kB5viL3ctHiVntNOUkNh0FWWI6R0czFv/cnD%2B9XCACWnyEa%2Bq2nPc%2BrFjtYVytIASbwWciGbd0ORdCkeCKHDjteuKvSs%2BVcmMmAcsjNX7ERulJ0cGpOkyQYM43H/YHEbviyEVOKSuh%2BNeAxWulzR0w%2BcWtpEMeI%2BcMmEGxXAv8kBYsm3v4wzo6B0jbQEZWypMvPMun1W1sQrC/8pnyfpX1mp%2Bxy%2B/DLgkvj6%2Bk%2BXOnqlpwDUwqt/skWHN7iNnfbT92JtDKcRaO30IdzEL3nJ7BkkDldTnhlAmC6PbYkPeArN43uiOM%2BnJcqp%2BZwKpxOZAcpZyQr09QsuGpILpLoq91iQDeP2zHKnA1tpBFH0zeTQZqBLOCBu2wlGDNolIuC8yL7/5%2BiDY7DAUnXrAzny/L7XsNB/TdUq45p8mHD7eT/RQy4JxH06o82LviTI%2BUqdh9s8yJCsKYmJdE0FfxeiEzuoQN8IbcHdMnJS6iuspfdYqMZye4pMK6sT9FeAiOR171YFKOJGfpKtQT6A3TzOqOs/9ImDzP5aTfSSz%2BUNhj3nRc/82VRmfhKjwhMY5QXOgt0dnYPF7fGMO7xZ38A1q2mBmcRpwKAD%2BnRg4/TwPwIxwbLU/f8kohH7j9Bg6COVdb2iF7/%2BxZRH5uY2lMA%3D&continue=https://accounts.google.com/signin/oauth/consent?authuser%3D0%26part%3DAJi8hAPnYvB5JRGvj2Vhbhy_iX1QWEfNSEwLlmsjKO46zQ-orY-5faUE0nmHWXP0wBvVhVBWZh5QupduODReWeYm9NTQWDEO1yOub6BGPQz7sgcPgvP4HDlYne1NUKJD7uNoqXbBqwbQzUoFwYIkRF_m6N5Dt3yYhie_6VhDi-RcwzRveHITY1-hsrnJzISttg2zPecWlkkIwIESzPeJyiYNMf0bqRWyCbz0NsNUuk3JizlfoI3x6_GEkf0t3eBy_t7iDRx-obk10d3rs3rE9Lt8u2WnRfVJndmk4MrFT4p7YCCptM9DO-iTZDAfiddKnmH21nbZdmzR3Rjr69_XzLx9jFlsPSr3IRklnZC1mX5z0LEdl-XXYVeeACO62bWUNgTJ5jcAa2_xE1EPRPXbyqMQkv0kDKaKTMEw5IB09Ifc5M94r4J_IIXnvs1OxjljWfp_ubDKNMhKcMIymfCFB78G6vmKkW9N_Q%26flowName%3DGeneralOAuthFlow%26as%3DS-1257031948:1779474894864981%26client_id%3D779010036194-lf6spugv22vvj41pqjdj4d8k2tq7o5fd.apps.googleusercontent.com%26requestPath%3D/signin/oauth/consent%23&tcc=1&dbus=TZ&ydo=Ae3KqmVPoBPgSpQ15woWii6-NkwSnmdjQTZUh6B3yaj9bd3JlgCVOiJlHAQiMYcYgopWiETDJWxY7jq8 | Inaelekeza kwingine
+[Edge] HIST | 2026-05-22 21:35:27 | [1x] https://accounts.google.co.tz/accounts/SetSID?ssdc=1&sidt=ALWU2cuahEv4qD7aNk2X7gy6d%2BVlC4VmjMPg5bOd0eUTtrJ5Laiu0hw8xzJj8zREDIGXBLlnTviVbtuNKtJTeLUei1D6ABzGOffrY1uZmULpK/Jl6AVNDhX5YdZk3m2GWBFSOycB/UpKYkE6cl3uh8gJWnirzaCDklrDF7Ke8M3jp6yyBRNzFf2XkXYPWbmZAllSwV%2B%2BoiQKW790vCwJr%2Bfi59R8gVcg0a3URH/3YHbf3HxyF4dt%2BhIboErqyWj2gKbXA/5xiVYoheHon3rSosIhWCwi24kcTc08hk4fqDmBr6KqF7EXYdgq037Y9JkBw/LXmXoQMVGdIk8ZnM/dgS2sBrvKGDXm/uie/suQWSskS26/Y%2BYh0s%2B1F0SPLvkTzLd3Kp5NSucE9RMoIXwKPFiCMcvRMT0RZFXsdsQoWdln2mY6Ewy3vzGIszFJGYZTJ6yLdhldi/uNhfMMkLutXKi4L6Bzax6evRsf/RUQjb4EEK6y%2BEf%2BgP3trdznpIwUTgIWHYGGTHg4KIKcmZrSgpyV3c4FcBORgnisAJBnxz6L1sDLudY0Rixam2UMj83iBWcjJiqsd0oprRr%2B0JXJM1Y4m6w9Uup30R4R8294KVeXuRSrNpum/3cJQ9T%2BWN0La/wiwGbEgHb7g6K4gl%2BqZDqX48TALK2AXRxj7XWvaJEt/vJqOcne9X2GKmFFwnnNkCFHs6Id7j5ppidXHWNM1NpkKIdGwohA9%2BS2MKkBl2zsAWmjfMrOHUhak1/koS%2Bx4bgMb30i5CJNiX8JU9nbP0rrr39Evf%2BqEFbyFRa4JWLNgWF01Mu2eRGYdXPSp%2BYEjnuUtZ7itlcDrnuyQuU8k04M//q4zwJgPXTcKO/btGuX4xy%2BgqffKvSYcyu73c/8JtikIwsHKc5blvuwfnRIgpEaozl/%2B7srJ/xBFLV7zb%2B83KKsoKMb7/VN2R34tqHcxpa09UVPL3LLBouPQjVsIVQB4Wf3PrjK9xDiY7Yiu0vgQQALRJQ8oCc%2BXpa0RGbdpxDFbz5nm0VzFkbnGLCSdl6UTvZIjfUNXxt8ogqro23XMliNkjeLodk4%2BgHPDfnUCsSHGvvQ00RCL2JfVgsy40uMYRijtLzus4DIKKh6pfDka3V60mhGgs2CozblecF88zJbQqcEb9eN6UWsp15%2BskIfD6SgkJpDMqGAwajNAtMzMHhcCTVorSPmSVYix3m7tBXkX2ZWtMKZwOC5YGtGUHrWi6LpsFBJbAlEHcSPhQ/bdk%2BvrHwOouQHFDfTn%2BuvJC0%2BaMAL1ExmzzU9uhFuNW9/MUEZ38qc/x8PV5rZOHd7oB0s94RjPIoWniX8f7YGQKMaApk5kQ5/ZDb3%2Bw62zo5l8JRvIbPh7QISrlbhw7PVG7Dr7ldX4Ll9JIqh%2BMfckxVstvZ3EGd8elW%2BLdSybiSI5M09GmqXsUjC/tmervzpPjtp02iUGtfVOQpUFyG5w40kgMhjllx1XGtnav9aZoUt4WqrTpRx3ECv2Dmz//0uHUhur188jXFGvF7WcJo/ChN9ZbCzIDv%2Bq0A7qH8dqMRQrt%2BMl9MOE4/bpXZ5NQh51U38IJ1cqL6Y9mIl2Ln7M/wA6ERQo5mZf5wYI28yckKw3rQy8gXBW9%2BhW6/94TMcvRrijSKAExAV0vF5YcOFcKNdwHWapLMILT6sG1eUnswr2dz6Rb8V%2BvH6/uo6GWApHk6RPg2E1IRkCSEuz1dvSXSbbHC7R82Mcp%2B42CmXCBXCSQY%2B1r/qtGqLEfDq94B9xT6gMwtnMLaI6X6autnhGHzNHkQaB9x%2BNuR2S3%2BUpCUorNaS9iuamhjKu4Qgbp2QVOAt8X9O9SK79FC8dUFnr1RocQX9XYhfhEysn%2B6QTT0lEVd1PG/qZ6XJAMc30TuINt/lmoZskPmQM8HS3hRjNCZulYBmXNRluvmQaZYfv10xqfwt4Qn8cim2mnJ9I%2BaIJybKGhGAYmdo39GH0ZjhP8SrxS%2B0QS59IdSCKiUdnsWz6jXh8QciNsPrfjrjvOa0dme6SE%2BfQFjOSOSMZNHre6axHO0FdZRKLGUPZ3NlSb%2B/A5J3pq0ZU7VwJsKdxMF%2BpmydfYmzqOXza6oONxwTsQihAeqpqC8Sxg/irGGLGgzX4yLBLo%2Bq6iP%2BLUgI%2Be03bcNVuGBy0spAmevzW4mAbzGY8GssWogrrRV0rB901J7Nzuf33afpRo22eG5dAKJRA3p/NFIiV2r2aSzFVoYJKYi23QTPpl%2Bg4rPdrQNha0SoIJiFhZrP04P%2BeR24sR3DNLJu/SaOKrkfjROdAOsV7cFtIDjDnC/La%2BgszqBLu8NHeoNnM7vW7bvL0QZIfoJCkJ9bYWbGuFyv%2Bi8B4X4dJVRqd1vHfIsQc3uaZH229p4sj9SSacsyqYKVucAQO6VMcOu7zPWemSwfdJqffWNvZ8AWr4/5Nsw9r/Td0fvc5Paok%2BIYCvnM6Mq/U/9kEnIotjByGq1SDZOkE8egfLmEfwvf9qDJNp5pI3uXXNgPYu2sdOPwsomwsKFKm1RwSxE4mS0L2qe27yqEjlrGI5j7sO3PeoAclODr5XTCjauZuJwGtb2B%2ByDdfBctbrOLcxbF5VmW6iw0BIsOqqWXTMMQ52b991n/lCzhz%2BaYD9I82mlgzbQST4aLpZL3uHA8Imuy8SR1tJ71IA4%3D&continue=https://accounts.google.com/signin/oauth/consent?authuser%3D0%26part%3DAJi8hAPnYvB5JRGvj2Vhbhy_iX1QWEfNSEwLlmsjKO46zQ-orY-5faUE0nmHWXP0wBvVhVBWZh5QupduODReWeYm9NTQWDEO1yOub6BGPQz7sgcPgvP4HDlYne1NUKJD7uNoqXbBqwbQzUoFwYIkRF_m6N5Dt3yYhie_6VhDi-RcwzRveHITY1-hsrnJzISttg2zPecWlkkIwIESzPeJyiYNMf0bqRWyCbz0NsNUuk3JizlfoI3x6_GEkf0t3eBy_t7iDRx-obk10d3rs3rE9Lt8u2WnRfVJndmk4MrFT4p7YCCptM9DO-iTZDAfiddKnmH21nbZdmzR3Rjr69_XzLx9jFlsPSr3IRklnZC1mX5z0LEdl-XXYVeeACO62bWUNgTJ5jcAa2_xE1EPRPXbyqMQkv0kDKaKTMEw5IB09Ifc5M94r4J_IIXnvs1OxjljWfp_ubDKNMhKcMIymfCFB78G6vmKkW9N_Q%26flowName%3DGeneralOAuthFlow%26as%3DS-1257031948:1779474894864981%26client_id%3D779010036194-lf6spugv22vvj41pqjdj4d8k2tq7o5fd.apps.googleusercontent.com%26requestPath%3D/signin/oauth/consent%23&tcc=1 | Inaelekeza kwingine
+[Opera] HIST | 2026-07-24 08:58:16 | [3x] chrome://settings/ | Settings
+[Opera] HIST | 2026-05-06 14:30:15 | [1x] https://chromewebstore.google.com/ | Chrome Web Store
+[Opera] HIST | 2026-05-06 14:30:13 | [36x] chrome://startpage/ | Speed Dial
+[Opera] HIST | 2026-02-16 13:59:11 | [25x] chrome://startpageshared/ | Speed Dial
+[Opera] HIST | 2025-11-17 20:59:53 | [1x] chrome://settings/privacy | Settings - Privacy and security
+[Opera] HIST | 2025-11-10 19:04:59 | [4x] https://www.google.com/search?client=opera&q=linked+in&sourceid=opera&ie=UTF-8&oe=UTF-8 | linked in - Google Search
+[Opera] HIST | 2025-11-10 11:26:48 | [3x] https://tz.linkedin.com/ | LinkedIn Tanzania: Log In or Sign Up
+[Opera] HIST | 2025-11-10 11:26:21 | [1x] https://www.linkedin.com/onboarding/start/profile-location/new/?source=coreg | LinkedIn
+[Opera] HIST | 2025-11-10 11:25:24 | [1x] https://www.linkedin.com/onboarding/start/?source=coreg | LinkedIn
+[Opera] HIST | 2025-11-10 11:25:22 | [2x] https://www.linkedin.com/uas/login-submit | LinkedIn Login, Sign in | LinkedIn
+[Opera] HIST | 2025-11-10 11:25:18 | [2x] https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwiLsZ7ik-eQAxWDaEEAHYvCFZMQFnoECCUQAQ&url=https%3A%2F%2Ftz.linkedin.com%2F&usg=AOvVaw1s0RagQhOb2uH-Kg6vTdst&opi=89978449 | ?
+[Opera] HIST | 2025-11-10 11:25:13 | [1x] https://www.linkedin.com/checkpoint/challengeIframe/AQE6Ya4Y1H7GJgAAAZps3jJ_X_K-tLCyfu1PLM8J7H1i0uLWNn65Xbk_Z_JT5S5lD1KnlCmH1RAt-dxOS3UHabTJzTDttA?ut=0VDD8AoL0UiY01 | ?
+[Opera] HIST | 2025-11-10 11:25:09 | [1x] https://www.linkedin.com/checkpoint/challenge/updatePhoneNumber | ?
+[Opera] HIST | 2025-11-10 11:24:38 | [3x] https://api.linkedin.com/login | LinkedIn Login, Sign in | LinkedIn
+[Opera] HIST | 2025-11-10 11:24:28 | [2x] https://api.linkedin.com/checkpoint/lg/login-submit | LinkedIn Login, Sign in | LinkedIn
+[Opera] HIST | 2025-11-10 11:23:12 | [1x] https://accounts.google.com/gsi/select?client_id=990339570472-k6nqn1tpmitg8pui82bfaun3jrpmiuhs.apps.googleusercontent.com&auto_select=true&ux_mode=popup&ui_mode=card&context=signin&as=YryzYUbRNVXaeuPSKHE18g&channel_id=202febf9ac14d76b8c52a6a90bb43bd941d40cff655c472b5a7a3ceed1ec09c5&origin=https%3A%2F%2Fapi.linkedin.com | Sign In - Google Accounts
+[Opera] HIST | 2025-11-07 14:33:56 | [2x] chrome://settings/?search=ricky+and+mortywallpaper | Settings
+[Opera] HIST | 2025-11-07 14:33:52 | [1x] chrome://settings/?search=ricky+and+morty+wallpaper | Settings
+[Opera] HIST | 2025-11-07 14:33:50 | [1x] chrome://settings/?search=ricky+and+mowallpaper | Settings
+[Opera] HIST | 2025-11-07 14:33:49 | [1x] chrome://settings/?search=ricky+and+mwallpaper | Settings
+[Opera] HIST | 2025-11-07 14:33:48 | [1x] chrome://settings/?search=ricky+and+wallpaper | Settings
+[Opera] HIST | 2025-11-07 14:33:47 | [2x] chrome://settings/?search=ricky+wallpaper | Settings
+[Opera] HIST | 2025-11-07 14:33:46 | [1x] chrome://settings/?search=ricky+nawallpaper | Settings
+[Opera] HIST | 2025-11-07 14:33:45 | [1x] chrome://settings/?search=rickywallpaper | Settings
+[Opera] HIST | 2025-11-07 14:33:44 | [1x] chrome://settings/?search=rickwallpaper | Settings
+[Opera] HIST | 2025-11-07 14:33:43 | [1x] chrome://settings/?search=riwallpaper | Settings
+[Opera] HIST | 2025-11-07 14:33:40 | [2x] chrome://settings/?search=wallpaper | Settings
+[Opera] HIST | 2025-11-07 14:33:38 | [2x] chrome://settings/?search=wallpape | Settings
+[Opera] HIST | 2025-11-07 14:33:38 | [1x] chrome://settings/?search=wallpap | Settings
+[Opera] HIST | 2025-11-07 14:33:37 | [1x] chrome://settings/?search=wallpa | Settings
+
+────────────────────────────────────────────────────────────
+  8. BOOKMARKS
+────────────────────────────────────────────────────────────
+[Edge] BM | bookmark_bar | AAS Ishango | https://aasishango.ccgranttracker.com/
+[Edge] BM | bookmark_bar | Tanzania Passport Application | https://eservices.immigration.go.tz/online/passport/continue_later
+[Edge] BM | bookmark_bar | migration tanzania - Google Search | https://www.google.com/search?q=migration+tanzania&oq=migr&aqs=chrome.3.69i57j0l7.8957j0j7&sourceid=chrome&ie=UTF-8
+[Edge] BM | bookmark_bar | Funding Opportunities for NGOs | Bond | https://www.bond.org.uk/hubs/funding-opportunities?gclid=CjwKCAiAgqDxBRBTEiwA59eEN3KB-vlAIqq3JhOjVphVF_9D5s89bmRFWn7CklbkIByT22-dJKO-EBoCxCkQAvD_BwE
+[Edge] BM | bookmark_bar | Form - Global Innovation Fund | https://www.globalinnovation.fund/apply/form/
+[Edge] BM | bookmark_bar | www.google.com - Google Search | https://www.google.com/search?q=www.google.com&oq=ww&aqs=chrome.2.69i60j69i59l2j69i60l3.3074j0j7&sourceid=chrome&ie=UTF-8
+[Edge] BM | bookmark_bar | Call for Applications for an Evidence Leadership Award for AAS Fellows, Affiliates & Grantees | The AAS | https://www.aasciences.africa/calls/call-applications-evidence-leadership-award-aas-fellows-affiliates-grantees
+[Edge] BM | bookmark_bar | New Tab | chrome://newtab/
+[Edge] BM | bookmark_bar | [TanzaniaMailing) - WWW.TANZANIAMAILING.COM Digest for arushamailing@googlegroups.com - 5 updates in 5 topics - asante.kweka@gmail.com - Gmail | https://mail.google.com/mail/u/0/#inbox/FMfcgxwGDDpdDvfGSrcFGVWXDFgjZChW
+[Edge] BM | bookmark_bar | Food For Good by FAMAE | https://foodforgood.selecteev.io/submissions/update/aafaa2c4-62a0-424c-b879-5129283e817d?finalized=true
+[Edge] BM | bookmark_bar | Application | https://usaidinnovation.force.com/portal/s/application
+[Edge] BM | bookmark_bar | USAID DIV Application in Progress - asante.kweka@gmail.com - Gmail | https://mail.google.com/mail/u/0/#inbox/FMfcgxwGDDrvbvtxLzNtKTlDcKfWrWhP
+[Edge] BM | bookmark_bar | Latest Jobs in Human Resources, Social Sciences, Education, Monitoring & Evaluation and Disaster & Relief Management - asante.kweka@gmail.com - Gmail | https://mail.google.com/mail/u/0/#inbox/FMfcgxwGDNMCRKRDtPFxXQMxrvLnrGKl
+[Edge] BM | bookmark_bar | You searched for Conference - TravelGrants | https://opentravelgrants.com/?s=Conference
+[Edge] BM | bookmark_bar | Mail :: Inbox | https://mail.tawiri.or.tz/imp/dynamic.php?page=mailbox#msg:SU5CT1g;1504
+[Edge] BM | bookmark_bar | UN WOMEN Jobs - 90080- UN Women: Policy Specialist - Gender-Responsive Pe | https://jobs.undp.org/cj_apply.cfm?cur_job_id=90080
+[Edge] BM | bookmark_bar | Error 403--Forbidden | https://adb.taleo.net/careersection/careersection/candidateacquisition/flow.jsf
+[Edge] BM | bookmark_bar | FW: GCRF funding - asante.kweka@gmail.com - Gmail | https://mail.google.com/mail/u/0/#inbox/FMfcgxwGDWqZPllWbGcXJfVcTPsPfDfj
+[Edge] BM | bookmark_bar | Funding | CEDIL-Centre of Excellence for Development Impact and Learning | https://cedilprogramme.org/funding-opportunities/
+[Edge] BM | bookmark_bar | Gender grants | ACU | https://www.acu.ac.uk/funding-opportunities/for-university-staff/gender-grants/
+[Edge] BM | bookmark_bar | Talent Programme Vici - Applied and Engineering Sciences (AES) | https://www.nwo.nl/en/funding/our-funding-instruments/nwo/innovational-research-incentives-scheme/vici/vici---applied-and-engineering-sciences-aes/vici---applied-and-engineering-sciences-ttw.html
+[Edge] BM | bookmark_bar | Welcome | Roddenberry | https://apply.roddenberryfoundation.org/app/prize/main-page
+[Edge] BM | bookmark_bar | Google | https://www.google.com/
+[Edge] BM | bookmark_bar | Call for Abstracts 2020 Evidence Leaders Africa Conference, 27th - 28th July 2020 | https://forms.office.com/Pages/ResponsePage.aspx?id=GCSRFdOenk25-XYCHb-mE1CBJ9vXr1tFsrY25eDLSLdUQkdCU1NQMTkxT1E4U08xN08xN1YwVUhCUC4u
+[Edge] BM | bookmark_bar | pro-forest (a sub-component of the world bank) email address - Google Search | https://www.google.com/search?safe=active&sxsrf=ALeKk02hc5-BkGKYaMjSjKdidvoykeGnjg%3A1585548409031&ei=eYyBXr22AcXsxgPlja_ABQ&q=pro-forest+%28a+sub-component+of+the+world+bank%29+email+address&oq=Pro-forest+%28a+sub-component+of+the+world+bank%29+email+add&gs_lcp=CgZwc3ktYWIQARgAMgUIIRCgAToECAAQRzoECCMQJ1DvNFjrbWC1ggFoAHACeACAAcMFiAGCO5IBCTMtNy43LjIuMZgBAKABAaoBB2d3cy13aXo&sclient=psy-ab
+[Edge] BM | bookmark_bar | ADDRESS CULTURAL BARRIERS THAT HINDER WOMEN AND YOUTH FROM ADOPTING TO CLIMATE CHANGE AND CONSERVE WILDLIFE | Task list | 2020 Momentum for Change | https://momentumforchange.fluidreview.com/s/16612766/
+[Edge] BM | bookmark_bar | Differentiated impacts of climate change on women and men, integration of gender considerations into climate policies, plans and actions, and progress in enhancing gender balance in national climate delegations. Synthesis report by the secretariat | https://unfccc.int/sites/default/files/resource/sbi2019_inf8.pdf
+[Edge] BM | bookmark_bar | Guidelines | Article Preparation for Submission | AAS Open Research | https://aasopenresearch.org/for-authors/article-guidelines
+[Edge] BM | bookmark_bar | https://aasishango.ccgranttracker.com/Forms/en/Submit/Applicationform/Edit/1ab968f8-afdb-48ed-b220-4787e68c7cf0?page=3&showAllPages=False | https://aasishango.ccgranttracker.com/Forms/en/Submit/Applicationform/Edit/1ab968f8-afdb-48ed-b220-4787e68c7cf0?page=3&showAllPages=False
+[Edge] BM | bookmark_bar | (891) Ecosystem based Adaptation Gender Equality & Social Inclusion Webinar - YouTube | https://www.youtube.com/watch?v=MMtvw0HPzIU
+[Edge] BM | bookmark_bar | Mail :: Inbox | https://mail.tawiri.or.tz/imp/dynamic.php?page=mailbox#msg:SU5CT1g;1883
+[Edge] BM | bookmark_bar | (911) Change your mindset, change the game | Dr. Alia Crum | TEDxTraverseCity - YouTube | https://www.youtube.com/watch?v=0tqq66zwa7g
+[Edge] BM | bookmark_bar | Application Form: Virtual Workshop for African Early Career Researchers | https://docs.google.com/forms/d/e/1FAIpQLSd_RXfU2N-MTaDpkB-mZXHebOSSAMD3Z9nPX6uTfwN3iL7gCg/viewform
+[Edge] BM | bookmark_bar | IPCC, (2014). Climate Change 2014: Synthesis Report.... - Google Scholar | https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=IPCC%2C+%282014%29.+Climate+Change+2014%3A+Synthesis+Report.+Contribution+of+Working+Groups+I%2C+II+and+III+to+the+Fifth+Assessment+Report+of+the+Intergovernmental+Panel+on+Climate+Change+%5BCore+Writing+Team%2C+R.K.+Pachauri+and+L.A.+Meyer+%28eds.%29%5D.+IPCC%2C+Geneva%2C+Switzerland%2C+151+pp.&btnG=
+[Edge] BM | bookmark_bar | ishango online system - Google Search | https://www.google.com/search?q=ishango+online+system&oq=isha&aqs=chrome.0.69i59j69i57j46l3j69i60l3.7105j0j7&sourceid=chrome&ie=UTF-8
+[Edge] BM | bookmark_bar | https://aasishango.ccgranttracker.com/Forms/en/ProgressReports/Form/edit/d4fd4e4f-abb1-4a9c-a6d0-ab87005b442d?page=3&showErrors=True&returnUrl=%2FMyGrants%2FProgressReports.aspx%3Fid%3D45e5d1f0-c100-4121-a85c-2a2d148cd6b2#00000000-0000-0000-0000-000000000000 | https://aasishango.ccgranttracker.com/Forms/en/ProgressReports/Form/edit/d4fd4e4f-abb1-4a9c-a6d0-ab87005b442d?page=3&showErrors=True&returnUrl=%2FMyGrants%2FProgressReports.aspx%3Fid%3D45e5d1f0-c100-4121-a85c-2a2d148cd6b2#00000000-0000-0000-0000-000000000000
+[Edge] BM | bookmark_bar | ishango online system - Google Search | https://www.google.com/search?q=ishango+online+system&oq=is&aqs=chrome.0.69i59j69i57j35i39j46j0j46j0l2.17599j0j7&sourceid=chrome&ie=UTF-8
+[Edge] BM | bookmark_bar | United Nations inviting Youth to promote Peacebuilding all around the world - asante.kweka@gmail.com - Gmail | https://mail.google.com/mail/u/0/#inbox/FMfcgxwJXVKLKzJGtqnnWBmqkbclSPTg
+[Edge] BM | bookmark_bar | 1: Complete the Proposal Form: GrOW East Africa | https://idrc-crdi.smapply.io/tsk/19540983/frm/90888468/e/?k=19540983&s=eyJwYWdlcGF0aCI6IFswLCAxLCAyLCAzLCA0XX0%3D&h=3b45426a4faa07239f2e8ea22fcee14f&p=4
+[Edge] BM | bookmark_bar | 1: Complete the Proposal Form: GrOW East Africa | https://idrc-crdi.smapply.io/tsk/19540983/frm/90888468/e/?k=19540983&s=eyJwYWdlcGF0aCI6IFswLCAxLCAyLCAzLCA0LCA1LCA2LCA3LCA4XX0%3D&h=23a7ab258af3e76576d0f432fe548d0d&p=8
+
+────────────────────────────────────────────────────────────
+  9. INSTALLED EXTENSIONS
+────────────────────────────────────────────────────────────
+[Chrome] EXT | __MSG_extName__ | 1.107.1_0
+[Chrome] EXT | __MSG_APP_NAME__ | 1.0.0.6_0
+[Chrome] EXT | __MSG_extName__ | 1.96.1_0
+[Chrome] EXT | __MSG_APP_NAME__ | 1.0.0.6_0
+[Edge] EXT | __MSG_extName__ | 4.1.6_0
+[Edge] EXT | __MSG_appName__ | 2.1_0
+[Edge] EXT | Open in Chromium Browser | 0.2.4_0
+[Edge] EXT | __MSG_appName__ | 5.30.0_0
+[Edge] EXT | __MSG_appName__ | 3.36.3.45_0
+[Edge] EXT | __MSG_name__ | 2.1.0_0
+[Edge] EXT | Notepad | 7.0.0_0
+[Edge] EXT | __MSG_extName__ | 1.107.1_0
+[Edge] EXT | F1 Now | 3.0_0
+[Edge] EXT | Edge relevant text changes | 1.2.1_0
+[Edge] EXT | __MSG_appName__ | 1.4.9_0
+[Edge] EXT | Squid Game Cursor | 90.880.341.81_0
+[Edge] EXT | PSI In-application Extension | 1.0.0.12_0
+[Edge] EXT | __MSG_appName__ | 5.12.7_0
+[Edge] EXT | __MSG_appName__ | 0.0.2_0
+[Edge] EXT | Hacker Tab | 1.1.2_0
+[Edge] EXT | __MSG_appName__ | 1.2_0
+[Edge] EXT | UFC Calendar | 2.1.1_0
+[Edge] EXT | __MSG_full_name__ | 2.0.4_0
+[Opera] EXT | Rich Hints Agent | 1.4.3.2_0
+[Opera] EXT | Opera Wallet | 1.19.13_0
+[Opera] EXT | Opera AI | 9.34.0.1_0
+
+────────────────────────────────────────────────────────────
+  10. WINDOWS STORED CREDENTIALS
+────────────────────────────────────────────────────────────
+
+Currently stored credentials:
+
+    Target: MicrosoftAccount:target=SSO_POP_Device
+    Type: Generic 
+    User: 02cgrekmztrqjgqn
+    Saved for this logon only
+    
+    Target: MicrosoftAccount:target=SSO_POP_User:user=wuadrado10@gmail.com
+    Type: Generic 
+    User: wuadrado10@gmail.com
+    Saved for this logon only
+    
+    Target: LegacyGeneric:target=MicrosoftAccount:user=wuadrado10@gmail.com
+    Type: Generic 
+    User: wuadrado10@gmail.com
+    Local machine persistence
+    
+    Target: WindowsLive:target=virtualapp/didlogical
+    Type: Generic 
+    User: 02cgrekmztrqjgqn
+    Local machine persistence
+    
+
+
+────────────────────────────────────────────────────────────
+  11. CLIPBOARD SNIFFING
+────────────────────────────────────────────────────────────
+
+============================================================
+  END OF REPORT — PC: SC-LAB1-PC32_STUDENT_f8e11073 — CONTINUOUS MONITORING ACTIVE
+============================================================
