@@ -9,7 +9,7 @@
   MAC:         6C-3C-8C-4C-65-95
   AV:          Windows Defender, Avast Antivirus
   OS:          Microsoft Windows 11 Pro
-  Last Update: 2026-07-29 14:31:17
+  Last Update: 2026-07-29 14:31:55
 ============================================================
 
 ────────────────────────────────────────────────────────────
@@ -434,19 +434,6 @@ Currently stored credentials:
 ────────────────────────────────────────────────────────────
   11. CLIPBOARD SNIFFING
 ────────────────────────────────────────────────────────────
-
-────────────────────────────────────────────────────────────
-  12. KEYLOGGER (RECENT KEYS)
-────────────────────────────────────────────────────────────
-
-[WINDOW: AI App Builder | Vibe Code Apps & Websites with AI, Fast - Google Chrome]
-
-[WINDOW: Untitled - Google Chrome]
-
-[WINDOW: auth.lovable.dev/__/auth/handler?apiKey=AIzaSyBQNjlw9Vp4tP4VVeANzyPJnqbG2wLbYPw&appName=%5BDEFAULT%5D&authType=signInViaPopup&redirectUrl=https%3A%2F%2Flovable.dev%2F&v=11.10.0&eventId=6334918101&providerId=google.com&scopes=profile%2Cemail - Google Chrome]
-
-[WINDOW: AI App Builder | Vibe Code Apps & Websites with AI, Fast - Google Chrome]
-
 
 ============================================================
   END OF REPORT — PC: SC-LAB1-PC4_STUDENT_c6f864f7 — CONTINUOUS MONITORING ACTIVE
