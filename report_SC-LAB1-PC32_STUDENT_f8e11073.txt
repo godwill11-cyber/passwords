@@ -9,7 +9,7 @@
   MAC:         6C-3C-8C-0C-82-6E
   AV:          Windows Defender
   OS:          Microsoft Windows 11 Pro
-  Last Update: 2026-07-29 14:50:16
+  Last Update: 2026-07-29 14:51:16
 ============================================================
 
 ────────────────────────────────────────────────────────────
@@ -398,14 +398,8 @@ Currently stored credentials:
   12. KEYLOGGER (RECENT KEYS)
 ────────────────────────────────────────────────────────────
 
-[WINDOW: Task Manager]
-b cd
-[WINDOW: ChatGPT - Google Chrome]
-3
-[WINDOW: File Explorer]
-
-[WINDOW: Local Disk (C:)]
-
+[WINDOW: xampp]
+network
 
 ============================================================
   END OF REPORT — PC: SC-LAB1-PC32_STUDENT_f8e11073 — CONTINUOUS MONITORING ACTIVE
