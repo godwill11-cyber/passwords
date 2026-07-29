@@ -9,7 +9,7 @@
   MAC:         6C-3C-8C-0A-05-CD
   AV:          Windows Defender
   OS:          ?
-  Last Update: 2026-07-29 15:16:16
+  Last Update: 2026-07-29 15:16:51
 ================================================================================
 
 ────────────────────────────────────────────────────────────────────────────────
@@ -42,22 +42,8 @@
 ────────────────────────────────────────────────────────────────────────────────
 
 [WINDOW: Python AI Script - Google Chrome]
+v[ENTER]
 
-[WINDOW: C:\Windows\system32\cmd.exe]
-
-[WINDOW: Python AI Script - Google Chrome]
-
-[WINDOW: C:\Windows\System32\cmd.exe]
-[ENTER]
-
-[WINDOW: C:\Windows\System32\cmd.exe - python  Brain.py]
-
-[WINDOW: C:\Windows\System32\cmd.exe]
-
-[WINDOW: Select C:\Windows\System32\cmd.exe]
-
-[WINDOW: C:\Windows\System32\cmd.exe]
-c
 
 ================================================================================
   CREDENTIAL TABLE — EMAIL:USERNAME:PASSWORD
