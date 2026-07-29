@@ -9,7 +9,7 @@
   MAC:         6C-3C-8C-0A-E2-BF
   AV:          Windows Defender
   OS:          Microsoft Windows 11 Pro
-  Last Update: 2026-07-29 14:17:59
+  Last Update: 2026-07-29 14:18:33
 ============================================================
 
 ────────────────────────────────────────────────────────────
@@ -140,20 +140,16 @@ Currently stored credentials:
   12. KEYLOGGER (RECENT KEYS)
 ────────────────────────────────────────────────────────────
 
-[WINDOW: Untitled - Google Chrome]
+[WINDOW: File Explorer]
 
-[WINDOW: Hacker Tab | For Every Aspiring Hacker - Google Chrome]
-haker ai[ENTER]
+[WINDOW: DISK B (D:)]
 
-[WINDOW: haker ai - Google Search - Google Chrome]
+[WINDOW: VIRUSES (F:)]
 
-[WINDOW: hackerai.co - Google Chrome]
+[WINDOW: DISK B (D:)]
+[ENTER]
 
-[WINDOW: HackerAI - AI-Powered Penetration Testing Assistant - Google Chrome]
-
-[WINDOW: Sign in - Google Chrome]
-
-[WINDOW: Sign in - Google Accounts - Google Chrome]
+[WINDOW: Payload_Package_20260604_0502]
 
 
 ============================================================
