@@ -1,0 +1,161 @@
+============================================================
+  LIVE REPORT — PC: SC-LAB1-PC5_STUDENT_caaad3d8
+============================================================
+  PC:          SC-LAB1-PC5
+  User:        STUDENT
+  PC ID:       SC-LAB1-PC5_STUDENT_caaad3d8
+  External IP: 41.59.97.138
+  Local IP:    172.19.192.1
+  MAC:         00-BE-43-E0-AA-AE
+  AV:          Windows Defender, Kaspersky Anti-Virus
+  OS:          Microsoft Windows 11 Pro
+  Last Update: 2026-07-29 13:57:26
+============================================================
+
+────────────────────────────────────────────────────────────
+  1. PERSISTENCE
+────────────────────────────────────────────────────────────
+[+] AppData copy
+[+] Binary at: C:\Users\STUDENT\AppData\Local\trustedinstaller.exe
+[+] Registry Run
+[+] Registry RunOnce
+[+] Startup folder
+[+] SchTask (SYSTEM)
+[+] WMI Filter
+
+────────────────────────────────────────────────────────────
+  2. WIFI NETWORKS
+────────────────────────────────────────────────────────────
+[WiFi] No saved profiles
+
+────────────────────────────────────────────────────────────
+  4. SAVED PASSWORDS
+────────────────────────────────────────────────────────────
+[Edge] PWD | https://accounts.google.com/v3/signin/challenge/pwd | mukywitty@gmail.com | 
+[Edge] PWD | https://accounts.google.com/v3/signin/challenge/hpwd | officialmuxinally@gmail.com | 
+[Edge] PWD | https://www.roblox.com/ | arusha2science | 
+[Edge] PWD | https://www.roblox.com/CreateAccount | G987654321G1 | 
+
+────────────────────────────────────────────────────────────
+  5. COOKIES (HIGH-VALUE SITES)
+────────────────────────────────────────────────────────────
+  (none found)
+
+────────────────────────────────────────────────────────────
+  6. AUTOFILL — NAMES, EMAILS, PHONES, ADDRESSES, CARDS
+────────────────────────────────────────────────────────────
+[Edge] AUTOFILL | IDToken2 = kaishujaah@gmail.com
+[Edge] AUTOFILL | TextInput___3 = kaishujaah@gmail.com
+[Edge] AUTOFILL | email = innocentmunale@gmail.com
+[Edge] AUTOFILL | email = shirimadamasswillium2006@gmail.com
+[Edge] AUTOFILL | identifier = amanienock12@gmail.com
+[Edge] AUTOFILL | identifier = bmduma67@gmail.com
+[Edge] AUTOFILL | identifier = furahajoelyn@gmail.com
+[Edge] AUTOFILL | identifier = mukywitty@gmail.com
+[Edge] AUTOFILL | user[email] = innocentmunale@gmail.com
+
+────────────────────────────────────────────────────────────
+  7. BROWSING HISTORY (RECENT 30 PER PROFILE)
+────────────────────────────────────────────────────────────
+[Edge] HIST | 2026-07-28 21:07:46 | [1x] https://learn.microsoft.com/en-us/answers/questions/2761948/is-windows-(c-)-the-same-as-local-disk-(c-) | Is Windows (C:) the same as Local Disk (C:)? - Microsoft Q&A
+[Edge] HIST | 2026-07-28 21:07:46 | [1x] https://learn.microsoft.com/en-us/answers/questions/2761948/is-windows-c-the-same-as-local-disk-c | Is Windows (C:) the same as Local Disk (C:)? - Microsoft Q&A
+[Edge] HIST | 2026-07-28 21:07:45 | [3x] https://www.bing.com/search?q=local+disk&form=WSBEDG&qs=EP&cvid=d5d2348ba13a449e9134a675d1ab8668&pq=local+di&cc=US&setlang=en-US&nclid=1C99662837B4711547F0E24C5870D866&ts=1785262052586&PC=WSBQUF | local disk - Search
+[Edge] HIST | 2026-07-28 21:07:45 | [1x] https://www.bing.com/ck/a?!&&p=117064882f9121cb1c6b3c671bad0764f4987933dc21cd913faaba4ccab48ee7JmltdHM9MTc4NTE5NjgwMA&ptn=3&ver=2&hsh=4&fclid=1456f057-7d5c-6060-34e4-e66b7c0961a5&psq=local+disk&u=a1aHR0cHM6Ly9sZWFybi5taWNyb3NvZnQuY29tL2VuLXVzL2Fuc3dlcnMvcXVlc3Rpb25zLzI3NjE5NDgvaXMtd2luZG93cy0oYy0pLXRoZS1zYW1lLWFzLWxvY2FsLWRpc2stKGMtKQ&ntb=1 | ?
+[Edge] HIST | 2026-07-28 21:07:35 | [11x] https://www.bing.com/?form=SPHPRE1&bbtnserp=1&bbtnfrm=WSBEDG | local disk - Search
+[Edge] HIST | 2026-07-28 21:07:34 | [1x] https://www.bing.com/search?q=local+disk&form=WSBEDG&qs=EP&cvid=d5d2348ba13a449e9134a675d1ab8668&pq=local+di&cc=US&setlang=en-US&nclid=1C99662837B4711547F0E24C5870D866&ts=1785262052586&nclidts=1785262052&tsms=586&PC=WSBQUF | local disk - Search
+[Edge] HIST | 2026-07-21 15:16:14 | [1x] https://www.bing.com/search?pglt=43&q=gdg+developers+dev&cvid=58c4f10ae016459a8bd6d7575f2af785&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOdIBCTEzMjE1ajBqMagCALACAA&FORM=ANNTA1&PC=SCOODB | gdg developers dev - Search
+[Edge] HIST | 2026-07-21 15:14:45 | [2x] https://mail.google.com/mail/u/1/#inbox | Inbox (10) - furahajoelyn@gmail.com - Gmail
+[Edge] HIST | 2026-07-21 15:14:37 | [2x] file:///C:/ProgramData/pbtmp245.html | This website is blocked!
+[Edge] HIST | 2026-07-21 15:14:37 | [1x] https://www.google.com/url?q=https://www.instagram.com/_n/direct-inbox?utm_campaign%3Dunseen_direct_message_reminder%26utm_medium%3Demail%26target_user_id%3D73966401471%26utm_source%3Dinstagram%26show_target%3D2%26click_source%3Dthread_cta%26content_index%3D0%26token%3DyVKF0r3vZ4%26uid%3Dxz9oon3%26bypass%3D1%26ndid%3D65681c7d3cbb6H1138bdb7bfH656821169ce88H237&source=gmail&ust=1784722465096000&usg=AOvVaw1tpQ7J6Y8_UV-b5ryqYW0C | Instagram
+[Edge] HIST | 2026-07-21 15:14:37 | [1x] https://www.instagram.com/_n/direct-inbox?utm_campaign=unseen_direct_message_reminder&utm_medium=email&target_user_id=73966401471&utm_source=instagram&show_target=2&click_source=thread_cta&content_index=0&token=yVKF0r3vZ4&uid=xz9oon3&bypass=1&ndid=65681c7d3cbb6H1138bdb7bfH656821169ce88H237 | Instagram
+[Edge] HIST | 2026-07-21 15:14:37 | [1x] https://www.instagram.com/direct/inbox?target_user_id=73966401471&ndid=65681c7d3cbb6H1138bdb7bfH656821169ce88H237&utm_source=instagram&utm_medium=email&utm_campaign=unseen_direct_message_reminder&click_source=thread_cta&__bp=1 | Instagram
+[Edge] HIST | 2026-07-21 15:14:37 | [1x] https://www.instagram.com/accounts/login/?next=https%3A%2F%2Fwww.instagram.com%2Fdirect%2Finbox%3Ftarget_user_id%3D73966401471%26ndid%3D65681c7d3cbb6H1138bdb7bfH656821169ce88H237%26utm_source%3Dinstagram%26utm_medium%3Demail%26utm_campaign%3Dunseen_direct_message_reminder%26click_source%3Dthread_cta%26__bp%3D1%26__coig_login%3D1# | Instagram
+[Edge] HIST | 2026-07-21 15:14:33 | [1x] https://mail.google.com/mail/u/1/#inbox/FMfcgzQhVNZjrFLpJcNjRpJVCTBFHGzp | From btw_.kish and others: 5 unread messages - furahajoelyn@
+[Edge] HIST | 2026-07-21 15:14:24 | [1x] https://accounts.google.com/ServiceLogin?continue=https://mail.google.com/mail&service=mail&hl=en&authuser=1&passive=true&sarp=1&aodrpl=1&checkedDomains=youtube&checkConnection=youtube:665&pstMsg=1 | Inbox (10) - furahajoelyn@gmail.com - Gmail
+[Edge] HIST | 2026-07-21 15:14:24 | [1x] https://mail.google.com/accounts/SetOSID?authuser=1&continue=https://accounts.youtube.com/accounts/SetSID?ssdc%3D1%26sidt%3DALWU2cuq7xgwMKBxaCk9XSnfZ2/NbrV1O6H/MgfzGdcQy6ka5axuYBOBhUl9J5dNCucToo/wKzq1jdupodd5uVViet6VZII9qI0al6ag0IRAkv789HsvguHvhJ%252BjzxSdaCtRC%252Bxl/OTpp%252BRwX/w%252B6OebHT3k8A5/TzpV7Fpf3DYtSMPooAGYyp0iXbUH3rQWDkSWGzZCqSe7QVtQUG0clwvsVyTcTpHcEKDh7oX7dpgEd%252BFOJPRYcCUxu2SzwHqteyy4uS7M3yDO4EVSOZM5FfIfj1n6S93q%252Bqjuqhj1rr%252BJND5HHnxT9Syv2okiHCUp5LLobuwBgPgkRwjWXH8rJmNJDwLp%252B%252BOosB/m/VHK5F5fbHudzGcemVD9jCgcmWYGpDxMFPIkItz0AUeUtEM4J3Hsm9MCA37W%252BVvxQTOxU4JLlp9cKT9s5hWo9f/N5%252BJp0rhh0l0M1XTagXrD42lltLq/G1XlnDZTu1uKwTm/EbCR8tUyGh7M1AbovbIKW6mnyBYsym1EjJ5Jl402wk31VQb/v7BLUPX0yV9Uf2WRi44Wl025exDbvOTIFvlrnHnnyv6CX5oP3O6Jzv7YH99wEvUpLxMDM0ORC/f595of/fT/mK5b3yBt2EterORMyk/u3dnoZ3eAgvfP3%252BMlFS74MGHPywMEUOmS/i8RabamG64J5o77fw8Wfbr7orRxFLX782/JDlB/TXZk5iUW6g5lgT/Q5ggst6D%252BGpHXIAYgbppAZ8B51Ma3lfBIH7FTqnDbgc2zXfQMEHXQtqm%252BTf55QIYgZWalRQeQqysAyOC%252Bw1dxQu9fVr69jQUQhpd1RYqCeA6fR58mqJ/M1CyDSgz2iYUcVgoG%252BhE/YCfx%252BwYmPyN2uvMc2Um%252B15YzMLJmyDlpAefgxgbtHQ%252BiVfxXBAXxMkgLQarz0ng2KA7pDJTtEZZ/P3bxCVzA%252BKcs/QTqzTsT2MrgfVGvJ%252BGsmXvpAZOWHjIirfJXK9qLX0dZHvxjbUnFIaphmAKzXzml53D0/8O0wNvIL7LjVxPnlefXmgJhqgG1HxFnlaO5AzIonmzizNvPi%252BA9MTGJfncADBwu96Am%252BWtJtu%252B2HLmrQp/yxj53MwHtVu%252BLhQXSE2iTarTiZkoTnRWViGIplDXAy7ivnSqSXHRE/B%252B7dlqdhSMuDohM/ybN6UFXK4f2OX37ZisQ9i0m0IlBXs8f9yZywKG4McFZiIDtgY7yzvkZ3DO%252BlN709S/3jyn3ksjOEh1UTMxqYqfJeLHwZZ0tZEXGmSxEsIsf9wz1gq/1xjat7YETw15HLXQHgiRezh59h6SVgnoUXusIUmcb4viFz6gdu/sG8jzvyCATmO20VSiJlXYjV63641d5a0V7MKD/1Ga9QUYaALDsR9WMvXXXS/RBrbU0cFyn88v21/wcsu9UoxLst13u9eACMDMrVZQQYFvekBy59uaWXr0XPRpVS9LJ69PvYsALuqFiwRge6N0XLqrM%252BWwYwkwe5qDJrxmcXSymMl3Xvrufbg7dZuKQ1pCa0N5OnmE6Jx/P%252BrdZxD7PfKFq%252B7hbhfY4T2Ayol4zsf1RbdUAdklaOoeSGPATLiwOrBxr4JPBjqJtJVRBHTYUX5mCV36LquxSV/Ys2p4SerszaGm4Ronfu20u1wRgkEu/SYMGSouhtSwObCiuaww4EMzDRR4qtvm41Qbhn3pCM0Qcx5piOwdH8WOsqjZRrGS2C5lIbJ%252B2oExkv3z1%252BIRZOk6cgiOdt3Xn4JDjEvLUtv9QpAKFhGXofpz5aLJLQWp9zt2JUk4xBLs5IrOpZ51f%252BABKeEDgolVQtFG7xNv3z7fIyUA0nhSCKqV9/xeFY/wAkmKwuLlQP6Q9TnU9lSnJSD/4MBJKfPNcE4vx8UfwnOHQOJQcyc9oYq9vvW7ayz5wAhQgqCQ72q2EOB4mQW%252BMecxt8EXZXeF33ppbR9CVi0UHGariQeBgjeYkc5dAIh0hdSokumaDpCKytenxZgWmCFwDM6b%252B4l0MzAvWxTp75gsoUBdk/Kn7MAKJI04fOyZU13IHNaRRw/iO7AyjHoZpZopUWFEOmCRh8ng9WpuTyob209SX6ba9dHGKYE0VsjU3feXw3Ujca99EXNQc3AqMhqLP3CMUaF5hjiKPCmbFt/fBPx7eTZIkSvQOASZCbaA3JvhI0end2g6XNPcdwq9YnkKdTWxmnHPMW%252BovOqSMPTvOhUqRqHp%252BXJ3J8r5q%252BEf%252BxKHnlqy1FIfpI6vOhvMiuegOQIHrccfMLqCUGo0z7v2apDCi7/fPLJ0/3Su8ahVfIXMtvDg3yZgXARacSr3P3endU5E/ccSNRYMhQ%252BY7UMMIDvgcDKbBpiVkGLy5YDVULrRfcpF9aEsmjC/DN7/Zd9gqykxZeXS2ROGX0cvtGvHR8Bk0zhLEfhdI1ZnAtWg6S2dWjLvoz2oRvpLG8R3UV2CA39JrqC%252Bq0VdlQzfp9bIuOI1/X5CJDDNJ5SN/UfTTGgCGacfIMMFG6Gzp%252B7FWaM1x8kVXyNlzfNYhidqMOfHIk/MLcyKmp2FbONoAKrCGM9f56tHryCYKlHVbWdF6kqyyDlGxuNbmdgew7GoELuRbNoi78xWP5DqVOC5WEdQiQFmF/FiGYOD3faPz1rBWCcpH5we9XhprRh2Vz4tFpIjr0AfRs%252B%252BaEFXdU8F2EkMlkDl%252Bngr%252BZqgqfj97LQsc9AdGK8YLoPyEu6Mxapo/HOkxai6EBNzU0aaXcMmzjC4%253D%26continue%3Dhttps://mail.google.com/mail?pli%253D1%2526authuser%253D1%26dbus%3DTZ&osidt=ALWU2cs9jlQ9mzys2aBrvkAFNpndoiKAs11XHsqy5-sXeB2qeTWUEly-MRPjup7Fdm_5fd3vWDLq8LD2rQWnyNiI8QW4GwGThDp5hPtmQmyi7wXcCWzqDOnzoMYyyb2PAjIU7COQ1-CI3kl1HhK1l7zSqCYF5tMwEnpjf91jFbIYhzsokU37ee3ZC1-FfN2FFBV8OAlKiNF4fzlhh-686LY1nrlyA8V9SUVVBdb12bVOd3eO01sAAU5-uredqZMkjUI3aJFhLHMtGHGTqpKWa9d9uhgOw-g1x9AtXmRY0O5iZ8aVBJ7fwidhWwT9pc70jl_uP66_sbtLSacnYf2yRol_4UnG1chba8HuM0fVaUgDgZ9ILpIlKQ8JGfp6LgQRTJtysmWu3l5v_Rh3TYDmGFAIEwt1l-IGGOYFv-Z0eKh4DNFoSkpwb2b7_IAYnmMJosCbrBPxPBVVjJBzwu6hIxsHA32hNnR0KrUd91N4-SVXdE5Dcz2BULc | Inbox (10) - furahajoelyn@gmail.com - Gmail
+[Edge] HIST | 2026-07-21 15:14:24 | [1x] https://accounts.youtube.com/accounts/SetSID?ssdc=1&sidt=ALWU2cuq7xgwMKBxaCk9XSnfZ2/NbrV1O6H/MgfzGdcQy6ka5axuYBOBhUl9J5dNCucToo/wKzq1jdupodd5uVViet6VZII9qI0al6ag0IRAkv789HsvguHvhJ%2BjzxSdaCtRC%2Bxl/OTpp%2BRwX/w%2B6OebHT3k8A5/TzpV7Fpf3DYtSMPooAGYyp0iXbUH3rQWDkSWGzZCqSe7QVtQUG0clwvsVyTcTpHcEKDh7oX7dpgEd%2BFOJPRYcCUxu2SzwHqteyy4uS7M3yDO4EVSOZM5FfIfj1n6S93q%2Bqjuqhj1rr%2BJND5HHnxT9Syv2okiHCUp5LLobuwBgPgkRwjWXH8rJmNJDwLp%2B%2BOosB/m/VHK5F5fbHudzGcemVD9jCgcmWYGpDxMFPIkItz0AUeUtEM4J3Hsm9MCA37W%2BVvxQTOxU4JLlp9cKT9s5hWo9f/N5%2BJp0rhh0l0M1XTagXrD42lltLq/G1XlnDZTu1uKwTm/EbCR8tUyGh7M1AbovbIKW6mnyBYsym1EjJ5Jl402wk31VQb/v7BLUPX0yV9Uf2WRi44Wl025exDbvOTIFvlrnHnnyv6CX5oP3O6Jzv7YH99wEvUpLxMDM0ORC/f595of/fT/mK5b3yBt2EterORMyk/u3dnoZ3eAgvfP3%2BMlFS74MGHPywMEUOmS/i8RabamG64J5o77fw8Wfbr7orRxFLX782/JDlB/TXZk5iUW6g5lgT/Q5ggst6D%2BGpHXIAYgbppAZ8B51Ma3lfBIH7FTqnDbgc2zXfQMEHXQtqm%2BTf55QIYgZWalRQeQqysAyOC%2Bw1dxQu9fVr69jQUQhpd1RYqCeA6fR58mqJ/M1CyDSgz2iYUcVgoG%2BhE/YCfx%2BwYmPyN2uvMc2Um%2B15YzMLJmyDlpAefgxgbtHQ%2BiVfxXBAXxMkgLQarz0ng2KA7pDJTtEZZ/P3bxCVzA%2BKcs/QTqzTsT2MrgfVGvJ%2BGsmXvpAZOWHjIirfJXK9qLX0dZHvxjbUnFIaphmAKzXzml53D0/8O0wNvIL7LjVxPnlefXmgJhqgG1HxFnlaO5AzIonmzizNvPi%2BA9MTGJfncADBwu96Am%2BWtJtu%2B2HLmrQp/yxj53MwHtVu%2BLhQXSE2iTarTiZkoTnRWViGIplDXAy7ivnSqSXHRE/B%2B7dlqdhSMuDohM/ybN6UFXK4f2OX37ZisQ9i0m0IlBXs8f9yZywKG4McFZiIDtgY7yzvkZ3DO%2BlN709S/3jyn3ksjOEh1UTMxqYqfJeLHwZZ0tZEXGmSxEsIsf9wz1gq/1xjat7YETw15HLXQHgiRezh59h6SVgnoUXusIUmcb4viFz6gdu/sG8jzvyCATmO20VSiJlXYjV63641d5a0V7MKD/1Ga9QUYaALDsR9WMvXXXS/RBrbU0cFyn88v21/wcsu9UoxLst13u9eACMDMrVZQQYFvekBy59uaWXr0XPRpVS9LJ69PvYsALuqFiwRge6N0XLqrM%2BWwYwkwe5qDJrxmcXSymMl3Xvrufbg7dZuKQ1pCa0N5OnmE6Jx/P%2BrdZxD7PfKFq%2B7hbhfY4T2Ayol4zsf1RbdUAdklaOoeSGPATLiwOrBxr4JPBjqJtJVRBHTYUX5mCV36LquxSV/Ys2p4SerszaGm4Ronfu20u1wRgkEu/SYMGSouhtSwObCiuaww4EMzDRR4qtvm41Qbhn3pCM0Qcx5piOwdH8WOsqjZRrGS2C5lIbJ%2B2oExkv3z1%2BIRZOk6cgiOdt3Xn4JDjEvLUtv9QpAKFhGXofpz5aLJLQWp9zt2JUk4xBLs5IrOpZ51f%2BABKeEDgolVQtFG7xNv3z7fIyUA0nhSCKqV9/xeFY/wAkmKwuLlQP6Q9TnU9lSnJSD/4MBJKfPNcE4vx8UfwnOHQOJQcyc9oYq9vvW7ayz5wAhQgqCQ72q2EOB4mQW%2BMecxt8EXZXeF33ppbR9CVi0UHGariQeBgjeYkc5dAIh0hdSokumaDpCKytenxZgWmCFwDM6b%2B4l0MzAvWxTp75gsoUBdk/Kn7MAKJI04fOyZU13IHNaRRw/iO7AyjHoZpZopUWFEOmCRh8ng9WpuTyob209SX6ba9dHGKYE0VsjU3feXw3Ujca99EXNQc3AqMhqLP3CMUaF5hjiKPCmbFt/fBPx7eTZIkSvQOASZCbaA3JvhI0end2g6XNPcdwq9YnkKdTWxmnHPMW%2BovOqSMPTvOhUqRqHp%2BXJ3J8r5q%2BEf%2BxKHnlqy1FIfpI6vOhvMiuegOQIHrccfMLqCUGo0z7v2apDCi7/fPLJ0/3Su8ahVfIXMtvDg3yZgXARacSr3P3endU5E/ccSNRYMhQ%2BY7UMMIDvgcDKbBpiVkGLy5YDVULrRfcpF9aEsmjC/DN7/Zd9gqykxZeXS2ROGX0cvtGvHR8Bk0zhLEfhdI1ZnAtWg6S2dWjLvoz2oRvpLG8R3UV2CA39JrqC%2Bq0VdlQzfp9bIuOI1/X5CJDDNJ5SN/UfTTGgCGacfIMMFG6Gzp%2B7FWaM1x8kVXyNlzfNYhidqMOfHIk/MLcyKmp2FbONoAKrCGM9f56tHryCYKlHVbWdF6kqyyDlGxuNbmdgew7GoELuRbNoi78xWP5DqVOC5WEdQiQFmF/FiGYOD3faPz1rBWCcpH5we9XhprRh2Vz4tFpIjr0AfRs%2B%2BaEFXdU8F2EkMlkDl%2Bngr%2BZqgqfj97LQsc9AdGK8YLoPyEu6Mxapo/HOkxai6EBNzU0aaXcMmzjC4%3D&continue=https://mail.google.com/mail?pli%3D1%26authuser%3D1&dbus=TZ | Inbox (10) - furahajoelyn@gmail.com - Gmail
+[Edge] HIST | 2026-07-21 15:14:24 | [1x] https://accounts.google.co.tz/accounts/SetSID?ssdc=1&sidt=ALWU2cupdjRBwuOPTsfwdbm2GyGWf%2BS9j%2BiW1h4IPewLC7cj%2BLla6%2BgloRVcGEulIMQf0Z7DoTn4UlTZmpb37ESrq1P%2BDqcATC3t%2BKnx2gMc55SWHsfuzH4OtmdSILDPiFiTRIBiwxt8W2kS5dem7KriHucNEABIIVPId0RdZxZ1FcuLLDhC3YKd3IApZZuzL5BdinJdXR/6SwuniNGTdLORiPHkLRCgRt6ovrqCLmmOoZu8gTZfCGZYha5Rc33HmW1oSLrMrXEUH3g3uAq9s16NhWnLaxuq2psSMEzYcYevTZ1/ToE2LBkVHNoXM07tHqNzs%2BS2ATTCXHZnFabMKuvZpfzgekdn8fOKAs/L%2BoDKXyb6lWveipQig2HBQSIvWzzrb17pkL78g3Drfi%2B5C8oM5/Fm00bei4bD10Ya5fjEeu4/bwgw5DMlgas9lKUMIO%2BeF/4RgCNzvpUdylNiNxtn1KL5KOT%2BL592bnJwq0GPZxQCIZwlWqFaCpHQ1%2BfECqnQ2Tffoq542lfq9kNT/zWqvEYhmakrpbqxh8Vmc9HOitVK1RK92Et1lLi2dlH02P90CeMjkifQdtHmYCCokKSTBrZBs3DHykLTrZ3p4hifW7xx57Pg6A7qws8uhH/l/hjjGKiVnO0qGyqwVKxUJLm7AGSj16U6MRaKuuDaQVvPA/z%2B6AHw0ibY3HNoHzsTdJNKMsAdFVdj7KwBBut3eFt/BFE%2BngACtWTCJnnXKJaEYEk/DQd/9JNU2QYip7evJeltZSoGzgc0MqbdBjzN%2ByObsb6XqeS/pg82JOiFWgJibc%2BN1pa7gCoReh%2BI30XxJ/Kka3iy/7eUqiBoKm/mFfbjHGlcktPmXVix9yrkJPq2gjVul5BEUHjyE/rV94jKg2J05azpkYJwn4EaA41zPhMN9ruptbJG/73NPNeCS9X2bX1zSTLxX3M2byI7sjqyX48KIFcELjZ2Rcwkc6t2uDB4MRCEppWwzzeZUkAEbNMpfpbY%2BASBbdAXsmVi8mD6Gji95OFhESwXUlxGnm0K8ZlJqPVQ6eopTf5jeRlELO5/TuXqYRiV1t7WCkd/mKpaQFHoSlZKyPKFvEkm41J2UMNoF/AVTWI%2BvQzH%2BY1aKllYDyowJmq/qdVDsf8fr9U02mNPSZEsm/elAyS6G%2BRRN/TV3W1EwxLk1wAl/RHlFxE1TCrOwrahkP2kegR64x6RtlmTTC2JCnDfth6UBIqCre4WYhr18ZhpiMFJizr4PTInLVPXn0XS2xT3yMIcdNGI8Xfmkm3zHvbMsXaQuKmBdNcZ6%2B7Ba58KfrRkOkCm65gN42m5kVKjNQBdyDqHqVARE3thCy9TUoN217yIr0479IOZVZxw6klfxZiuG1E9WzekBi7bXr1yU/KbyaXV8%2BBtHPQziAGjG7elSIcsi9mmE3%2BAQQGwejBKDvCSHIEisFndqcAM0we2th1Dy9QMDluhHquZsldAk5Saj13eSJO2/2Wrv0TQONBeAU7N6jmsUN/YpR73Om3PBSeLVLv3vHeisvCDN7w0gKS6biUY96NBX2L4I0Tlj6KIg4rqrskB%2Bo24RtAjOOjyu9G4IX2/TRzwfFzNHo9C3zxa/%2B7J3thinkt/5rdNBFal1uJ9Jxqti7GaRsuwst0axEG19S9wiReu6vGlwtJkftDW7YohH%2BmCukglE1gShad2C0LhN58JZ85MfgN3nxwzfnQTQ/fLdwKR9xyvYfSmgPEB8lZIeq62xtqGvrK4MpLpLBayG4fkUmnzeUg6abAKwIcP0/7yhCGZNqpJXjNai/T2HU2HFugaOE/Fac4bVBkNkRFovaL55MmnyqXJvCkdk2iGVaQTI6BZwC0pWOPqAy4sM4Q91jc7xkWGtCPZ48JfVJDX0bKcTV49rXnoQ9XiKGQy4aeZqhHat3H202Z2rqlNqejQdMiKL5x46qKyJ5j6HHukSrDUGv2mDu2ch4JKPcnvkejQqGPmyUouOvl1gfy7kP8m3vCl3NQ0o/39Li1rUZfkVdEBMrOUy1ojsQtu1sHHqptsNBKrXj0PuYuHvEf1ncQ5KxFVF%2BIAj1giMPDbHe2YSqWqebzGEZPaHrV7NDKzTTHBdgvisbHRzGdGeTxbrdkXj9rEWE2AYxxXn%2Bs4mEXcwfidY1WBwM3dBksThq4HYbkN7iH%2BZF3J%2BhFAdkkycSG3r31eLRAeZBJOsE00vDg7sFk%2BxlQ9KhkwInSSSx61mlQUIv/TFjcP1R8PP7Lvy1dEpLGBishfCxE0S048jD5zYcPiMscaWPhWyzPi2EtItsExKxSo9/UsfTYsHWONpm2qorJ4CxoTmjNfwowS0BmeUW4yAcC4Btt2%2B6LXjKApagXxrOwK9vXJx5/ImHMQTzWzMBtgldnaIFysHh/3Hjye5lWx%2BdqCbKUcToWWnitN4B0vU17lnbrtOGgeX1a%2Bh/cdINj7gLbUCa4criBXZecbRitOOTob0PnOKWW7Xq/7/x/y60RvH0/eRUsCEKAvVOKCunY55PWPnKGfY1OJcTfoT78flkRrp4xOGQ2/L1CZ5eyRN3QcSD34Tew3dybI023Q2R6Dfl0tDY4ebHceltLmXA66At2/1lZun4IaQ%2BVPwUUZh959nnwbOjfGqCa9fg6AuwalajCs985vxkv1FdodNh7xZRVMD0oExglUk2uDmj5/tojF%2BcIQhyHMP/ak9jDBJ7%2BPBPBZBdzjnrS//HE5XvPYYuwmH2gP5LCiOas%3D&continue=https://mail.google.com/mail?pli%3D1%26authuser%3D1 | Inbox (10) - furahajoelyn@gmail.com - Gmail
+[Edge] HIST | 2026-07-21 15:14:24 | [1x] https://mail.google.com/mail?pli=1&authuser=1 | Inbox (10) - furahajoelyn@gmail.com - Gmail
+[Edge] HIST | 2026-07-21 15:14:24 | [1x] https://mail.google.com/mail/u/1?pli=1&authuser=1 | Inbox (10) - furahajoelyn@gmail.com - Gmail
+[Edge] HIST | 2026-07-21 15:14:24 | [1x] https://mail.google.com/mail/u/1?pli=1 | Inbox (10) - furahajoelyn@gmail.com - Gmail
+[Edge] HIST | 2026-07-21 15:14:24 | [1x] https://mail.google.com/mail/u/1/?pli=1 | Inbox (10) - furahajoelyn@gmail.com - Gmail
+[Edge] HIST | 2026-07-21 15:14:24 | [1x] https://mail.google.com/mail/u/1/ | Inbox (10) - furahajoelyn@gmail.com - Gmail
+[Edge] HIST | 2026-07-21 15:14:10 | [1x] https://gds.google.com/web/pgc?cardIndex=0&hl=en&authuser=1&tda=CAA&gdsid=-1577443977&continue=https%3A%2F%2Faccounts.google.com%2FServiceLogin%3Fcontinue%3Dhttps%3A%2F%2Fmail.google.com%2Fmail%26service%3Dmail%26hl%3Den%26authuser%3D1%26passive%3Dtrue%26sarp%3D1%26aodrpl%3D1%26checkedDomains%3Dyoutube%26checkConnection%3Dyoutube%3A665%26pstMsg%3D1&rapt=AEjHL4PxI4I2g-nH7slONaN13NYD3o56i4dxXo0YzeWh7vPfcNjIkbLciIe-q4xdAUC4fkQfDlpi6dtow0C75ud6xA-83kCr4w&ep=p | Add a profile picture
+[Edge] HIST | 2026-07-21 15:14:07 | [1x] https://accounts.google.com/ServiceLogin?continue=https://gds.google.com/web/landing?ep%3Dp%26gdsid%3D-1577443977%26tda%3DCAA%26gm3e%3Dfalse%26authuser%3D1%26hl%3Den%26continue%3Dhttps://accounts.google.com/ServiceLogin?continue%253Dhttps://mail.google.com/mail%2526service%253Dmail%2526hl%253Den%2526authuser%253D1%2526passive%253Dtrue%2526sarp%253D1%2526aodrpl%253D1%2526checkedDomains%253Dyoutube%2526checkConnection%253Dyoutube:665%2526pstMsg%253D1%26service%3Dmail%26rapt%3DAEjHL4PxI4I2g-nH7slONaN13NYD3o56i4dxXo0YzeWh7vPfcNjIkbLciIe-q4xdAUC4fkQfDlpi6dtow0C75ud6xA-83kCr4w&hl=en&authuser=1&passive=true&sarp=1&osid=1 | Google Account
+[Edge] HIST | 2026-07-21 15:14:07 | [1x] https://gds.google.com/web/landing?ep=p&gdsid=-1577443977&tda=CAA&gm3e=false&authuser=1&hl=en&continue=https://accounts.google.com/ServiceLogin?continue%3Dhttps://mail.google.com/mail%26service%3Dmail%26hl%3Den%26authuser%3D1%26passive%3Dtrue%26sarp%3D1%26aodrpl%3D1%26checkedDomains%3Dyoutube%26checkConnection%3Dyoutube:665%26pstMsg%3D1&service=mail&rapt=AEjHL4PxI4I2g-nH7slONaN13NYD3o56i4dxXo0YzeWh7vPfcNjIkbLciIe-q4xdAUC4fkQfDlpi6dtow0C75ud6xA-83kCr4w&pli=1 | Google Account
+[Edge] HIST | 2026-07-21 15:13:32 | [1x] https://accounts.google.com/v3/signin/challenge/pwd?TL=AE6FvybJ2_Hb0dviYt4j1VE-jZdOKN9K57MUX7_jtAYEwuNRz4xyw1zjnI9Yqozm&authuser=0&checkConnection=youtube%3A665&checkedDomains=youtube&cid=2&continue=https%3A%2F%2Fmail.google.com%2Fmail&dsh=S-584883571%3A1784635986611008&ec=GAlAFw&flowEntry=AddSession&flowName=GlifWebSignIn&hl=en&pstMsg=1&service=mail | Welcome
+[Edge] HIST | 2026-07-21 15:13:09 | [2x] https://accounts.google.com/AddSession?hl=en&continue=https://mail.google.com/mail&service=mail&ec=GAlAFw&authuser=0 | Gmail
+[Edge] HIST | 2026-07-21 15:13:09 | [1x] https://accounts.google.com/v3/signin/identifier?authuser=0&continue=https://mail.google.com/mail&dsh=S-584883571:1784635986611008&ec=GAlAFw&hl=en&service=mail&flowName=GlifWebSignIn&flowEntry=AddSession | Gmail
+[Edge] HIST | 2026-07-21 15:13:01 | [2x] https://mail.google.com/mail/u/0/#sent | Sent Mail - bmduma67@gmail.com - Gmail
+
+────────────────────────────────────────────────────────────
+  8. BOOKMARKS
+────────────────────────────────────────────────────────────
+[Edge] BM | other | Microsoft Copilot: Your AI companion | https://copilot.microsoft.com/
+
+────────────────────────────────────────────────────────────
+  9. INSTALLED EXTENSIONS
+────────────────────────────────────────────────────────────
+[Edge] EXT | __MSG_extName__ | 1.107.1_0
+[Edge] EXT | __MSG_extName__ | 1.108.1_0
+[Edge] EXT | Edge relevant text changes | 1.2.1_0
+
+────────────────────────────────────────────────────────────
+  10. WINDOWS STORED CREDENTIALS
+────────────────────────────────────────────────────────────
+
+Currently stored credentials:
+
+    Target: MicrosoftAccount:target=SSO_POP_User:user=shigelaezekiel@outlook.com
+    Type: Generic 
+    User: shigelaezekiel@outlook.com
+    Saved for this logon only
+    
+    Target: MicrosoftAccount:target=SSO_POP_User:user=Prosperityemmz@gmail.com
+    Type: Generic 
+    User: Prosperityemmz@gmail.com
+    Saved for this logon only
+    
+    Target: LegacyGeneric:target=Olk/PushNotificationsBackupKey
+    Type: Generic 
+    User: Olk/PushNotificationsBackupKey
+    Local machine persistence
+    
+    Target: LegacyGeneric:target=https://www.roblox.com:RobloxStudioAuthCookies
+    Type: Generic 
+    Local machine persistence
+    
+    Target: LegacyGeneric:target=git:https://github.com
+    Type: Generic 
+    User: ricky-lab12
+    Local machine persistence
+    
+    Target: LegacyGeneric:target=MicrosoftAccount:user=shigelaezekiel@outlook.com
+    Type: Generic 
+    User: shigelaezekiel@outlook.com
+    Local machine persistence
+    
+    Target: WindowsLive:target=virtualapp/didlogical
+    Type: Generic 
+    User: 02yfmnmkxnuhipsc
+    Local machine persistence
+    
+    Target: LegacyGeneric:target=Olk/PushNotificationsKey
+    Type: Generic 
+    User: Olk/PushNotificationsKey
+    Local machine persistence
+    
+    Target: LegacyGeneric:target=MicrosoftAccount:user=prosperityemmz@gmail.com
+    Type: Generic 
+    User: Prosperityemmz@gmail.com
+    Local machine persistence
+    
+
+
+────────────────────────────────────────────────────────────
+  11. CLIPBOARD SNIFFING
+────────────────────────────────────────────────────────────
+
+============================================================
+  END OF REPORT — PC: SC-LAB1-PC5_STUDENT_caaad3d8 — CONTINUOUS MONITORING ACTIVE
+============================================================
