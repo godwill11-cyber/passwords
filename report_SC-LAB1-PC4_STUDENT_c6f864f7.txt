@@ -9,7 +9,7 @@
   MAC:         6C-3C-8C-4C-65-95
   AV:          Windows Defender, Avast Antivirus
   OS:          ?
-  Last Update: 2026-07-29 14:14:32
+  Last Update: 2026-07-29 14:15:05
 ============================================================
 
 ────────────────────────────────────────────────────────────
@@ -439,25 +439,7 @@ Currently stored credentials:
   12. KEYLOGGER (RECENT KEYS)
 ────────────────────────────────────────────────────────────
 
-[WINDOW: Terminal]
-
 [WINDOW: Google Chrome]
-
-[WINDOW: Terminal]
-
-[WINDOW: C:\WINDOWS\system32\getmac.exe]
-
-[WINDOW: Google Chrome]
-
-[WINDOW: Terminal]
-
-[WINDOW: C:\WINDOWS\System32\Wbem\wmic.exe]
-
-[WINDOW: Google Chrome]
-
-[WINDOW: Terminal]
-
-[WINDOW: C:\WINDOWS\system32\systeminfo.exe]
 
 
 ============================================================
