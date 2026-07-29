@@ -9,7 +9,7 @@
   MAC:         6C-3C-8C-4C-65-95
   AV:          Windows Defender, Avast Antivirus
   OS:          ?
-  Last Update: 2026-07-29 14:16:51
+  Last Update: 2026-07-29 14:17:27
 ============================================================
 
 ────────────────────────────────────────────────────────────
@@ -438,17 +438,10 @@ Currently stored credentials:
 ────────────────────────────────────────────────────────────
   12. KEYLOGGER (RECENT KEYS)
 ────────────────────────────────────────────────────────────
+[ENTER]
 
-[WINDOW: New Tab - Google Chrome]
+[WINDOW: browser lock extension - Google Search - Google Chrome]
 
-[WINDOW: Inbox (177) - romsdemark12@gmail.com - Gmail - Google Chrome]
-
-[WINDOW: Leave site?]
-
-[WINDOW: Inbox (177) - romsdemark12@gmail.com - Gmail - Google Chrome]
-
-[WINDOW: New Tab - Google Chrome]
-browsee[BACK]r lock
 
 ============================================================
   END OF REPORT — PC: SC-LAB1-PC4_STUDENT_c6f864f7 — CONTINUOUS MONITORING ACTIVE
