@@ -9,7 +9,7 @@
   MAC:         6C-3C-8C-0A-05-CD
   AV:          Windows Defender
   OS:          ?
-  Last Update: 2026-07-29 15:02:40
+  Last Update: 2026-07-29 15:03:16
 ================================================================================
 
 ────────────────────────────────────────────────────────────────────────────────
@@ -40,21 +40,11 @@
 ────────────────────────────────────────────────────────────────────────────────
   KEYLOGGER (RECENT KEYS)
 ────────────────────────────────────────────────────────────────────────────────
-
-[WINDOW: Untitled - Google Chrome]
-
-[WINDOW: myactivity.google.com/product/gemini?utm_source=gemini&pli=1 - Google Chrome]
-
-[WINDOW: Google - My Activity - Google Chrome]
-w
-[WINDOW: Troubleshooting "Cannot Execute Program" Error - Google Gemini - Google Chrome]
-ww
-[WINDOW: Choose your account - Google Chrome]
+13f&response_mode=fragment&response_type=code&x-client-SKU=msal.js.browser&x-client-VER=2.33.0&client_info=1&code_challenge=F7TXR0Rd9JlpYQzw-ge-yESWdz8BNReYhhP0jabC3ZY&code_challenge_method=S256&nonce=95755f35-d4af-4fb0-b863-0c0ae2a51e36&state=eyJpZCI6IjNlMTc4ZmE1LTEyMWMtNDIwNS1hYWFhLTMxNjg1MDIzNWJmYSIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoicmVkaXJlY3QifX0%3D%7Caa59631b-945a-4fd9-abd2-6e7858b8fcc1 - Google Chrome]
 
 [WINDOW: Loading... - Google Chrome]
 
 [WINDOW: Choose your account - Google Chrome]
-ethanevijoe1234[ENTER]
 
 
 ================================================================================
