@@ -9,7 +9,7 @@
   MAC:         6C-3C-8C-4C-65-95
   AV:          Windows Defender, Avast Antivirus
   OS:          Microsoft Windows 11 Pro
-  Last Update: 2026-07-29 14:34:25
+  Last Update: 2026-07-29 14:34:59
 ============================================================
 
 ────────────────────────────────────────────────────────────
@@ -438,10 +438,16 @@ Currently stored credentials:
 ────────────────────────────────────────────────────────────
   12. KEYLOGGER (RECENT KEYS)
 ────────────────────────────────────────────────────────────
-[BACK][BACK][BACK][BACK][BACK]n[ENTER]
+s.google.com&code=4%2F0AXEQxIANpHtAAXpVKjxmFDmhdo2tcRThoAOVDNuiUBXjJCKQmBJSUqluiXnpi9pcC-hVOw&scope=email+profile+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.email+openid+https%3A%2F%2Fwww.googleapis.com%2Fauth%2Fuserinfo.profile&authuser=0&prompt=none - Google Chrome]
 
-[WINDOW: Welcome - Google Chrome]
-luckygal19008[BACK][BACK]8
+[WINDOW: AI App Builder | Vibe Code Apps & Websites with AI, Fast - Google Chrome]
+
+[WINDOW: Home | Lovable - Google Chrome]
+
+[WINDOW: Lovable - Google Chrome]
+
+[WINDOW: Smart Schedule Assistant | Lovable - Google Chrome]
+
 
 ============================================================
   END OF REPORT — PC: SC-LAB1-PC4_STUDENT_c6f864f7 — CONTINUOUS MONITORING ACTIVE
