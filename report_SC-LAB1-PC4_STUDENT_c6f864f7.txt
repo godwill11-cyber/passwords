@@ -9,7 +9,7 @@
   MAC:         6C-3C-8C-4C-65-95
   AV:          Windows Defender, Avast Antivirus
   OS:          Microsoft Windows 11 Pro
-  Last Update: 2026-07-29 15:23:04
+  Last Update: 2026-07-29 15:23:39
 ============================================================
 
 ────────────────────────────────────────────────────────────
@@ -439,25 +439,7 @@ Currently stored credentials:
   12. KEYLOGGER (RECENT KEYS)
 ────────────────────────────────────────────────────────────
 
-[WINDOW: Terminal]
-
 [WINDOW: ICDL Computer & Online Essentials 1.0 - Arusha Science School.pdf — Mozilla Firefox]
-
-[WINDOW: Terminal]
-
-[WINDOW: C:\WINDOWS\system32\getmac.exe]
-
-[WINDOW: ICDL Computer & Online Essentials 1.0 - Arusha Science School.pdf — Mozilla Firefox]
-
-[WINDOW: Terminal]
-
-[WINDOW: C:\WINDOWS\System32\Wbem\wmic.exe]
-
-[WINDOW: ICDL Computer & Online Essentials 1.0 - Arusha Science School.pdf — Mozilla Firefox]
-
-[WINDOW: Terminal]
-
-[WINDOW: C:\WINDOWS\system32\systeminfo.exe]
 
 
 ============================================================
