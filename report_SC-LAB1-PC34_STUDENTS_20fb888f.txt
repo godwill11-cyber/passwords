@@ -9,7 +9,7 @@
   MAC:         6C-3C-8C-0A-E2-BF
   AV:          Windows Defender
   OS:          Microsoft Windows 11 Pro
-  Last Update: 2026-07-29 14:22:42
+  Last Update: 2026-07-29 14:23:16
 ============================================================
 
 ────────────────────────────────────────────────────────────
@@ -140,8 +140,14 @@ Currently stored credentials:
   12. KEYLOGGER (RECENT KEYS)
 ────────────────────────────────────────────────────────────
 
-[WINDOW: Thonny  -  D:\Payload_Package_20260604_0502\SecurityReport.pyw  @  12 : 43]
+[WINDOW: Thonny  -  D:\Payload_Package_20260604_0502\SecurityReport.pyw  @  24 : 1]
 
+[WINDOW: Thonny  -  D:\Payload_Package_20260604_0502\SecurityReport.pyw  @  25 : 1]
+a
+[WINDOW: Thonny  -  D:\Payload_Package_20260604_0502\SecurityReport.pyw  @  1017 : 11]
+vssw
+[WINDOW: Thonny]
+z
 
 ============================================================
   END OF REPORT — PC: SC-LAB1-PC34_STUDENTS_20fb888f — CONTINUOUS MONITORING ACTIVE
