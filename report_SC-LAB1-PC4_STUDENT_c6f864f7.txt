@@ -9,7 +9,7 @@
   MAC:         6C-3C-8C-4C-65-95
   AV:          Windows Defender, Avast Antivirus
   OS:          Microsoft Windows 11 Pro
-  Last Update: 2026-07-29 14:12:04
+  Last Update: 2026-07-29 14:12:37
 ============================================================
 
 ────────────────────────────────────────────────────────────
@@ -438,7 +438,8 @@ Currently stored credentials:
 ────────────────────────────────────────────────────────────
   12. KEYLOGGER (RECENT KEYS)
 ────────────────────────────────────────────────────────────
-ersons schedule  and has extra e[BACK]remarkable and unique features like alarms 
+[BACK], can advice the user on the best schedule [ENTER]
+
 
 ============================================================
   END OF REPORT — PC: SC-LAB1-PC4_STUDENT_c6f864f7 — CONTINUOUS MONITORING ACTIVE
