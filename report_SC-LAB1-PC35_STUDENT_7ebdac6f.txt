@@ -1,0 +1,147 @@
+================================================================================
+  LIVE REPORT — PC: SC-LAB1-PC35_STUDENT_7ebdac6f
+================================================================================
+  PC:          SC-LAB1-PC35
+  User:        STUDENT
+  PC ID:       SC-LAB1-PC35_STUDENT_7ebdac6f
+  External IP: 41.59.97.138
+  Local IP:    192.168.88.189
+  MAC:         6C-3C-8C-0A-05-CD
+  AV:          Windows Defender
+  OS:          Microsoft Windows 11 Pro
+  Last Update: 2026-07-29 14:42:44
+================================================================================
+
+────────────────────────────────────────────────────────────────────────────────
+  PERSISTENCE
+────────────────────────────────────────────────────────────────────────────────
+[+] AppData copy
+[+] Binary at: C:\Users\STUDENT\AppData\Local\trustedinstaller.exe
+[+] STARTUP folder: C:\Users\STUDENT\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup\WindowsUpdateService.exe
+[+] Registry Run
+[+] Registry RunOnce
+[+] SchTask (SYSTEM)
+
+────────────────────────────────────────────────────────────────────────────────
+  WIFI NETWORKS
+────────────────────────────────────────────────────────────────────────────────
+[WiFi] SSID: PHYSICS LAB | Pass: [Open/Unknown] | Auth: Open
+[WiFi] SSID: SERVER | Pass: @Sc!3nc3.!ct | Auth: WPA2-Personal
+[WiFi] SSID: COMPUTER LAB 1 | Pass: [Open/Unknown] | Auth: Open
+[WiFi] SSID: AS_MAIN_PARADE | Pass: Science123. | Auth: WPA2-Personal
+[WiFi] SSID: ADMINISTRATION | Pass: administration2026 | Auth: WPA2-Personal
+[WiFi] SSID: DIRECT-8B-EPSON-1628E4 | Pass: 51671388 | Auth: WPA2-Personal
+[WiFi] SSID: AS_ACADEMIC_OFFICE | Pass: Academic123 | Auth: WPA2-Personal
+
+────────────────────────────────────────────────────────────────────────────────
+  CLIPBOARD SNIFFING
+────────────────────────────────────────────────────────────────────────────────
+
+================================================================================
+  CREDENTIAL TABLE — EMAIL:USERNAME:PASSWORD
+================================================================================
+
+#    BROWSER    URL                                 USERNAME/EMAIL                 PASSWORD                      
+--------------------------------------------------------------------------------------------------------------
+
+  (no email credential entries found)
+
+
+────────────────────────────────────────────────────────────────────────────────
+  ALL SAVED PASSWORDS (INCLUDING NON-EMAIL)
+────────────────────────────────────────────────────────────────────────────────
+
+#    BROWSER    URL                                 USERNAME/EMAIL                 PASSWORD                      
+--------------------------------------------------------------------------------------------------------------
+
+  (none found)
+
+────────────────────────────────────────────────────────────────────────────────
+  COOKIES (HIGH-VALUE SITES)
+────────────────────────────────────────────────────────────────────────────────
+  (none found)
+
+────────────────────────────────────────────────────────────────────────────────
+  AUTOFILL — NAMES, EMAILS, PHONES, ADDRESSES, CARDS
+────────────────────────────────────────────────────────────────────────────────
+[Edge] AUTOFILL | Email Address = bmduma67@gmail.com
+[Edge] AUTOFILL | Email Address = bmduma@gmail.com
+[Edge] AUTOFILL | identifier = annanderua8@gmail.com
+[Edge] AUTOFILL | identifier = black.ranger5578@gmail.com
+
+────────────────────────────────────────────────────────────────────────────────
+  BROWSING HISTORY (RECENT PER PROFILE)
+────────────────────────────────────────────────────────────────────────────────
+[Edge] HIST | 2026-07-29 14:40:11 | [1x] file:///C:/Users/STUDENT/OneDrive/Desktop/ICDL%20Computer%20&%20Online%20Essentials%201.0%20-%20Arusha%20Science%20School.pdf | ?
+[Edge] HIST | 2026-07-29 10:07:52 | [1x] https://www.bing.com/search?pglt=43&q=long+form+of+ASCII&cvid=7dcccc57795a422bade0300ff6917eff&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQABhAMgYICBAAGEDSAQkzMTUzMmowajeoAgCwAgA&FORM=ANSPA1&PC=U531 | long form of ASCII - Search
+[Edge] HIST | 2026-07-28 21:12:34 | [2x] https://www.bing.com/search?q=sublime+text&filters=ufn%3a%22Sublime+Text%22+sid%3a%228db98fa5-0fda-94e5-e6d5-6b2614308c67%22&asbe=EP&form=WSHBSH&qs=MB&cvid=0aa4949d8f644c5981caabc06447caf3&pq=&cc=US&setlang=en-US&nclid=A30766C365BD6E1F1E59753B6164E22F&ts=1785262351440&wsso=Moderate&PC=WSBREC | sublime text - Search
+[Edge] HIST | 2026-07-28 21:12:34 | [1x] https://www.bing.com/?form=SPHPRE1&bbtnserp=1&bbtnfrm=WSHBSH | sublime text - Search
+[Edge] HIST | 2026-07-28 21:12:33 | [1x] https://www.bing.com/search?q=sublime+text&filters=ufn%3a%22Sublime+Text%22+sid%3a%228db98fa5-0fda-94e5-e6d5-6b2614308c67%22&asbe=EP&form=WSHBSH&qs=MB&cvid=0aa4949d8f644c5981caabc06447caf3&pq=&cc=US&setlang=en-US&nclid=A30766C365BD6E1F1E59753B6164E22F&ts=1785262351440&nclidts=1785262351&tsms=440&wsso=Moderate&PC=WSBREC | sublime text - Search
+[Edge] HIST | 2026-07-28 20:13:24 | [1x] https://www.bing.com/search?filters=ufn%3a%22PhpMyAdmin%22+sid%3a%2214c978da-35ce-5564-b636-36d519a8b5ae%22&asbe=AS&qs=MB&pq=php&sk=CSYN1UAS8AS12&sc=25-3&q=phpmyadmin&cvid=2e62887d5bef4ba7b66190c00b978600&gs_lcrp=EgRlZGdlKgYIAhAuGEAyBggAEAAYQDIGCAEQLhhAMgYIAhAuGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQABhAMgYICBAAGEDSAQg1MzQ3ajBqN6gCALACAA&FORM=ANAB01&PC=U531&ntref=1 | phpmyadmin - Search
+[Edge] HIST | 2026-07-28 19:53:37 | [1x] https://www.phpmyadmin.net/downloads/ | Downloads · phpMyAdmin
+[Edge] HIST | 2026-07-28 19:53:35 | [2x] https://www.bing.com/search?filters=ufn%3a%22PhpMyAdmin%22+sid%3a%2214c978da-35ce-5564-b636-36d519a8b5ae%22&asbe=AS&qs=MB&pq=php&sk=CSYN1UAS8AS12&sc=25-3&q=phpmyadmin&cvid=2e62887d5bef4ba7b66190c00b978600&gs_lcrp=EgRlZGdlKgYIAhAuGEAyBggAEAAYQDIGCAEQLhhAMgYIAhAuGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQABhAMgYICBAAGEDSAQg1MzQ3ajBqN6gCALACAA&FORM=ANAB01&PC=U531 | phpmyadmin - Search
+[Edge] HIST | 2026-07-28 19:53:35 | [1x] https://www.bing.com/ck/a?!&&p=7eea49f486167ef020785cae2308e538cb1f3768a97b89134a7d3240e0282140JmltdHM9MTc4NTE5NjgwMA&ptn=3&ver=2&hsh=4&fclid=359a49e2-07b7-6ef0-082e-5f4506356fb8&psq=phpmyadmin&u=a1aHR0cHM6Ly93d3cucGhwbXlhZG1pbi5uZXQvZG93bmxvYWRzLw&ntb=1 | ?
+[Edge] HIST | 2026-07-28 19:32:46 | [1x] https://www.sublimetext.com/download_thanks?target=win-x64 | Thank You - Sublime Text
+[Edge] HIST | 2026-07-28 19:32:39 | [1x] https://www.sublimetext.com/download | Download - Sublime Text
+[Edge] HIST | 2026-07-28 19:32:39 | [3x] https://www.bing.com/search?q=sublime+text&filters=ufn%3a%22Sublime+Text%22+sid%3a%228db98fa5-0fda-94e5-e6d5-6b2614308c67%22&asbe=EP&form=WSBEDG&qs=MB&cvid=9843c3be1ca845468a34afc8002f0cb3&pq=sublim&cc=US&setlang=en-US&nclid=A30766C365BD6E1F1E59753B6164E22F&ts=1785256351631&wsso=Moderate&PC=WSBQUF | sublime text - Search
+[Edge] HIST | 2026-07-28 19:32:39 | [1x] https://www.bing.com/ck/a?!&&p=e29901a34ca10e627fa3a0673428d3ad25aec0e3a07a7666be30d34c8483879aJmltdHM9MTc4NTE5NjgwMA&ptn=3&ver=2&hsh=4&fclid=359a49e2-07b7-6ef0-082e-5f4506356fb8&psq=sublime+text&u=a1aHR0cHM6Ly93d3cuc3VibGltZXRleHQuY29tL2Rvd25sb2Fk&ntb=1 | ?
+[Edge] HIST | 2026-07-28 19:32:35 | [4x] https://www.bing.com/?form=SPHPRE1&bbtnserp=1&bbtnfrm=WSBEDG | sublime text - Search
+[Edge] HIST | 2026-07-28 19:32:33 | [1x] https://www.bing.com/search?q=sublime+text&filters=ufn%3a%22Sublime+Text%22+sid%3a%228db98fa5-0fda-94e5-e6d5-6b2614308c67%22&asbe=EP&form=WSBEDG&qs=MB&cvid=9843c3be1ca845468a34afc8002f0cb3&pq=sublim&cc=US&setlang=en-US&nclid=A30766C365BD6E1F1E59753B6164E22F&ts=1785256351631&nclidts=1785256351&tsms=631&wsso=Moderate&PC=WSBQUF | sublime text - Search
+[Edge] HIST | 2026-07-28 12:19:20 | [1x] https://www.skillsboxonline.com/25c94cab-3ea8-4762-b286-d5019d73ed35/b2c_1a_signin_combinedflow/oauth2/v2.0/authorize?client_id=75302778-627f-46bf-82e8-ea9a9d816e43&scope=openid%20offline_access%20https%3A%2F%2Fskillsboxcoreuserproduction.onmicrosoft.com%2F75302778-627f-46bf-82e8-ea9a9d816e43%2FAPI.Access%20profile&redirect_uri=https%3A%2F%2Fcore.skillsbox.com%2Fauthentication%2Flogin-callback&client-request-id=fe4a16e0-aa49-450a-9ed6-9ebbe157719e&response_mode=fragment&response_type=code&x-client-SKU=msal.js.browser&x-client-VER=2.33.0&client_info=1&code_challenge=FmK20gEBMCIn7HA6MhEvcvJ0wyYB9_CUSKFftX86XBQ&code_challenge_method=S256&nonce=9523ca39-083d-4397-970e-6805f1ee5fce&state=eyJpZCI6ImY3ZWZjNDljLThkNDAtNDJiZS1iZjM3LWIwZTQ4ZjRmODQ2NSIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoicmVkaXJlY3QifX0%3D%7C5fea62a6-0347-4cd3-adc6-766df0924486 | Choose your account
+[Edge] HIST | 2026-07-28 12:19:19 | [2x] https://core.skillsbox.com/authentication/logged-out | Choose your account
+[Edge] HIST | 2026-07-28 12:19:19 | [2x] https://core.skillsbox.com/authentication/logout | Choose your account
+[Edge] HIST | 2026-07-28 12:19:19 | [2x] https://core.skillsbox.com/authentication/login | Skillsbox UI
+[Edge] HIST | 2026-07-28 12:19:18 | [1x] https://www.skillsboxonline.com/25c94cab-3ea8-4762-b286-d5019d73ed35/B2C_1A_SignUp_CombinedFlow/api/SelfAsserted/cancelled?csrf_token=Zy9NS0htTmxIT2dTckpNb3hqbzV3M2dLdWV3VitNTnVPc2N5NndqL04rOU9qaW5aQjBLZndJV0NRZHYzUmY4QlN6NHRTOFhEVVZGQjRaVE43RmVMZHc9PTsyMDI2LTA3LTI4VDA5OjE5OjA3LjA2NTYxMjhaO0JTMFZyWjBoVVdqd2lDTTRzVUZsSmc9PTt7IlRhcmdldEVudGl0eSI6IlNpZ25VcFdpdGhMb2dvbkVtYWlsRXhjaGFuZ2VfUmVDYXB0Y2hhIiwiT3JjaGVzdHJhdGlvblN0ZXAiOjF9&tx=StateProperties=eyJUSUQiOiIyN2NkNDVjMC05MTA1LTQyYmUtYmEzNi1iZDRkMGFjMGFjM2UifQ&p=B2C_1A_SignUp_CombinedFlow&diags=%7B%22pageViewId%22%3A%22391fcc75-4f16-4f50-b65c-37288b736f21%22%2C%22pageId%22%3A%22SelfAsserted%22%2C%22trace%22%3A%5B%7B%22ac%22%3A%22T005%22%2C%22acST%22%3A1785230346%2C%22acD%22%3A2%7D%2C%7B%22ac%22%3A%22T021%20-%20URL%3Ahttps%3A%2F%2Fskillsboxtemplates.blob.core.windows.net%2Froot%2Fb2c-custom-policies-html-templates%2Fen%2FGoogleReCaptcha_CombinedFlow_Prod.html%22%2C%22acST%22%3A1785230346%2C%22acD%22%3A160%7D%2C%7B%22ac%22%3A%22T019%22%2C%22acST%22%3A1785230346%2C%22acD%22%3A3%7D%2C%7B%22ac%22%3A%22T004%22%2C%22acST%22%3A1785230346%2C%22acD%22%3A2%7D%2C%7B%22ac%22%3A%22T003%22%2C%22acST%22%3A1785230346%2C%22acD%22%3A0%7D%2C%7B%22ac%22%3A%22T035%22%2C%22acST%22%3A1785230347%2C%22acD%22%3A0%7D%2C%7B%22ac%22%3A%22T030Online%22%2C%22acST%22%3A1785230347%2C%22acD%22%3A0%7D%2C%7B%22ac%22%3A%22T002%22%2C%22acST%22%3A1785230357%2C%22acD%22%3A0%7D%5D%7D | Skillsbox UI
+[Edge] HIST | 2026-07-28 12:19:18 | [1x] https://core.skillsbox.com/authentication/login-callback#error=access_denied&error_description=AADB2C90091%3a+The+user+has+cancelled+entering+self-asserted+information.%0d%0aCorrelation+ID%3a+27cd45c0-9105-42be-ba36-bd4d0ac0ac3e%0d%0aTimestamp%3a+2026-07-28+09%3a19%3a18Z%0d%0a | Skillsbox UI
+[Edge] HIST | 2026-07-28 12:19:06 | [1x] https://www.skillsboxonline.com/25c94cab-3ea8-4762-b286-d5019d73ed35/oauth2/v2.0/authorize?p=B2C_1A_SignUp_CombinedFlow&client_id=75302778-627f-46bf-82e8-ea9a9d816e43&nonce=defaultNonce&redirect_uri=https%3A%2F%2Fcore.skillsbox.com%2Fauthentication%2Flogin-callback&scope=openid&response_type=id_token&prompt=login | Skillsbox UI
+[Edge] HIST | 2026-07-28 12:16:45 | [1x] https://www.skillsboxonline.com/25c94cab-3ea8-4762-b286-d5019d73ed35/b2c_1a_signin_combinedflow/oauth2/v2.0/authorize?client_id=75302778-627f-46bf-82e8-ea9a9d816e43&scope=openid%20offline_access%20https%3A%2F%2Fskillsboxcoreuserproduction.onmicrosoft.com%2F75302778-627f-46bf-82e8-ea9a9d816e43%2FAPI.Access%20profile&redirect_uri=https%3A%2F%2Fcore.skillsbox.com%2Fauthentication%2Flogin-callback&client-request-id=0b21ec6c-cb35-4bfa-8f6e-263d8a7d0314&response_mode=fragment&response_type=code&x-client-SKU=msal.js.browser&x-client-VER=2.33.0&client_info=1&code_challenge=e84R9mN14zEcu793ngJp8i3JX9F7xrTZGu5a5pZKcvg&code_challenge_method=S256&nonce=6f216e8e-f07c-43be-af33-ae1a063ecf47&state=eyJpZCI6ImUwNTI0N2IyLWU0ZGMtNDFiOC05ZTAxLTUzMTRmZDE0ZjhiMyIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoicmVkaXJlY3QifX0%3D%7Cb713e193-346d-4aef-96aa-dc9611f0a202 | Choose your account
+[Edge] HIST | 2026-07-28 12:16:38 | [1x] https://core.skillsbox.com/ | Skillsbox UI
+[Edge] HIST | 2026-07-28 12:16:35 | [1x] http://skillsbox.com/ | Skillsbox
+[Edge] HIST | 2026-07-28 12:16:35 | [1x] https://skillsbox.com/ | Skillsbox
+[Edge] HIST | 2026-07-28 12:16:34 | [2x] https://www.bing.com/search?q=skillsbox&form=SWAUA2 | skillsbox - Search
+[Edge] HIST | 2026-07-28 12:16:34 | [1x] https://www.bing.com/ck/a?!&&p=5ddd7de15b8f0d51cd69eb8b5b71fc48e2ab43e52ab6774a7dcaf7d9f14dc608JmltdHM9MTc4NTE5NjgwMA&ptn=3&ver=2&hsh=4&fclid=359a49e2-07b7-6ef0-082e-5f4506356fb8&psq=skillsbox&u=a1aHR0cDovL3NraWxsc2JveC5jb20v&ntb=1 | ?
+[Edge] HIST | 2026-07-28 12:16:17 | [1x] https://www.bing.com/search?q=google&filters=ufn%3a%22Google%22+sid%3a%22f39b29ec-05ee-d6cb-3070-ddaa0fb00ee0%22&asbe=HS&qs=MB&pq=google&sc=12-6&cvid=B54C13FFEA494D7786D203FD9692F642&FORM=QBRE&sp=1&lq=0 | google - Search
+[Edge] HIST | 2026-07-28 12:16:08 | [2x] https://www.bing.com/search?q=Google&filters=ufn%3a%22Google%22+sid%3a%22f39b29ec-05ee-d6cb-3070-ddaa0fb00ee0%22&asbe=EP&form=WSBEDG&qs=MB&cvid=eef2a6be6a714ba69429166f86d6eb54&pq=goo&cc=US&setlang=en-US&nclid=A30766C365BD6E1F1E59753B6164E22F&ts=1785230165474&wsso=Moderate&PC=WSBQUF | google - Search
+
+────────────────────────────────────────────────────────────────────────────────
+  BOOKMARKS
+────────────────────────────────────────────────────────────────────────────────
+[Edge] BM | bookmark_bar | TIE_BOOK-COMPUTER_SCIENCE_FORM_SIX (2).pdf | file:///C:/Users/STUDENT/Downloads/TIE_BOOK-COMPUTER_SCIENCE_FORM_SIX%20(2).pdf
+
+────────────────────────────────────────────────────────────────────────────────
+  INSTALLED EXTENSIONS
+────────────────────────────────────────────────────────────────────────────────
+[Edge] EXT | __MSG_extName__ | 1.108.1_0
+[Edge] EXT | Edge relevant text changes | 1.2.1_0
+
+────────────────────────────────────────────────────────────────────────────────
+  WINDOWS STORED CREDENTIALS
+────────────────────────────────────────────────────────────────────────────────
+
+Currently stored credentials:
+
+    Target: MicrosoftAccount:target=SSO_POP_User:user=prosperityemmz84@outlook.com
+    Type: Generic 
+    User: prosperityemmz84@outlook.com
+    Saved for this logon only
+    
+    Target: MicrosoftAccount:target=SSO_POP_Device
+    Type: Generic 
+    User: 02mkrtbujytttsiv
+    Saved for this logon only
+    
+    Target: LegacyGeneric:target=MicrosoftAccount:user=prosperityemmz84@outlook.com
+    Type: Generic 
+    User: prosperityemmz84@outlook.com
+    Local machine persistence
+    
+    Target: WindowsLive:target=virtualapp/didlogical
+    Type: Generic 
+    User: 02mkrtbujytttsiv
+    Local machine persistence
+    
+
+
+================================================================================
+  END OF REPORT — PC: SC-LAB1-PC35_STUDENT_7ebdac6f
+================================================================================
