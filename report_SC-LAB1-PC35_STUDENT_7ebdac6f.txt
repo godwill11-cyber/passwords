@@ -9,7 +9,7 @@
   MAC:         6C-3C-8C-0A-05-CD
   AV:          Windows Defender
   OS:          Microsoft Windows 11 Pro
-  Last Update: 2026-07-29 15:10:02
+  Last Update: 2026-07-29 15:10:39
 ================================================================================
 
 ────────────────────────────────────────────────────────────────────────────────
@@ -41,16 +41,20 @@
   KEYLOGGER (RECENT KEYS)
 ────────────────────────────────────────────────────────────────────────────────
 
-[WINDOW: Platform Home Page - OpenAI API - Google Chrome]
-
-[WINDOW: .env - Notepad]
-v
 [WINDOW: *.env - Notepad]
-
-[WINDOW: Platform Home Page - OpenAI API - Google Chrome]
 
 [WINDOW: Python AI Script - Google Chrome]
 
+[WINDOW: Downloads]
+
+[WINDOW: .env - Notepad]
+
+[WINDOW: Downloads]
+
+[WINDOW: *.env - Notepad]
+
+[WINDOW: .env - Notepad]
+ssssss
 
 ================================================================================
   CREDENTIAL TABLE — EMAIL:USERNAME:PASSWORD
