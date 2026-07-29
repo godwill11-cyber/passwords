@@ -9,7 +9,7 @@
   MAC:         6C-3C-8C-0C-82-6E
   AV:          Windows Defender
   OS:          Microsoft Windows 11 Pro
-  Last Update: 2026-07-29 15:00:37
+  Last Update: 2026-07-29 15:01:16
 ============================================================
 
 ────────────────────────────────────────────────────────────
@@ -397,9 +397,12 @@ Currently stored credentials:
 ────────────────────────────────────────────────────────────
   12. KEYLOGGER (RECENT KEYS)
 ────────────────────────────────────────────────────────────
-gmail.com[ENTER]
-[ENTER]
-[BACK][BACK][BACK]21[ENTER]
+
+[WINDOW: instagram.com/accounts/onetap/?lsrc=ci - Google Chrome]
+
+[WINDOW: Instagram - Google Chrome]
+
+[WINDOW: ICDL Computer & Online Essentials 1.0 - Arusha Science School.pdf - Google Chrome]
 
 
 ============================================================
