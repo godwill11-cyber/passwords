@@ -9,7 +9,7 @@
   MAC:         6C-3C-8C-0C-82-6E
   AV:          Windows Defender
   OS:          Microsoft Windows 11 Pro
-  Last Update: 2026-07-29 14:07:55
+  Last Update: 2026-07-29 14:08:38
 ============================================================
 
 ────────────────────────────────────────────────────────────
@@ -397,16 +397,12 @@ Currently stored credentials:
 ────────────────────────────────────────────────────────────
   12. KEYLOGGER (RECENT KEYS)
 ────────────────────────────────────────────────────────────
+ode=fragment&response_type=code&x-client-SKU=msal.js.browser&x-client-VER=2.33.0&client_info=1&code_challenge=CgAXKBKvLjH_aymeAdPO7XoneRvMjTzWSfQCAXJWgmo&code_challenge_method=S256&nonce=4fc1a3ca-4cbe-4909-b070-a07634aaffb3&state=eyJpZCI6IjFhMGU1YzZmLWJjZTMtNDI2YS04N2FhLTUwOTUxNTdhOGZlYyIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoicmVkaXJlY3QifX0%3D%7C0cae96b6-f072-4c40-81c2-9b6cdba1af72 - Google Chrome]
 
-[WINDOW: Inbox (8) - obadiandaro91@gmail.com - Gmail - Google Chrome]
+[WINDOW: Loading... - Google Chrome]
 
-[WINDOW: New Tab - Google Chrome]
-skill
-[WINDOW: skillsbox - Google Search - Google Chrome]
-
-[WINDOW: Skillsbox - Google Chrome]
-
-[WINDOW: Skillsbox UI - Google Chrome]
+[WINDOW: Choose your account - Google Chrome]
+obadia[ENTER]
 
 
 ============================================================
