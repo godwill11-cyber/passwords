@@ -9,7 +9,7 @@
   MAC:         6C-3C-8C-4C-65-95
   AV:          Windows Defender, Avast Antivirus
   OS:          Microsoft Windows 11 Pro
-  Last Update: 2026-07-29 15:12:46
+  Last Update: 2026-07-29 15:17:50
 ============================================================
 
 ────────────────────────────────────────────────────────────
@@ -439,7 +439,8 @@ Currently stored credentials:
   12. KEYLOGGER (RECENT KEYS)
 ────────────────────────────────────────────────────────────
 
-[WINDOW: ChatGPT - Google Chrome]
+[WINDOW: Windows Default Lock Screen]
+[ENTER]
 
 
 ============================================================
