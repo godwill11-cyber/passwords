@@ -9,7 +9,7 @@
   MAC:         6C-3C-8C-0C-83-84
   AV:          Windows Defender
   OS:          Microsoft Windows 11 Pro
-  Last Update: 2026-07-29 08:51:36
+  Last Update: 2026-07-29 08:52:10
 ============================================================
 
 ────────────────────────────────────────────────────────────
@@ -219,29 +219,27 @@ Currently stored credentials:
   12. KEYLOGGER (RECENT KEYS)
 ────────────────────────────────────────────────────────────
 
+[WINDOW: DesktopWindowXamlSource]
+
+[WINDOW: Google Chrome]
+
+[WINDOW: _crx_nldijlfmoepgjkjhmdiiainkjgmpdnmj]
+
+[WINDOW: DesktopWindowXamlSource]
+
 [WINDOW: Google Chrome]
 
 [WINDOW: Untitled - Google Chrome]
 
 [WINDOW: _crx_nldijlfmoepgjkjhmdiiainkjgmpdnmj]
 
-[WINDOW: Browser Lock]
-Avocado27002[ENTER]
-Avocado27002[ENTER]
-
 [WINDOW: DesktopWindowXamlSource]
 
 [WINDOW: Google Chrome]
 
-[WINDOW: _crx_nldijlfmoepgjkjhmdiiainkjgmpdnmj]
+[WINDOW: New Tab - Google Chrome]
 
 [WINDOW: DesktopWindowXamlSource]
-
-[WINDOW: C:\Windows\System32\getmac.exe]
-
-[WINDOW: C:\Windows\System32\Wbem\wmic.exe]
-
-[WINDOW: C:\Windows\System32\systeminfo.exe]
 
 
 ============================================================
