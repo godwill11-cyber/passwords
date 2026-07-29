@@ -9,7 +9,7 @@
   MAC:         6C-3C-8C-0A-E2-BF
   AV:          Windows Defender
   OS:          Microsoft Windows 11 Pro
-  Last Update: 2026-07-29 14:03:34
+  Last Update: 2026-07-29 14:04:08
 ============================================================
 
 ────────────────────────────────────────────────────────────
@@ -139,10 +139,11 @@ Currently stored credentials:
 ────────────────────────────────────────────────────────────
   12. KEYLOGGER (RECENT KEYS)
 ────────────────────────────────────────────────────────────
+[ENTER]
 
-[WINDOW: Payload_Package_20260604_0502]
-
-[WINDOW: New notification]
+[WINDOW: Google Chrome]
+andrewgodwill11[ENTER]
+Godwill702[ENTER]
 
 
 ============================================================
