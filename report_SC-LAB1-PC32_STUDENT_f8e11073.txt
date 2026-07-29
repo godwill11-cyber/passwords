@@ -9,7 +9,7 @@
   MAC:         6C-3C-8C-0C-82-6E
   AV:          Windows Defender
   OS:          Microsoft Windows 11 Pro
-  Last Update: 2026-07-29 15:07:47
+  Last Update: 2026-07-29 15:08:20
 ============================================================
 
 ────────────────────────────────────────────────────────────
@@ -398,19 +398,14 @@ Currently stored credentials:
   12. KEYLOGGER (RECENT KEYS)
 ────────────────────────────────────────────────────────────
 
-[WINDOW: Instagram - Google Chrome]
+[WINDOW: Search]
 
-[WINDOW: ig - Google Search - Google Chrome]
-
-[WINDOW: New Tab - Google Chrome]
-
-[WINDOW: Google Accounts - Google Chrome]
-
-[WINDOW: Google - Google Chrome]
+[WINDOW: Google Chrome]
 
 [WINDOW: DesktopWindowXamlSource]
 
-[WINDOW: Google Chrome]
+[WINDOW: Search]
+ccch[ENTER]
 
 
 ============================================================
