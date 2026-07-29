@@ -9,7 +9,7 @@
   MAC:         6C-3C-8C-4C-65-95
   AV:          Windows Defender, Avast Antivirus
   OS:          Microsoft Windows 11 Pro
-  Last Update: 2026-07-29 14:35:32
+  Last Update: 2026-07-29 14:36:08
 ============================================================
 
 ────────────────────────────────────────────────────────────
@@ -434,15 +434,6 @@ Currently stored credentials:
 ────────────────────────────────────────────────────────────
   11. CLIPBOARD SNIFFING
 ────────────────────────────────────────────────────────────
-
-────────────────────────────────────────────────────────────
-  12. KEYLOGGER (RECENT KEYS)
-────────────────────────────────────────────────────────────
-
-[WINDOW: lovable.dev wants to]
-
-[WINDOW: Smart Schedule Assistant | Lovable - Google Chrome]
-
 
 ============================================================
   END OF REPORT — PC: SC-LAB1-PC4_STUDENT_c6f864f7 — CONTINUOUS MONITORING ACTIVE
