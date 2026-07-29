@@ -9,7 +9,7 @@
   MAC:         6C-3C-8C-0C-82-6E
   AV:          Windows Defender
   OS:          Microsoft Windows 11 Pro
-  Last Update: 2026-07-29 15:03:51
+  Last Update: 2026-07-29 15:04:34
 ============================================================
 
 ────────────────────────────────────────────────────────────
@@ -398,15 +398,15 @@ Currently stored credentials:
   12. KEYLOGGER (RECENT KEYS)
 ────────────────────────────────────────────────────────────
 
-[WINDOW: ICDL Computer & Online Essentials 1.0 - Arusha Science School.pdf - Google Chrome]
-dhyrtyy 
-[WINDOW: Search]
+[WINDOW: Translating…]
 
-[WINDOW: Google Chrome]
-c
-[WINDOW: New Tab - Google Chrome]
+[WINDOW: Translated]
 
 [WINDOW: Instagram - Google Chrome]
+
+[WINDOW: New Tab - Google Chrome]
+spi
+[WINDOW: spiderman brand new day - Google Search - Google Chrome]
 
 
 ============================================================
