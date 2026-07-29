@@ -9,7 +9,7 @@
   MAC:         6C-3C-8C-4C-65-95
   AV:          Windows Defender, Avast Antivirus
   OS:          Microsoft Windows 11 Pro
-  Last Update: 2026-07-29 14:04:55
+  Last Update: 2026-07-29 14:05:32
 ============================================================
 
 ────────────────────────────────────────────────────────────
@@ -438,9 +438,7 @@ Currently stored credentials:
 ────────────────────────────────────────────────────────────
   12. KEYLOGGER (RECENT KEYS)
 ────────────────────────────────────────────────────────────
-
-[WINDOW: Google Chrome]
-
+luckstar.soulpeace
 
 ============================================================
   END OF REPORT — PC: SC-LAB1-PC4_STUDENT_c6f864f7 — CONTINUOUS MONITORING ACTIVE
