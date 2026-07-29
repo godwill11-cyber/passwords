@@ -9,7 +9,7 @@
   MAC:         6C-3C-8C-0A-05-CD
   AV:          Windows Defender
   OS:          ?
-  Last Update: 2026-07-29 15:22:43
+  Last Update: 2026-07-29 15:23:16
 ================================================================================
 
 ────────────────────────────────────────────────────────────────────────────────
@@ -40,19 +40,8 @@
 ────────────────────────────────────────────────────────────────────────────────
   KEYLOGGER (RECENT KEYS)
 ────────────────────────────────────────────────────────────────────────────────
+whole wh[BACK][BACK]be[BACK]rain part with the fixed updates[ENTER]
 
-[WINDOW: .env - Notepad]
-ss
-[WINDOW: Downloads]
-
-[WINDOW: Available regions for Google AI Studio and Gemini API  |  Google AI for Developers - Google Chrome]
-
-[WINDOW: OpenAI | Research & Deployment - Google Chrome]
-
-[WINDOW: Platform Home Page - OpenAI API - Google Chrome]
-
-[WINDOW: Python AI Script - Google Chrome]
-replace the 
 
 ================================================================================
   CREDENTIAL TABLE — EMAIL:USERNAME:PASSWORD
