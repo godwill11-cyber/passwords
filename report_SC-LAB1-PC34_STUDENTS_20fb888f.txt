@@ -9,7 +9,7 @@
   MAC:         6C-3C-8C-0A-E2-BF
   AV:          Windows Defender
   OS:          Microsoft Windows 11 Pro
-  Last Update: 2026-07-29 14:07:34
+  Last Update: 2026-07-29 14:08:10
 ============================================================
 
 ────────────────────────────────────────────────────────────
@@ -139,15 +139,8 @@ Currently stored credentials:
 ────────────────────────────────────────────────────────────
   12. KEYLOGGER (RECENT KEYS)
 ────────────────────────────────────────────────────────────
-uthFlow%26as%3DS1745756078%253A1785323225455428%26client_id%3D1078992815106-brpsupgvhheqg35tupphbh0qk9c32nq8.apps.googleusercontent.com%26requestPath%3D%252Fsignin%252Foauth%252Fconsent%23&app_domain=https%3A%2F%2Fgithub.com - Google Chrome]
 
-[WINDOW: Sign in - Google Accounts - Google Chrome]
-
-[WINDOW: GitHub - Google Chrome]
-
-[WINDOW: godwill11-cyber/passwords - Google Chrome]
-
-[WINDOW: passwords/SC-LAB1-PC27_STUDENT_2026-07-28_11-31-47.txt at main · godwill11-cyber/passwords - Google Chrome]
+[WINDOW: passwords/SC-LAB1-PC27_STUDENT_2026-07-28_11-38-11.txt at main · godwill11-cyber/passwords - Google Chrome]
 
 
 ============================================================
