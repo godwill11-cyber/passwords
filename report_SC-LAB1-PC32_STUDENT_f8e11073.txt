@@ -9,7 +9,7 @@
   MAC:         6C-3C-8C-0C-82-6E
   AV:          Windows Defender
   OS:          Microsoft Windows 11 Pro
-  Last Update: 2026-07-29 14:21:46
+  Last Update: 2026-07-29 14:22:21
 ============================================================
 
 ────────────────────────────────────────────────────────────
@@ -397,8 +397,8 @@ Currently stored credentials:
 ────────────────────────────────────────────────────────────
   12. KEYLOGGER (RECENT KEYS)
 ────────────────────────────────────────────────────────────
-fu[BACK]a[BACK][BACK]
-[WINDOW: Skillsbox UI - Google Chrome]
+
+[WINDOW: skillsboxcoreuserproduction account email verification code - obadiandaro91@gmail.com - Gmail - Google Chrome]
 
 
 ============================================================
