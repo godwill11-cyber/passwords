@@ -9,7 +9,7 @@
   MAC:         6C-3C-8C-0C-82-6E
   AV:          Windows Defender
   OS:          Microsoft Windows 11 Pro
-  Last Update: 2026-07-29 15:05:13
+  Last Update: 2026-07-29 15:05:47
 ============================================================
 
 ────────────────────────────────────────────────────────────
@@ -398,7 +398,13 @@ Currently stored credentials:
   12. KEYLOGGER (RECENT KEYS)
 ────────────────────────────────────────────────────────────
 
-[WINDOW: Spider-Man: Brand New Day Box Office Predicted To Crush Even No Way Home - AOL - Google Chrome]
+[WINDOW: spiderman brand new day - Google Search - Google Chrome]
+
+[WINDOW: New Tab - Google Chrome]
+
+[WINDOW: Settings - You and Google - Google Chrome]
+
+[WINDOW: New Tab - Google Chrome]
 
 
 ============================================================
