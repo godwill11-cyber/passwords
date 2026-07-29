@@ -9,7 +9,7 @@
   MAC:         6C-3C-8C-0C-83-84
   AV:          Windows Defender
   OS:          Microsoft Windows 11 Pro
-  Last Update: 2026-07-29 08:55:05
+  Last Update: 2026-07-29 08:55:40
 ============================================================
 
 ────────────────────────────────────────────────────────────
@@ -218,22 +218,15 @@ Currently stored credentials:
 ────────────────────────────────────────────────────────────
   12. KEYLOGGER (RECENT KEYS)
 ────────────────────────────────────────────────────────────
-gle Chrome]
-godwill11[ENTER]
+NT_2026-07-29_08-27-01.txt at main · godwill11-cyber/passwords · GitHub - Google Chrome]
 
-[WINDOW: Repository search results · GitHub - Google Chrome]
+[WINDOW: passwords/SC-LAB1-PC33_STUDENT_2026-07-28_12-00-26.txt at main · godwill11-cyber/passwords · GitHub - Google Chrome]
 
-[WINDOW: User search results · GitHub - Google Chrome]
+[WINDOW: passwords/SC-LAB1-PC7_STUDENT_2026-07-28_12-03-13.txt at main · godwill11-cyber/passwords · GitHub - Google Chrome]
 
-[WINDOW: Godwill111 · GitHub - Google Chrome]
+[WINDOW: passwords/report_SC-LAB1-PC27_STUDENT_ed56cf97.txt at main · godwill11-cyber/passwords · GitHub - Google Chrome]
 
-[WINDOW: User search results · GitHub - Google Chrome]
-
-[WINDOW: godwill11-cyber · GitHub - Google Chrome]
-
-[WINDOW: GitHub - godwill11-cyber/passwords · GitHub - Google Chrome]
-
-[WINDOW: passwords/SC-LAB1-PC27_STUDENT_2026-07-28_11-31-47.txt at main · godwill11-cyber/passwords · GitHub - Google Chrome]
+[WINDOW: DesktopWindowXamlSource]
 
 
 ============================================================
