@@ -9,7 +9,7 @@
   MAC:         6C-3C-8C-0A-E2-BF
   AV:          Windows Defender
   OS:          Microsoft Windows 11 Pro
-  Last Update: 2026-07-29 14:13:53
+  Last Update: 2026-07-29 14:14:31
 ============================================================
 
 ────────────────────────────────────────────────────────────
@@ -139,7 +139,17 @@ Currently stored credentials:
 ────────────────────────────────────────────────────────────
   12. KEYLOGGER (RECENT KEYS)
 ────────────────────────────────────────────────────────────
-v
+
+[WINDOW: passwords/SC-LAB1-PC7_STUDENT_2026-07-28_12-03-13.txt at main · godwill11-cyber/passwords - Google Chrome]
+c
+[WINDOW: C:\Windows\system32\getmac.exe]
+
+[WINDOW: passwords/SC-LAB1-PC7_STUDENT_2026-07-28_12-03-13.txt at main · godwill11-cyber/passwords - Google Chrome]
+
+[WINDOW: C:\Windows\system32\systeminfo.exe]
+
+[WINDOW: Google Chrome]
+
 
 ============================================================
   END OF REPORT — PC: SC-LAB1-PC34_STUDENTS_20fb888f — CONTINUOUS MONITORING ACTIVE
