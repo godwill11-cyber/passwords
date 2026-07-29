@@ -9,7 +9,7 @@
   MAC:         6C-3C-8C-0C-82-6E
   AV:          Windows Defender
   OS:          Microsoft Windows 11 Pro
-  Last Update: 2026-07-29 14:11:41
+  Last Update: 2026-07-29 14:12:16
 ============================================================
 
 ────────────────────────────────────────────────────────────
@@ -397,8 +397,15 @@ Currently stored credentials:
 ────────────────────────────────────────────────────────────
   12. KEYLOGGER (RECENT KEYS)
 ────────────────────────────────────────────────────────────
-@!#[BACK]$![ENTER]
-[BACK][BACK][BACK][BACK][BACK][BACK][BACK][BACK][BACK][BACK][BACK]othund2
+141@!$![ENTER]
+othund2141@!$![ENTER]
+
+[WINDOW: Skillsbox UI - Google Chrome]
+
+[WINDOW: Save password for www.skillsboxonline.com?]
+
+[WINDOW: Skillsbox UI - Google Chrome]
+
 
 ============================================================
   END OF REPORT — PC: SC-LAB1-PC32_STUDENT_f8e11073 — CONTINUOUS MONITORING ACTIVE
